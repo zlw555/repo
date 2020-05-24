@@ -1,3 +1,18 @@
+Package: com.hk.xybp888.lockbutton
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/lockbutton.deb
+Size: 18208
+MD5sum: 87385b7e2c157c44f1749ad903a23ea3
+SHA1: a06300af23c7f9f3eda0c757450e26bdd1277b90
+SHA256: bb451b1dae69aea17e7dfaca843bae7bcd0f824b63d4f486436114f81752739e
+Section: Tweaks
+Priority: optional
+Author: cybp888
+Icon: tweak.png
+Name: 一键锁屏
+
 Package: com.yourcompany.aysx
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
