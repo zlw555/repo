@@ -1,3 +1,19 @@
+Package: apt.cydiakk.xmlyads
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/apt.cydiakk.xmlyads.deb
+Size: 14500
+MD5sum: 957614e1098e174388c4d248ba6fcd55
+SHA1: dacdefe29193c02c1a6e21aa676880498d5bbfca
+SHA256: fd924cb096a297b67b4776907c60c05d88bddd0ecae439b58d4d4c160ec494dd
+Section: 插件
+Priority: optional
+Description: 喜马拉雅FM去所有广告、含音频广告、屏蔽越狱检测
+Author: macos
+Name: 喜马拉雅FM去全局广告
+
 Package: com.hk.xybp888.lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
