@@ -61,6 +61,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: zlw555
 Name: 农@信
 
+Package: com.yourcompany.qidiandushu
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.qidiandushu_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3552
+MD5sum: ce242366bdc2d23ff42b2606b06c0a2b
+SHA1: 2804d00782d7ccb979e9330c222c9f8136f8fb8c
+SHA256: 297cd84ef255ebe9b694396dc8f3c91f0ba2337aed7373a447578ce0dd2675af
+Section: Tweaks
+Description: 起点读书去启动广告
+Author: zlw555
+Name: 起点读书QAD
+
 Package: com.yourcompany.wxzw
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
