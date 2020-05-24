@@ -14,6 +14,26 @@ Description: 喜马拉雅FM去所有广告、含音频广告、屏蔽越狱检�
 Author: macos
 Name: 喜马拉雅FM去全局广告
 
+Package: com.cydiabc.otadisabler
+Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Installed-Size: 200
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.cydiabc.otadisabler_0.1-7_iphoneos-arm.deb
+Size: 15516
+MD5sum: 9e3cfbcd69bd1ee5c94d73458e55c974
+SHA1: bd388dcf1219e0108410063c52510f7a93ce8317
+SHA256: caa6113abdb76b4fce2e7a4c2c704923d1f28812b5611719c3b6fd5177521b10
+Section: 系统
+Description: 可以有效的屏蔽系统更新，支持iOS9~iOS13系统，首先，删除OTA系统升级包，设置 → 通用 → iPhone 储存空间，安装OTADisabler后注销后生效，无设置选项。
+A12: 1
+Author: ichitaso
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon2: 12.png
+Name: OTADisabler屏蔽更新
+Sponsor: Ai-小苹果
+
 Package: com.hk.xybp888.lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
