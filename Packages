@@ -21,10 +21,10 @@ Maintainer: Ai-小苹果
 Installed-Size: 200
 Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
 Filename: ./debs/com.cydiabc.otadisabler_0.1-7_iphoneos-arm.deb
-Size: 15516
-MD5sum: 9e3cfbcd69bd1ee5c94d73458e55c974
-SHA1: bd388dcf1219e0108410063c52510f7a93ce8317
-SHA256: caa6113abdb76b4fce2e7a4c2c704923d1f28812b5611719c3b6fd5177521b10
+Size: 8388
+MD5sum: eb6dd597a2643432ddb888ce161dcc02
+SHA1: 327eda2a5b58143712e6b54a5cd0575104740b70
+SHA256: 83442c7c640f634f0560162b0a0babe00616899192cacf1370f0eb489dbf472b
 Section: 系统
 Description: 可以有效的屏蔽系统更新，支持iOS9~iOS13系统，首先，删除OTA系统升级包，设置 → 通用 → iPhone 储存空间，安装OTADisabler后注销后生效，无设置选项。
 A12: 1
