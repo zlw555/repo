@@ -1,0 +1,16 @@
+Package: com.yourcompany.wxzw
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.wxzw.deb
+Size: 4120
+MD5sum: e37bdbe037d2e9755c9375857e39724f
+SHA1: 638043f330df3dc7c3de24696e1c15520de575d4
+SHA256: 4e5dadce87c382c44f04636f2132b94a9f0e334f28732dc0f85c76602ee7fe44
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 微信指纹
+
