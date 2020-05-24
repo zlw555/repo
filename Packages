@@ -1,3 +1,35 @@
+Package: com.yourcompany.aysx
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.aysx.deb
+Size: 3618
+MD5sum: 7557d59a83ca08c67d5208ac7d0f4a8f
+SHA1: b03acf61af02fe3a2ad5096c671e3cf67ecf7b48
+SHA256: be87b9dea7f36f7946a43a4f0add42ccee0528c058720dd8aa31f509c20ae45a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 爱阅书香6.3
+
+Package: com.yourcompany.jrppyy
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.jrppyy.deb
+Size: 4278
+MD5sum: e474d7047971633e89272d21281fdda0
+SHA1: 6b8c26120cfe7ea39453d3aed158144557983223
+SHA256: d3f36fc71e78406f8869eac3b32047e956530d278d71f459da36dff64719fde0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 农@信
+
 Package: com.yourcompany.wxzw
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -13,4 +45,20 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: zlw555
 Name: 微信指纹
+
+Package: com.yourcompany.xhome
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.xhome_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4328
+MD5sum: 7be306875046a68a1bfff55a5bf7e4f1
+SHA1: e7bd657a0c0a5da4272e6e1a2a7fc9b9f1cc3d8c
+SHA256: 9f2f85d4a0c2345f0d1ef5bab0d9b27dd333f26b31eb5ed6164c371c9db3b12a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: ios13 x手势
 
