@@ -19,13 +19,13 @@ Version: 1.0-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/com.hk.xybp888.lockbutton_1.0-2_iphoneos-arm.deb
-Size: 22308
-MD5sum: 24a3f4c3768c183ce7efe17eecc9087f
-SHA1: 40458f6de9cc093d0761d6fc2ab90fa98413ebb0
-SHA256: 1af0df4b4aaceff5b6cf164ba3545d31519232780ce20967c8594427b9893e9c
+Size: 22306
+MD5sum: d94360ece2b106e4b6bb14603a742b60
+SHA1: 25d7d60bcaeff3efd6b21eee3e558f9a80c4cd41
+SHA256: d66cb80f709ae28000d800f0b357078546178bacb5eb1666679b5702015ca569
 Section: Tweaks
 Priority: optional
-Description: 桌面一键锁屏，有图标，无后能
+Description: 桌面一键锁屏，有图标，无后台
 Author: cybp888
 Icon: tweak.png
 Name: 一键锁屏
