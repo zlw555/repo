@@ -1,0 +1,112 @@
+Package: apt.cydiakk.xmlyads
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/apt.cydiakk.xmlyads.deb
+Size: 14500
+MD5sum: 957614e1098e174388c4d248ba6fcd55
+SHA1: dacdefe29193c02c1a6e21aa676880498d5bbfca
+SHA256: fd924cb096a297b67b4776907c60c05d88bddd0ecae439b58d4d4c160ec494dd
+Section: 插件
+Priority: optional
+Description: 喜马拉雅FM去所有广告、含音频广告、屏蔽越狱检测
+Author: macos
+Name: 喜马拉雅FM去全局广告
+
+Package: com.hk.xybp888.lockbutton
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/com.hk.xybp888.lockbutton_1.0-2_iphoneos-arm.deb
+Size: 22308
+MD5sum: 24a3f4c3768c183ce7efe17eecc9087f
+SHA1: 40458f6de9cc093d0761d6fc2ab90fa98413ebb0
+SHA256: 1af0df4b4aaceff5b6cf164ba3545d31519232780ce20967c8594427b9893e9c
+Section: Tweaks
+Priority: optional
+Description: 桌面一键锁屏，有图标，无后能
+Author: cybp888
+Icon: tweak.png
+Name: 一键锁屏
+
+Package: com.yourcompany.aysx
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.aysx_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4474
+MD5sum: 965a3810601d717f85fde150b74b1d14
+SHA1: 0064c67ad5424a44822e9619d8dd4a09bf390287
+SHA256: e99b1bb0ea2358e4db9119df506627593aa1fd42f3e943dcaceb5b6eaf897355
+Section: Tweaks
+Description: 爱阅书香6.3完美去广告
+Author: zlw555
+Name: 爱阅书香6.3
+
+Package: com.yourcompany.jrppyy
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.jrppyy_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5318
+MD5sum: 6729b2f0d0d339ed4419040c9adcdb83
+SHA1: 6e219e44015632ddec30fe383d9d19ad53579417
+SHA256: 63a1253fb1a4d1dd4adbfbf2ebc6d75570ee83534238fea35cbac87dfb83083b
+Section: Tweaks
+Description: 农业银行+农村信用社去越狱检测
+Author: zlw555
+Name: 农@信
+
+Package: com.yourcompany.qidiandushu
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.qidiandushu_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3552
+MD5sum: ce242366bdc2d23ff42b2606b06c0a2b
+SHA1: 2804d00782d7ccb979e9330c222c9f8136f8fb8c
+SHA256: 297cd84ef255ebe9b694396dc8f3c91f0ba2337aed7373a447578ce0dd2675af
+Section: Tweaks
+Description: 起点读书去启动广告
+Author: zlw555
+Name: 起点读书QAD
+
+Package: com.yourcompany.wxzw
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.wxzw_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5024
+MD5sum: 5728bb007948cc8cce84cae8c6737747
+SHA1: 7eab89def1f6aa693a90b27df1ee86e5d255f369
+SHA256: 8b32c04e33959fe529745cd2b3dc481b6d2454cc8e77a98f2d88b32124d9796f
+Section: Tweaks
+Description: 微信屏蔽越狱检测，无其它功能
+Author: zlw555
+Name: 微信指纹
+
+Package: com.yourcompany.xhome
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.xhome_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5360
+MD5sum: 5008434f131a4fc3ae35574b7ffa4076
+SHA1: 3c2b7551ffb2b73c74f012080fef3806473c52e5
+SHA256: afe57b42e4e8500fd37f0b4a6b05b2783e5b4ce20ecbb609030cf6a37409d178
+Section: Tweaks
+Description: ios13 x手势，不兼容12及以下系统
+Author: zlw555
+Name: ios13 x手势
+
