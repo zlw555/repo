@@ -127,19 +127,19 @@ Description: ios13 x手势，不兼容12及以下系统
 Author: zlw555
 Name: ios13 x手势
 
-Package: com.yourcompany.xhome
+Package: com.yourcompany.xhome+may
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/自用.deb
-Size: 186918
-MD5sum: 6b095237c7b2fdb95b25bca778d40e28
-SHA1: 80fc2cac21ad8e8e92e8d80e62a65cd9eb3d7b77
-SHA256: f708b19f97cc887a9d00ec1f617df028e144440c7d16027ab76d2c400635facb
+Filename: ./debs/com.yourcompany.xhome+may_0.0.1-1+debug_iphoneos-arm.deb
+Size: 186938
+MD5sum: 7cb5c8bf6502f861c68db5c31720c689
+SHA1: ee815f1ee9d02fa11822f6cf2c0f89e795b81fb6
+SHA256: c3a68d6c4619304dbc9350107fc78b3d92b300058a50e31b25aee613f9032f67
 Section: Tweaks
 Description: ios13 x手势、一键锁屏、系统喜马拉雅、起点读书、爱阅书香、淘宝优惠券、微信+银行去越狱
 Author: zlw555
-Name: ios13 x手势
+Name: ios13 x手势+自用插件
 
