@@ -134,12 +134,48 @@ Maintainer: zlw555
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.yourcompany.xhome+may_0.0.1-1+debug_iphoneos-arm.deb
-Size: 186938
-MD5sum: 7cb5c8bf6502f861c68db5c31720c689
-SHA1: ee815f1ee9d02fa11822f6cf2c0f89e795b81fb6
-SHA256: c3a68d6c4619304dbc9350107fc78b3d92b300058a50e31b25aee613f9032f67
+Size: 126524
+MD5sum: 24fadcf6630b50d28d5760e34e6a554a
+SHA1: 287d754aa01912d4538a21c7358478bf274a5548
+SHA256: 2b01219dfd7182d62efd47a5d0012d165c4b984064f6d5355866eb5b7277ce0b
 Section: Tweaks
-Description: ios13 x手势、一键锁屏、系统喜马拉雅、起点读书、爱阅书香、淘宝优惠券、微信+银行去越狱
+Description: ios13 x手势、一键锁屏、喜马拉雅、起点读书、爱阅书香、淘宝优惠券、微信+银行去越狱、vpn Master
 Author: zlw555
 Name: ios13 x手势+自用插件
+
+Package: netskao.vpnmastercrack
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/netskao.vpnmastercrack_1.0-2_iphoneos-arm.deb
+Size: 9616
+MD5sum: e5544c9c56c5bb4edc327ceee96bdd6e
+SHA1: dd5954e2f70de5c8c7607b4c16913f7341d100c3
+SHA256: e1ce8c3e46c49452a73ed436078394364cadcba0de77980b67d1be66f140271f
+Section: Tweaks
+Priority: optional
+Description: 提取自https://repo.netskao.com源
+Author: 7Loopy
+Icon: tweak.png
+Name: vpn master破解
+
+Package: ru.rejail.tetherme8
+Version: 1.2.3~arm64e-1
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 2223
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/ru.rejail.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
+Size: 207088
+MD5sum: 2e0b044bc58915561cba865f10c0db95
+SHA1: 41cfb0fedcc67c71fbb8dd0aea2fe08810a747fe
+SHA256: a2e2aecd21585c587b567cddbfd5b9803c2125821c162be4f670941be5a09150
+Section: Tweaks
+Description: tetherme网络共享，可共享vpa网给电脑
+Author: Sam Bingner <support@tetherme.net>
+Depiction: https://rejail.ru/depiction.php?file=tetherme8
+Name: TetherMe for iOS 8+ Rus
+Sileodepiction: https://rejail.ru/sileo/depiction.php?file=tetherme8
 
