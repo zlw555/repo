@@ -160,6 +160,31 @@ Description: ios13 x手势、一键锁屏、喜马拉雅、起点读书、爱阅
 Author: zlw555
 Name: ios13 x手势+自用插件
 
+Package: net.tetherme.tetherme8
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 3513
+Pre-Depends: mobilesubstrate (>=0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/tetherme8_2.0.3.deb
+Size: 295220
+MD5sum: 4832f17d0120e13c2f129d32c313cf4e
+SHA1: cf273c4e496ebe8ed3e78638fa5d09de2f3c7cf1
+SHA256: 820fe4627aa3c783af26da31d89a15ff83cd6ffbf2066d033da92db059ac64d2
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
+Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, , compatible::ios12, compatible::ios13
+Author: Sam Bingner <support@tetherme.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
+Dev: tetherme
+Icon: file:///Library/PreferenceBundles/TetherMe.bundle/TetherMe@2x.png
+Name: TetherMe for iOS 8+
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: netskao.vpnmastercrack
 Version: 1.0-2
 Architecture: iphoneos-arm
