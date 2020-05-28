@@ -47,6 +47,23 @@ Author: cybp888
 Icon: tweak.png
 Name: 一键锁屏
 
+Package: com.ichitaso.otadisabler
+Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 200
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.ichitaso.otadisabler_0.1-7_iphoneos-arm 2.deb
+Size: 24350
+MD5sum: f396c8ff22030f444031327ee35d8240
+SHA1: 08398741d0d7b857bd636463c8ff067a21609785
+SHA256: 2c7a96c946521cfdfdc22daf5e81cced08048255349cdf9445dfe87ba6f4d467
+Section: System
+Description: Delete and disable OTA badge
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+Name: OTADisabler
+
 Package: com.yourcompany.aysx
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
