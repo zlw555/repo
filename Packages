@@ -201,23 +201,3 @@ Author: 7Loopy
 Icon: tweak.png
 Name: vpn master破解
 
-Package: ru.rejail.tetherme8
-Version: 1.2.3~arm64e-1
-Architecture: iphoneos-arm
-Maintainer: ReJail <rejail@rejail.ru>
-Installed-Size: 2223
-Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
-Conflicts: net.tetherme.tetherme
-Replaces: net.tetherme.tetherme
-Filename: ./debs/ru.rejail.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
-Size: 207088
-MD5sum: 2e0b044bc58915561cba865f10c0db95
-SHA1: 41cfb0fedcc67c71fbb8dd0aea2fe08810a747fe
-SHA256: a2e2aecd21585c587b567cddbfd5b9803c2125821c162be4f670941be5a09150
-Section: Tweaks
-Description: tetherme网络共享，可共享vpa网给电脑
-Author: Sam Bingner <support@tetherme.net>
-Depiction: https://rejail.ru/depiction.php?file=tetherme8
-Name: TetherMe for iOS 8+ Rus
-Sileodepiction: https://rejail.ru/sileo/depiction.php?file=tetherme8
-
