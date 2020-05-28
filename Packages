@@ -14,6 +14,23 @@ Description: 喜马拉雅FM去所有广告、含音频广告、屏蔽越狱检�
 Author: macos
 Name: 喜马拉雅FM去全局广告
 
+Package: com.25mao.YouQuan
+Version: 2.0.9
+Architecture: iphoneos-arm
+Maintainer: Mao
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.25mao.YouQuan_2.0.9_iphoneos-arm.deb
+Size: 122902
+MD5sum: dbc6f57734e044db1c7587624357a90e
+SHA1: 5a43479a6e6d3c99984894092ea3a89a2760c324
+SHA256: 3669d7d938a0c6864c035e23e12cb213777ea508d73fb6188f08c8ffaf9202fb
+Section: Tweaks
+Description: 提自老猫源的淘宝优惠券
+Author: Mao
+Https: //apt.25mao.com
+Name: 淘宝优惠券
+
 Package: com.hk.xybp888.lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
@@ -107,6 +124,22 @@ SHA1: 3c2b7551ffb2b73c74f012080fef3806473c52e5
 SHA256: afe57b42e4e8500fd37f0b4a6b05b2783e5b4ce20ecbb609030cf6a37409d178
 Section: Tweaks
 Description: ios13 x手势，不兼容12及以下系统
+Author: zlw555
+Name: ios13 x手势
+
+Package: com.yourcompany.xhome
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/自用.deb
+Size: 186918
+MD5sum: 6b095237c7b2fdb95b25bca778d40e28
+SHA1: 80fc2cac21ad8e8e92e8d80e62a65cd9eb3d7b77
+SHA256: f708b19f97cc887a9d00ec1f617df028e144440c7d16027ab76d2c400635facb
+Section: Tweaks
+Description: ios13 x手势、一键锁屏、系统喜马拉雅、起点读书、爱阅书香、淘宝优惠券、微信+银行去越狱
 Author: zlw555
 Name: ios13 x手势
 
