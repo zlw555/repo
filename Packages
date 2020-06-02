@@ -1,45 +1,77 @@
-Package: apt.cydiakk.xmlyads
+Package: apt.zydf.xmlyads
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/apt.cydiakk.xmlyads.deb
-Size: 14500
-MD5sum: 957614e1098e174388c4d248ba6fcd55
-SHA1: dacdefe29193c02c1a6e21aa676880498d5bbfca
-SHA256: fd924cb096a297b67b4776907c60c05d88bddd0ecae439b58d4d4c160ec494dd
+Filename: ./debs/apt.zydf.xmlyads_1.0.0-1_iphoneos-arm.deb
+Size: 21812
+MD5sum: 3fee354ff81a597a53fccb35d79db0cc
+SHA1: 77dd5f93b5ee98f02dffe215935a832cd6163603
+SHA256: ebcdb207060616bfcb9bb250e166e6555105dff290bf8bbe58e25dd5a72a0efe
 Section: 插件
 Priority: optional
 Description: 喜马拉雅FM去所有广告、含音频广告、屏蔽越狱检测
 Author: macos
 Name: 喜马拉雅FM去全局广告
 
-Package: com.25mao.YouQuan
+Package: com.zydf.YouQuan
 Version: 2.0.9
 Architecture: iphoneos-arm
 Maintainer: Mao
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.25mao.YouQuan_2.0.9_iphoneos-arm.deb
-Size: 122902
-MD5sum: dbc6f57734e044db1c7587624357a90e
-SHA1: 5a43479a6e6d3c99984894092ea3a89a2760c324
-SHA256: 3669d7d938a0c6864c035e23e12cb213777ea508d73fb6188f08c8ffaf9202fb
+Filename: ./debs/com.zydf.YouQuan_2.0.9_iphoneos-arm.deb
+Size: 122906
+MD5sum: e5358e178a181c24d42fa025bda35b7b
+SHA1: 99215edb80887a427caa1f57578bd01b43755678
+SHA256: 9d7a88496181ec0464229a1d7988c9b2baa8ff25edcc936ca4aafe3a9913d842
 Section: Tweaks
 Description: 提自老猫源的淘宝优惠券
 Author: Mao
 Https: //apt.25mao.com
 Name: 淘宝优惠券
 
-Package: com.hk.xybp888.lockbutton
+Package: com.zydf.aysx
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zydf.aysx_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4472
+MD5sum: c7f74ec36dd611da2d60f5a98caaee65
+SHA1: 9e2056bdd3b480350fa967be001ef28fc9fe2b89
+SHA256: 85e3413d944d480e3295617c01601b355deac9a8c8b158eee3d130723046e712
+Section: Tweaks
+Description: 爱阅书香6.3完美去广告
+Author: zlw555
+Name: 爱阅书香6.3
+
+Package: com.zydf.jrppyy
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zydf.jrppyy_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5314
+MD5sum: c0fb17ce8827dbfdc22a351b91fa25a7
+SHA1: c0e90f105cd7f9beb8ed9573720b29215dd4c9ec
+SHA256: 6294093e80fcfa833cf7e44d903cc4ab9e58112424091e2f8735842d69e110d4
+Section: Tweaks
+Description: 农业银行+农村信用社去越狱检测
+Author: zlw555
+Name: 农@信
+
+Package: com.zydf.lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/com.hk.xybp888.lockbutton_1.0-2_iphoneos-arm.deb
-Size: 22306
-MD5sum: d94360ece2b106e4b6bb14603a742b60
-SHA1: 25d7d60bcaeff3efd6b21eee3e558f9a80c4cd41
-SHA256: d66cb80f709ae28000d800f0b357078546178bacb5eb1666679b5702015ca569
+Filename: ./debs/com.zydf.lockbutton_1.0-2_iphoneos-arm.deb
+Size: 22304
+MD5sum: 637b668cdec7f6d2bc52d3c9a35f59d2
+SHA1: 97a435f726258a92409946b190672f6342de5a11
+SHA256: ebbbb91ac36162b5fb70b57b508c675bc1684ac3bda8698f9585bafb231ab71e
 Section: Tweaks
 Priority: optional
 Description: 桌面一键锁屏，有图标，无后台
@@ -47,135 +79,23 @@ Author: cybp888
 Icon: tweak.png
 Name: 一键锁屏
 
-Package: com.yourcompany.aysx
+Package: com.zydf.qidiandushu
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.aysx_0.0.1-1+debug_iphoneos-arm.deb
-Size: 4474
-MD5sum: 965a3810601d717f85fde150b74b1d14
-SHA1: 0064c67ad5424a44822e9619d8dd4a09bf390287
-SHA256: e99b1bb0ea2358e4db9119df506627593aa1fd42f3e943dcaceb5b6eaf897355
-Section: Tweaks
-Description: 爱阅书香6.3完美去广告
-Author: zlw555
-Name: 爱阅书香6.3
-
-Package: com.yourcompany.jrppyy
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.jrppyy_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5318
-MD5sum: 6729b2f0d0d339ed4419040c9adcdb83
-SHA1: 6e219e44015632ddec30fe383d9d19ad53579417
-SHA256: 63a1253fb1a4d1dd4adbfbf2ebc6d75570ee83534238fea35cbac87dfb83083b
-Section: Tweaks
-Description: 农业银行+农村信用社去越狱检测
-Author: zlw555
-Name: 农@信
-
-Package: com.yourcompany.otadisabler
-Version: 0.1-7
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 200
-Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
-Filename: ./debs/com.yourcompany.otadisabler_0.1-7_iphoneos-arm.deb
-Size: 28990
-MD5sum: 6078b1f677c88f4561aa90d56cbbbe38
-SHA1: 109b7048a7e1d9ad0c777f245c06d570d44c32e5
-SHA256: bb0fde8f67fc90b6edc987763d706423d5fa86131b335c53164483d69804d160
-Section: System
-Description: 屏蔽OTA升级，去除越狱环境也有效
-Author: ichitaso
-Name: OTA屏蔽升级
-
-Package: com.yourcompany.qidiandushu
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.qidiandushu_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3552
-MD5sum: ce242366bdc2d23ff42b2606b06c0a2b
-SHA1: 2804d00782d7ccb979e9330c222c9f8136f8fb8c
-SHA256: 297cd84ef255ebe9b694396dc8f3c91f0ba2337aed7373a447578ce0dd2675af
+Filename: ./debs/com.zydf.qidiandushu_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4656
+MD5sum: 2bd0af769736848e4ee3883485a503a6
+SHA1: c4b1d8f50f4b495500dd9e2b1bacf1a7ba83f856
+SHA256: c7378b9e1f8475513698f97390640218e1a2027070c2b094c81ab5b3975a4fae
 Section: Tweaks
 Description: 起点读书去启动广告
 Author: zlw555
 Name: 起点读书QAD
 
-Package: com.yourcompany.wxzw
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.wxzw_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5024
-MD5sum: 5728bb007948cc8cce84cae8c6737747
-SHA1: 7eab89def1f6aa693a90b27df1ee86e5d255f369
-SHA256: 8b32c04e33959fe529745cd2b3dc481b6d2454cc8e77a98f2d88b32124d9796f
-Section: Tweaks
-Description: 微信屏蔽越狱检测，无其它功能
-Author: zlw555
-Name: 微信指纹
-
-Package: com.yourcompany.xhome
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.xhome_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5360
-MD5sum: 5008434f131a4fc3ae35574b7ffa4076
-SHA1: 3c2b7551ffb2b73c74f012080fef3806473c52e5
-SHA256: afe57b42e4e8500fd37f0b4a6b05b2783e5b4ce20ecbb609030cf6a37409d178
-Section: Tweaks
-Description: ios13 x手势，不兼容12及以下系统
-Author: zlw555
-Name: ios13 x手势
-
-Package: com.yourcompany.xhome+may
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.xhome+may_0.0.1-1+debug_iphoneos-arm.deb
-Size: 126524
-MD5sum: 24fadcf6630b50d28d5760e34e6a554a
-SHA1: 287d754aa01912d4538a21c7358478bf274a5548
-SHA256: 2b01219dfd7182d62efd47a5d0012d165c4b984064f6d5355866eb5b7277ce0b
-Section: Tweaks
-Description: ios13 x手势、一键锁屏、喜马拉雅、起点读书、爱阅书香、淘宝优惠券、微信+银行去越狱、vpn Master
-Author: zlw555
-Name: ios13 x手势+自用插件
-
-Package: netskao.vpnmastercrack
-Version: 1.0-2
-Architecture: iphoneos-arm
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/netskao.vpnmastercrack_1.0-2_iphoneos-arm.deb
-Size: 9616
-MD5sum: e5544c9c56c5bb4edc327ceee96bdd6e
-SHA1: dd5954e2f70de5c8c7607b4c16913f7341d100c3
-SHA256: e1ce8c3e46c49452a73ed436078394364cadcba0de77980b67d1be66f140271f
-Section: Tweaks
-Priority: optional
-Description: 提取自https://repo.netskao.com源
-Author: 7Loopy
-Icon: tweak.png
-Name: vpn master破解
-
-Package: ru.rejail.tetherme8
+Package: com.zydf.tetherme8
 Version: 1.2.3~arm64e-1
 Architecture: iphoneos-arm
 Maintainer: ReJail <rejail@rejail.ru>
@@ -183,15 +103,63 @@ Installed-Size: 2223
 Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
 Conflicts: net.tetherme.tetherme
 Replaces: net.tetherme.tetherme
-Filename: ./debs/ru.rejail.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
-Size: 207088
-MD5sum: 2e0b044bc58915561cba865f10c0db95
-SHA1: 41cfb0fedcc67c71fbb8dd0aea2fe08810a747fe
-SHA256: a2e2aecd21585c587b567cddbfd5b9803c2125821c162be4f670941be5a09150
+Filename: ./debs/com.zydf.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
+Size: 207102
+MD5sum: 1374635e2ec1993e7f231cb1271d2ed3
+SHA1: 13c016a08b3e7608b81b46386433060b6f464786
+SHA256: 6c82969d524d7332a248109fae67a4352dbdfe636c2fb7b22a1938284678b3c7
 Section: Tweaks
-Description: tetherme网络共享，可共享vpa网给电脑
+Description: tetherme网络共享，可共享vpa网给电脑 13.5可用
 Author: Sam Bingner <support@tetherme.net>
 Depiction: https://rejail.ru/depiction.php?file=tetherme8
 Name: TetherMe for iOS 8+ Rus
 Sileodepiction: https://rejail.ru/sileo/depiction.php?file=tetherme8
+
+Package: com.zydf.wxzw
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zydf.wxzw_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5022
+MD5sum: 72824b7f4efd9ba2b9d0164a05e8d0fc
+SHA1: 1abb27dbfa0dbe8466dc8e780c55b4e8e3ba123c
+SHA256: 96d6e3af8be8d8d5ba49783d326abf38a841a821bbb2894006c48aedafc57853
+Section: Tweaks
+Description: 微信屏蔽越狱检测，无其它功能
+Author: zlw555
+Name: 微信指纹
+
+Package: com.zydf.xhome
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zydf.xhome_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5356
+MD5sum: cd11b6a84eaa5cd723a683b25e035e14
+SHA1: 7158b1c77fc5978464cf6943907d32dd7b571b93
+SHA256: b0feb6910ca5f2bf6c05bffc9391c566242447f6430fa1c24f84b95b26ba9df2
+Section: Tweaks
+Description: ios13 x手势，不兼容12及以下系统
+Author: zlw555
+Name: ios13 x手势
+
+Package: com.zydf.xhome+may
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zydf.xhome+may_0.0.1-1+debug_iphoneos-arm.deb
+Size: 201556
+MD5sum: ca02ca7efd09dbe27552b1ff8bb4528a
+SHA1: e638c7348d24802ddf8f6b08765aac0026bf671a
+SHA256: b283b69cc0d780435f6b70ad7050935d18331dc3fec9b434308656ecde59ccef
+Section: Tweaks
+Description: ios13 x手势、一键锁屏、喜马拉雅、起点读书、爱阅书香、淘宝优惠券、微信+银行去越狱、vpn Master
+Author: zlw555
+Name: ios13 x手势+自用插件
 
