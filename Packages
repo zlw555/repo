@@ -79,6 +79,22 @@ Author: cybp888
 Icon: tweak.png
 Name: 一键锁屏
 
+Package: com.zydf.otadisabler
+Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 200
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/com.zydf.otadisabler_0.1-7_iphoneos-arm.deb
+Size: 28986
+MD5sum: 46b1b27420316521a0e4ac9109ee3a3d
+SHA1: ea8f25c542544f6d4f1b921f241e7140bb3f2c8c
+SHA256: c1be56083cb09f1a2a819a1a1908af79c059c446429322d2367cd0f4ad10fe2b
+Section: System
+Description: 屏蔽OTA升级，去除越狱环境也有效
+Author: ichitaso
+Name: OTA屏蔽升级
+
 Package: com.zydf.qidiandushu
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -98,22 +114,19 @@ Name: 起点读书QAD
 Package: com.zydf.tetherme8
 Version: 1.2.3~arm64e-1
 Architecture: iphoneos-arm
-Maintainer: ReJail <rejail@rejail.ru>
 Installed-Size: 2223
 Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
 Conflicts: net.tetherme.tetherme
 Replaces: net.tetherme.tetherme
 Filename: ./debs/com.zydf.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
-Size: 207102
-MD5sum: 1374635e2ec1993e7f231cb1271d2ed3
-SHA1: 13c016a08b3e7608b81b46386433060b6f464786
-SHA256: 6c82969d524d7332a248109fae67a4352dbdfe636c2fb7b22a1938284678b3c7
+Size: 207026
+MD5sum: 8d071cd54e0a09d5de75e09032fad383
+SHA1: 33e0599d419d3bd7d96d015d177c086318f9c9e3
+SHA256: a8fbd78634e096b7a1b2c22a511669d2abed4e12e77da11c711ece0c2003affe
 Section: Tweaks
-Description: tetherme网络共享，可共享vpa网给电脑 13.5可用
+Description: tetherme网络共享，可共享vpa网给电脑
 Author: Sam Bingner <support@tetherme.net>
-Depiction: https://rejail.ru/depiction.php?file=tetherme8
 Name: TetherMe for iOS 8+ Rus
-Sileodepiction: https://rejail.ru/sileo/depiction.php?file=tetherme8
 
 Package: com.zydf.wxzw
 Version: 0.0.1-1+debug
