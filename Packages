@@ -78,6 +78,22 @@ Description: 爱阅书香6.3完美去广告
 Author: zlw555
 Name: 爱阅书香6.3
 
+Package: com.zydf.hj
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zydf.hj_1.0_iphoneos-arm.deb
+Size: 61144
+MD5sum: ce252920485b4d82ae6bbbe7de6506fd
+SHA1: 944a92dfb2af821799a55607270749562f388231
+SHA256: 0a0ac28cf43f91c41487029ad4713ad892ca6716613c65276e7af5095f0eda04
+Section: Tweaks
+Description: ios13手势、一键锁屏、起点、爱阅、微信+农+信去越狱
+Author: zlw555
+Name: ios14自用补丁
+
 Package: com.zydf.jrppyy
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -126,22 +142,6 @@ Description: 屏蔽OTA升级，去除越狱环境也有效
 Author: ichitaso
 Name: OTA屏蔽升级
 
-Package: com.zydf.qidiandushu
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.zydf.qidiandushu_0.0.1-1+debug_iphoneos-arm.deb
-Size: 4656
-MD5sum: 2bd0af769736848e4ee3883485a503a6
-SHA1: c4b1d8f50f4b495500dd9e2b1bacf1a7ba83f856
-SHA256: c7378b9e1f8475513698f97390640218e1a2027070c2b094c81ab5b3975a4fae
-Section: Tweaks
-Description: 起点读书去启动广告
-Author: zlw555
-Name: 起点读书QAD
-
 Package: com.zydf.tetherme8
 Version: 1.2.3~arm64e-1
 Architecture: iphoneos-arm
@@ -158,52 +158,4 @@ Section: Tweaks
 Description: tetherme网络共享，可共享vpa网给电脑
 Author: Sam Bingner <support@tetherme.net>
 Name: TetherMe for iOS 8+ Rus
-
-Package: com.zydf.wxzw
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.zydf.wxzw_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5022
-MD5sum: 72824b7f4efd9ba2b9d0164a05e8d0fc
-SHA1: 1abb27dbfa0dbe8466dc8e780c55b4e8e3ba123c
-SHA256: 96d6e3af8be8d8d5ba49783d326abf38a841a821bbb2894006c48aedafc57853
-Section: Tweaks
-Description: 微信屏蔽越狱检测，无其它功能
-Author: zlw555
-Name: 微信指纹
-
-Package: com.zydf.xhome
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.zydf.xhome_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5356
-MD5sum: cd11b6a84eaa5cd723a683b25e035e14
-SHA1: 7158b1c77fc5978464cf6943907d32dd7b571b93
-SHA256: b0feb6910ca5f2bf6c05bffc9391c566242447f6430fa1c24f84b95b26ba9df2
-Section: Tweaks
-Description: ios13 x手势，不兼容12及以下系统
-Author: zlw555
-Name: ios13 x手势
-
-Package: com.zydf.xhome
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.zydf.xhome_1.0_iphoneos.deb
-Size: 60712
-MD5sum: 91eaf3c462880b4949b71c040fe06e96
-SHA1: a6e1b45d9bfe440c54160ca2fff8224e0daa392e
-SHA256: d8c67894f6799315d245b61bd029d4c88f9dce8393f5d7c39fe63779ccd84c08
-Section: Tweaks
-Description: ios13手势、一键锁屏、起点、爱阅、微信+农+信去越狱
-Author: zlw555
-Name: ios13 x手势
 
