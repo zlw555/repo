@@ -1,3 +1,22 @@
+Package: com.cydiabc.aiyue
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.cydiabc.aiyue_1.7_iphoneos-arm.deb
+Size: 65140
+MD5sum: f9cd93fb7b9f44d6692ec9b37a67472e
+SHA1: a22882d0268302b80e2d28f9fe2fc985d034ddd6
+SHA256: 9c16b232320df9c851dcfdfd22a26df42d257de28e7e1f47ca92b7b453922b1d
+Section: 插件
+Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，支持商店最新版6.5.1，注意安装后进入应用后，开启关闭格言，需关闭APP再进入即可，已解决提示被破坏问题
+A12: 1
+Author: 土拨鼠
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: 爱阅书香高级版
+Sponsor: Ai-小苹果
+
 Package: com.paigu.alipay
 Version: 1.0.0-1
 Architecture: iphoneos-arm
@@ -45,6 +64,22 @@ Section: Tweaks
 Description: 去除所有广告，适配最新内测版6.0
 Author: 糖醋丶炒排骨
 Name: 威锋去广告
+
+Package: com.zlw555.xhome
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zlw555.xhome_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4772
+MD5sum: 0bcea416eeef306a1ed1fec2166f14fe
+SHA1: 876b895f30af2b7db7dcd9c06638fe667bfcd108
+SHA256: 8fcbe9ba35705fcb7a88fb3a4bc31d4d1e37d9781f6c5eeae1d828dd46d8c933
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: ios13 x手势
 
 Package: com.zydf.hj
 Version: 1.2
