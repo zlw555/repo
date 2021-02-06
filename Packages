@@ -211,3 +211,19 @@ Description: 微信屏蔽越狱检测，无其它功能
 Author: zlw555
 Name: 微信指纹
 
+Package: netskao.alipayjailbreakedbypass
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 520
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/netskao.alipayjailbreakedbypass_1.1-3_iphoneos-arm.deb
+Size: 156044
+MD5sum: 5b6500784963d8c281db82e271724e7c
+SHA1: ac6673ac8dff95c42159b26d4299369a8dcb797f
+SHA256: 7fdf99163cf1f1d9a7ddb1973144386cd3c4b7ace3f96db7c66d77a08ff47b33
+Section: Netskao-Tweaks
+Description: 支付宝绕过越狱检测，不影响插件注入
+Author: Netskao
+Name: 支付宝 Jailbreaked Bypass
+
