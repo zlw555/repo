@@ -65,6 +65,20 @@ Description: 去除所有广告，适配最新内测版6.0
 Author: 糖醋丶炒排骨
 Name: 威锋去广告
 
+Package: com.wxhbts.ibreak.vpnmaster-v353
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.wxhbts.ibreak.vpnmaster-v353_1.0_iphoneos-arm.deb
+Size: 4452
+MD5sum: 25ba057db3feb8fae70dac9ab3b19ab8
+SHA1: 5851f03be1524220c96af8bb1128f33e8163c5ae
+SHA256: 643bcacf618ebe63ace4fdd137800093b90c2a3a259480ebd90af10235002d22
+Section: 常用插件
+Author: iBreak
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: VPN Master 支持3.5.3版本
+
 Package: com.yourepo.ibreak.wecallkit
 Version: 1.0
 Architecture: iphoneos-arm
