@@ -261,18 +261,18 @@ Description: 支付宝绕过越狱检测，不影响插件注入
 Author: Netskao
 Name: 支付宝 Jailbreaked Bypass
 
-Package: netskao.disablepastetips
+Package: netskao.disablepastetips1
 Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: Netskao
-Installed-Size: 140
+Installed-Size: 136
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/disablepastetips_1.1-2_iphoneos-arm.deb
-Size: 5510
-MD5sum: cca879fbfd4bfe00a50cbfa5e339d08c
-SHA1: 237ccc55d2e320ad949cf69bef5f14600c875d8b
-SHA256: fab6d5583109b6257774486ce3d7edf4658465ec89d40da1a962adeaad6c46fb
-Section: Tweaks
+Filename: ./debs/netskao.disablepastetips_1.1-2_iphoneos-arm.deb
+Size: 5508
+MD5sum: 00fc2c5069e898bbc623b1684918f7c7
+SHA1: f66f99b6902091d17a5e19ecca65e645ac385d06
+SHA256: b86976bd47a19b4c0fc001a76d1e9f15547d667cc9966dcd69a82de569e22cb4
+Section: tweaks
 Description: 禁用iOS14的粘贴提示
 Author: Netskao
 Name: 禁用iOS14的粘贴提示
