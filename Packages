@@ -264,33 +264,32 @@ Name: 支付宝 Jailbreaked Bypass
 Package: netskao.disablepastetips
 Version: 1.1-2
 Architecture: iphoneos-arm
-Maintainer: zlw555
+Maintainer: Netskao
 Installed-Size: 140
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/disablepastetips_1.1-2.deb
-Size: 5546
-MD5sum: 1f9cc9866313d2e78ae733e7e317e14d
-SHA1: c2d8b307b25513efd3383ed1629052fc6aa0a97d
-SHA256: 6ee3438bac6ae1aa12bb02613c21d2fffd63c535655d7edbe92102a2918bb459
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/disablepastetips_1.1-2_iphoneos-arm.deb
+Size: 5510
+MD5sum: cca879fbfd4bfe00a50cbfa5e339d08c
+SHA1: 237ccc55d2e320ad949cf69bef5f14600c875d8b
+SHA256: fab6d5583109b6257774486ce3d7edf4658465ec89d40da1a962adeaad6c46fb
 Section: Tweaks
 Description: 禁用iOS14的粘贴提示
-Author: Netskao <admin@initnil.com>
-Dev: netskao
-Name: DisablePasteTips
+Author: Netskao
+Name: 禁用iOS14的粘贴提示
 
 Package: netskao.qddsnoads
 Version: 1.1-1
 Architecture: iphoneos-arm
-Maintainer: zlw555
+Maintainer: Netskao
 Installed-Size: 336
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/qidian_1.1-1.deb
-Size: 105416
-MD5sum: 3bc4ecf040dbb8346a525d186107755a
-SHA1: 10658eb487f617e41f297863799da8817f673b9d
-SHA256: 9496d8341cb0cb25de4051ea80d10ad56acbcf44c00004a57098c257dac11c49
-Section: NoAds
+Depends: mobilesubstrate
+Filename: ./debs/qddsnoads_1.1-1_iphoneos-arm.deb
+Size: 105392
+MD5sum: eddeb504245c635995073c4f002373d0
+SHA1: 99c0eeed977ff466998bafeb6851f069624939a8
+SHA256: eb766756b2c112c0d2f136e2bec69cc2d0fc28116a3627a93090138e66498f9e
+Section: teawks
 Description: 起点读书去除启动广告，去除底部中间广告选项
 Author: Netskao
-Name: 起点读书 NoAds
+Name: 起点读书去广告
 
