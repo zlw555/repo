@@ -268,28 +268,28 @@ Maintainer: Netskao
 Installed-Size: 136
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/netskao.disablepastetips_1.1-2_iphoneos-arm.deb
-Size: 5508
-MD5sum: 00fc2c5069e898bbc623b1684918f7c7
-SHA1: f66f99b6902091d17a5e19ecca65e645ac385d06
-SHA256: b86976bd47a19b4c0fc001a76d1e9f15547d667cc9966dcd69a82de569e22cb4
-Section: tweaks
+Size: 5512
+MD5sum: 2f69977dbb1125622450682e9e58be2f
+SHA1: 6f16a1190f0aeea07a9f7cc1fd123434ded000f2
+SHA256: a8f653741b6b4b1fa869a74bba90a76bacabc226fc9060da981dc8b0184ef223
+Section: Tweaks
 Description: 禁用iOS14的粘贴提示
 Author: Netskao
 Name: 禁用iOS14的粘贴提示
 
-Package: netskao.qddsnoads
+Package: netskao.qddsnoads1
 Version: 1.1-1
 Architecture: iphoneos-arm
-Maintainer: Netskao
+Maintainer: Nets
 Installed-Size: 336
-Depends: mobilesubstrate
-Filename: ./debs/qddsnoads_1.1-1_iphoneos-arm.deb
-Size: 105392
-MD5sum: eddeb504245c635995073c4f002373d0
-SHA1: 99c0eeed977ff466998bafeb6851f069624939a8
-SHA256: eb766756b2c112c0d2f136e2bec69cc2d0fc28116a3627a93090138e66498f9e
-Section: teawks
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.qddsnoads_1.1-1_iphoneos-arm.deb
+Size: 105414
+MD5sum: dae519ab45e4f8d0136af7e41707680d
+SHA1: 82ab099a8e0ce0ce25890463151c02de223b3105
+SHA256: be8132cbb6877bef649c1271bb634c01e8db3d2ad96bd9ae273c5e5f53664370
+Section: Tweaks
 Description: 起点读书去除启动广告，去除底部中间广告选项
 Author: Netskao
-Name: 起点读书去广告
+Name: 起点读书 NoAds
 
