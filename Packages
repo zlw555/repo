@@ -99,21 +99,6 @@ Author: iBreak
 Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
 Name: VPN Master 支持3.5.3版本
 
-Package: com.yourepo.ibreak.wecallkit
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/wecallkit_1.0.deb
-Size: 3674
-MD5sum: 188b220faeb92bbf661ff50219d8dd2b
-SHA1: 25b6223f854478e5b7ee88d569f248469b4a5be3
-SHA256: 67b28e39f23ee63344ca1e42de3890d4c343b4207291f154e36576aa1e117e03
-Section: Tweaks
-Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
-Author: iBreak <ibreak2019@qq.com>
-Name: WeChat Callkit
-
 Package: com.yourepo.lly.solar
 Version: 0.0.1-1
 Architecture: iphoneos-arm
