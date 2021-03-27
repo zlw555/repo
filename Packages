@@ -99,6 +99,21 @@ Author: iBreak
 Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
 Name: VPN Master 支持3.5.3版本
 
+Package: com.yourepo.ibreak.wecallkit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/wecallkit_1.0.deb
+Size: 3674
+MD5sum: 188b220faeb92bbf661ff50219d8dd2b
+SHA1: 25b6223f854478e5b7ee88d569f248469b4a5be3
+SHA256: 67b28e39f23ee63344ca1e42de3890d4c343b4207291f154e36576aa1e117e03
+Section: Tweaks
+Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
+Author: iBreak <ibreak2019@qq.com>
+Name: WeChat Callkit
+
 Package: com.yourepo.lly.solar
 Version: 0.0.1-1
 Architecture: iphoneos-arm
@@ -134,20 +149,36 @@ Author: zlw555
 Name: cloud189天翼云盘
 
 Package: com.zlw555.gesture14
-Version: 1.0-1+debug
+Version: 1.0-4+debug
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.gesture14_1.0-1+debug_iphoneos-arm.deb
-Size: 4152
-MD5sum: db87c51456f14ad8f0d886863996165a
-SHA1: d378652b8ee026a085220b98fadca7a14a3552ec
-SHA256: 2123a38fcb3c7fe8e8e69c62dcd41e0e332517be7924831ad4350a1e83831d42
+Filename: ./debs/com.zlw555.gesture14_1.0-4+debug_iphoneos-arm.deb
+Size: 4144
+MD5sum: 95847e715e756858fd9bded6f37b8b40
+SHA1: 27a4240fb6b904762fae041b79b647a62c2234bf
+SHA256: 5580f7d7993f08cfd1b0276a7aab9299964dc15c1171b416bf3bdc6861228695
 Section: Tweaks
 Description: 14.4手势
 Author: zlw555
 Name: Gesture14
+
+Package: com.zlw555.gesturepro
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.gesturepro_1.0-1+debug_iphoneos-arm.deb
+Size: 4974
+MD5sum: f796c77983ef1a462836deb7b2d7475d
+SHA1: 97ad969e792e472060dd0c4da404b4cc03f079c8
+SHA256: 6b0d7d59f55be3d84185e7069e0c4349bd8c5ca1b5a23d36d230f8beeef25e79
+Section: Tweaks
+Description: gesture手势.解锁提示.隐藏通知中心“没有更早的通知”文本.隐藏状态栏旋转图标.禁用锁屏左滑相机
+Author: zlw555
+Name: gesture手势
 
 Package: com.zlw555.guangxibank
 Version: 1.0-1+debug
@@ -196,22 +227,6 @@ Section: Tweaks
 Description: ✦白描V2.9.6解锁限制
 Author: zlw555
 Name: ocrrec
-
-Package: com.zlw555.xhome
-Version: 1.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.xhome_1.1-2+debug_iphoneos-arm.deb
-Size: 6372
-MD5sum: 45980fec4e35eefc12f14237c1d38040
-SHA1: 21fc1438c857c33c69905cd1dcf2ed17c3bd81c9
-SHA256: b3b87fc284338e31bd1dee5b152d53787e68ca48db01f00ee2c3cf20414d0f81
-Section: Tweaks
-Description: 14.4手势,隐藏通知中心“没有更早的通知”文本.解锁提示.省电模式电池颜色保持原生.隐藏状态栏旋转图标.禁用锁屏左滑相机.禁用主屏幕下拉搜索栏
-Author: zlw555
-Name: 14.4手势
 
 Package: com.zydf.lockbutton
 Version: 1.0-2
