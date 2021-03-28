@@ -132,6 +132,22 @@ Depiction: https://repo.lenglengyu.top/packageInfo/xystzq.html
 Name: 小猿搜题增强
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/xystzqsileo
 
+Package: com.zlw555.batteryview
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.batteryview_1.0-1+debug_iphoneos-arm.deb
+Size: 3896
+MD5sum: 45a32b13422e20b79d0306f81d4b6a37
+SHA1: 047313223fd19cad127f4e90eede5ee44835c958
+SHA256: ec67601e40932b25c2d2de9d61610e35015ad098b2b4a29e5ac06b8984e2daf5
+Section: Tweaks
+Description: 电沲百分比，非全面屏，13-14系统
+Author: zlw555
+Name: 电沲百分比
+
 Package: com.zlw555.cloud189
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -179,6 +195,22 @@ Section: Tweaks
 Description: gesture手势.解锁提示.隐藏通知中心“没有更早的通知”文本.隐藏状态栏旋转图标.禁用锁屏左滑相机
 Author: zlw555
 Name: gesture手势
+
+Package: com.zlw555.gesturepro
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.gesturepro_1.1-1+debug_iphoneos-arm.deb
+Size: 5296
+MD5sum: 0c0d5baa941bd1f309994bc6d3fd9b43
+SHA1: 72a2cc1e2bbbc168ab617b2442e74236daf74ff3
+SHA256: 7fa9654f0bd060ad0db300c16325556cb70d82d65fa2891fe8e7826a59bf774a
+Section: Tweaks
+Description: gesture手势.解锁提示.隐藏通知中心“没有更早的通知”文本.隐藏状态栏旋转图标.禁用锁屏左滑相机.电池百分比。dock透明
+Author: zlw555
+Name: gesturepro
 
 Package: com.zlw555.guangxibank
 Version: 1.0-1+debug
