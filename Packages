@@ -99,6 +99,38 @@ Author: iBreak
 Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
 Name: VPN Master 支持3.5.3版本
 
+Package: com.yourcompany.aysx
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/爱阅书香6.3.deb
+Size: 3618
+MD5sum: 7557d59a83ca08c67d5208ac7d0f4a8f
+SHA1: b03acf61af02fe3a2ad5096c671e3cf67ecf7b48
+SHA256: be87b9dea7f36f7946a43a4f0add42ccee0528c058720dd8aa31f509c20ae45a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 爱阅书香6.3
+
+Package: com.yourcompany.qidiandushu
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/起点读书.deb
+Size: 3758
+MD5sum: e3db79e949e3c505e579a44cf08edb20
+SHA1: 8eee709701b79e24712d5583044f9a9f29052785
+SHA256: 5c1810a75e82c2836d34fea2949ef57a80520b812d954055459bce324a744948
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: 起点读书QAD
+
 Package: com.yourepo.ibreak.wecallkit
 Version: 1.0
 Architecture: iphoneos-arm
