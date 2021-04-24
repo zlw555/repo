@@ -115,22 +115,6 @@ Description: An awesome MobileSubstrate tweak!
 Author: zlw555
 Name: 爱阅书香6.3
 
-Package: com.yourcompany.qidiandushu
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/起点读书.deb
-Size: 3758
-MD5sum: e3db79e949e3c505e579a44cf08edb20
-SHA1: 8eee709701b79e24712d5583044f9a9f29052785
-SHA256: 5c1810a75e82c2836d34fea2949ef57a80520b812d954055459bce324a744948
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: zlw555
-Name: 起点读书QAD
-
 Package: com.yourepo.ibreak.wecallkit
 Version: 1.0
 Architecture: iphoneos-arm
@@ -292,6 +276,22 @@ Description: ✦白描V2.9.6解锁限制
 Author: zlw555
 Name: ocrrec
 
+Package: com.zlw555.qidiandushu
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zlw555.qidiandushu_0.1_iphoneos-arm.deb
+Size: 4680
+MD5sum: 9d3268425a7289249c100b0ed3b7669b
+SHA1: 13aa2bced33908c531881e30f534c40e6f15ef02
+SHA256: 7e368c2336169f7aa3d3af2215fe778ad8ed1018f1de3599568b807b2678c1c2
+Section: Tweaks
+Description: 起点5.9.6,如果不生效请清除缓存
+Author: zlw555
+Name: 起点读书QAD
+
 Package: com.zydf.lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
@@ -372,6 +372,56 @@ Section: Netskao-Tweaks
 Description: 支付宝绕过越狱检测，不影响插件注入
 Author: Netskao
 Name: 支付宝 Jailbreaked Bypass
+
+Package: netskao.alypgetdownloadurl
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 356
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/netskao.alypgetdownloadurl_1.1-1_iphoneos-arm.deb
+Size: 108132
+MD5sum: 79fc919c5ddffa61b1124e662a8c13ad
+SHA1: 88d01345404d6230ed4c1dd9a5693ffef8d159da
+SHA256: b7cb8e65b0d39e6941024742dbaea30918f4a46f439981edac128bc9843156e3
+Section: Tweaks
+Description: 阿里云盘获取暂时直链，打开文件选项面板后长按任意按钮复制，详情看预览图，不支持文件夹获取！！！是暂时直链！！！
+Author: Netskao
+Name: 阿里云盘 GetDownloadURL
+
+Package: netskao.disableautomationnotice
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 136
+Depends: mobilesubstrate
+Conflicts: netskao.disableshortcutsnotification
+Filename: ./debs/netskao.disableautomationnotice_1.1-3_iphoneos-arm.deb
+Size: 8824
+MD5sum: 17c52c403f091146073479bc6b3c810f
+SHA1: 795432d3d7edb93c3e6e410878e8f89acf055652
+SHA256: 5bd1d36a3c1df99f051043b05c0caa1d0dab7acf6abf54011cce7c2f6ba6e7ef
+Section: Tweaks
+Description: 禁用快捷指令自动化自动执行后的通知，仅禁用自动化不包含其他
+Author: Netskao
+Name: DisableAutomationNotice
+
+Package: netskao.disablepastetips
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 133
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/netskao.disablepastetips_1.1-3_iphoneos-arm.deb
+Size: 4786
+MD5sum: b58fbbc48434fd1ee8a875d441af5d7d
+SHA1: ce7af25f21888ddd2086ffa1311110d2ba15ba9e
+SHA256: 87d9382401b48a1cbedb1dd7d63ff8fd5cb830f872ec3b67ba55b13ad3a88e0f
+Section: Tweaks
+Description: 禁用iOS14的粘贴提示
+Author: Netskao
+Dev: netskao
+Name: DisablePasteTips
 
 Package: netskao.disablepastetips1
 Version: 1.1-2
