@@ -282,16 +282,16 @@ Version: 1.0-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/com.zydf.zycj_1.0-2_iphoneos-arm.deb
-Size: 236016
-MD5sum: f5e69a464607466477e24ad82dbbec79
-SHA1: 5021cbbd2be0c3f7f780594aa77789569fe6b16a
-SHA256: f4c8215a913c809ff291e482607f5c1d5d942a1fdad72d8008033291699bbe34
+Size: 236014
+MD5sum: a6b451b52342c2ea077b7054c9328ed5
+SHA1: 93d47320f587283626e0a48bf3cccd0fbd478519
+SHA256: 48a233978c56c9b1c4f2711f8164abd679cf4a3deff33cdd2b1490c7c6891e31
 Section: Tweaks
 Priority: optional
 Description: 桌面一键锁屏，手势笑
 Author: zlw555
 Icon: tweak.png
-Name: 自用插件
+Name: A 自用插件
 
 Package: netskao.alipayjailbreakedbypass
 Version: 1.1-3
