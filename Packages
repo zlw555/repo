@@ -69,22 +69,6 @@ Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加
 Author: 糖醋丶炒排骨
 Name: 微信JBDBypass
 
-Package: com.paigu.wf
-Version: 1.0.0-1
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.wf_1.0.0-1_iphoneos-arm.deb
-Size: 7356
-MD5sum: ac5daff29547570bbbb4c185169aa88c
-SHA1: 464654931fe2f4b46784a87457e3fc4fdbb1c846
-SHA256: cd71fb4c2dd66f39db02e102a9d7584bdc6ff048ad91dfe86a8b3036830b0078
-Section: Tweaks
-Description: 去除所有广告，适配最新内测版6.0
-Author: 糖醋丶炒排骨
-Name: 威锋去广告
-
 Package: com.wxhbts.ibreak.vpnmaster-v353
 Version: 1.0
 Architecture: iphoneos-arm
@@ -276,22 +260,6 @@ Description: ✦白描V2.9.6解锁限制
 Author: zlw555
 Name: ocrrec
 
-Package: com.zlw555.qidiandushu
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.zlw555.qidiandushu_0.1_iphoneos-arm.deb
-Size: 4680
-MD5sum: 9d3268425a7289249c100b0ed3b7669b
-SHA1: 13aa2bced33908c531881e30f534c40e6f15ef02
-SHA256: 7e368c2336169f7aa3d3af2215fe778ad8ed1018f1de3599568b807b2678c1c2
-Section: Tweaks
-Description: 起点5.9.6,如果不生效请清除缓存
-Author: zlw555
-Name: 起点读书QAD
-
 Package: com.zydf.lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
@@ -340,22 +308,6 @@ Section: Tweaks
 Description: tetherme网络共享，可共享vpa网给电脑
 Author: Sam Bingner <support@tetherme.net>
 Name: TetherMe for iOS 8+ Rus
-
-Package: com.zydf.wxzw
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/com.zydf.wxzw_0.0.1-1+debug_iphoneos-arm.deb
-Size: 5022
-MD5sum: 72824b7f4efd9ba2b9d0164a05e8d0fc
-SHA1: 1abb27dbfa0dbe8466dc8e780c55b4e8e3ba123c
-SHA256: 96d6e3af8be8d8d5ba49783d326abf38a841a821bbb2894006c48aedafc57853
-Section: Tweaks
-Description: 微信屏蔽越狱检测，无其它功能
-Author: zlw555
-Name: 微信指纹
 
 Package: netskao.alipayjailbreakedbypass
 Version: 1.1-3
