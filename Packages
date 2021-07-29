@@ -83,22 +83,6 @@ Author: iBreak
 Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
 Name: VPN Master 支持3.5.3版本
 
-Package: com.yourcompany.aysx
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/爱阅书香6.3.deb
-Size: 3618
-MD5sum: 7557d59a83ca08c67d5208ac7d0f4a8f
-SHA1: b03acf61af02fe3a2ad5096c671e3cf67ecf7b48
-SHA256: be87b9dea7f36f7946a43a4f0add42ccee0528c058720dd8aa31f509c20ae45a
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: zlw555
-Name: 爱阅书香6.3
-
 Package: com.yourepo.ibreak.wecallkit
 Version: 1.0
 Architecture: iphoneos-arm
@@ -179,22 +163,6 @@ Section: Tweaks
 Description: 14.4手势
 Author: zlw555
 Name: Gesture14
-
-Package: com.zlw555.gesturepro
-Version: 1.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 140
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.gesturepro_1.0-1+debug_iphoneos-arm.deb
-Size: 4974
-MD5sum: f796c77983ef1a462836deb7b2d7475d
-SHA1: 97ad969e792e472060dd0c4da404b4cc03f079c8
-SHA256: 6b0d7d59f55be3d84185e7069e0c4349bd8c5ca1b5a23d36d230f8beeef25e79
-Section: Tweaks
-Description: gesture手势.解锁提示.隐藏通知中心“没有更早的通知”文本.隐藏状态栏旋转图标.禁用锁屏左滑相机
-Author: zlw555
-Name: gesture手势
 
 Package: com.zlw555.gesturepro
 Version: 1.1-1+debug
@@ -308,6 +276,22 @@ Section: Tweaks
 Description: tetherme网络共享，可共享vpa网给电脑
 Author: Sam Bingner <support@tetherme.net>
 Name: TetherMe for iOS 8+ Rus
+
+Package: com.zydf.zycj
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/com.zydf.zycj_1.0-2_iphoneos-arm.deb
+Size: 236016
+MD5sum: f5e69a464607466477e24ad82dbbec79
+SHA1: 5021cbbd2be0c3f7f780594aa77789569fe6b16a
+SHA256: f4c8215a913c809ff291e482607f5c1d5d942a1fdad72d8008033291699bbe34
+Section: Tweaks
+Priority: optional
+Description: 桌面一键锁屏，手势笑
+Author: zlw555
+Icon: tweak.png
+Name: 自用插件
 
 Package: netskao.alipayjailbreakedbypass
 Version: 1.1-3
