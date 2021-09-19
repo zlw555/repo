@@ -116,6 +116,22 @@ Depiction: https://repo.lenglengyu.top/packageInfo/xystzq.html
 Name: 小猿搜题增强
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/xystzqsileo
 
+Package: com.zlw555.14settingsyh
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.14settingsyh_1.0_iphoneos-arm.deb
+Size: 3316
+MD5sum: 9bc4e47418080f3375b467f402bfda12
+SHA1: f8afb2346c5338d8dcfba220f8325f3e6a4180e8
+SHA256: e1f8050c1d895c31b59e55fc915baef36d441dc0ecc5c748c5013e6a13dc26fb
+Section: Tweaks
+Description: ios14禁用资源库,小锁头,橙蓝点,主屏幕通知中心和锁屏搜索栏,隐藏通知中心上分割线,DOCK背景透明,解锁延迟最小
+Author: zlw555
+Name: ios14禁用资源库
+
 Package: com.zlw555.batteryview
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
