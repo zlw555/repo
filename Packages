@@ -260,6 +260,22 @@ Description: ✦白描V2.9.6解锁限制
 Author: zlw555
 Name: ocrrec
 
+Package: com.zlw555.qidian
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.qidian_0.0.1_iphoneos-arm.deb
+Size: 2782
+MD5sum: 80fb3b8d18110123c8fb55ff01f48537
+SHA1: 25f8b9a74c592f3189300eb97e962b4f162d01d0
+SHA256: 535bf29f4b7480a21be71cdd50010d2642e9d4871a648285f188cc9a50ced915
+Section: 常用插件
+Description: 起点去启动广告
+Author: zlw555
+Name: 起点去启动广告
+
 Package: com.zydf.lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
