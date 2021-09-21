@@ -165,33 +165,17 @@ Author: zlw555
 Name: cloud189天翼云盘
 
 Package: com.zlw555.gesture14
-Version: 1.0-4+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.gesture14_1.0-4+debug_iphoneos-arm.deb
-Size: 4144
-MD5sum: 95847e715e756858fd9bded6f37b8b40
-SHA1: 27a4240fb6b904762fae041b79b647a62c2234bf
-SHA256: 5580f7d7993f08cfd1b0276a7aab9299964dc15c1171b416bf3bdc6861228695
-Section: Tweaks
-Description: 14.4手势
-Author: zlw555
-Name: Gesture14
-
-Package: com.zlw555.gesture14
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.zlw555.gesture14_2.0_iphoneos-arm.deb
-Size: 3260
-MD5sum: 81f79220853645a2323969ce4e07c2a8
-SHA1: 7b9056e5ae214bd7776ceedfd0a27507375a8da9
-SHA256: ef02ad5fa8c73af2eb3e08ac906294609513529bb798b3086820193a6c6f8bd9
-Section: Tweaks
+Size: 3256
+MD5sum: bc251823433f6b9c6280bee9c68d76d2
+SHA1: 2e91857d7232cb83a4de74f692a6f7c60d4278d0
+SHA256: 6ab67578435e5325df463087b09232b34215af48a32c109f5740f2a8e2e6222b
+Section: 常用补丁
 Description: iOS14x手势，越狱状态下忽略企业证书状态验证，隐藏状态栏旋转图标,禁用锁屏左滑相机
 Author: zlw555
 Name: Gesture14
@@ -213,36 +197,68 @@ Author: zlw555
 Name: gesturepro
 
 Package: com.zlw555.guangxibank
-Version: 1.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.guangxibank_1.0-1+debug_iphoneos-arm.deb
-Size: 3440
-MD5sum: 465d02e6ddfdaffada38d8c4e72bd853
-SHA1: 78a050f97354e818bbfa5f5e58eb9a78238790e1
-SHA256: 0b6b5dd5fa39c9d46cd742cd85960cdd9face80a9851eb0aae4eb476dbda7bea
-Section: Tweaks
-Description: 广西农信去越狱
-Author: zlw
-Name: 广西农信
-
-Package: com.zlw555.iphonerelease
-Version: 0.0.1-1+debug
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: zlw555
-Installed-Size: 200
+Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.iphonerelease_0.0.1-1+debug_iphoneos-arm.deb
-Size: 4282
-MD5sum: b4573c149548f288a120f83905dbe561
-SHA1: 9951f9d7fb034eeaef65736321cd4c0150b3142a
-SHA256: b9d156b36529c471a6b42f499854aa4ef0f040120578f7cb786bca2f97083e10
-Section: Tweaks
-Description: 农业银行去越狱和启动广告
+Filename: ./debs/com.zlw555.guangxibank_1.0_iphoneos-arm.deb
+Size: 2740
+MD5sum: 0f711109025def5db54babd0bb5307a5
+SHA1: 2bb38cc038b58ef3d421b1adb4f72e55bb3b69b5
+SHA256: fc1321d336e860e88baa8a701e0e0be33529e8d8e3d8b05c0827c3cf93423c9c
+Section: 插件
+Description: 旧版广西农村信用社去越狱
 Author: zlw555
-Name: 农业银行去广告
+Name: 旧版广西农村信用社
+
+Package: com.zlw555.iphonerelease
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.iphonerelease_1.0_iphoneos-arm.deb
+Size: 2850
+MD5sum: 4b995e6f6d290c44f91ac3ca8cf1337e
+SHA1: b0d129fa0923d7d89e2f95268ee609a0b67bfbc4
+SHA256: da1dc3e4db73b030af1a4dca2919c3ed77020cf3ce9bda3bc8549114f919d9b1
+Section: 常用插件
+Description: 农业银行6.6.0 去越狱检测和启动广告
+Author: zlw555
+Name: 农业银行去越狱检测
+
+Package: com.zlw555.keyboardsz
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.keyboardsz_1.0_iphoneos-arm.deb
+Size: 2924
+MD5sum: 016953544a15a4c534c2c246968baaf2
+SHA1: 3e8ae5df22b0fa9252ab84362dbdd15fe3c3f223
+SHA256: 54fed5d054de045e0d01a022ad8a734250a87beda54025f3cf7ee4b0ee0b0a61
+Section: 常用插件
+Description: iOS14  去设置和单手键盘
+Author: zlw555
+Name: iOS14去设置和单手键盘
+
+Package: com.zlw555.new3guangxibank
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.new3guangxibank_1.0_iphoneos-arm.deb
+Size: 2816
+MD5sum: 6643d647368e35e982a89b992e337630
+SHA1: d733c610af9629d1a249c98a9e90e7325e42e482
+SHA256: 9d77e7829f0a1909f502debeeff9bf1224643967e32995f4b7bfcff41f6de990
+Section: 常用插件
+Description: New广西农信去越狱和定位弹窗
+Author: zlw555
+Name: New广西农信
 
 Package: com.zlw555.ocrrec
 Version: 1.0-1+debug
@@ -261,18 +277,18 @@ Author: zlw555
 Name: ocrrec
 
 Package: com.zlw555.qidian
-Version: 0.0.1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.qidian_0.0.1_iphoneos-arm.deb
-Size: 2782
-MD5sum: 80fb3b8d18110123c8fb55ff01f48537
-SHA1: 25f8b9a74c592f3189300eb97e962b4f162d01d0
-SHA256: 535bf29f4b7480a21be71cdd50010d2642e9d4871a648285f188cc9a50ced915
+Filename: ./debs/com.zlw555.qidian_1.0_iphoneos-arm.deb
+Size: 2790
+MD5sum: dd93628aeb47f43067e0e64efd7b318d
+SHA1: 6064ab3013644593a9840c908ba3639c95db0a24
+SHA256: 6a67b10aaf968627946944d2eb9cdfd76dc246b8e1f29fc2d2b421c00ce29c05
 Section: 常用插件
-Description: 起点去启动广告
+Description: 起点5.9.149去启动广告
 Author: zlw555
 Name: 起点去启动广告
 
@@ -406,22 +422,6 @@ Description: 禁用iOS14的粘贴提示
 Author: Netskao
 Dev: netskao
 Name: DisablePasteTips
-
-Package: netskao.disablepastetips1
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Netskao
-Installed-Size: 136
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/netskao.disablepastetips_1.1-2_iphoneos-arm.deb
-Size: 5512
-MD5sum: 2f69977dbb1125622450682e9e58be2f
-SHA1: 6f16a1190f0aeea07a9f7cc1fd123434ded000f2
-SHA256: a8f653741b6b4b1fa869a74bba90a76bacabc226fc9060da981dc8b0184ef223
-Section: Tweaks
-Description: 禁用iOS14的粘贴提示
-Author: Netskao
-Name: 禁用iOS14的粘贴提示
 
 Package: netskao.qddsnoads1
 Version: 1.1-1
