@@ -233,15 +233,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate
 Filename: ./debs/com.zlw555.keyboardsz_1.0_iphoneos-arm.deb
-Size: 2924
-MD5sum: 016953544a15a4c534c2c246968baaf2
-SHA1: 3e8ae5df22b0fa9252ab84362dbdd15fe3c3f223
-SHA256: 54fed5d054de045e0d01a022ad8a734250a87beda54025f3cf7ee4b0ee0b0a61
+Size: 2944
+MD5sum: 251abc505ba265f70c24d2f9ee8a429b
+SHA1: c9e6ec526cac492c316aed743dd64d367114b98e
+SHA256: 29eabdb4f944a8451870ba53fd715bc6070564733853a027683009af61023bd1
 Section: 常用插件
 Description: iOS14  去设置和单手键盘
 Author: zlw555
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: iOS14去设置和单手键盘
 
 Package: com.zlw555.new3guangxibank
@@ -249,15 +250,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate
 Filename: ./debs/com.zlw555.new3guangxibank_1.0_iphoneos-arm.deb
-Size: 2816
-MD5sum: 6643d647368e35e982a89b992e337630
-SHA1: d733c610af9629d1a249c98a9e90e7325e42e482
-SHA256: 9d77e7829f0a1909f502debeeff9bf1224643967e32995f4b7bfcff41f6de990
+Size: 2846
+MD5sum: c624b9ee268fe06fef91dbb980360f83
+SHA1: 35c1392b841a81bd9a60aa0d406d0a6c41f160ba
+SHA256: 6031a86f16298a3ea0bf51f79f181755d3dd9f8ba0318dc8302bcb5f2d2795e8
 Section: 常用插件
 Description: New广西农信去越狱和定位弹窗
 Author: zlw555
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: New广西农信
 
 Package: com.zlw555.ocrrec
@@ -281,15 +283,16 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate
 Filename: ./debs/com.zlw555.qidian_1.0_iphoneos-arm.deb
-Size: 2790
-MD5sum: dd93628aeb47f43067e0e64efd7b318d
-SHA1: 6064ab3013644593a9840c908ba3639c95db0a24
-SHA256: 6a67b10aaf968627946944d2eb9cdfd76dc246b8e1f29fc2d2b421c00ce29c05
+Size: 2820
+MD5sum: 2647e680a5377923ec74e753c99609ee
+SHA1: 967e73dde930690c4eb5cd107c4b2ea37d952350
+SHA256: be0f119e99cc16acd49978ab1a9c0614460004eafe03449b8724cebb3efd8ac1
 Section: 常用插件
 Description: 起点5.9.149去启动广告
 Author: zlw555
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 起点去启动广告
 
 Package: com.zydf.lockbutton
