@@ -74,13 +74,13 @@ Version: 1.0
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Filename: ./debs/com.wxhbts.ibreak.vpnmaster-v353_1.0_iphoneos-arm.deb
-Size: 4452
-MD5sum: 25ba057db3feb8fae70dac9ab3b19ab8
-SHA1: 5851f03be1524220c96af8bb1128f33e8163c5ae
-SHA256: 643bcacf618ebe63ace4fdd137800093b90c2a3a259480ebd90af10235002d22
+Size: 4446
+MD5sum: 943b1770e2a8a713bbe0878311c73fb3
+SHA1: 8015b564fecf283187631baeb5977aa795bc9063
+SHA256: 578bc38c4500b0a36a075f352be5bd14db53f76ed2753ee08298039fdb7c548d
 Section: 常用插件
 Author: iBreak
-Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: VPN Master 支持3.5.3版本
 
 Package: com.yourepo.ibreak.wecallkit
@@ -171,13 +171,14 @@ Maintainer: zlw555
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.zlw555.gesture14_2.0_iphoneos-arm.deb
-Size: 3256
-MD5sum: bc251823433f6b9c6280bee9c68d76d2
-SHA1: 2e91857d7232cb83a4de74f692a6f7c60d4278d0
-SHA256: 6ab67578435e5325df463087b09232b34215af48a32c109f5740f2a8e2e6222b
+Size: 5038
+MD5sum: 84e87220bda2569d241df658f11ec02f
+SHA1: 39eae5dc687f6f60be982851babd51051db63db2
+SHA256: e63bfe6e760e46271109d2fb971da9aef1d5ef92fef3431d64cdcecfc5eeeec9
 Section: 常用补丁
 Description: iOS14x手势，越狱状态下忽略企业证书状态验证，隐藏状态栏旋转图标,禁用锁屏左滑相机
 Author: zlw555
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: Gesture14
 
 Package: com.zlw555.gesturepro
@@ -203,13 +204,14 @@ Maintainer: zlw555
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.zlw555.guangxibank_1.0_iphoneos-arm.deb
-Size: 2740
-MD5sum: 0f711109025def5db54babd0bb5307a5
-SHA1: 2bb38cc038b58ef3d421b1adb4f72e55bb3b69b5
-SHA256: fc1321d336e860e88baa8a701e0e0be33529e8d8e3d8b05c0827c3cf93423c9c
-Section: 插件
+Size: 4184
+MD5sum: eb805dc161caa811eb4b4e26ae95fc59
+SHA1: 6542a01dbc7570fd98a817135508857c14f29157
+SHA256: cfde72628fe62c418e72a2eb5795291f0669678751f0b6a3b9dbde65c60affae
+Section: 自用插件
 Description: 旧版广西农村信用社去越狱
 Author: zlw555
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 旧版广西农村信用社
 
 Package: com.zlw555.iphonerelease
@@ -219,13 +221,14 @@ Maintainer: zlw555
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.zlw555.iphonerelease_1.0_iphoneos-arm.deb
-Size: 2850
-MD5sum: 4b995e6f6d290c44f91ac3ca8cf1337e
-SHA1: b0d129fa0923d7d89e2f95268ee609a0b67bfbc4
-SHA256: da1dc3e4db73b030af1a4dca2919c3ed77020cf3ce9bda3bc8549114f919d9b1
+Size: 4342
+MD5sum: 95cf9bfe92ed984cf910dbc5da6025aa
+SHA1: 8a26cdb7cf2111464ff74f8cf969197b78f73737
+SHA256: 959838f3e4c9cce206e3afca5d05e0670bcaabf732c205ef0ac1c0e27046d7d9
 Section: 常用插件
 Description: 农业银行6.6.0 去越狱检测和启动广告
 Author: zlw555
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 农业银行去越狱检测
 
 Package: com.zlw555.keyboardsz
