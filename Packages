@@ -98,6 +98,25 @@ Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
 Author: iBreak <ibreak2019@qq.com>
 Name: WeChat Callkit
 
+Package: com.yourepo.lly.prozs
+Version: 3.5.7
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3088
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
+Filename: ./debs/com.yourepo.lly.prozs_3.5.7_iphoneos-arm.deb
+Size: 1186170
+MD5sum: a239f09718ec5a23cd97c185d467115d
+SHA1: e5d1a645cdbfb1bdcc212b7bf58a4e01b1c7b85f
+SHA256: dba93ebfbde162f87d52a0b32fc8284149871ac8c3bddf068c508622bfba2bbe
+Section: Tweaks
+Description: 已适配A12。各类常用app开启Pro权限，相关app商店下载即可。即将添加更多app。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/prozs.html
+Icon: file:///Library/PreferenceBundles/prozs.bundle/icon@2x.png
+Name: Pro助手
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
+
 Package: com.yourepo.lly.solar
 Version: 0.0.1-1
 Architecture: iphoneos-arm
