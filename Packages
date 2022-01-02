@@ -167,6 +167,23 @@ Description: 天翼云盘去启动
 Author: zlw555
 Name: cloud189天翼云盘
 
+Package: com.zlw555.filza
+Version: 3.9.0-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 32244
+Depends: preferenceloader
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/com.zlw555.filza_3.9.0-2_iphoneos-arm.deb
+Size: 14057690
+MD5sum: d379301a2b589b245f35c8dde59696a8
+SHA1: 3db9404cf2817cab0ef5cb908ce44165089f9998
+SHA256: cd2e314b51730ee205baa65031e1dd9fd968c328ca05fbf1fe46dd9ce6b1455d
+Section: Utilities
+Description: 自用，File,锁屏,手势
+Author: TIGI Software
+Name: Filza文件管理器
+
 Package: com.zlw555.gesturesi14
 Version: 3.1
 Architecture: iphoneos-arm
