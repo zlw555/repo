@@ -285,32 +285,17 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 起点去启动广告
 
 Package: com.zlw555.theos
-Version: 5.1.8
+Version: 3.1
 Architecture: iphoneos-arm
-Installed-Size: 475
-Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil,  mterminal
-Filename: ./debs/com.zlw555.theos_5.1.9.deb
-Size: 1105268
-MD5sum: 34ef8bb636d2d53b3e914c338d6e0b04
-SHA1: e46ad4f7c8976d7e761b03a114e26510ad91ead7
-SHA256: 97ee4786fed42b98ac2a1c9c42b30602b12705b788ce45736afedd26575211ce
-Section: Utilities
-Description: 自用theos，np新建，mp打包，iPhoneOS14.4.sdk
-Author: zlw555
-Name: Theos
-
-Package: com.zlw555.theos
-Version: 5.1.8
-Architecture: iphoneos-arm
-Installed-Size: 475
-Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil,  mterminal
-Filename: ./debs/com.zlw555.theos_5.1.8.deb
-Size: 1324
-MD5sum: 2bc4cf58987a870959691791fd7f54a1
-SHA1: abb41fdd4f4e89eee7c34695e5d622ddb308f72b
-SHA256: 77fdebfa8b995ccd7a13f0695e668a0b4c76fb129438478573641c58bd5184eb
-Section: Utilities
-Description: 自用theos，np新建，mp打包，iPhoneOS14.4.sdk
+Maintainer: zlw555
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
+Filename: ./debs/com.zlw555.theos_3.1_iphoneos-arm.deb
+Size: 975848
+MD5sum: 8913e99c574d8d7b4074fad684c4b78a
+SHA1: 0e91f1686088e58814965c5c8f7f9c8ddfee6477
+SHA256: fc13ee67c478edfee2ffd9e731113ebf1398ed4ae41349c59d0c47fb5b36b0a7
+Section: Tweaks
+Description: np新键，mp打包，m编译
 Author: zlw555
 Name: Theos
 
