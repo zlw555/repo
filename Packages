@@ -1,3 +1,17 @@
+Package: com.Lakr233.Saily
+Version: 0.6
+Architecture: iphoneos-arm
+Installed-Size: 15964
+Depends: firmware (>= 12.0)
+Filename: ./debs/com.Lakr233.Saily_0.6_iphoneos-arm.deb
+Size: 38385622
+MD5sum: f5dd1e392aac4e52a252505fe59ceb1d
+SHA1: bbaac4f918ad368104d7d92daece31ba65ba62ea
+SHA256: f528fac538dfab16e022349e28a6f7651b8254c82cea35584b59bd3e851138f6
+Section: Packaging
+Description: 用来下载deb插件的，用filza提取
+Name: Saily
+
 Package: com.cydiabc.aiyue
 Version: 1.7
 Architecture: iphoneos-arm
@@ -69,19 +83,21 @@ Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加
 Author: 糖醋丶炒排骨
 Name: 微信JBDBypass
 
-Package: com.wxhbts.ibreak.vpnmaster-v353
-Version: 1.0
+Package: com.snail.wechatautologin
+Version: 1.0.0-2+debug
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/com.wxhbts.ibreak.vpnmaster-v353_1.0_iphoneos-arm.deb
-Size: 4446
-MD5sum: 943b1770e2a8a713bbe0878311c73fb3
-SHA1: 8015b564fecf283187631baeb5977aa795bc9063
-SHA256: 578bc38c4500b0a36a075f352be5bd14db53f76ed2753ee08298039fdb7c548d
-Section: 常用插件
-Author: iBreak
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: VPN Master 支持3.5.3版本
+Maintainer: Snail
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.snail.wechatautologin_1.0.0-2+debug_iphoneos-arm.deb
+Size: 6182
+MD5sum: 781024b90f705f555b8b496430d7defa
+SHA1: 029df53ea724518a791beb2f155ceba4f0a2aa51
+SHA256: fa52b4d7439d540e25487facd5cf25a44e78aa68b3c55706e6a4a0d5beb66c48
+Section: Tweaks
+Description: 电脑登录微信时，打开手机微信APP，自动确认登录。支持所有微信版本。
+Author: Snail
+Name: 微信自动确认登录
 
 Package: com.yourepo.ibreak.wecallkit
 Version: 1.0
@@ -135,22 +151,6 @@ Depiction: https://repo.lenglengyu.top/packageInfo/xystzq.html
 Name: 小猿搜题增强
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/xystzqsileo
 
-Package: com.zlw555.batteryview
-Version: 1.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.batteryview_1.0-1+debug_iphoneos-arm.deb
-Size: 3896
-MD5sum: 45a32b13422e20b79d0306f81d4b6a37
-SHA1: 047313223fd19cad127f4e90eede5ee44835c958
-SHA256: ec67601e40932b25c2d2de9d61610e35015ad098b2b4a29e5ac06b8984e2daf5
-Section: Tweaks
-Description: 电沲百分比，非全面屏，13-14系统
-Author: zlw555
-Name: 电沲百分比
-
 Package: com.zlw555.cloud189
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -167,21 +167,21 @@ Description: 天翼云盘去启动
 Author: zlw555
 Name: cloud189天翼云盘
 
-Package: com.zlw555.gesture14
-Version: 2.0
+Package: com.zlw555.gesturesi14
+Version: 3.1
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.gesture14_2.0_iphoneos-arm.deb
-Size: 3488
-MD5sum: 706842ca3a12f506bcfb08116dee228b
-SHA1: 5fc6f7797a5fc311d1c21726533e84c36021e4a2
-SHA256: b909a22031c692a0b19fd10c8e07ceb9c2c0bfe2819d5be80064ac06e42925de
+Filename: ./debs/com.zlw555.gesturesi14_3.1_iphoneos-arm.deb
+Size: 3608
+MD5sum: a0efa90a780fb2ded67930afaf4fa470
+SHA1: c93af633a13432eacae5c6f8dc253affe031a529
+SHA256: 1d9333339c0a7ee37313327cb2735a2b91e380befde6a5c194039fad2eb481e9
 Section: Tweaks
-Description: ios14手势，隐藏通知中心“没有更早的通知”文本，状态栏旋转图标，勿扰模式横幅，隐藏锁屏相机，Dock透明
+Description: Gesturesi14
 Author: zlw555
-Name: Gesture14
+Name: Gesturesi14
 
 Package: com.zlw555.guangxibank
 Version: 1.0
@@ -414,4 +414,22 @@ Section: Tweaks
 Description: 起点读书去除启动广告，去除底部中间广告选项
 Author: Netskao
 Name: 起点读书 NoAds
+
+Package: ru.rj.ftt
+Version: 0.6
+Architecture: iphoneos
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 360
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/ru.rj.ftt_0.6_iphoneos.deb
+Size: 1193400
+MD5sum: eb089b01b3b1ca52285556c78e7e8324
+SHA1: 41c7355237e59d31b620e375b72e3c7c01bc9147
+SHA256: 46061dbca336cfce05ef3c42249a53a7def381076ad2629ad487ed7b09526163
+Section: Utilities
+Homepage: https://theemeraldisle.family
+Description: ftt命令，配合flex使用
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Name: Flex转Theos
 
