@@ -289,6 +289,21 @@ Version: 5.1.8
 Architecture: iphoneos-arm
 Installed-Size: 475
 Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil,  mterminal
+Filename: ./debs/com.zlw555.theos_5.1.9.deb
+Size: 1105268
+MD5sum: 34ef8bb636d2d53b3e914c338d6e0b04
+SHA1: e46ad4f7c8976d7e761b03a114e26510ad91ead7
+SHA256: 97ee4786fed42b98ac2a1c9c42b30602b12705b788ce45736afedd26575211ce
+Section: Utilities
+Description: 自用theos，np新建，mp打包，iPhoneOS14.4.sdk
+Author: zlw555
+Name: Theos
+
+Package: com.zlw555.theos
+Version: 5.1.8
+Architecture: iphoneos-arm
+Installed-Size: 475
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil,  mterminal
 Filename: ./debs/com.zlw555.theos_5.1.8.deb
 Size: 1324
 MD5sum: 2bc4cf58987a870959691791fd7f54a1
@@ -432,19 +447,20 @@ Name: 起点读书 NoAds
 
 Package: ru.rj.ftt
 Version: 0.6
-Architecture: iphoneos
+Architecture: iphoneos-arm
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Installed-Size: 360
-Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
+Depends: mobilesubstrate
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
-Filename: ./debs/ru.rj.ftt_0.6_iphoneos.deb
-Size: 1193400
-MD5sum: eb089b01b3b1ca52285556c78e7e8324
-SHA1: 41c7355237e59d31b620e375b72e3c7c01bc9147
-SHA256: 46061dbca336cfce05ef3c42249a53a7def381076ad2629ad487ed7b09526163
+Filename: ./debs/ru.rj.ftt_0.6_iphoneos-arm.deb
+Size: 88196
+MD5sum: 01773381dedb59467f437f8ba58c8627
+SHA1: 653b4d00cd61481d37cf0f2e6de0c70f47fb2344
+SHA256: 8453e8ff699e38bf1f6113daa0e490d51567c34cac54ba39ed3388f651168338
 Section: Utilities
 Homepage: https://theemeraldisle.family
-Description: ftt命令，配合flex使用
+Description: ftt命令 输入ftt
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
-Name: Flex转Theos
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Name: Flex3转Theos
 
