@@ -175,10 +175,10 @@ Installed-Size: 32244
 Depends: preferenceloader, zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 Filename: ./debs/com.zlw555.filza_3.9.0-2_iphoneos-arm.deb
-Size: 14057708
-MD5sum: 2577f27032caa1881a90b425bccd0cbf
-SHA1: b31b88e5c5327d7f79afea32fa59d89f6007b7bb
-SHA256: 5e6368237d123af7548845d102f0ce82ae674986bd47cf1385121874de92a844
+Size: 14013866
+MD5sum: f9ea6525c278ec1e45d6018c9e29554e
+SHA1: ca33c7d350a216e819890f21593f027ff574ec9c
+SHA256: 06c9e364366da4fdc0eb30d3df3003183c2040e4cfe4a2cc4b08b1681778d63d
 Section: Utilities
 Description: 自用，File,锁屏,手势
 Author: TIGI Software
