@@ -172,13 +172,13 @@ Version: 3.9.0-2
 Architecture: iphoneos-arm
 Maintainer: TIGI Software
 Installed-Size: 32244
-Depends: preferenceloader
+Depends: preferenceloader, zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 Filename: ./debs/com.zlw555.filza_3.9.0-2_iphoneos-arm.deb
-Size: 14057690
-MD5sum: d379301a2b589b245f35c8dde59696a8
-SHA1: 3db9404cf2817cab0ef5cb908ce44165089f9998
-SHA256: cd2e314b51730ee205baa65031e1dd9fd968c328ca05fbf1fe46dd9ce6b1455d
+Size: 14057708
+MD5sum: 2577f27032caa1881a90b425bccd0cbf
+SHA1: b31b88e5c5327d7f79afea32fa59d89f6007b7bb
+SHA256: 5e6368237d123af7548845d102f0ce82ae674986bd47cf1385121874de92a844
 Section: Utilities
 Description: 自用，File,锁屏,手势
 Author: TIGI Software
