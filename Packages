@@ -447,6 +447,24 @@ Description: 起点读书去除启动广告，去除底部中间广告选项
 Author: Netskao
 Name: 起点读书 NoAds
 
+Package: python
+Version: 2.8.15-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 83888
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3
+Filename: ./debs/python_2.8.15-2_iphoneos-arm.deb
+Size: 10897436
+MD5sum: fcf41b8a5ed56dd55204982a2e733488
+SHA1: 8b2b88689385a5a0378a3795639d953f5da333cf
+SHA256: e3dae1fe99ef8cc1900f560a0358d367082b962476ec725a9a3daaa5a73633e6
+Section: Scripting
+Priority: optional
+Homepage: http://www.python.org/
+Description: architectural programming language
+Name: Python
+
 Package: ru.rj.ftt
 Version: 0.6
 Architecture: iphoneos-arm
