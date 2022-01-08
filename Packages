@@ -301,20 +301,52 @@ Author: zlw555
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: 起点去启动广告
 
+Package: com.zlw555.safariqls
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.safariqls_1.0_iphoneos-arm.deb
+Size: 2288
+MD5sum: 229e460377309bf864dc2200f2f02506
+SHA1: 072f87154b6f6fb12846e8dec0e4e04c9e96472c
+SHA256: 7e8f1cf48f3e6731164aecb2b6ffef9d88df497f543c5802acbabcecdcf0a861
+Section: Tweaks
+Description: safari 0历史记录
+Author: zlw555
+Name: SafariQLS
+
 Package: com.zlw555.theos
 Version: 3.1
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
 Filename: ./debs/com.zlw555.theos_3.1_iphoneos-arm.deb
-Size: 975848
-MD5sum: 8913e99c574d8d7b4074fad684c4b78a
-SHA1: 0e91f1686088e58814965c5c8f7f9c8ddfee6477
-SHA256: fc13ee67c478edfee2ffd9e731113ebf1398ed4ae41349c59d0c47fb5b36b0a7
-Section: Tweaks
+Size: 985962
+MD5sum: 8924a3fc2cc6811484742508da8e23fb
+SHA1: 9e970f2ff5e1fada518b4537bd121d2654c45bda
+SHA256: 7cf4243a0c3f44ba8a8b45296ebbf943c7d1827405ebdae67637d3b8a0289818
+Section: 自用插件
 Description: np新键，mp打包，m编译
 Author: zlw555
 Name: Theos
+
+Package: com.zlw555.weifengqad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.weifengqad_1.0_iphoneos-arm.deb
+Size: 2612
+MD5sum: 79d91305085eacb9ead73689a17ead28
+SHA1: bf03449d495ba208524ed1ab7afed6632e0aa05e
+SHA256: 51175cf5424c0de0bd6f471c6990009b64dfa140a706f95c9c877a7c36e08bac
+Section: Tweaks
+Description: 威锋去广告
+Author: zlw555
+Name: weifengQAD
 
 Package: com.zydf.lockbutton
 Version: 1.0-2
@@ -425,6 +457,23 @@ Size: 4786
 MD5sum: b58fbbc48434fd1ee8a875d441af5d7d
 SHA1: ce7af25f21888ddd2086ffa1311110d2ba15ba9e
 SHA256: 87d9382401b48a1cbedb1dd7d63ff8fd5cb830f872ec3b67ba55b13ad3a88e0f
+Section: Tweaks
+Description: 禁用iOS14的粘贴提示
+Author: Netskao
+Dev: netskao
+Name: DisablePasteTips
+
+Package: netskao.disablepastetips
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 133
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/netskao.disablepastetips_1.1-4_iphoneos-arm.deb
+Size: 5458
+MD5sum: 2132e73996d75573c4798a6e335d9615
+SHA1: 44b403205ccb751bf2014e7006bcd3bf8dc98a13
+SHA256: 435aaa312d90ece21f1d81979e000c1edf77096a5bd25ab9d02390875d917d2e
 Section: Tweaks
 Description: 禁用iOS14的粘贴提示
 Author: Netskao
