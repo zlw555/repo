@@ -106,22 +106,6 @@ Description: unc0ver越狱环境下的支付宝反越狱检测
 Author: 糖醋丶炒排骨
 Name: 支付宝JBDBypass
 
-Package: com.paigu.wechatjbdbypass
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.wechatjbdbypass_1.0.1_iphoneos-arm.deb
-Size: 17876
-MD5sum: 51a22ca54b7c5c1fab4fee9f4c8e96d2
-SHA1: b299af7c838355f71f8589e5a9aa806bed47f55e
-SHA256: a6f3c9b1c42dd04617adbed91431fd05bc982e177a15b86f20f9d2e1a8d24d2a
-Section: Tweaks
-Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加强反越狱检测、小号防封。防封只针对小号越狱环境，对红包功能被禁用没有效果；大号安装则正常使用面容指纹支付功能。
-Author: 糖醋丶炒排骨
-Name: 微信JBDBypass
-
 Package: com.snail.wechatautologin
 Version: 1.0.0-2+debug
 Architecture: iphoneos-arm
@@ -152,25 +136,6 @@ Section: Tweaks
 Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
 Author: iBreak <ibreak2019@qq.com>
 Name: WeChat Callkit
-
-Package: com.yourepo.lly.prozs
-Version: 3.5.7
-Architecture: iphoneos-arm
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 3088
-Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
-Filename: ./debs/com.yourepo.lly.prozs_3.5.7_iphoneos-arm.deb
-Size: 1186170
-MD5sum: a239f09718ec5a23cd97c185d467115d
-SHA1: e5d1a645cdbfb1bdcc212b7bf58a4e01b1c7b85f
-SHA256: dba93ebfbde162f87d52a0b32fc8284149871ac8c3bddf068c508622bfba2bbe
-Section: Tweaks
-Description: 已适配A12。各类常用app开启Pro权限，相关app商店下载即可。即将添加更多app。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/prozs.html
-Icon: file:///Library/PreferenceBundles/prozs.bundle/icon@2x.png
-Name: Pro助手
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
 
 Package: com.yourepo.lly.solar
 Version: 0.0.1-1
@@ -371,55 +336,6 @@ Section: Tweaks
 Description: 威锋去广告
 Author: zlw555
 Name: weifengQAD
-
-Package: com.zydf.lockbutton
-Version: 1.0-2
-Architecture: iphoneos-arm
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/com.zydf.lockbutton_1.0-2_iphoneos-arm.deb
-Size: 22304
-MD5sum: 637b668cdec7f6d2bc52d3c9a35f59d2
-SHA1: 97a435f726258a92409946b190672f6342de5a11
-SHA256: ebbbb91ac36162b5fb70b57b508c675bc1684ac3bda8698f9585bafb231ab71e
-Section: Tweaks
-Priority: optional
-Description: 桌面一键锁屏，有图标，无后台
-Author: cybp888
-Icon: tweak.png
-Name: 一键锁屏
-
-Package: com.zydf.otadisabler
-Version: 0.1-7
-Architecture: iphoneos-arm
-Maintainer: ichitaso
-Installed-Size: 200
-Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
-Filename: ./debs/com.zydf.otadisabler_0.1-7_iphoneos-arm.deb
-Size: 28986
-MD5sum: 46b1b27420316521a0e4ac9109ee3a3d
-SHA1: ea8f25c542544f6d4f1b921f241e7140bb3f2c8c
-SHA256: c1be56083cb09f1a2a819a1a1908af79c059c446429322d2367cd0f4ad10fe2b
-Section: System
-Description: 屏蔽OTA升级，去除越狱环境也有效
-Author: ichitaso
-Name: OTA屏蔽升级
-
-Package: com.zydf.tetherme8
-Version: 1.2.3~arm64e-1
-Architecture: iphoneos-arm
-Installed-Size: 2223
-Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
-Conflicts: net.tetherme.tetherme
-Replaces: net.tetherme.tetherme
-Filename: ./debs/com.zydf.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
-Size: 207026
-MD5sum: 8d071cd54e0a09d5de75e09032fad383
-SHA1: 33e0599d419d3bd7d96d015d177c086318f9c9e3
-SHA256: a8fbd78634e096b7a1b2c22a511669d2abed4e12e77da11c711ece0c2003affe
-Section: Tweaks
-Description: tetherme网络共享，可共享vpa网给电脑
-Author: Sam Bingner <support@tetherme.net>
-Name: TetherMe for iOS 8+ Rus
 
 Package: curl
 Version: 7.65.0-1
@@ -726,6 +642,22 @@ Priority: optional
 Homepage: https://www.llvm.org/
 Description: Modular compiler and toolchain technologies
 
+Package: lockbutton
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: ./debs/lockbutton_1.0-2_iphoneos-arm.deb
+Size: 18780
+MD5sum: 04dc31de72df4714f073dde78cc26315
+SHA1: 26bd741bc211898f2aacb5c6a111c7c0d39d57a9
+SHA256: 7e1b4e1da5782f025f4cfa9e96416372ba72a8624aed1d2ba2c312764f7fc5c2
+Section: 自用插件
+Priority: optional
+Description: 桌面一键锁屏，有图标，无后台
+Author: cybp888
+Icon: tweak.png
+Name: 一键锁屏
+
 Package: make
 Version: 4.2.1-2
 Architecture: iphoneos-arm
@@ -882,6 +814,22 @@ Description: linker and assembler for the iPhone
 Depiction: http://cydia.saurik.com/info/odcctools/
 Name: Darwin CC Tools
 
+Package: otadisabler
+Version: 0.1-7
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 200
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./debs/otadisabler_0.1-7_iphoneos-arm.deb
+Size: 22800
+MD5sum: 1ff85025025778fc8b2befd0f28ee533
+SHA1: e9141195b395413b39fdfcd03813fe4277b459ee
+SHA256: 90bd2b1ddd98a4317f943f4ee7fddf6376a8fae6fc6561d0ab80f42f68cd57d7
+Section: System
+Description: 屏蔽OTA升级，去除越狱环境也有效
+Author: ichitaso
+Name: OTA屏蔽升级
+
 Package: perl
 Version: 5.28.0-2
 Architecture: iphoneos-arm
@@ -897,6 +845,25 @@ Section: Scripting
 Priority: optional
 Description: awesome combination of sed and awk
 Name: Perl
+
+Package: prozs
+Version: 3.5.7
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3088
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences, preferenceloader
+Filename: ./debs/prozs_3.5.7_iphoneos-arm.deb
+Size: 804460
+MD5sum: 0ce49d8a851a6f2279ffa7f459b13d79
+SHA1: 7d9cc0a3ded6f05ad62b6d5ddf1fd677f32ae6a6
+SHA256: 36585e654211a1fb5c6a29776caa9dd40df156285337eae2bd07e730fd23cc2a
+Section: 自用插件
+Description: 已适配A12。各类常用app开启Pro权限，相关app商店下载即可。即将添加更多app。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/prozs.html
+Icon: Tweaks.png
+Name: Pro助手
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
 
 Package: python
 Version: 2.7.15-2
@@ -951,6 +918,24 @@ Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Name: Flex3转Theos
 
+Package: sileoturkiye.tetherme8
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Önder Azazi <onderazazi@hotmail.com>
+Pre-Depends: mobilesubstrate (>=0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: net.tetherme.tetherme, net.tetherme.tetherme8
+Filename: ./debs/sileoturkiye.tetherme8_2.1.1_iphoneos-arm.deb
+Size: 4376444
+MD5sum: 833c48ccd0a525fc5b9969584982d1d1
+SHA1: 7f74e3fdcc75c46c109206d6039e87dc80427268
+SHA256: be191ca21b56ce26879e31bd74571fadb67f0b5793eed601cd51fe393f55805b
+Section: 自用插件
+Description: tetherme网络共享，可共享vpn.
+Author: Sam Bingner
+Icon: Tweaks.png
+Name: TetherMe for iOS8+
+
 Package: sqlite3
 Version: 3.24.0-1
 Architecture: iphoneos-arm
@@ -998,6 +983,23 @@ Priority: important
 Description: universally unique identifiers
 Name: UUID Generator
 
+Package: wechatjbdbypass
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 糖醋丶炒排骨
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/wechatjbdbypass_1.0_iphoneos-arm.deb
+Size: 15448
+MD5sum: f1c067ff10e6350345da4966955aa44c
+SHA1: 687a221c32b42d0cff9219aab19ef41220697d47
+SHA256: 2238da9de979fd26b2afde17846e97ead8cfb63d741193d35b08a18ee6c48513
+Section: 自用插件
+Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加强反越狱检测、小号防封。防封只针对小号越狱环境，对红包功能被禁用没有效果；大号安装则正常使用面容指纹支付功能。
+Author: 糖醋丶炒排骨
+Icon: Tweaks.png
+Name: 微信JBDBypass
+
 Package: xar
 Version: 1.6.1-2
 Architecture: iphoneos-arm
@@ -1015,4 +1017,22 @@ Priority: optional
 Homepage: http://code.google.com/p/xar/
 Description: easily extensible archive format
 Name: XAR
+
+Package: zydf.tetherme8
+Version: 1.2.3~arm64e-1
+Architecture: iphoneos-arm
+Installed-Size: 2223
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), network-cmds
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/zydf.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
+Size: 92312
+MD5sum: 7672241fa9da4ba77fd266f1bf14cdcb
+SHA1: d04b8a993f17657a1ea497d9af6020b505ebe9fc
+SHA256: 933a69915d85c8569ba90ee4f70871c1c06a5e9b8d64c5c60dee1af34772b765
+Section: 自用插件
+Description: tetherme网络共享，可共享vpn,最高支持13系统
+Author: Sam Bingner <support@tetherme.net>
+Icon: Tweaks.png
+Name: TetherMe for iOS 8+ Rus
 
