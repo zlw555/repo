@@ -497,22 +497,6 @@ Author: lordscotland
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 Name: MTerminal
 
-Package: netskao.alipayjailbreakedbypass
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 520
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/netskao.alipayjailbreakedbypass_1.1-3_iphoneos-arm.deb
-Size: 111832
-MD5sum: 63994da94704939edcaf0b05246e1c30
-SHA1: 863a7df548b17ed27d3a67df3a3e65f59aa4ef45
-SHA256: 3f97b5aa21b30c5c3d57b90afa577ffde7a759f59b963a2edc2a4be6f1da1796
-Section: Netskao-Tweaks
-Description: 支付宝绕过越狱检测，不影响插件注入
-Author: 自用插件
-Name: 支付宝 Jailbreaked Bypass
-
 Package: netskao.alypgetdownloadurl
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -599,6 +583,30 @@ Description: linker and assembler for the iPhone
 Depiction: http://cydia.saurik.com/info/odcctools/
 Name: Darwin CC Tools
 
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 629
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: ./debs/libcolorpicker_1.6.9.deb
+Size: 110620
+MD5sum: 76ac3303a769a551ba58a83855da19f5
+SHA1: c3aa95d2302ae22fac6344d131c58d6beecbe9b7
+SHA256: 5f3a37fd6b6e65da32fc8bcfedb74f13ba7ac5876b20968f04ea66fd68d12e6b
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Description: color picker library for developers
+Tag: purpose::library, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, cydia::obsolete
+Author: PixelFire <pixelfiredev@helpful.io>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
+Dev: pixelfiredev
+Name: libcolorpicker
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: otadisabler
 Version: 0.1-7
 Architecture: iphoneos-arm
@@ -667,6 +675,25 @@ Priority: optional
 Homepage: http://www.python.org/
 Description: architectural programming language
 Name: Python
+
+Package: qiop1379.swipeextenderx
+Version: 1.5.3-1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
+Installed-Size: 624
+Depends: firmware (>= 12.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/qiop1379.swipeextenderx_1.5.3-1_iphoneos-arm.deb
+Size: 86612
+MD5sum: 903d609cc85b1d8f6ccdb7b89994fd63
+SHA1: 7d03e0b1ad5cb3d5465e90168b17d0e61be97eef
+SHA256: 0eb9aeda88c338b4011889bf07424b3b52dd2503cb4bacbc0871b4c7c8097241
+Section: 自用插件
+Description: SwipeExtenderX键盘插件!
+Tag: compatible_min::ios12.0
+Author: qwertyuiop1379 <support@qwertyuiop1379.com>
+Depiction: https://chariz.com/get/swipeextenderx
+Icon: https://cdn.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
 
 Package: rsync
 Version: 3.1.3-2
