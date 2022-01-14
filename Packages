@@ -70,26 +70,6 @@ Icon2: 1.png
 Name: 爱阅书香高级版
 Sponsor: Ai-小苹果
 
-Package: com.cydiabc.sharecuts
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: daniel
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.cydiabc.sharecuts_1.0.0_iphoneos-arm.deb
-Size: 4290
-MD5sum: 37aff9cc53f6e7df36947da35663aed6
-SHA1: 4707d5fa5042a0d1bd3d2cca6cc2bbfc1e936958
-SHA256: a82ecb7932fc51b18723c0a01fd95b12a4e27bf7747bccebdc0823fac065c86f
-Section: 系统
-Description: 捷径添加通过文件分享选项，而非上传iCloud分享，效果预览截图
-A12: 1
-Author: daniel
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Icon2: 12.png
-Name: Sharecuts捷径分享
-Sponsor: Ai-小苹果™
-
 Package: com.paigu.alipay
 Version: 1.0.0-1
 Architecture: iphoneos-arm
@@ -354,6 +334,26 @@ Priority: standard
 Homepage: http://curl.haxx.se/
 Description: flexible multi-protocol file transfers
 Name: cURL
+
+Package: cydiabc.sharecuts
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: daniel
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/cydiabc.sharecuts_1.0_iphoneos-arm.deb
+Size: 3584
+MD5sum: 13e7337e965bea30429ef4cd05c3e23b
+SHA1: 3bdde7940f73ff708922d18170c8987deb0e3dce
+SHA256: ea5408e43f6f0bf56e19d050f3d442e2755468ac008e741f9c689885db554a6a
+Section: 自用插件
+Description: 捷径添加通过文件分享选项，而非上传iCloud分享，效果预览截图
+A12: 1
+Author: daniel
+Icon: Security.png
+Icon2: 12.png
+Name: Sharecuts捷径分享
+Sponsor: Ai-小苹果™
 
 Package: expat
 Version: 2.2.5-1
