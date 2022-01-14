@@ -51,104 +51,6 @@ Section: Packaging
 Description: 用来下载deb插件的，用filza提取
 Name: Saily
 
-Package: com.snail.wechatautologin
-Version: 1.0.0-2+debug
-Architecture: iphoneos-arm
-Maintainer: Snail
-Installed-Size: 200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.snail.wechatautologin_1.0.0-2+debug_iphoneos-arm.deb
-Size: 6182
-MD5sum: 781024b90f705f555b8b496430d7defa
-SHA1: 029df53ea724518a791beb2f155ceba4f0a2aa51
-SHA256: fa52b4d7439d540e25487facd5cf25a44e78aa68b3c55706e6a4a0d5beb66c48
-Section: Tweaks
-Description: 电脑登录微信时，打开手机微信APP，自动确认登录。支持所有微信版本。
-Author: Snail
-Name: 微信自动确认登录
-
-Package: com.yourepo.ibreak.wecallkit
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/wecallkit_1.0.deb
-Size: 3674
-MD5sum: 188b220faeb92bbf661ff50219d8dd2b
-SHA1: 25b6223f854478e5b7ee88d569f248469b4a5be3
-SHA256: 67b28e39f23ee63344ca1e42de3890d4c343b4207291f154e36576aa1e117e03
-Section: Tweaks
-Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
-Author: iBreak <ibreak2019@qq.com>
-Name: WeChat Callkit
-
-Package: com.yourepo.lly.solar
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 132
-Depends: mobilesubstrate
-Filename: ./debs/com.yourepo.lly.solar_0.0.1-1_iphoneos-arm.deb
-Size: 11520
-MD5sum: 2b7b3784b2e8bf2d2b35ddb8a3813adb
-SHA1: a58403dc0bfdbb29aedb6f9674ddbd58a2e05140
-SHA256: c9bddc4af3751af91a9a8a563d702f03fbde7a14298342ee18145d947148bde9
-Section: Tweaks
-Description: 小猿搜题解锁VIP学习专区30秒试看限制
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/xystzq.html
-Name: 小猿搜题增强
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/xystzqsileo
-
-Package: com.zlw555.qidian
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.zlw555.qidian_1.0_iphoneos-arm.deb
-Size: 2820
-MD5sum: 2647e680a5377923ec74e753c99609ee
-SHA1: 967e73dde930690c4eb5cd107c4b2ea37d952350
-SHA256: be0f119e99cc16acd49978ab1a9c0614460004eafe03449b8724cebb3efd8ac1
-Section: 常用插件
-Description: 起点5.9.149去启动广告
-Author: zlw555
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: 起点去启动广告
-
-Package: com.zlw555.safariqls
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.safariqls_1.0_iphoneos-arm.deb
-Size: 2288
-MD5sum: 229e460377309bf864dc2200f2f02506
-SHA1: 072f87154b6f6fb12846e8dec0e4e04c9e96472c
-SHA256: 7e8f1cf48f3e6731164aecb2b6ffef9d88df497f543c5802acbabcecdcf0a861
-Section: Tweaks
-Description: safari 0历史记录
-Author: zlw555
-Name: SafariQLS
-
-Package: com.zlw555.weifengqad
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.weifengqad_1.0_iphoneos-arm.deb
-Size: 2612
-MD5sum: 79d91305085eacb9ead73689a17ead28
-SHA1: bf03449d495ba208524ed1ab7afed6632e0aa05e
-SHA256: 51175cf5424c0de0bd6f471c6990009b64dfa140a706f95c9c877a7c36e08bac
-Section: Tweaks
-Description: 威锋去广告
-Author: zlw555
-Name: weifengQAD
-
 Package: curl
 Version: 7.65.0-1
 Architecture: iphoneos-arm
@@ -255,6 +157,21 @@ Section: Data_Storage
 Priority: optional
 Description: fast content-addressable filesystem
 Name: Git
+
+Package: ibreak.wecallkit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/ibreak.wecallkit_1.0_iphoneos-arm.deb
+Size: 4112
+MD5sum: aff536681f5104aefa535b25498c8aff
+SHA1: d3865118646155c0a019412986a6518a6bec4cf5
+SHA256: 6df9ec02a2336e2f67d58c21391aff5fccfb605c6332aab2cb7b22be83c304d7
+Section: 自用插件
+Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
+Author: iBreak <ibreak2019@qq.com>
+Name: WeChat Callkit
 
 Package: ld64
 Version: 609-1
@@ -509,6 +426,24 @@ Priority: optional
 Homepage: https://www.llvm.org/
 Description: Modular compiler and toolchain technologies
 
+Package: lly.solar
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/lly.solar_0.0.1-1_iphoneos-arm.deb
+Size: 7792
+MD5sum: 7dc89ce3df14991ac8fff070462be704
+SHA1: 2a90d066862ff80a04512c9722ee0fa70487e060
+SHA256: eaa5fe2eed99c084842f5914a3b1dc43ba000d8c4d16cabc9cb40ee925d34885
+Section: 自用插件
+Description: 小猿搜题解锁VIP学习专区30秒试看限制
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xystzq.html
+Name: 小猿搜题增强
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xystzqsileo
+
 Package: lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
@@ -569,13 +504,13 @@ Maintainer: Nets
 Installed-Size: 520
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/netskao.alipayjailbreakedbypass_1.1-3_iphoneos-arm.deb
-Size: 156044
-MD5sum: 5b6500784963d8c281db82e271724e7c
-SHA1: ac6673ac8dff95c42159b26d4299369a8dcb797f
-SHA256: 7fdf99163cf1f1d9a7ddb1973144386cd3c4b7ace3f96db7c66d77a08ff47b33
+Size: 111832
+MD5sum: 63994da94704939edcaf0b05246e1c30
+SHA1: 863a7df548b17ed27d3a67df3a3e65f59aa4ef45
+SHA256: 3f97b5aa21b30c5c3d57b90afa577ffde7a759f59b963a2edc2a4be6f1da1796
 Section: Netskao-Tweaks
 Description: 支付宝绕过越狱检测，不影响插件注入
-Author: Netskao
+Author: 自用插件
 Name: 支付宝 Jailbreaked Bypass
 
 Package: netskao.alypgetdownloadurl
@@ -585,11 +520,11 @@ Maintainer: Nets
 Installed-Size: 356
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/netskao.alypgetdownloadurl_1.1-1_iphoneos-arm.deb
-Size: 108132
-MD5sum: 79fc919c5ddffa61b1124e662a8c13ad
-SHA1: 88d01345404d6230ed4c1dd9a5693ffef8d159da
-SHA256: b7cb8e65b0d39e6941024742dbaea30918f4a46f439981edac128bc9843156e3
-Section: Tweaks
+Size: 80216
+MD5sum: f6be5950a2e9249ede6991c7489bc3ac
+SHA1: 4bfa991e789842f270fb633bb972d48b89ee24d5
+SHA256: 493dea8b3540e8cb630f7c71a739b8716a021a07d64d2aaf96f248eb67dce2aa
+Section: 自用插件
 Description: 阿里云盘获取暂时直链，打开文件选项面板后长按任意按钮复制，详情看预览图，不支持文件夹获取！！！是暂时直链！！！
 Author: Netskao
 Name: 阿里云盘 GetDownloadURL
@@ -602,11 +537,11 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Conflicts: netskao.disableshortcutsnotification
 Filename: ./debs/netskao.disableautomationnotice_1.1-3_iphoneos-arm.deb
-Size: 8824
-MD5sum: 17c52c403f091146073479bc6b3c810f
-SHA1: 795432d3d7edb93c3e6e410878e8f89acf055652
-SHA256: 5bd1d36a3c1df99f051043b05c0caa1d0dab7acf6abf54011cce7c2f6ba6e7ef
-Section: Tweaks
+Size: 6504
+MD5sum: 8da00ec26d1be6a9d9d5fbdb72fd96a6
+SHA1: c0dce2f8604a5711da2be7a936ff274bbf9b57ae
+SHA256: bf1dcefae05f80ec704c0223a9361ea68a77fd1ddb73324b8c191a982d1bb893
+Section: 自用插件
 Description: 禁用快捷指令自动化自动执行后的通知，仅禁用自动化不包含其他
 Author: Netskao
 Name: DisableAutomationNotice
@@ -634,12 +569,12 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 336
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.qddsnoads_1.1-1_iphoneos-arm.deb
-Size: 105414
-MD5sum: dae519ab45e4f8d0136af7e41707680d
-SHA1: 82ab099a8e0ce0ce25890463151c02de223b3105
-SHA256: be8132cbb6877bef649c1271bb634c01e8db3d2ad96bd9ae273c5e5f53664370
-Section: Tweaks
+Filename: ./debs/netskao.qddsnoads1_1.1-1_iphoneos-arm.deb
+Size: 78224
+MD5sum: 9fa664ca3f5ffea8c8df973ce6dbdcdf
+SHA1: 0765ffe82b3e383200867f52c044f2843878ed23
+SHA256: 7529e11cb6d3357b03b676a1379b5f395c0b41e3db604da74b231de990c03315
+Section: 自用插件
 Description: 起点读书去除启动广告，去除底部中间广告选项
 Author: Netskao
 Name: 起点读书 NoAds
@@ -757,11 +692,11 @@ Installed-Size: 360
 Depends: mobilesubstrate
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
 Filename: ./debs/ru.rj.ftt_0.6_iphoneos-arm.deb
-Size: 88196
-MD5sum: 01773381dedb59467f437f8ba58c8627
-SHA1: 653b4d00cd61481d37cf0f2e6de0c70f47fb2344
-SHA256: 8453e8ff699e38bf1f6113daa0e490d51567c34cac54ba39ed3388f651168338
-Section: Utilities
+Size: 43656
+MD5sum: 667f2e87eb787deb3c6a9abf91a67ef4
+SHA1: 284b75e0717d5646e45e816b4a843f93eee92f98
+SHA256: bfb174bf1f56f14dee0ec24ade486f0fe62623a46a588c616a8d2589bfe2fd7e
+Section: 自用插件
 Homepage: https://theemeraldisle.family
 Description: ftt命令 输入ftt
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
@@ -785,6 +720,22 @@ Description: tetherme网络共享，可共享vpn.
 Author: Sam Bingner
 Icon: Tweaks.png
 Name: TetherMe for iOS8+
+
+Package: snail.wechatautologin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Snail
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/snail.wechatautologin_1.0_iphoneos-arm.deb
+Size: 6588
+MD5sum: 92f78e1b22ddc87b03fcd9b0edcb48d7
+SHA1: ff2db3fb6b435d631b0ed2c6b59491b83de78a53
+SHA256: 04cb9e0aacbcd014b0ffee1d38c80f2dea31b0569f72c9da5577235e8c452852
+Section: Tweaks
+Description: 电脑登录微信时，打开手机微信APP，自动确认登录。支持所有微信版本。
+Author: Snail
+Name: 微信自动确认登录
 
 Package: sqlite3
 Version: 3.24.0-1
