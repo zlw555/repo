@@ -43,10 +43,10 @@ Architecture: iphoneos-arm
 Installed-Size: 15964
 Depends: firmware (>= 12.0)
 Filename: ./debs/com.Lakr233.Saily_0.6_iphoneos-arm.deb
-Size: 38385622
-MD5sum: f5dd1e392aac4e52a252505fe59ceb1d
-SHA1: bbaac4f918ad368104d7d92daece31ba65ba62ea
-SHA256: f528fac538dfab16e022349e28a6f7651b8254c82cea35584b59bd3e851138f6
+Size: 33135372
+MD5sum: e6b5c3cea1aad587a135f34cde7a6bba
+SHA1: 0a0102612b512c4ea28f938b0d2f9e6879ba549e
+SHA256: 969ca555ffb565196d08ee65641d4468c0dcfdbb68d88b2c2928add60357d7c7
 Section: Packaging
 Description: 用来下载deb插件的，用filza提取
 Name: Saily
@@ -56,11 +56,11 @@ Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: Ai-小苹果
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.cydiabc.aiyue_1.7_iphoneos-arm.deb
-Size: 65140
-MD5sum: f9cd93fb7b9f44d6692ec9b37a67472e
-SHA1: a22882d0268302b80e2d28f9fe2fc985d034ddd6
-SHA256: 9c16b232320df9c851dcfdfd22a26df42d257de28e7e1f47ca92b7b453922b1d
+Filename: ./debs/com.cydiabc.aiyue.deb
+Size: 49396
+MD5sum: 81e18d216085fbeaa5b58b43b4dabc89
+SHA1: bf747919881e7e188f54dd89a43cf176fa541ec3
+SHA256: 97651565d092fb4749dec3cf873e78eb03b3fc0df6e1f3dfa22d9ff3737b2495
 Section: 插件
 Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，支持商店最新版6.5.1，注意安装后进入应用后，开启关闭格言，需关闭APP再进入即可，已解决提示被破坏问题
 A12: 1
@@ -355,21 +355,6 @@ Section: Tweaks
 Description: safari 0历史记录
 Author: zlw555
 Name: SafariQLS
-
-Package: com.zlw555.theos
-Version: 3.1
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
-Filename: ./debs/com.zlw555.theos_3.1_iphoneos-arm.deb
-Size: 985962
-MD5sum: 8924a3fc2cc6811484742508da8e23fb
-SHA1: 9e970f2ff5e1fada518b4537bd121d2654c45bda
-SHA256: 7cf4243a0c3f44ba8a8b45296ebbf943c7d1827405ebdae67637d3b8a0289818
-Section: 自用插件
-Description: np新键，mp打包，m编译
-Author: zlw555
-Name: Theos
 
 Package: com.zlw555.weifengqad
 Version: 1.0
@@ -914,17 +899,17 @@ Description: awesome combination of sed and awk
 Name: Perl
 
 Package: python
-Version: 2.8.15-2
+Version: 2.7.15-2
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 83888
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3
-Filename: ./debs/python_2.8.15-2_iphoneos-arm.deb
-Size: 10897436
-MD5sum: fcf41b8a5ed56dd55204982a2e733488
-SHA1: 8b2b88689385a5a0378a3795639d953f5da333cf
-SHA256: e3dae1fe99ef8cc1900f560a0358d367082b962476ec725a9a3daaa5a73633e6
+Filename: ./debs/python_2.7.15-2_iphoneos-arm.deb
+Size: 7735120
+MD5sum: b901c473f37d67cd650740195f8d7b0b
+SHA1: 94ef59f2c68df2df3eeda4fbddc8c2e3ae1b9ef6
+SHA256: 1793caf04f5d821680b1c7141fc07ad4aed279709c32eb58629634cb20ae31a5
 Section: Scripting
 Priority: optional
 Homepage: http://www.python.org/
@@ -982,6 +967,21 @@ Section: Data_Storage
 Priority: standard
 Description: embedded database used by iPhoneOS
 Name: SQLite 3.x
+
+Package: theos
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
+Filename: ./debs/theos_3.1_iphoneos-arm.deb
+Size: 529408
+MD5sum: 92a36521899ce3b89ef2f94d9257ea3c
+SHA1: 356403ee1b63f2e74f93e40df69a2162a752bae3
+SHA256: 1926f5c5d476b5c418b8656d8b4cf364eed806662940605490f7a776a863332e
+Section: 自用插件
+Description: np新键，mp打包，m编译
+Author: zlw555
+Name: Theos
 
 Package: uuid
 Version: 1.6.2-1
