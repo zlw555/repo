@@ -51,41 +51,6 @@ Section: Packaging
 Description: 用来下载deb插件的，用filza提取
 Name: Saily
 
-Package: com.cydiabc.aiyue
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: Ai-小苹果
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.cydiabc.aiyue.deb
-Size: 49396
-MD5sum: 81e18d216085fbeaa5b58b43b4dabc89
-SHA1: bf747919881e7e188f54dd89a43cf176fa541ec3
-SHA256: 97651565d092fb4749dec3cf873e78eb03b3fc0df6e1f3dfa22d9ff3737b2495
-Section: 插件
-Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，支持商店最新版6.5.1，注意安装后进入应用后，开启关闭格言，需关闭APP再进入即可，已解决提示被破坏问题
-A12: 1
-Author: 土拨鼠
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Icon2: 1.png
-Name: 爱阅书香高级版
-Sponsor: Ai-小苹果
-
-Package: com.paigu.alipay
-Version: 1.0.0-1
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.paigu.alipay_1.0.0-1_iphoneos-arm.deb
-Size: 6738
-MD5sum: 5bcbb5eec49cc3b84f9a29cddbfb8ed4
-SHA1: fadb6b2e4addb446eed0b1a3fd31a103b7e1af46
-SHA256: 7f7f82a70395141ce57d6fd0ee5e6d4a018775149db26075ae31f2f85fca3032
-Section: Tweaks
-Description: unc0ver越狱环境下的支付宝反越狱检测
-Author: 糖醋丶炒排骨
-Name: 支付宝JBDBypass
-
 Package: com.snail.wechatautologin
 Version: 1.0.0-2+debug
 Architecture: iphoneos-arm
@@ -134,139 +99,6 @@ Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/xystzq.html
 Name: 小猿搜题增强
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/xystzqsileo
-
-Package: com.zlw555.cloud189
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.cloud189_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3596
-MD5sum: 9c860a8b521f15f9884332673704d3b9
-SHA1: d1ae8d746810f02491dad29659dae6a1e68f55e1
-SHA256: 26cc01e258cead287025ade49281eeb371e8dcb078dafd847efe2157590a92d4
-Section: Tweaks
-Description: 天翼云盘去启动
-Author: zlw555
-Name: cloud189天翼云盘
-
-Package: com.zlw555.filza
-Version: 3.9.0-2
-Architecture: iphoneos-arm
-Maintainer: TIGI Software
-Installed-Size: 32244
-Depends: preferenceloader, zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/com.zlw555.filza_3.9.0-2_iphoneos-arm.deb
-Size: 14013866
-MD5sum: f9ea6525c278ec1e45d6018c9e29554e
-SHA1: ca33c7d350a216e819890f21593f027ff574ec9c
-SHA256: 06c9e364366da4fdc0eb30d3df3003183c2040e4cfe4a2cc4b08b1681778d63d
-Section: Utilities
-Description: 自用，File,锁屏,手势
-Author: TIGI Software
-Name: Filza文件管理器
-
-Package: com.zlw555.gesturesi14
-Version: 3.1
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.gesturesi14_3.1_iphoneos-arm.deb
-Size: 3608
-MD5sum: a0efa90a780fb2ded67930afaf4fa470
-SHA1: c93af633a13432eacae5c6f8dc253affe031a529
-SHA256: 1d9333339c0a7ee37313327cb2735a2b91e380befde6a5c194039fad2eb481e9
-Section: Tweaks
-Description: Gesturesi14
-Author: zlw555
-Name: Gesturesi14
-
-Package: com.zlw555.guangxibank
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.guangxibank_1.0_iphoneos-arm.deb
-Size: 4184
-MD5sum: eb805dc161caa811eb4b4e26ae95fc59
-SHA1: 6542a01dbc7570fd98a817135508857c14f29157
-SHA256: cfde72628fe62c418e72a2eb5795291f0669678751f0b6a3b9dbde65c60affae
-Section: 自用插件
-Description: 旧版广西农村信用社去越狱
-Author: zlw555
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: 旧版广西农村信用社
-
-Package: com.zlw555.iphonerelease
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.iphonerelease_1.0_iphoneos-arm.deb
-Size: 4342
-MD5sum: 95cf9bfe92ed984cf910dbc5da6025aa
-SHA1: 8a26cdb7cf2111464ff74f8cf969197b78f73737
-SHA256: 959838f3e4c9cce206e3afca5d05e0670bcaabf732c205ef0ac1c0e27046d7d9
-Section: 常用插件
-Description: 农业银行6.6.0 去越狱检测和启动广告
-Author: zlw555
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: 农业银行去越狱检测
-
-Package: com.zlw555.keyboardsz
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.zlw555.keyboardsz_1.0_iphoneos-arm.deb
-Size: 2944
-MD5sum: 251abc505ba265f70c24d2f9ee8a429b
-SHA1: c9e6ec526cac492c316aed743dd64d367114b98e
-SHA256: 29eabdb4f944a8451870ba53fd715bc6070564733853a027683009af61023bd1
-Section: 常用插件
-Description: iOS14  去设置和单手键盘
-Author: zlw555
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: iOS14去设置和单手键盘
-
-Package: com.zlw555.new3guangxibank
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.zlw555.new3guangxibank_1.0_iphoneos-arm.deb
-Size: 2846
-MD5sum: c624b9ee268fe06fef91dbb980360f83
-SHA1: 35c1392b841a81bd9a60aa0d406d0a6c41f160ba
-SHA256: 6031a86f16298a3ea0bf51f79f181755d3dd9f8ba0318dc8302bcb5f2d2795e8
-Section: 常用插件
-Description: New广西农信去越狱和定位弹窗
-Author: zlw555
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: New广西农信
-
-Package: com.zlw555.ocrrec
-Version: 1.0-1+debug
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.ocrrec_1.0-1+debug_iphoneos-arm.deb
-Size: 4012
-MD5sum: 1b48dce3827dc081abd9452a6482a0cc
-SHA1: ce0bef824a7ca03890e0fd9cd28d22813ec79037
-SHA256: 71555ce5a1e3b4208b822f0b8a1a4a8b136b1eb116aac585efd39dee6359c16e
-Section: Tweaks
-Description: ✦白描V2.9.6解锁限制
-Author: zlw555
-Name: ocrrec
 
 Package: com.zlw555.qidian
 Version: 1.0
@@ -335,6 +167,25 @@ Homepage: http://curl.haxx.se/
 Description: flexible multi-protocol file transfers
 Name: cURL
 
+Package: cydiabc.aiyue
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/cydiabc.aiyue_1.7_iphoneos-arm.deb
+Size: 49312
+MD5sum: 3732c4752fdffc0c45b5fbce896a3f2e
+SHA1: e47cdfba117f67a64fab4cad25b7f0cd968fa2cc
+SHA256: c07cb42b90bdfd3eff6247c7bd6e87fd6beb1ef6c9b6bf4677853ae7043c4992
+Section: 自用插件
+Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，支持商店最新版6.5.1，注意安装后进入应用后，开启关闭格言，需关闭APP再进入即可，已解决提示被破坏问题
+A12: 1
+Author: 土拨鼠
+Icon: Tweaks.png
+Icon2: 1.png
+Name: 爱阅书香高级版
+Sponsor: Ai-小苹果
+
 Package: cydiabc.sharecuts
 Version: 1.0
 Architecture: iphoneos-arm
@@ -342,16 +193,15 @@ Maintainer: daniel
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/cydiabc.sharecuts_1.0_iphoneos-arm.deb
-Size: 3584
-MD5sum: 13e7337e965bea30429ef4cd05c3e23b
-SHA1: 3bdde7940f73ff708922d18170c8987deb0e3dce
-SHA256: ea5408e43f6f0bf56e19d050f3d442e2755468ac008e741f9c689885db554a6a
+Size: 3580
+MD5sum: 357b8096f0b646048bd869e644024b5e
+SHA1: 48fd1449ca0973fc46ae3bbaf6c4b5d1542fb9be
+SHA256: a69c687c188906881d94a5ec13c0f350126b05ffe504d04f4e6bb5e7ea3fbd5d
 Section: 自用插件
 Description: 捷径添加通过文件分享选项，而非上传iCloud分享，效果预览截图
 A12: 1
 Author: daniel
 Icon: Security.png
-Icon2: 12.png
 Name: Sharecuts捷径分享
 Sponsor: Ai-小苹果™
 
@@ -371,6 +221,23 @@ Priority: standard
 Multi-Arch: foreign
 Description: stream-oriented XML parser written in C
 Name: XML Parser Toolkit
+
+Package: filza
+Version: 3.9.0-2
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 32244
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/filza_3.9.0-2_iphoneos-arm.deb
+Size: 10435920
+MD5sum: 917177e7ab1fb7ccf37892e66102cc59
+SHA1: b328f5e1671c506dbbba7089e360324a162dc18c
+SHA256: 93f18125fce4aedea8b1bb04b293b4493cabac29c2f80724344d5f31cdac9169
+Section: 自用插件
+Description: File Manager + 破解补丁
+Author: TIGI Software
+Name: Filza File Manager
 
 Package: git
 Version: 2.8.1-5
@@ -745,34 +612,17 @@ Author: Netskao
 Name: DisableAutomationNotice
 
 Package: netskao.disablepastetips
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 133
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/netskao.disablepastetips_1.1-3_iphoneos-arm.deb
-Size: 4786
-MD5sum: b58fbbc48434fd1ee8a875d441af5d7d
-SHA1: ce7af25f21888ddd2086ffa1311110d2ba15ba9e
-SHA256: 87d9382401b48a1cbedb1dd7d63ff8fd5cb830f872ec3b67ba55b13ad3a88e0f
-Section: Tweaks
-Description: 禁用iOS14的粘贴提示
-Author: Netskao
-Dev: netskao
-Name: DisablePasteTips
-
-Package: netskao.disablepastetips
 Version: 1.1-4
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 133
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/netskao.disablepastetips_1.1-4_iphoneos-arm.deb
-Size: 5458
-MD5sum: 2132e73996d75573c4798a6e335d9615
-SHA1: 44b403205ccb751bf2014e7006bcd3bf8dc98a13
-SHA256: 435aaa312d90ece21f1d81979e000c1edf77096a5bd25ab9d02390875d917d2e
-Section: Tweaks
+Size: 4164
+MD5sum: 6f9143f4ab4de67d339af168c116b1f6
+SHA1: 352016e31c098bdd391f59b2c21648c979160889
+SHA256: 1383b2b746aab243be13a5e3ccc40f8bf6f8fa6dde3af52ce3a04250a7990125
+Section: 自用插件
 Description: 禁用iOS14的粘贴提示
 Author: Netskao
 Dev: netskao
@@ -1017,6 +867,23 @@ Priority: optional
 Homepage: http://code.google.com/p/xar/
 Description: easily extensible archive format
 Name: XAR
+
+Package: zlw.keyboardsz
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/zlw.keyboardsz_1.0_iphoneos-arm.deb
+Size: 3512
+MD5sum: bf69d3b10d59c7792e7782408bff2d43
+SHA1: 57a49a8f482e3ea6868ce5ee27c8c672325e7e4a
+SHA256: a92d7dd9d4fb29db86f330198b20ed977ec40004b0a915dab1c3d886e325a592
+Section: 自用插件
+Description: iOS14  去设置和单手键盘
+Author: zlw555
+Icon: Tweaks.png
+Name: iOS14去设置和单手键盘
 
 Package: zydf.tetherme8
 Version: 1.2.3~arm64e-1
