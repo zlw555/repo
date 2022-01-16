@@ -191,6 +191,22 @@ Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
 Author: iBreak <ibreak2019@qq.com>
 Name: WeChat Callkit
 
+Package: iflex.WeChat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iFlex <(null)>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/iflex.WeChat_1.0_iphoneos-arm.deb
+Size: 3096
+MD5sum: f36e52ee8ae56ba7f3dbae3fecac3635
+SHA1: d1fc38cca085fb618f1e789a5533456a4c2e1730
+SHA256: 687b67c79491b02d18df44e3594d121fa788f745733c47307590e32607976315
+Section: 自用插件
+Description: 微信常驻优化，只支持arm64设备
+Author: iFlex <(null)>
+Name: 微信 黑科技 v7.0.3~8.0.16   ✔︎
+
 Package: ld64
 Version: 609-1
 Architecture: iphoneos-arm
@@ -730,20 +746,39 @@ Homepage: http://www.samba.org/rsync/
 Description: synchronize files between computers
 
 Package: ru.rj.ftt
-Version: 0.6
+Version: 0.8
 Architecture: iphoneos-arm
 Maintainer: Randy420 <randy.skinner@hotmail.com>
-Installed-Size: 360
+Installed-Size: 104
 Depends: mobilesubstrate
 Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
-Filename: ./debs/ru.rj.ftt_0.6_iphoneos-arm.deb
-Size: 43656
-MD5sum: 667f2e87eb787deb3c6a9abf91a67ef4
-SHA1: 284b75e0717d5646e45e816b4a843f93eee92f98
-SHA256: bfb174bf1f56f14dee0ec24ade486f0fe62623a46a588c616a8d2589bfe2fd7e
+Filename: ./debs/ru.rj.ftt_0.8_iphoneos-arm.deb
+Size: 20044
+MD5sum: f039a114d589484b7e537414945bc218
+SHA1: c45f600f15a6f58a376ad6aab95bf1fc5e81b304
+SHA256: 01f88c436f5c431e7575c09268463545166a6f86b310d52b4b9d468713043324
+Section: Utilities
+Homepage: https://theemeraldisle.family
+Description: 终端输入ftt命令
+Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Name: Flex3转Theos
+
+Package: ru.rj.ftt
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
+Filename: ./debs/ru.rj.ftt_1.1_iphoneos-arm.deb
+Size: 20308
+MD5sum: 4ffaa4e61a626adc60a85c0364fa783b
+SHA1: 50a41d92a26c839ba630428d1f4823730c51cef3
+SHA256: 3f97dff783bf97a65fc988180d814e7107e181e9d6338bb086cf4eb5d186414b
 Section: 自用插件
 Homepage: https://theemeraldisle.family
-Description: ftt命令 输入ftt
+Description: arm64e设备下载0.8版，终端输入ftt命令
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Name: Flex3转Theos
@@ -880,6 +915,38 @@ Description: iOS14  去设置和单手键盘
 Author: zlw555
 Icon: Tweaks.png
 Name: iOS14去设置和单手键盘
+
+Package: zlw555.gestures6s
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw555.gestures6s_3.0_iphoneos-arm.deb
+Size: 2760
+MD5sum: 3145a352c1ef3ab7a329e98718484c25
+SHA1: 25551c97128574582f396b8fd3b000c11321fd9c
+SHA256: 31fc3ef98e5d40f257ac6d8608e76977fdbba40d01f13408dd80c38355b4be9a
+Section: 自用插件
+Description: gestures14,14系的备用机6s专用
+Author: zlw555
+Name: gestures6s
+
+Package: zlw555.weifengqad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw555.weifengqad_1.0_iphoneos-arm.deb
+Size: 2608
+MD5sum: 947a0bb39d81730a1873758e2c4eb733
+SHA1: d618b2ffa44d51c5bdd445a6e84254598b554248
+SHA256: e575839e54234ba41dddd273ebb17d5965ba84a6cf7559a1cf8c774530f20801
+Section: 自用插件
+Description: 威锋去广告!
+Author: zlw555
+Name: 威锋去广告
 
 Package: zsh-syntax-highlighting
 Version: 0.7.1-1
