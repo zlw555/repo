@@ -141,6 +141,24 @@ Description: File Manager + 破解补丁
 Author: TIGI Software
 Name: Filza File Manager
 
+Package: gettext-localizations
+Version: 2020.10.07
+Architecture: iphoneos-arm
+Maintainer: Hayden Seay <me@diatr.us>
+Installed-Size: 6256
+Depends: libintl8 (>= 0.20.0)
+Conflicts: com.linusyang.localeutf8
+Replaces: com.linusyang.localeutf8
+Provides: com.linusyang.localeutf8 (= 99.9)
+Filename: ./debs/gettext-localizations_2020.10.07_iphoneos-arm.deb
+Size: 227392
+MD5sum: 363d6e36d0103b92becf96d8b8dd6d70
+SHA1: 4931cfeef68b7b925b121bd84c76683308613dc4
+SHA256: e0367deb4dafbebfb9c73306c0f7f0e936105e47cde1ec5f35d0cc0734020db7
+Section: Localizations
+Priority: important
+Description: Locale files necessary for command line tool translation.
+
 Package: git
 Version: 2.8.1-5
 Architecture: iphoneos-arm
@@ -480,22 +498,22 @@ Package: mterminal
 Version: 1.5-2
 Architecture: iphoneos-arm
 Maintainer: Hayden Seay <me@diatr.us>
-Depends: coreutils, firmware (>= 11.0), gettext, system-cmds, zsh
+Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
 Conflicts: com.officialscheduler.mterminal
 Replaces: com.officialscheduler.mterminal
 Provides: com.officialscheduler.mterminal (= 1.5-2)
 Filename: ./debs/mterminal_1.5-2_iphoneos-arm.deb
-Size: 88416
-MD5sum: 060c72dfe68e6b2655e3257e99632910
-SHA1: 085310d17dec2742c19392bc4a92291d754860af
-SHA256: ba29a05a6839a8985c8adc89ef9d0c19bcd2e849a064265d3e9716048b1b3e0e
-Section: 自用插件
+Size: 87796
+MD5sum: 60f0f17457459b6591010c20cee1f29a
+SHA1: d273a015f24d981582686c6dfa1b5c31aeaa48f6
+SHA256: c51385b506d1fb829dbccd152b15ea0d1e01a26bb25b1d3d5cf28da674d89057
+Section: Utilities
 Priority: standard
 Description: A MobileTerminal fork
 Tag: purpose::uikit, role::enduser
 Author: lordscotland
 Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
-Name: MTerminal终端
+Name: MTerminal
 
 Package: netskao.alypgetdownloadurl
 Version: 1.1-1
@@ -862,6 +880,32 @@ Description: iOS14  去设置和单手键盘
 Author: zlw555
 Icon: Tweaks.png
 Name: iOS14去设置和单手键盘
+
+Package: zsh-syntax-highlighting
+Version: 0.7.1-1
+Architecture: all
+Maintainer: Hayden Seay <me@diatr.us>
+Installed-Size: 104
+Depends: zsh
+Enhances: zsh
+Filename: ./debs/zsh-syntax-highlighting_0.7.1-1_all.deb
+Size: 24042
+MD5sum: 7f6a51e0d6a1a8d2641642e9f4602d5b
+SHA1: b34ab1e7f64fe5b29d292f6b989b971ca4e2550b
+SHA256: 5f525648e11916b17b0948cac27ce4607cb396a6432ec1d94dfe4bee60b63256
+Section: Terminal_Support
+Priority: optional
+Homepage: https://github.com/zsh-users/zsh-syntax-highlighting
+Description: Fish shell like syntax highlighting for zsh
+ This package provides syntax highlighting for the shell zsh. It enables
+ highlighting of commands whilst they are typed at a zsh prompt into an
+ interactive terminal. This helps in reviewing commands before running
+ them, particularly in catching syntax errors.
+ .
+ This feature is inspired by the Fish shell, which provides it by default.
+ .
+ There are numerous ways to configure the colors used for highlighting,
+ and to configure what is highlighted.
 
 Package: zydf.tetherme8
 Version: 1.2.3~arm64e-1
