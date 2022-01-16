@@ -659,17 +659,17 @@ Name: Pro助手
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
 
 Package: python
-Version: 2.7.15-2
+Version: 2.8.15-2
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 83888
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3
-Filename: ./debs/python_2.7.15-2_iphoneos-arm.deb
-Size: 7735120
-MD5sum: b901c473f37d67cd650740195f8d7b0b
-SHA1: 94ef59f2c68df2df3eeda4fbddc8c2e3ae1b9ef6
-SHA256: 1793caf04f5d821680b1c7141fc07ad4aed279709c32eb58629634cb20ae31a5
+Filename: ./debs/python_2.8.15-2_iphoneos-arm.deb
+Size: 7738392
+MD5sum: a778bf9150ba064dcc774f120b1d8d1a
+SHA1: 6016e123907bbc54822ccaca36377de6a57d8f1a
+SHA256: a8c1716f3cbff8dbaf84b888649119c3b01a7b90f147d1edc51660eec15ee579
 Section: Scripting
 Priority: optional
 Homepage: http://www.python.org/
