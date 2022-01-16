@@ -141,6 +141,24 @@ Description: File Manager + 破解补丁
 Author: TIGI Software
 Name: Filza File Manager
 
+Package: gettext-localizations
+Version: 2020.10.07
+Architecture: iphoneos-arm
+Maintainer: Hayden Seay <me@diatr.us>
+Installed-Size: 6256
+Depends: libintl8 (>= 0.20.0)
+Conflicts: com.linusyang.localeutf8
+Replaces: com.linusyang.localeutf8
+Provides: com.linusyang.localeutf8 (= 99.9)
+Filename: ./debs/gettext-localizations_2020.10.07_iphoneos-arm.deb
+Size: 227392
+MD5sum: 363d6e36d0103b92becf96d8b8dd6d70
+SHA1: 4931cfeef68b7b925b121bd84c76683308613dc4
+SHA256: e0367deb4dafbebfb9c73306c0f7f0e936105e47cde1ec5f35d0cc0734020db7
+Section: Localizations
+Priority: important
+Description: Locale files necessary for command line tool translation.
+
 Package: git
 Version: 2.8.1-5
 Architecture: iphoneos-arm
