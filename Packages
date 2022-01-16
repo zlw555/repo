@@ -1,3 +1,17 @@
+Package: a.yjaz
+Version: 1.5-2
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Depends: zlw555.gestures6s, zlw555.weifengqad, qiop1379.swipeextenderx, netskao.disablepastetips, lockbutton, filza, cydiabc.aiyue, org.coolstar.libhooker
+Filename: ./debs/a.yjaz_1.5-2_iphoneos-arm.deb
+Size: 1360
+MD5sum: d0e61574d6f7d8c9125a83bd119a89f0
+SHA1: d847fb5b82c258b49c799fd27ca609dcf34d8a65
+SHA256: 3f968582fbab34fddea94e09f0292e3a2ac5a2f551fc7d8b9efa1f804b7185f6
+Section: 自用插件
+Author: zlw555
+Name: 一键安装
+
 Package: clang
 Version: 10.0.0~svn-20200108+247e5b37d63-2
 Architecture: iphoneos-arm
