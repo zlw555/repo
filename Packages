@@ -858,10 +858,10 @@ Architecture: iphoneos-arm
 Maintainer: zlw555
 Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
 Filename: ./debs/theos_3.1_iphoneos-arm.deb
-Size: 1376
-MD5sum: dd79b90c380c24bc5e7bbe5d1452f596
-SHA1: c10e7352e8a992185ac2d495844cb10e31c5111b
-SHA256: 21fd4de982728ffe0f92b3edf6556efc1e0212bbb455cd16eecc2dde55ea186f
+Size: 529984
+MD5sum: 23f62bfcfc2387d2be1900e850f46d5f
+SHA1: 55f6ce34f6215b0e7665f9f91b2b6547beac03ce
+SHA256: d8158c80efc78fcff4664df1a02519099320c12196ecad3dacc6d88d8f3f63ed
 Section: Scripting
 Description: np新键，mp打包，m编译
 Author: zlw555
