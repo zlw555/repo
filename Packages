@@ -1,17 +1,3 @@
-Package: a.yjaz
-Version: 1.5-2
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Depends: zlw555.gestures6s, zlw555.weifengqad, qiop1379.swipeextenderx, netskao.disablepastetips, lockbutton, filza, cydiabc.aiyue, org.coolstar.libhooker
-Filename: ./debs/a.yjaz_1.5-2_iphoneos-arm.deb
-Size: 1360
-MD5sum: d0e61574d6f7d8c9125a83bd119a89f0
-SHA1: d847fb5b82c258b49c799fd27ca609dcf34d8a65
-SHA256: 3f968582fbab34fddea94e09f0292e3a2ac5a2f551fc7d8b9efa1f804b7185f6
-Section: 自用插件
-Author: zlw555
-Name: 一键安装
-
 Package: clang
 Version: 10.0.0~svn-20200108+247e5b37d63-2
 Architecture: iphoneos-arm
@@ -155,23 +141,22 @@ Description: File Manager + 破解补丁
 Author: TIGI Software
 Name: Filza File Manager
 
-Package: gettext-localizations
-Version: 2020.10.07
+Package: gettext
+Version: 0.19.8-1
 Architecture: iphoneos-arm
-Maintainer: Hayden Seay <me@diatr.us>
-Installed-Size: 6256
-Depends: libintl8 (>= 0.20.0)
-Conflicts: com.linusyang.localeutf8
-Replaces: com.linusyang.localeutf8
-Provides: com.linusyang.localeutf8 (= 99.9)
-Filename: ./debs/gettext-localizations_2020.10.07_iphoneos-arm.deb
-Size: 227392
-MD5sum: 363d6e36d0103b92becf96d8b8dd6d70
-SHA1: 4931cfeef68b7b925b121bd84c76683308613dc4
-SHA256: e0367deb4dafbebfb9c73306c0f7f0e936105e47cde1ec5f35d0cc0734020db7
-Section: Localizations
-Priority: important
-Description: Locale files necessary for command line tool translation.
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 7592
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses
+Filename: ./debs/gettext_0.19.8-1_iphoneos-arm.deb
+Size: 745876
+MD5sum: a45d986bf334bef22918691b855a0993
+SHA1: 8ea7e5d8f875b49162e6cc668909f8f4e1db7e6d
+SHA256: 232bfb449abfeeee304e5432043b727e2856c66676bbd4ff74513e6b03dc1477
+Section: System
+Priority: optional
+Homepage: http://www.gnu.org/software/gettext/
+Description: internationalization helper for strings
 
 Package: git
 Version: 2.8.1-5
@@ -525,24 +510,23 @@ Description: dependency-based build environments
 Name: Make
 
 Package: mterminal
-Version: 1.5-2
+Version: 1.4-6
 Architecture: iphoneos-arm
-Maintainer: Hayden Seay <me@diatr.us>
-Depends: coreutils, firmware (>= 11.0), gettext-localizations, system-cmds, zsh
-Conflicts: com.officialscheduler.mterminal
-Replaces: com.officialscheduler.mterminal
-Provides: com.officialscheduler.mterminal (= 1.5-2)
-Filename: ./debs/mterminal_1.5-2_iphoneos-arm.deb
-Size: 87796
-MD5sum: 60f0f17457459b6591010c20cee1f29a
-SHA1: d273a015f24d981582686c6dfa1b5c31aeaa48f6
-SHA256: c51385b506d1fb829dbccd152b15ea0d1e01a26bb25b1d3d5cf28da674d89057
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 776
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: ./debs/mterminal_1.4-6_iphoneos-arm.deb
+Size: 108042
+MD5sum: dedfc589450b43d268bfc369d5b2f4c8
+SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
+SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
 Section: Utilities
 Priority: standard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 Description: A MobileTerminal fork
-Tag: purpose::uikit, role::enduser
-Author: lordscotland
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Author: lordscotland <admin@officialscheduler.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 Name: MTerminal
 
 Package: netskao.alypgetdownloadurl
@@ -874,11 +858,11 @@ Architecture: iphoneos-arm
 Maintainer: zlw555
 Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
 Filename: ./debs/theos_3.1_iphoneos-arm.deb
-Size: 529408
-MD5sum: 92a36521899ce3b89ef2f94d9257ea3c
-SHA1: 356403ee1b63f2e74f93e40df69a2162a752bae3
-SHA256: 1926f5c5d476b5c418b8656d8b4cf364eed806662940605490f7a776a863332e
-Section: 自用插件
+Size: 1376
+MD5sum: dd79b90c380c24bc5e7bbe5d1452f596
+SHA1: c10e7352e8a992185ac2d495844cb10e31c5111b
+SHA256: 21fd4de982728ffe0f92b3edf6556efc1e0212bbb455cd16eecc2dde55ea186f
+Section: Scripting
 Description: np新键，mp打包，m编译
 Author: zlw555
 Name: Theos
@@ -981,32 +965,6 @@ Section: 自用插件
 Description: 威锋去广告!
 Author: zlw555
 Name: 威锋去广告
-
-Package: zsh-syntax-highlighting
-Version: 0.7.1-1
-Architecture: all
-Maintainer: Hayden Seay <me@diatr.us>
-Installed-Size: 104
-Depends: zsh
-Enhances: zsh
-Filename: ./debs/zsh-syntax-highlighting_0.7.1-1_all.deb
-Size: 24042
-MD5sum: 7f6a51e0d6a1a8d2641642e9f4602d5b
-SHA1: b34ab1e7f64fe5b29d292f6b989b971ca4e2550b
-SHA256: 5f525648e11916b17b0948cac27ce4607cb396a6432ec1d94dfe4bee60b63256
-Section: Terminal_Support
-Priority: optional
-Homepage: https://github.com/zsh-users/zsh-syntax-highlighting
-Description: Fish shell like syntax highlighting for zsh
- This package provides syntax highlighting for the shell zsh. It enables
- highlighting of commands whilst they are typed at a zsh prompt into an
- interactive terminal. This helps in reviewing commands before running
- them, particularly in catching syntax errors.
- .
- This feature is inspired by the Fish shell, which provides it by default.
- .
- There are numerous ways to configure the colors used for highlighting,
- and to configure what is highlighted.
 
 Package: zydf.tetherme8
 Version: 1.2.3~arm64e-1
