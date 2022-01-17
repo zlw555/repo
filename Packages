@@ -579,6 +579,28 @@ Author: Netskao
 Dev: netskao
 Name: DisablePasteTips
 
+Package: netskao.networkmanage
+Version: 1.1-3
+Architecture: iphoneos-arm
+Maintainer: netskao
+Installed-Size: 412
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: ./debs/netskao.networkmanage_1.1-3_iphoneos-arm.deb
+Size: 101712
+MD5sum: 70f60a95683f17bf0ed842ffcc805fac
+SHA1: e8a120119873a0cae236d061be4921310651c6f5
+SHA256: b754de3537680920934b3039fd08cdc2cb678dd9a10731f10b3f2a1f3d1f56e2
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=networkmanageDp
+Description: 管理蜂窝和WIFI联网权限，支持iOS10-iOS14
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: Netskao
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=networkmanageDp
+Dev: netskao
+Icon: file:///Library/PreferenceBundles/NetWorkManage.bundle/NetWorkManage@2x.png
+Name: NetWorkManage
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: netskao.qddsnoads1
 Version: 1.1-1
 Architecture: iphoneos-arm
@@ -594,6 +616,22 @@ Section: 自用插件
 Description: 起点读书去除启动广告，去除底部中间广告选项
 Author: Netskao
 Name: 起点读书 NoAds
+
+Package: netskao.wfnoads
+Version: 1.5-9
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.wfnoads_1.5-9_iphoneos-arm.deb
+Size: 62688
+MD5sum: 021ffe2580ce64be33d7bbebfa3dc28a
+SHA1: 65b70a33b7ee403724111aaccf188b17caf1251d
+SHA256: 9b2131218e08c76e2039e614d7320c76866a326f8d54c09951880324b3eb906c
+Section: 自用插件
+Description: 威锋去除启动广告，去除贴列表插入广告，去除贴内下方广告横幅，去除我的页面广告横幅，支持6.x所有版本
+Author: Netskao
+Name: 威锋 NoAds
 
 Package: odcctools
 Version: 973.0.1-1
