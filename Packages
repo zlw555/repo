@@ -75,10 +75,10 @@ Architecture: iphoneos-arm
 Maintainer: Ai-小苹果
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/cydiabc.aiyue_1.7_iphoneos-arm.deb
-Size: 49312
-MD5sum: 3732c4752fdffc0c45b5fbce896a3f2e
-SHA1: e47cdfba117f67a64fab4cad25b7f0cd968fa2cc
-SHA256: c07cb42b90bdfd3eff6247c7bd6e87fd6beb1ef6c9b6bf4677853ae7043c4992
+Size: 48672
+MD5sum: 8790d4f1c01e8d662db53e324e2ae24b
+SHA1: d84a7f92e54bf725790acfa9d3ea26cbc44e14ae
+SHA256: 3e42b77753422a0c80c56724167806e744616193e0463ef1505ca542e1f1272c
 Section: 自用插件
 Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，支持商店最新版6.5.1，注意安装后进入应用后，开启关闭格言，需关闭APP再进入即可，已解决提示被破坏问题
 A12: 1
@@ -95,10 +95,10 @@ Maintainer: daniel
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/cydiabc.sharecuts_1.0_iphoneos-arm.deb
-Size: 3580
-MD5sum: 357b8096f0b646048bd869e644024b5e
-SHA1: 48fd1449ca0973fc46ae3bbaf6c4b5d1542fb9be
-SHA256: a69c687c188906881d94a5ec13c0f350126b05ffe504d04f4e6bb5e7ea3fbd5d
+Size: 2980
+MD5sum: 93ba86e0247e61189f3bc33c9f9e20a6
+SHA1: c79f42d0f27f8bb16dd53a6ad66e25f556b67f31
+SHA256: ea1e335e04b93ef1a0cc97300566a98b857e042118b3ee68a0c46c220977aa83
 Section: 自用插件
 Description: 捷径添加通过文件分享选项，而非上传iCloud分享，效果预览截图
 A12: 1
@@ -132,10 +132,10 @@ Installed-Size: 32244
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 Filename: ./debs/filza_3.9.0-2_iphoneos-arm.deb
-Size: 10435920
-MD5sum: 917177e7ab1fb7ccf37892e66102cc59
-SHA1: b328f5e1671c506dbbba7089e360324a162dc18c
-SHA256: 93f18125fce4aedea8b1bb04b293b4493cabac29c2f80724344d5f31cdac9169
+Size: 10438268
+MD5sum: e402d6f0f3e866fb7bb3452396de51da
+SHA1: 4a566cc32a5475dc9679b0489b8bc09367b96470
+SHA256: 695762e7aef1d6581a25fa6bc75a46c517ca006241cfc5fd29c9a746d388740d
 Section: 自用插件
 Description: File Manager + 破解补丁
 Author: TIGI Software
@@ -181,10 +181,10 @@ Architecture: iphoneos-arm
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
 Filename: ./debs/ibreak.wecallkit_1.0_iphoneos-arm.deb
-Size: 4112
-MD5sum: aff536681f5104aefa535b25498c8aff
-SHA1: d3865118646155c0a019412986a6518a6bec4cf5
-SHA256: 6df9ec02a2336e2f67d58c21391aff5fccfb605c6332aab2cb7b22be83c304d7
+Size: 3608
+MD5sum: 6e693728ac86b8f75a4128fbe1cf6be1
+SHA1: 659ac288f71b1393be313b840e589c6663157892
+SHA256: bda3e2e1d55c746add287ef3ecc7d4672732e7e9432a9358f2af5d32f895f5fd
 Section: 自用插件
 Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
 Author: iBreak <ibreak2019@qq.com>
@@ -466,10 +466,10 @@ Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 132
 Depends: mobilesubstrate
 Filename: ./debs/lly.solar_0.0.1-1_iphoneos-arm.deb
-Size: 7792
-MD5sum: 7dc89ce3df14991ac8fff070462be704
-SHA1: 2a90d066862ff80a04512c9722ee0fa70487e060
-SHA256: eaa5fe2eed99c084842f5914a3b1dc43ba000d8c4d16cabc9cb40ee925d34885
+Size: 7216
+MD5sum: a9d40d0ca2238c10f28d939e6734f4e3
+SHA1: 7eaf975686a2a4e5122781a1ea0580238dcc4595
+SHA256: 31b1e57dd7f64489dfb2bb257e8a712afc1b86cb824b7bf9a9678c85009f0917
 Section: 自用插件
 Description: 小猿搜题解锁VIP学习专区30秒试看限制
 Author: lenglengyu
@@ -482,10 +482,10 @@ Version: 1.0-2
 Architecture: iphoneos-arm
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/lockbutton_1.0-2_iphoneos-arm.deb
-Size: 18780
-MD5sum: 04dc31de72df4714f073dde78cc26315
-SHA1: 26bd741bc211898f2aacb5c6a111c7c0d39d57a9
-SHA256: 7e1b4e1da5782f025f4cfa9e96416372ba72a8624aed1d2ba2c312764f7fc5c2
+Size: 18256
+MD5sum: 9997b9ee402a3e8b9455c3e6630419ea
+SHA1: 768689a11ffc28c65b5caaf02472fb5ca5ba9100
+SHA256: caa00cceb51828c3afeebb7e9af2219b16e0860dd34b16d693b3534db9f5be6f
 Section: 自用插件
 Priority: optional
 Description: 桌面一键锁屏，有图标，无后台
@@ -536,10 +536,10 @@ Maintainer: Nets
 Installed-Size: 356
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/netskao.alypgetdownloadurl_1.1-1_iphoneos-arm.deb
-Size: 80216
-MD5sum: f6be5950a2e9249ede6991c7489bc3ac
-SHA1: 4bfa991e789842f270fb633bb972d48b89ee24d5
-SHA256: 493dea8b3540e8cb630f7c71a739b8716a021a07d64d2aaf96f248eb67dce2aa
+Size: 79512
+MD5sum: cb6268aaed435661c4641a169762e3c6
+SHA1: dd0730e04f31cc1a1e03b9efb1155dcc6c0acddf
+SHA256: 7e2fea71e426af141d93df29b19eb52ab9b7c46dd5504881e75bb16986607259
 Section: 自用插件
 Description: 阿里云盘获取暂时直链，打开文件选项面板后长按任意按钮复制，详情看预览图，不支持文件夹获取！！！是暂时直链！！！
 Author: Netskao
@@ -553,10 +553,10 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Conflicts: netskao.disableshortcutsnotification
 Filename: ./debs/netskao.disableautomationnotice_1.1-3_iphoneos-arm.deb
-Size: 6504
-MD5sum: 8da00ec26d1be6a9d9d5fbdb72fd96a6
-SHA1: c0dce2f8604a5711da2be7a936ff274bbf9b57ae
-SHA256: bf1dcefae05f80ec704c0223a9361ea68a77fd1ddb73324b8c191a982d1bb893
+Size: 5920
+MD5sum: 3a06b59c9e4ea5a4882e1a2d8601501a
+SHA1: c64e3b8810c227f879b139627791663fa61447b2
+SHA256: b008cddaafe1d27911828f4ffd096c5c12ad6a9ec0f212d1a66d61148f02ce5e
 Section: 自用插件
 Description: 禁用快捷指令自动化自动执行后的通知，仅禁用自动化不包含其他
 Author: Netskao
@@ -569,10 +569,10 @@ Maintainer: zlw555
 Installed-Size: 133
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/netskao.disablepastetips_1.1-4_iphoneos-arm.deb
-Size: 4164
-MD5sum: 6f9143f4ab4de67d339af168c116b1f6
-SHA1: 352016e31c098bdd391f59b2c21648c979160889
-SHA256: 1383b2b746aab243be13a5e3ccc40f8bf6f8fa6dde3af52ce3a04250a7990125
+Size: 3628
+MD5sum: 57a5d1a511af09d5beea9a2ef57b475d
+SHA1: d3f32692e471cd458abf40610abf5e2897bd0e74
+SHA256: 5c0846ae9f6d6b3ef9c2ca4186984f1aa6f4d5ad200e9a264d09c47d5c062c22
 Section: 自用插件
 Description: 禁用iOS14的粘贴提示
 Author: Netskao
@@ -586,10 +586,10 @@ Maintainer: Nets
 Installed-Size: 336
 Depends: firmware (>= 9.0), mobilesubstrate
 Filename: ./debs/netskao.qddsnoads1_1.1-1_iphoneos-arm.deb
-Size: 78224
-MD5sum: 9fa664ca3f5ffea8c8df973ce6dbdcdf
-SHA1: 0765ffe82b3e383200867f52c044f2843878ed23
-SHA256: 7529e11cb6d3357b03b676a1379b5f395c0b41e3db604da74b231de990c03315
+Size: 78256
+MD5sum: 8f92546a37314a7dee7749b20bf83297
+SHA1: b23a1cd6968769333c4ede9f4fccb49bfd49d068
+SHA256: 93a8dd341e9c865ef1f0b2194b3129c74686573c4b3481654e01fe8593e188ba
 Section: 自用插件
 Description: 起点读书去除启动广告，去除底部中间广告选项
 Author: Netskao
@@ -666,10 +666,10 @@ Maintainer: ichitaso
 Installed-Size: 200
 Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
 Filename: ./debs/otadisabler_0.1-7_iphoneos-arm.deb
-Size: 22800
-MD5sum: 1ff85025025778fc8b2befd0f28ee533
-SHA1: e9141195b395413b39fdfcd03813fe4277b459ee
-SHA256: 90bd2b1ddd98a4317f943f4ee7fddf6376a8fae6fc6561d0ab80f42f68cd57d7
+Size: 14828
+MD5sum: 44e9cb5995b97ce0b04ca8b778eb4949
+SHA1: a093dadac2f28c979114e2c9daa2c70bea9eca2f
+SHA256: d02afbcbcfb63896a07c4dbd3fe4ec3306d66cb62c4431c531e1b680fb8e7d62
 Section: System
 Description: 屏蔽OTA升级，去除越狱环境也有效
 Author: ichitaso
@@ -718,10 +718,10 @@ Installed-Size: 83888
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: berkeleydb, bzip2, expat, libffi, libssl1.0, libxml2, ncurses, readline, sqlite3
 Filename: ./debs/python_2.8.15-2_iphoneos-arm.deb
-Size: 7738392
-MD5sum: a778bf9150ba064dcc774f120b1d8d1a
-SHA1: 6016e123907bbc54822ccaca36377de6a57d8f1a
-SHA256: a8c1716f3cbff8dbaf84b888649119c3b01a7b90f147d1edc51660eec15ee579
+Size: 7734720
+MD5sum: 5758464d9e58837cb3ff2106e3fa5c7b
+SHA1: d1d5184902da3f8eea78b4f189bd96ca27d945a8
+SHA256: 275a44a915e44799c73cd6db7ced509922df6576a20b503142e22edb0c5e7114
 Section: Scripting
 Priority: optional
 Homepage: http://www.python.org/
@@ -735,10 +735,10 @@ Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
 Installed-Size: 624
 Depends: firmware (>= 12.0), mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: ./debs/qiop1379.swipeextenderx_1.5.3-1_iphoneos-arm.deb
-Size: 86612
-MD5sum: 903d609cc85b1d8f6ccdb7b89994fd63
-SHA1: 7d03e0b1ad5cb3d5465e90168b17d0e61be97eef
-SHA256: 0eb9aeda88c338b4011889bf07424b3b52dd2503cb4bacbc0871b4c7c8097241
+Size: 85636
+MD5sum: 53bd0914ce4e8ceb6e5aff1e2c106bd0
+SHA1: 7bde293c41a9793464d8da2bf2a8f610d5175973
+SHA256: affa85cbcb1cd653f5ecd5ae7cdd114db0941f646ccfb5a554952f37aeb0af1c
 Section: 自用插件
 Description: SwipeExtenderX键盘插件!
 Tag: compatible_min::ios12.0
@@ -809,10 +809,10 @@ Pre-Depends: mobilesubstrate (>=0.9.5101)
 Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: net.tetherme.tetherme, net.tetherme.tetherme8
 Filename: ./debs/sileoturkiye.tetherme8_2.1.1_iphoneos-arm.deb
-Size: 4376444
-MD5sum: 833c48ccd0a525fc5b9969584982d1d1
-SHA1: 7f74e3fdcc75c46c109206d6039e87dc80427268
-SHA256: be191ca21b56ce26879e31bd74571fadb67f0b5793eed601cd51fe393f55805b
+Size: 4191940
+MD5sum: b75a0b20e257e719c9872c481290d4de
+SHA1: 985ccb260e7454c050ba1f872595ef2f078645ba
+SHA256: d3f50ecdd4a8d3d37d3997c2477ccf530be01007738e2f6af318d5a5d0cc7596
 Section: 自用插件
 Description: tetherme网络共享，可共享vpn.
 Author: Sam Bingner
@@ -826,11 +826,11 @@ Maintainer: Snail
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/snail.wechatautologin_1.0_iphoneos-arm.deb
-Size: 6588
-MD5sum: 92f78e1b22ddc87b03fcd9b0edcb48d7
-SHA1: ff2db3fb6b435d631b0ed2c6b59491b83de78a53
-SHA256: 04cb9e0aacbcd014b0ffee1d38c80f2dea31b0569f72c9da5577235e8c452852
-Section: Tweaks
+Size: 6036
+MD5sum: 3645ed8b4ac9967b3a682fb54e688923
+SHA1: e964b274e1a7457bf6c0f1d5ff27abc20b5dc8cd
+SHA256: 6f7f7c1d76a6df91f6a946f403d10d53178c800e3e7df98f30bbe8054cc818f3
+Section: 自用插件
 Description: 电脑登录微信时，打开手机微信APP，自动确认登录。支持所有微信版本。
 Author: Snail
 Name: 微信自动确认登录
@@ -858,10 +858,10 @@ Architecture: iphoneos-arm
 Maintainer: zlw555
 Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
 Filename: ./debs/theos_3.1_iphoneos-arm.deb
-Size: 529984
-MD5sum: 23f62bfcfc2387d2be1900e850f46d5f
-SHA1: 55f6ce34f6215b0e7665f9f91b2b6547beac03ce
-SHA256: d8158c80efc78fcff4664df1a02519099320c12196ecad3dacc6d88d8f3f63ed
+Size: 529380
+MD5sum: c40d87a79e2973016ae5f613b57e899e
+SHA1: aa3c916af5349e2395137cdf89e0425176e404e2
+SHA256: 2faccb6725acaa25fa21d6275f2eacd9a65f188698ee273ab60f82911a33ba35
 Section: Scripting
 Description: np新键，mp打包，m编译
 Author: zlw555
@@ -889,10 +889,10 @@ Maintainer: 糖醋丶炒排骨
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/wechatjbdbypass_1.0_iphoneos-arm.deb
-Size: 15448
-MD5sum: f1c067ff10e6350345da4966955aa44c
-SHA1: 687a221c32b42d0cff9219aab19ef41220697d47
-SHA256: 2238da9de979fd26b2afde17846e97ead8cfb63d741193d35b08a18ee6c48513
+Size: 14704
+MD5sum: 2aebcd9fb729385719825be11b7e69b4
+SHA1: 36e2b6c40cdc622250702881d642f5fe1025a879
+SHA256: 06c8f50ec096afa76530d36cafeaaf96b5151399d227644b0e2e2a20e8921091
 Section: 自用插件
 Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加强反越狱检测、小号防封。防封只针对小号越狱环境，对红包功能被禁用没有效果；大号安装则正常使用面容指纹支付功能。
 Author: 糖醋丶炒排骨
@@ -924,10 +924,10 @@ Maintainer: zlw555
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/zlw.keyboardsz_1.0_iphoneos-arm.deb
-Size: 3512
-MD5sum: bf69d3b10d59c7792e7782408bff2d43
-SHA1: 57a49a8f482e3ea6868ce5ee27c8c672325e7e4a
-SHA256: a92d7dd9d4fb29db86f330198b20ed977ec40004b0a915dab1c3d886e325a592
+Size: 3008
+MD5sum: 93e8828582bacad0f394418ec5d88670
+SHA1: cb1aca9e88bc7f6c0c36566e42461dc4f35dfad1
+SHA256: 80d71336428ff42f289d1f541baff24d2b82ff2a0b21d9040073a2aff2042b92
 Section: 自用插件
 Description: iOS14  去设置和单手键盘
 Author: zlw555
@@ -974,10 +974,10 @@ Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), network-cmds
 Conflicts: net.tetherme.tetherme
 Replaces: net.tetherme.tetherme
 Filename: ./debs/zydf.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
-Size: 92312
-MD5sum: 7672241fa9da4ba77fd266f1bf14cdcb
-SHA1: d04b8a993f17657a1ea497d9af6020b505ebe9fc
-SHA256: 933a69915d85c8569ba90ee4f70871c1c06a5e9b8d64c5c60dee1af34772b765
+Size: 80840
+MD5sum: cf08f58e3ef5815d2d4272ef56be3720
+SHA1: 4c3229e15e88ea1513e475f339a2ddd6a900cd2b
+SHA256: 7478d0eb42751c8730d9421e607272c0f65748a28934aad90489382769bad099
 Section: 自用插件
 Description: tetherme网络共享，可共享vpn,最高支持13系统
 Author: Sam Bingner <support@tetherme.net>
