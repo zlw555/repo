@@ -941,21 +941,6 @@ Description: np新键，mp打包，m编译
 Author: zlw555
 Name: Theos
 
-Package: theos
-Version: 3.2
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
-Filename: ./debs/theos_3.2_iphoneos-arm.deb
-Size: 14247292
-MD5sum: 5fb795815a9ad4d428dfadc37711bfe2
-SHA1: 957eaefb8679197ce929497aae85d1b1bb149b1d
-SHA256: 21c930aebddcd46d1e6d81d822da71a470bef718143d0a4e45c1adbb7283b1e3
-Section: Scripting
-Description: np新键，mp打包，m编译
-Author: zlw555
-Name: Theos
-
 Package: uuid
 Version: 1.6.2-1
 Architecture: iphoneos-arm
