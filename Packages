@@ -51,6 +51,26 @@ Section: Packaging
 Description: 用来下载deb插件的，用filza提取
 Name: Saily
 
+Package: com.cydiabc.aiyueshuxianghack
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 696
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiabc.aiyueshuxianghack_1.0-1_iphoneos-arm.deb
+Size: 146388
+MD5sum: 57ed6e20d993185c55284e22c43fedac
+SHA1: 46344c76ab841cb0b9dd818c6d7f42dac0b21654
+SHA256: 373adbb555bd9d930ef08115d169c39c4a7f0687b0a909d0db812d74c38cf6db
+Section: 插件
+Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，兼容APP版本：6.8.2
+A12: 1
+Author: Ai-小苹果™
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: 爱阅书香Pro
+Sponsor: Ai-小苹果™
+
 Package: curl
 Version: 7.65.0-1
 Architecture: iphoneos-arm
