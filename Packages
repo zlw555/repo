@@ -966,6 +966,21 @@ Priority: standard
 Description: embedded database used by iPhoneOS
 Name: SQLite 3.x
 
+Package: theos
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, mterminal
+Filename: ./debs/theos_3.0_iphoneos-arm.deb
+Size: 528980
+MD5sum: 820a374490e7377328c3ff67f81f7038
+SHA1: b84f5718cf25f28dacc61474cc4fb53d5e403300
+SHA256: 611645c42e6e90851696c53ba22af2568d7c9cd7b43dd2cdb2e691b410401c47
+Section: Scripting
+Description: np新键，mp打包，m编译
+Author: zlw555
+Name: Theos
+
 Package: uuid
 Version: 1.6.2-1
 Architecture: iphoneos-arm
