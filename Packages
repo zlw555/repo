@@ -37,20 +37,6 @@ Homepage: https://www.llvm.org/
 Description: C, C++ and Objective-C compiler
 Name: LLVM Clang
 
-Package: com.Lakr233.Saily
-Version: 0.6
-Architecture: iphoneos-arm
-Installed-Size: 15964
-Depends: firmware (>= 12.0)
-Filename: ./debs/com.Lakr233.Saily_0.6_iphoneos-arm.deb
-Size: 33135372
-MD5sum: e6b5c3cea1aad587a135f34cde7a6bba
-SHA1: 0a0102612b512c4ea28f938b0d2f9e6879ba549e
-SHA256: 969ca555ffb565196d08ee65641d4468c0dcfdbb68d88b2c2928add60357d7c7
-Section: Packaging
-Description: 用来下载deb插件的，用filza提取
-Name: Saily
-
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
