@@ -1099,6 +1099,22 @@ Author: zlw555
 Icon: Tweaks.png
 Name: iOS14去设置和单手键盘
 
+Package: zlw555.alipay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw555.alipay_支付宝_iphoneos-arm.deb
+Size: 3106
+MD5sum: 567596177dc1602fe0aa7ca5ac82683c
+SHA1: f56320e1fb9f89ef81100dbc60328a9e6906df99
+SHA256: fdacf9c31c4798482795dd99a2fdc96b1f6a1d8be2b12e710aefbf98fbb6cc0b
+Section: 自用插件
+Description: 精简
+Author: zlw555
+Name: 支付宝10.2.0~10.2.33优化
+
 Package: zlw555.aysxcrack
 Version: 1.0-1
 Architecture: iphoneos-arm
