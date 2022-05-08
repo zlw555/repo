@@ -1165,6 +1165,22 @@ Description: gestures14,14系的备用机6s专用
 Author: zlw555
 Name: gestures6s
 
+Package: zlw555.gestures6s
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: 张亮伍
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw555.gestures6s_3.1_iphoneos-arm.deb
+Size: 2926
+MD5sum: 1911e5e38753bc8f139c4f73212c905f
+SHA1: be3c41174bef82520a712ce6a6c507380f216b9b
+SHA256: 7d1f8599dcb4ef1100b8218a9f60d8a8645e1daadaf24addb30e58ea73012b82
+Section: Tweaks
+Description: gestures14,14系的备用机6s专用
+Author: 张亮伍
+Name: gestures14
+
 Package: zlw555.skpaymenttransaction
 Version: 1.0
 Architecture: iphoneos-arm
