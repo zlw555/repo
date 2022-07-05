@@ -516,38 +516,6 @@ Description: 电脑登录微信时，打开手机微信APP，自动确认登录�
 Author: Snail
 Name: 微信自动确认登录
 
-Package: sqlite3
-Version: 3.24.0-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 4304
-Pre-Depends: dpkg (>= 1.14.25-8)
-Replaces: sqlite3 (<= 3.5.9-11)
-Filename: ./debs/sqlite3_3.24.0-1_iphoneos-arm.deb
-Size: 700486
-MD5sum: 26edebeeed5c09a6f1565eaf0a39786d
-SHA1: ba4acda9c0c8c80a1b9fbb7845ca598b066a173b
-SHA256: f450f7bc579fc19c578f0be6400050d8c01594a5e69269914f4b720e0f2834a5
-Section: Data_Storage
-Priority: standard
-Description: embedded database used by iPhoneOS
-Name: SQLite 3.x
-
-Package: uuid
-Version: 1.6.2-1
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Installed-Size: 384
-Filename: ./debs/uuid_1.6.2-1_iphoneos-arm.deb
-Size: 24492
-MD5sum: 38330da694cb92480d0c7b3d50f4cb34
-SHA1: c2bdde800a4b0f485a03724d3b8f62e5c19756f6
-SHA256: f79735a20b26ee5a0bdd8e8856745f435aea271235dc22598efd40a0049c79d0
-Section: System
-Priority: important
-Description: universally unique identifiers
-Name: UUID Generator
-
 Package: wechatjbdbypass
 Version: 1.0
 Architecture: iphoneos-arm
