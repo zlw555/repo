@@ -550,6 +550,22 @@ Author: zlw555
 Icon: Tweaks.png
 Name: iOS14去设置和单手键盘
 
+Package: zlw555.alipay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw555.alipay_1.0_iphoneos-arm.deb
+Size: 3186
+MD5sum: 756fbf01e710dcc44bf639b009d6ff71
+SHA1: 2afadb379166c8dce1f5db79e85c2f4d62bf2f37
+SHA256: 0fd534e8f79690cda5291a6caf2a9774dc2108cffd1420166e9109f9c11fb07f
+Section: 自用插件
+Description: 精简!只适用arm64设备
+Author: zlw555
+Name: 支付宝10.2.33优化～2021.9.18更新
+
 Package: zlw555.aysxcrack
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -681,18 +697,18 @@ Author: zlw555
 Name: 威锋去广告
 
 Package: zlw555.xhome
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.xhome_1.0_iphoneos-arm.deb
-Size: 3028
-MD5sum: b8ccaf61395c119344f6b09b14389ff0
-SHA1: bea88f43e4cfdc74f12af0c17c7867f5a6a88b25
-SHA256: 9eff68c9dea74d8e18253b4b852bc95df3b570eb4624d4d13a57a9893e2ed950
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Filename: ./debs/zlw555.xhome_1.1_iphoneos-arm.deb
+Size: 3040
+MD5sum: 702ee5a4c6281e9633d13d9124b39354
+SHA1: 28968362932e07cf0d4d5cb8058134589c64db36
+SHA256: 123e3f512d3fddc5b0e53fcc2c74452160a92ac1cc3e4ab13d940c261420e809
+Section: 自用插件
+Description: iPhone7自用!
 Author: zlw555
 Name: xhome
 
