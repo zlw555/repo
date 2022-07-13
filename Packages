@@ -500,22 +500,6 @@ Author: Sam Bingner
 Icon: Tweaks.png
 Name: TetherMe for iOS8+
 
-Package: snail.wechatautologin
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Snail
-Installed-Size: 200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/snail.wechatautologin_1.0_iphoneos-arm.deb
-Size: 6036
-MD5sum: 3645ed8b4ac9967b3a682fb54e688923
-SHA1: e964b274e1a7457bf6c0f1d5ff27abc20b5dc8cd
-SHA256: 6f7f7c1d76a6df91f6a946f403d10d53178c800e3e7df98f30bbe8054cc818f3
-Section: 自用插件
-Description: 电脑登录微信时，打开手机微信APP，自动确认登录。支持所有微信版本。
-Author: Snail
-Name: 微信自动确认登录
-
 Package: wechatjbdbypass
 Version: 1.0
 Architecture: iphoneos-arm
@@ -601,22 +585,6 @@ Name: 爱阅书香Pro
 Sponsor: Netskao
 
 Package: zlw555.gestures6s
-Version: 3.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.gestures6s_3.0_iphoneos-arm.deb
-Size: 2760
-MD5sum: 3145a352c1ef3ab7a329e98718484c25
-SHA1: 25551c97128574582f396b8fd3b000c11321fd9c
-SHA256: 31fc3ef98e5d40f257ac6d8608e76977fdbba40d01f13408dd80c38355b4be9a
-Section: 自用插件
-Description: gestures14,14系的备用机6s专用
-Author: zlw555
-Name: gestures6s
-
-Package: zlw555.gestures6s
 Version: 3.2
 Architecture: iphoneos-arm
 Maintainer: 张亮伍
@@ -680,21 +648,21 @@ Description: ︎最高支持小猿搜题10.10.0去广告,去升级+破解时长�
 Author: zlw555
 Name: ︎小猿搜题破解
 
-Package: zlw555.weifengqad
+Package: zlw555.wechatjb
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.weifengqad_1.0_iphoneos-arm.deb
-Size: 2608
-MD5sum: 947a0bb39d81730a1873758e2c4eb733
-SHA1: d618b2ffa44d51c5bdd445a6e84254598b554248
-SHA256: e575839e54234ba41dddd273ebb17d5965ba84a6cf7559a1cf8c774530f20801
-Section: 自用插件
-Description: 威锋去广告!
-Author: zlw555
-Name: 威锋去广告
+Filename: ./debs/zlw555.wechatjb_1.0_iphoneos-arm.deb
+Size: 2918
+MD5sum: 391cd15b8036c2ae3977da3e610ac165
+SHA1: 6e111610d275d24c77fc78e82b52f3177eae0fe6
+SHA256: 12a67084e68686c89a5bd55baf42df9315e23f667599d6a9cf81eada871f9965
+Section: Tweaks
+Description: 微信7.2.1电脑自动登录，callkit，只支持arm64位设备!
+Author: 自用插件
+Name: 微信屏蔽越狱
 
 Package: zlw555.xhome
 Version: 1.1
