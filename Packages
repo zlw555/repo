@@ -600,6 +600,22 @@ Author: Netskao
 Name: 爱阅书香Pro
 Sponsor: Netskao
 
+Package: zlw555.bankabc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw555.bankabc_1.0_iphoneos-arm.deb
+Size: 2314
+MD5sum: 79245ada3abd4d944e4e20c29bd9424e
+SHA1: 1cfc349a42dd2fedbfa0085cd1898ebb1bae7d31
+SHA256: 73b8dbc1233779b3470780e774b43bd10fde27b4a99c9e8998f510180edca3af
+Section: 自用插件
+Description: 自用，只支持arm64位设备!
+Author: zlw555
+Name: 农行JBDypass
+
 Package: zlw555.gestures6s
 Version: 3.2
 Architecture: iphoneos-arm
