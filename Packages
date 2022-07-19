@@ -14,6 +14,22 @@ Author: appbox
 Name: 香色閨閣
 Tags: compatible_min::ios10.0
 
+Package: com.coolstar.taurine
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: coolstar
+Depends: firmware (>=14.0)
+Filename: ./debs/Cheyote.deb
+Size: 18803976
+MD5sum: 628cf25fd4854b0bcb00ccabee2d35dc
+SHA1: f5d3ac3fa8b4cf9f2f0c3a2d1e181c30c332fb74
+SHA256: 327620cd91936adc179fa75bad4e3cbc06b5dc06bb18f83dd927c9fe49df03b6
+Section: Applications
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Author: coolstar
+Name: Cheyote
+Tags: compatible_min::ios14.0
+
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
