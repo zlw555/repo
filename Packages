@@ -648,6 +648,22 @@ Description: gestures14,14系的备用机6s专用
 Author: 张亮伍
 Name: gestures14
 
+Package: zlw555.jysileo
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw555.jysileo_1.1_iphoneos-arm.deb
+Size: 1388
+MD5sum: 3381362f78f2c32bb15fdd42f0672cd4
+SHA1: 31cf568638416044237cf109d63d7e1517658cc3
+SHA256: f58d1f4d888e9760a9e2443904e8c2e024f4635c8e84b5987c2f0a2c90c019d0
+Section: 自用插件
+Description: 配合我修改的牛磺酸使用，看不懂的别乱装，会激活不了越狱的。/var/root/下有角本，filza文件管理器点击运行也可以
+Author: zlw555
+Name: 禁用sileo商店
+
 Package: zlw555.new3guangxibank
 Version: 1.1
 Architecture: iphoneos-arm
