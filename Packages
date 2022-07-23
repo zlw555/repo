@@ -153,6 +153,26 @@ Author: cybp888
 Icon: tweak.png
 Name: 一键锁屏
 
+Package: mterminal
+Version: 1.4-6
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 776
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: ./debs/mterminal_1.4-6_iphoneos-arm.deb
+Size: 108042
+MD5sum: dedfc589450b43d268bfc369d5b2f4c8
+SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
+SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
+Section: Utilities
+Priority: standard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Description: A MobileTerminal fork
+Author: lordscotland <admin@officialscheduler.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Name: MTerminal
+
 Package: netskao.alypgetdownloadurl
 Version: 1.1-1
 Architecture: iphoneos-arm
