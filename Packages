@@ -140,17 +140,17 @@ Sileodepiction: https://repo.lenglengyu.top/packageInfo/xystzqsileo
 Package: lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
+Maintainer: cybp888
 Depends: firmware (>= 10.0), mobilesubstrate
 Filename: ./debs/lockbutton_1.0-2_iphoneos-arm.deb
-Size: 18256
-MD5sum: 9997b9ee402a3e8b9455c3e6630419ea
-SHA1: 768689a11ffc28c65b5caaf02472fb5ca5ba9100
-SHA256: caa00cceb51828c3afeebb7e9af2219b16e0860dd34b16d693b3534db9f5be6f
+Size: 18260
+MD5sum: 67de5096a3f76c6bdf1e17bf71c4d44b
+SHA1: e74b0391a791fa8c68740a4a17b9cdcf25ab4270
+SHA256: aa49812b386b5c878b9a5a022db38d9aef67b36726853b30cabb57634feb7ead
 Section: 自用插件
 Priority: optional
 Description: 桌面一键锁屏，有图标，无后台
 Author: cybp888
-Icon: tweak.png
 Name: 一键锁屏
 
 Package: mterminal
