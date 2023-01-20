@@ -1,3 +1,19 @@
+Package: com.appbox.StandarReader.123
+Version: 2.56.1
+Architecture: iphoneos-arm
+Maintainer: appbox
+Depends: firmware (>=10.0)
+Filename: ./debs/香色.deb
+Size: 1530328
+MD5sum: 1c05d2ffae5fe85098b0b8e02e613e50
+SHA1: 913783453956da9b9f74a8124dea17508ba155bc
+SHA256: 688450e4ef36fe59ac9d06b02cf5e74cc98047fd08e13c61ad4371b97c0ba1d7
+Section: Applications
+Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
+Author: appbox
+Name: 香色閨閣
+Tags: compatible_min::ios10.0
+
 Package: com.coolstar.taurine
 Version: 1.1.6
 Architecture: iphoneos-arm
