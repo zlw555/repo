@@ -3,7 +3,7 @@ Version: 2.56.1
 Architecture: iphoneos-arm
 Maintainer: appbox
 Depends: firmware (>=10.0)
-Filename: ./debs/香色.deb
+Filename: ./debs/xsgg.deb
 Size: 1530328
 MD5sum: 1c05d2ffae5fe85098b0b8e02e613e50
 SHA1: 913783453956da9b9f74a8124dea17508ba155bc
