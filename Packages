@@ -513,6 +513,27 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://cdn.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: ru.rejail.tetherme8
+Version: 2.1.1k
+Architecture: iphoneos-arm
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 23050
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/ru.rejail.tetherme8_2.1.1k_iphoneos-arm.deb
+Size: 7711646
+MD5sum: ddfb11249c0cde69eb99d3e124ef1521
+SHA1: 28e729f2991ab997f94e03824f9d45118c2a8fbe
+SHA256: 443543a454c54efe175f197d0f22f4325ed219333687cdeabfbbcef5a9d5caa3
+Section: Tweaks
+Description: Более расширенные настройки режима модема
+Author: Sam Bingner <support@tetherme.net>
+Depiction: https://rejail.ru/depiction.php?file=tetherme8
+Icon: file:///Library/PreferenceBundles/TetherMe.bundle/TetherMe@2x.png
+Name: TetherMe for iOS 8+
+Sileodepiction: https://rejail.ru/sileo/depiction.php?file=tetherme8
+
 Package: ru.rj.ftt
 Version: 0.8
 Architecture: iphoneos-arm
@@ -550,24 +571,6 @@ Description: arm64e设备下载0.8版，终端输入ftt命令
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Name: Flex3转Theos
-
-Package: sileoturkiye.tetherme8
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: Önder Azazi <onderazazi@hotmail.com>
-Pre-Depends: mobilesubstrate (>=0.9.5101)
-Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: net.tetherme.tetherme, net.tetherme.tetherme8
-Filename: ./debs/sileoturkiye.tetherme8_2.1.1_iphoneos-arm.deb
-Size: 4191940
-MD5sum: b75a0b20e257e719c9872c481290d4de
-SHA1: 985ccb260e7454c050ba1f872595ef2f078645ba
-SHA256: d3f50ecdd4a8d3d37d3997c2477ccf530be01007738e2f6af318d5a5d0cc7596
-Section: 自用插件
-Description: tetherme网络共享，可共享vpn.
-Author: Sam Bingner
-Icon: Tweaks.png
-Name: TetherMe for iOS8+
 
 Package: wechatjbdbypass
 Version: 1.0
