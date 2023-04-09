@@ -50,6 +50,38 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
+Package: com.zlw555.locallapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.locallapp_1.0_iphoneos-arm.deb
+Size: 2984
+MD5sum: 7e016b23cc8dcddee34dd2882e870b75
+SHA1: cdd93ac87212a4b5b1bc558befff0343e7d6faad
+SHA256: 64ae8959f1cd990f8b126e77bfc87c519e07935a07d6842189cbff9e56c1d425
+Section: Tweaks
+Description: 付费页面x掉就可以了
+Author: zlw555
+Name: 内购
+
+Package: com.zlw555.starvpn310k
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.zlw555.starvpn310k_1.0_iphoneos-arm.deb
+Size: 3112
+MD5sum: 688168ef8fca42c68ed9e0d4cf1667fc
+SHA1: 1905b7204d39e74ca75c0bf8a0aa886d5105b0d0
+SHA256: 62889e20915bf3bca89a47036fd2fd77774bf7bcf680d68fa7bd46bca619d72f
+Section: Tweaks
+Description: Star VPN 2023.4.9
+Author: zlw555
+Name: Star VPN 2.1.0k
+
 Package: com.zlw555.urlad
 Version: 1.5
 Architecture: iphoneos-arm
