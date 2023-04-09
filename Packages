@@ -50,6 +50,22 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
+Package: com.zlw555.urlad
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.urlad_1.5_iphoneos-arm.deb
+Size: 3846
+MD5sum: 2c7bb3b74c8b1c3b01e923246038a209
+SHA1: 085118875976797cd9519325c557dd211673c0e4
+SHA256: 55408bd8709804bec1796f59a932be93a7f4dfe040f3b9f115d7de2c6fd19f8d
+Section: Tweaks
+Description: url去广告
+Author: zlw555
+Name: 露营应全url去广告
+
 Package: cydiabc.aiyue
 Version: 1.7
 Architecture: iphoneos-arm
