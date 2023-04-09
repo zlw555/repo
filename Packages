@@ -230,10 +230,10 @@ Maintainer: Nets
 Installed-Size: 4932
 Depends: firmware (>= 11.0)
 Filename: ./debs/netskao.injectipa_2.3-2_iphoneos-arm.deb
-Size: 1228508
-MD5sum: c85f9c5721fafd802b584c2023cc0f56
-SHA1: 6561b7106a285b5ec62b6f02882fe43e69352d64
-SHA256: e7be687195a37ff7c6b0df5ce6273193f3564e08ecd22d495f58b64ad1248fe4
+Size: 1745850
+MD5sum: ecf4f79fe2e3d0164278f864ab24d7b6
+SHA1: c44e95133ad1271e43c3576b50c30693c4bb8ec7
+SHA256: 79297ce372a62fe8d14230b22299bdf2926a39c40c42213f239416f12e91201c
 Section: Netskao-Tweaks
 Homepage: https://github.com/Netskao/MacOS-Utils
 Description: injectipa是一款命令行一键注入dylib到ipa工具。自用把命令改成ipa了用法：ipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可)。其它参数执行ipa查看即可，注入完成后的IPA需要签名使用
