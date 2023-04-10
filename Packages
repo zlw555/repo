@@ -50,6 +50,22 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
+Package: com.zlw555.iosxhome
+Version: 1.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.iosxhome_1.0-2+debug_iphoneos-arm64.deb
+Size: 4012
+MD5sum: 0b78a2f8bd567084ca788330f6a442cb
+SHA1: 2b530c83bccd8461131e15a1e669f6bffe8e082e
+SHA256: 66f1c3d215cc0a461d8ceeb4bade1c2fbec4d316ef8e47cdf5a76605d9a81574
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: zlw555
+Name: iosxhome
+
 Package: com.zlw555.locallapp
 Version: 1.0
 Architecture: iphoneos-arm
