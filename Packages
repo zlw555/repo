@@ -50,6 +50,22 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
+Package: com.zlw555.ios15xhome
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.ios15xhome_1.1_iphoneos-arm64.deb
+Size: 3528
+MD5sum: 226c942eb05cb3a99e68ea3c28e460cb
+SHA1: 048b385fca3778a06329fcefbcdde485a1e51be3
+SHA256: 0825bcea6827880b790a4837b93d484a3f1a269f58d2b2a09d52082687d9959a
+Section: Tweaks
+Description: ios15x手势 dock透明
+Author: zlw555
+Name: ios15xhome
+
 Package: com.zlw555.iosxhome
 Version: 1.0-2+debug
 Architecture: iphoneos-arm64
@@ -113,6 +129,38 @@ Section: Tweaks
 Description: url去广告
 Author: zlw555
 Name: 露营应全url去广告
+
+Package: com.zlw555.urlad
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.urlad_1.5_iphoneos-arm64.deb
+Size: 3910
+MD5sum: 68ed7e844d912a8eedf4ca613c2d7381
+SHA1: d6a98bf8897fee6e151078149be72671431cbd5e
+SHA256: 16f9c6dca743db32462979503a8959a08820788cc21e1f88f894892a0be68751
+Section: Tweaks
+Description: url去广告
+Author: zlw555
+Name: 露营应全url去广告
+
+Package: com.zlw555.wxcallkit
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.zlw555.wxcallkit_1.0_iphoneos-arm64.deb
+Size: 3112
+MD5sum: 80fbad7559146b77ddf9a13fde32c111
+SHA1: f9045b1020f573dec67206ce661cc15828984433
+SHA256: 38e8e1b588d27e3fd9c176a736517a579c214ffdfed158ffa2d5a23bf47f5503
+Section: Tweaks
+Description: 微信callkit
+Author: zlw555
+Name: 微信callkit
 
 Package: cydiabc.aiyue
 Version: 1.7
