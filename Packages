@@ -51,6 +51,26 @@ Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
 Package: com.hius.halfipad
+Version: 3.8.0
+Architecture: iphoneos-arm64
+Maintainer: Hius
+Installed-Size: 204
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
+Filename: ./debs/com.hius.halfipad_3.8.0_iphoneos-arm64.deb
+Size: 34850
+MD5sum: fbafda4c5518a2fceb3ea5adc04d59db
+SHA1: 8d7a10c8b5e1d8f1e79c0094fcdd59a6cbd2d0e3
+SHA256: 9d86ddcac7c42ba44d4345955ee9edc87f9149cb7eaa52095d84b7efd53f039e
+Section: Tweaks
+Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
+Author: Hius
+Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
+Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
+Name: HalFiPad
+Sileodepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
+
+Package: com.hius.halfipad
 Version: 3.8.3
 Architecture: iphoneos-arm64
 Maintainer: Hius
