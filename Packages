@@ -50,66 +50,6 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
-Package: com.hius.halfipad
-Version: 3.8.0
-Architecture: iphoneos-arm64
-Maintainer: Hius
-Installed-Size: 204
-Depends: mobilesubstrate, preferenceloader
-Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
-Filename: ./debs/com.hius.halfipad_3.8.0_iphoneos-arm64.deb
-Size: 34850
-MD5sum: fbafda4c5518a2fceb3ea5adc04d59db
-SHA1: 8d7a10c8b5e1d8f1e79c0094fcdd59a6cbd2d0e3
-SHA256: 9d86ddcac7c42ba44d4345955ee9edc87f9149cb7eaa52095d84b7efd53f039e
-Section: Tweaks
-Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
-Author: Hius
-Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
-Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Name: HalFiPad
-Sileodepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
-
-Package: com.hius.halfipad
-Version: 3.8.3
-Architecture: iphoneos-arm64
-Maintainer: Hius
-Installed-Size: 108
-Depends: mobilesubstrate, preferenceloader
-Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
-Filename: ./debs/com.hius.halfipad_3.8.3_iphoneos-arm64.deb
-Size: 14386
-MD5sum: e69a3e62732ad63f7e3db820f5fa052c
-SHA1: be7fa0d8e629002e3084ee1a7cd504ef5e71dbe8
-SHA256: e9e9ab52f9a4c4923c0fcee2e08616360c70cc11c81420d95fd6c1426b91f141
-Section: Tweaks
-Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
-Author: Hius
-Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
-Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Name: HalFiPad
-Sileodepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
-
-Package: com.hius.halfipad
-Version: 3.8.4
-Architecture: iphoneos-arm64
-Maintainer: Hius
-Installed-Size: 204
-Depends: mobilesubstrate, preferenceloader
-Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
-Filename: ./debs/com.hius.halfipad_3.8.4_iphoneos-arm64.deb
-Size: 21090
-MD5sum: aca02cc86fccf33aa16755d03a54c937
-SHA1: ce82098d855a8d9e3f80ee2e27f00c72597fa97d
-SHA256: 84becedc36600b7963dcf89880c0760dee1eaa5153947e338fa7e95fa1998c4e
-Section: Tweaks
-Description: Modern gestures, iPad features, and many unique features but lightweight and less battery drain.
-Author: Hius
-Depiction: https://cypous.github.io/depictions/web/?p=com.hius.halfipad
-Icon: https://raw.githubusercontent.com/v-hius/HalFiPad/master/HalFiPadPrefs/Resources/icon%402x.png
-Name: HalFiPad
-Sileodepiction: https://cypous.github.io/depictions/native/com.hius.halfipad/depiction.json
-
 Package: com.zlw555.ios15xhome
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -157,22 +97,6 @@ Section: Tweaks
 Description: iOS15无限根x手势,Dock透明，无翻页点，隐藏锁屏相机，隐藏状态栏旋转图标，隐藏控制中心状态栏
 Author: zlw555
 Name: ios15xhome
-
-Package: com.zlw555.iosxhome
-Version: 1.0-2+debug
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.iosxhome_1.0-2+debug_iphoneos-arm64.deb
-Size: 4012
-MD5sum: 0b78a2f8bd567084ca788330f6a442cb
-SHA1: 2b530c83bccd8461131e15a1e669f6bffe8e082e
-SHA256: 66f1c3d215cc0a461d8ceeb4bade1c2fbec4d316ef8e47cdf5a76605d9a81574
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: zlw555
-Name: iosxhome
 
 Package: com.zlw555.locallapp
 Version: 1.0
