@@ -50,23 +50,6 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
-Package: com.hius.gesturesi11
-Version: 3.6.6
-Architecture: iphoneos-arm64
-Maintainer: Hius
-Installed-Size: 248
-Depends: mobilesubstrate, preferenceloader
-Replaces: com.hius.gesturesi11vn
-Filename: ./debs/com.hius.gesturesi11_3.6.6_iphoneos-arm64.deb
-Size: 25646
-MD5sum: 9b45fc0595eb1e0e52118254461f8544
-SHA1: 4c798c430a32861dfe37b547e7d5fb470ed8dc3a
-SHA256: 07d602b0764ec3fe23e06684c7bbfd34d329969a48d1f4f608c8545e27d88d92
-Section: Tweaks
-Description: iPhone 11 gestures and other options.
-Author: Hius
-Name: Gesturesi11
-
 Package: com.zlw555.ios15xhome
 Version: 1.1
 Architecture: iphoneos-arm64
