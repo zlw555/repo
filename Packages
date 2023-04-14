@@ -162,38 +162,6 @@ Description: 微信callkit
 Author: zlw555
 Name: 微信callkit
 
-Package: com.zlw555.xstatusbar
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.xstatusbar_1.0_iphoneos-arm64.deb
-Size: 3542
-MD5sum: e8081a93616e8b08bb74e15ed69237d9
-SHA1: d7842d5325b4f859a4e308987f8beaee76f2c3da
-SHA256: ecea55da25bd1590eb4d68b0bfec8aa7a5400f4cd0c932d97b856ef5833adc1e
-Section: Tweaks
-Description: x状态栏1.1和1.0不同版本
-Author: zlw555
-Name: x状态栏
-
-Package: com.zlw555.xstatusbar
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.xstatusbar_1.1_iphoneos-arm64.deb
-Size: 4104
-MD5sum: 85f241d2fd0cac8e1f44c6b035c522e6
-SHA1: 82273e07c73d68fe6bac279e7bc7a07cd27c5a38
-SHA256: fcf4762a2a833ac25667783638b34aa36153ff03bd013d1d516ec2af2c18b9ff
-Section: Tweaks
-Description: x状态栏1.1和1.0不同版本
-Author: zlw555
-Name: x状态栏
-
 Package: cydiabc.aiyue
 Version: 1.7
 Architecture: iphoneos-arm
