@@ -50,6 +50,38 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
+Package: com.michael.generatorautosetter
+Version: 0.5.11
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware (>= 12.0), com.michael.libdementia (>= 0.2.7), preferenceloader
+Filename: ./debs/com.michael.generatorautosetter_0.5.11_iphoneos-arm.deb
+Size: 11392
+MD5sum: 2e57b0c5c9d2e116c1404e2182ea30b1
+SHA1: 34df84331d20789fed7c90796b212ce4f198cae7
+SHA256: 9d4894d93e74df1e91baea71dd5303429ba6cdd9cb2dd0bfd34fd7923662a938
+Section: Tweaks
+Description: Auto set your generator when jailbreaking!
+Author: Halo Michael <yc992147156@me.com>
+Depiction: https://halo-michael.github.io/repo/info/generatorautosetter
+Name: Generator Auto Setter
+Sponsor: Halo Michael <yc992147156@me.com>
+
+Package: com.michael.libdementia
+Version: 0.2.19
+Architecture: iphoneos-arm
+Maintainer: Halo Michael <yc992147156@me.com>
+Depends: firmware(>= 10.0), firmware(<< 14.0) | libkrw | org.coolstar.libkernrw
+Filename: ./debs/com.michael.libdementia_0.2.19_iphoneos-arm.deb
+Size: 14000
+MD5sum: 4eb54d2c8fe7395b400a4523ab0518c6
+SHA1: 9ae1e2159ae9f9ab518f9dd85123eb6992fdd5da
+SHA256: 011ed5c81d6da8be4f7c92dc480b16af810245f483e33251f98624522597f283
+Section: System
+Description: Library of dimentio
+Author: 0x7ff
+Name: libdementia
+
 Package: com.zlw555.ios15xhome
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -247,6 +279,22 @@ Description: 微信常驻优化，只支持arm64设备
 Author: iFlex <(null)>
 Name: 微信 黑科技 v7.0.3~8.0.16   ✔︎
 
+Package: libkrw
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Siguza
+Filename: ./debs/libkrw_1.1.1_iphoneos-arm.deb
+Size: 7216
+MD5sum: 3257fefd1308add040694912646c5360
+SHA1: 271885860ae03320ef049ade3662ac9e77e1119a
+SHA256: 324bb3d5fe6a0c743bd631c1c06b1812637cd5dfd682449dd3b0e3f755417116
+Section: Development
+Priority: optional
+Homepage: https://github.com/Siguza/libkrw/
+Description: Nice kernel r/w API
+Author: Siguza
+Name: libkrw
+
 Package: lly.solar
 Version: 0.0.1-1
 Architecture: iphoneos-arm
@@ -300,6 +348,63 @@ Description: A MobileTerminal fork
 Author: lordscotland <admin@officialscheduler.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 Name: MTerminal
+
+Package: net.tetherme.tetherme8
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 24313
+Pre-Depends: mobilesubstrate (>=0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/net.tetherme.tetherme8_2.1.1_iphoneos-arm.deb
+Size: 7583776
+MD5sum: 0e74e279442895659e69eb664014dbef
+SHA1: 168d8e351b0475103d9a4c9b7794fe31a8458324
+SHA256: ab268db05b72a5562a306f4b19cc27c42fa599cc2c19505959dfd5df6ccbf61d
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
+Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
+Tag: purpose::extension
+Author: Sam Bingner <support@tetherme.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
+Dev: tetherme
+Icon: file:///Library/PreferenceBundles/TetherMe.bundle/TetherMe@2x.png
+Name: TetherMe for iOS 8+
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.3dnetworkfixer
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 448
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/netskao.3dnetworkfixer_1.1-8_iphoneos-arm.deb
+Size: 99266
+MD5sum: 07dd3a44ab7d7daaea66bbaf2e6e1eca
+SHA1: c89bad3838a959abc752352d0314390e9c2c0e17
+SHA256: b914e0727b59cfa486d03ceb3dba015658aae22a83fd72df8a10d1ca548504d9
+Section: Netskao-Tweaks
+Description: 3D desktop menu, quick fix for the app networking permissions, Supports iOS13-iOS15
+Author: Netskao
+Name: 3DNetworkFixer
+
+Package: netskao.alwayslowpower
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 136
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/netskao.alwayslowpower_1.1-2_iphoneos-arm.deb
+Size: 7542
+MD5sum: a162dc418692b83cee60224c7f2ac4e5
+SHA1: 3a42929f7ca36571f3a821571e54650d0942953b
+SHA256: f64b954888ccea898df56be322f5dcd99fc3da0e30789745228e0f0b653c406f
+Section: Netskao-Tweaks
+Description: 让设备总是处于低电量模式
+Author: Netskao
+Name: AlwaysLowPower
 
 Package: netskao.alypgetdownloadurl
 Version: 1.1-1
@@ -716,6 +821,28 @@ Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加
 Author: 糖醋丶炒排骨
 Icon: Tweaks.png
 Name: 微信JBDBypass
+
+Package: wiki.qaq.iridium
+Version: 1.2.15
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 15312
+Depends: firmware (>= 13.5)
+Filename: ./debs/wiki.qaq.iridium_1.2.15_iphoneos-arm.deb
+Size: 5423226
+MD5sum: 98c491f37d30383e6ad35cef0d971eeb
+SHA1: 423397be70c5ae10042f70adc2ad7feaf94a541d
+SHA256: b17b29656f6a720b70b33a29abad54ead389ec1fb9faf84c0b7233b3239cf731
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
+Description: An iOS application decrypter built ready for use.
+Tag: purpose::uikit
+Author: Lakr Aream <launchctl@outlook.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
+Dev: lakraream
+Name: iridium
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: zlw.keyboardsz
 Version: 1.0
