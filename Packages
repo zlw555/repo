@@ -82,6 +82,40 @@ Description: Library of dimentio
 Author: 0x7ff
 Name: libdementia
 
+Package: com.poqw312
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poqw312
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.poqw312_1.0_iphoneos-arm.deb
+Size: 3568
+MD5sum: ce0459b5214b953cd92833621fcecefa
+SHA1: 1a13e23d8e27f3f599d845aff5d4a3dc71b4620d
+SHA256: 172edf2afc33cf89c46ae5cf571dc6d97a028d2d70ea5667d9fcedd9b08e89ae
+Section: Tweaks
+Description: 1.去除启动广告
+ 2.去除弹窗广告
+Author: poqw312
+Name: ⚡【牛蛙助手】V1.2.14去广告
+
+Package: com.poqw312
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: poqw312
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.poqw312_1.0_iphoneos-arm64.deb
+Size: 3598
+MD5sum: 2683b6fdf42cf10037b7f9de2c89c907
+SHA1: d5f965dded6753dd300a6aca37bc722995eea557
+SHA256: 416c58f580bcc962234a1d9dc590f1ef7b07187b972385930ab4a72f9185753c
+Section: Tweaks
+Description: 1.去除启动广告
+ 2.去除弹窗广告
+Author: poqw312
+Name: ⚡【牛蛙助手】V1.2.14去广告
+
 Package: com.zlw555.ios15xhome
 Version: 1.1
 Architecture: iphoneos-arm64
