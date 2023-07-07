@@ -50,6 +50,22 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
+Package: com.m.weifeng
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.m.weifeng_1.0_iphoneos-arm.deb
+Size: 2880
+MD5sum: 87dbb7509fa447291dec9fadf13c98a4
+SHA1: 8229fef8035543423ccc90bc876a0713965a7756
+SHA256: 52475616a93ed58fa156e5b59613540dd0b3530b86a4bb13bc310dc506c1a8eb
+Section: Tweaks
+Description: 威锋QAD6.8.73
+Author: zlw555
+Name: 威锋QAD
+
 Package: com.michael.generatorautosetter
 Version: 0.5.11
 Architecture: iphoneos-arm
@@ -115,6 +131,30 @@ Description: 1.去除启动广告
  2.去除弹窗广告
 Author: poqw312
 Name: ⚡【牛蛙助手】V1.2.14去广告
+
+Package: com.tigisoftware.filza
+Version: 3.8.0-23
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 28912
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./debs/filzafilemanager_3.8.0-23.deb
+Size: 9496630
+MD5sum: e226dfa8243ddc8c1d8b3d5cc76ac8fa
+SHA1: 15dbefc9e7e2c595109bb4ceda7e9300efde2f06
+SHA256: 0e6bb71c1459eec1943650c6d62d01445feb61bded03ea055c3e1765a29118d7
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: TIGI Software <satashi2009@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.zlw555.ios15xhome
 Version: 1.1
@@ -830,6 +870,26 @@ Dev: lakraream
 Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: xyz.willy.zebra
+Version: 1.1.35
+Architecture: iphoneos-arm
+Maintainer: Zebra Team <team@getzbra.com>
+Installed-Size: 15032
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./debs/xyz.willy.zebra_1.1.35_iphoneos-arm.deb
+Size: 8451964
+MD5sum: b06f660befe419ff53e58e7e4061a58d
+SHA1: e7e9f100536427fceaa7a10621c4bb4488e47f4c
+SHA256: 4d0fd3403d75b34bb8dc5398ec60263ec549db2b5a4ed7b74ce6024b490d304b
+Section: Packaging
+Description: A Useful Package Manager
+Tag: compatible::9.0-16.4
+Author: Zebra Team <team@getzbra.com>
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
+Name: Zebra
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
+
 Package: zlw.keyboardsz
 Version: 1.0
 Architecture: iphoneos-arm
@@ -956,22 +1016,6 @@ Size: 4092
 MD5sum: 8f186dd3caf7a3ea18e1b91777442011
 SHA1: 8da809e1b8f18327f600ba8b467c903bf813deb4
 SHA256: 4a02b86facfb234847a0d468c9aa504f8578caeb6dd5bca9632dd9cb36f9dec2
-Section: Tweaks
-Description: url去广告,已测威锋6.8.73，菲斯，叶千，壳儿。可以去掉多数伪装上架的视频软件。
-Author: zlw555
-Name: url去广告
-
-Package: zlw555.qad
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.qad_1.7_iphoneos-arm64.deb
-Size: 4124
-MD5sum: d53304cfd1a380e64b2325232ff60dd3
-SHA1: 31d15075f87aa5315683d9b89720407903668095
-SHA256: 6891fb26399bbc14960e3d48aa68aee83680bdd217c31ded34e93b6b0c27e479
 Section: Tweaks
 Description: url去广告,已测威锋6.8.73，菲斯，叶千，壳儿。可以去掉多数伪装上架的视频软件。
 Author: zlw555
