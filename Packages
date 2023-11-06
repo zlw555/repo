@@ -14,22 +14,6 @@ Author: appbox
 Name: 香色閨閣
 Tags: compatible_min::ios10.0
 
-Package: com.coolstar.taurine
-Version: 1.1.6
-Architecture: iphoneos-arm
-Maintainer: coolstar
-Depends: firmware (>=14.0)
-Filename: ./debs/Cheyote.deb
-Size: 18803976
-MD5sum: 628cf25fd4854b0bcb00ccabee2d35dc
-SHA1: f5d3ac3fa8b4cf9f2f0c3a2d1e181c30c332fb74
-SHA256: 327620cd91936adc179fa75bad4e3cbc06b5dc06bb18f83dd927c9fe49df03b6
-Section: Applications
-Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
-Author: coolstar
-Name: Cheyote
-Tags: compatible_min::ios14.0
-
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -50,21 +34,25 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
-Package: com.m.weifeng
-Version: 1.0
+Package: com.cydiabc.wechatfakeipad
+Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/com.m.weifeng_1.0_iphoneos-arm.deb
-Size: 2880
-MD5sum: 87dbb7509fa447291dec9fadf13c98a4
-SHA1: 8229fef8035543423ccc90bc876a0713965a7756
-SHA256: 52475616a93ed58fa156e5b59613540dd0b3530b86a4bb13bc310dc506c1a8eb
-Section: Tweaks
-Description: 威锋QAD6.8.73
-Author: zlw555
-Name: 威锋QAD
+Maintainer: Ai-小苹果
+Installed-Size: 160
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.cydiabc.wechatfakeipad.deb
+Size: 18236
+MD5sum: 6ca1150340613614539479e1b5fa54e0
+SHA1: aff5da165c2022ce0524811ff106e2ff428517c1
+SHA256: aa6258d4be6a37e8a55d8e43e8f4c75d8fbad40027adf4cb5332028b6af5c95a
+Section: 微信
+Description: WeChat开启模拟iPad客户端，仅此功能，有设置项
+A12: 1
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Icon2: 10.png
+Name: WeChatFakeiPad 模拟iPad客户端
+Sponsor: Ai-小苹果
 
 Package: com.michael.generatorautosetter
 Version: 0.5.11
@@ -132,30 +120,6 @@ Description: 1.去除启动广告
 Author: poqw312
 Name: ⚡【牛蛙助手】V1.2.14去广告
 
-Package: com.tigisoftware.filza
-Version: 3.8.0-23
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 28912
-Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit
-Filename: ./debs/filzafilemanager_3.8.0-23.deb
-Size: 9496630
-MD5sum: e226dfa8243ddc8c1d8b3d5cc76ac8fa
-SHA1: 15dbefc9e7e2c595109bb4ceda7e9300efde2f06
-SHA256: 0e6bb71c1459eec1943650c6d62d01445feb61bded03ea055c3e1765a29118d7
-Section: Utilities
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
-Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Author: TIGI Software <satashi2009@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Dev: satashi2009
-Icon: file:///Applications/Filza.app/AppIcon57x57.png
-Name: Filza File Manager
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.zlw555.ios15xhome
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -203,22 +167,6 @@ Section: Tweaks
 Description: 付费页面x掉就可以了
 Author: zlw555
 Name: 内购
-
-Package: com.zlw555.starvpn310k
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.zlw555.starvpn310k_1.0_iphoneos-arm.deb
-Size: 3112
-MD5sum: 688168ef8fca42c68ed9e0d4cf1667fc
-SHA1: 1905b7204d39e74ca75c0bf8a0aa886d5105b0d0
-SHA256: 62889e20915bf3bca89a47036fd2fd77774bf7bcf680d68fa7bd46bca619d72f
-Section: Tweaks
-Description: Star VPN 2023.4.9
-Author: zlw555
-Name: Star VPN 2.1.0k
 
 Package: com.zlw555.wxcallkit
 Version: 1.0
@@ -869,26 +817,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
 Dev: lakraream
 Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: xyz.willy.zebra
-Version: 1.1.35
-Architecture: iphoneos-arm
-Maintainer: Zebra Team <team@getzbra.com>
-Installed-Size: 15032
-Depends: dpkg, uikittools, firmware (>= 9.0)
-Filename: ./debs/xyz.willy.zebra_1.1.35_iphoneos-arm.deb
-Size: 8451964
-MD5sum: b06f660befe419ff53e58e7e4061a58d
-SHA1: e7e9f100536427fceaa7a10621c4bb4488e47f4c
-SHA256: 4d0fd3403d75b34bb8dc5398ec60263ec549db2b5a4ed7b74ce6024b490d304b
-Section: Packaging
-Description: A Useful Package Manager
-Tag: compatible::9.0-16.4
-Author: Zebra Team <team@getzbra.com>
-Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
-Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
-Name: Zebra
-Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 
 Package: zlw.keyboardsz
 Version: 1.0
