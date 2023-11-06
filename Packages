@@ -54,6 +54,22 @@ Icon2: 10.png
 Name: WeChatFakeiPad 模拟iPad客户端
 Sponsor: Ai-小苹果
 
+Package: com.m.weifeng
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.m.weifeng_1.0_iphoneos-arm.deb
+Size: 3642
+MD5sum: cb39649e4c636abdfdda34c6b8c7ea2f
+SHA1: 929ed4597b6d52fefc4cf753a54a0c8d0a2f6f69
+SHA256: 029bf30c40f96bf24433ddc848831b7d474eb0822860c1214678edc17d2b44f1
+Section: Tweaks
+Description: 威锋QAD6.8.73
+Author: zlw555
+Name: 威锋QAD
+
 Package: com.michael.generatorautosetter
 Version: 0.5.11
 Architecture: iphoneos-arm
@@ -944,6 +960,22 @@ Size: 4092
 MD5sum: 8f186dd3caf7a3ea18e1b91777442011
 SHA1: 8da809e1b8f18327f600ba8b467c903bf813deb4
 SHA256: 4a02b86facfb234847a0d468c9aa504f8578caeb6dd5bca9632dd9cb36f9dec2
+Section: Tweaks
+Description: url去广告,已测威锋6.8.73，菲斯，叶千，壳儿。可以去掉多数伪装上架的视频软件。
+Author: zlw555
+Name: url去广告
+
+Package: zlw555.qad
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw555.qad_1.8_iphoneos-arm.deb
+Size: 4284
+MD5sum: b58c5c01c3d08aa198673d1fe7de22bb
+SHA1: 02966d1ec71a52e5eb7bebe1579aad424ecf8d21
+SHA256: f38b15e821f2d9559eee9e93c578c2791fc66b84fc00a853d6f5c2ca599cba93
 Section: Tweaks
 Description: url去广告,已测威锋6.8.73，菲斯，叶千，壳儿。可以去掉多数伪装上架的视频软件。
 Author: zlw555
