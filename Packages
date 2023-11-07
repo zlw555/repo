@@ -102,6 +102,21 @@ Description: Library of dimentio
 Author: 0x7ff
 Name: libdementia
 
+Package: com.opa334.trollstorehelper
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 676
+Filename: ./debs/com.opa334.trollstorehelper_1.5.1_iphoneos-arm.deb
+Size: 216352
+MD5sum: b94cabe706ef0071ba68eec4b86bdb92
+SHA1: 4296b82f4d517548d36b67b6814ce4da4f17bf40
+SHA256: af52153c7cd50f85b4d85b5bd19a565a82f796da11bc4380fe0621eb3eb23afc
+Section: Applications
+Description: Helper utility to install and manage TrollStore!
+Author: opa334
+Name: TrollStore Helper
+
 Package: com.poqw312
 Version: 1.0
 Architecture: iphoneos-arm
@@ -479,23 +494,6 @@ Description: 酷我音乐解锁所有歌曲听和缓存限制，解锁所有小�
 Author: Netskao
 Name: 酷我音乐 Crack
 
-Package: netskao.kwyypure
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 480
-Depends: mobilesubstrate
-Replaces: netskao.kwyycrack
-Filename: ./debs/netskao.kwyypure_1.1-1_iphoneos-arm.deb
-Size: 75436
-MD5sum: cc3285aebd6f644cbd3b16c108769592
-SHA1: 27b5a0fa26485ad22cc36d309c8cb06184247d97
-SHA256: 441fbad7b1708ab3c10cf478b18d7b95baf008b47ea2fd1728fe3b44a6c47eb2
-Section: Netskao-Tweaks
-Description: 酷我音乐净化。去除广告，长按视频保存到本地，开启全功能，全音乐可下载，VIP皮肤随便用，解锁海外限制等
-Author: Netskao
-Name: 酷我音乐 净化
-
 Package: netskao.neteasemusicnoads
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -565,22 +563,6 @@ Section: Netskao-Tweaks
 Description: 电脑登陆微信扫码后自动确定，下次电脑点击登陆后跳转微信后直接登录
 Author: Netskao
 Name: WeChatAutoLogin
-
-Package: netskao.wfnoads
-Version: 1.5-9
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 256
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/netskao.wfnoads_1.5-9_iphoneos-arm.deb
-Size: 62688
-MD5sum: 021ffe2580ce64be33d7bbebfa3dc28a
-SHA1: 65b70a33b7ee403724111aaccf188b17caf1251d
-SHA256: 9b2131218e08c76e2039e614d7320c76866a326f8d54c09951880324b3eb906c
-Section: 自用插件
-Description: 威锋去除启动广告，去除贴列表插入广告，去除贴内下方广告横幅，去除我的页面广告横幅，支持6.x所有版本
-Author: Netskao
-Name: 威锋 NoAds
 
 Package: org.coolstar.libhooker
 Version: 1.5.2
@@ -948,22 +930,6 @@ Section: Tweaks
 Description: 农信，去定位提示
 Author: zlw555
 Name: 广西,湖北农信去越狱
-
-Package: zlw555.qad
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.qad_1.7_iphoneos-arm.deb
-Size: 4092
-MD5sum: 8f186dd3caf7a3ea18e1b91777442011
-SHA1: 8da809e1b8f18327f600ba8b467c903bf813deb4
-SHA256: 4a02b86facfb234847a0d468c9aa504f8578caeb6dd5bca9632dd9cb36f9dec2
-Section: Tweaks
-Description: url去广告,已测威锋6.8.73，菲斯，叶千，壳儿。可以去掉多数伪装上架的视频软件。
-Author: zlw555
-Name: url去广告
 
 Package: zlw555.qad
 Version: 1.8
