@@ -478,22 +478,6 @@ Description: injectipa是一款命令行一键注入dylib到ipa工具。自用�
 Author: Netskao
 Name: injectipa
 
-Package: netskao.kwyycrack
-Version: 1.1-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 272
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/netskao.kwyycrack_1.1-5_iphoneos-arm.deb
-Size: 67156
-MD5sum: fd2e63a87d2b35ed6499bec9e9bd7534
-SHA1: bddf85e25831c4ee2fa0953a3a562ed8d19646ca
-SHA256: 9b336c71400be8c9eabd62a3815198c982849833590ea95c5d4ae0204ca45eb6
-Section: 自用插件
-Description: 酷我音乐解锁所有歌曲听和缓存限制，解锁所有小说听和缓存限制，解锁所有数字专辑缓存限制，解锁音效和皮肤限制，解锁非大陆地区限制，去除启动广告，去除播放页面正在直播，去除首页左侧设置中没啥用的功能，去除我的页面直播和小说推广，去除本地/下载/最近播放/收藏中的推荐，增加长按MV视频保存到本地
-Author: Netskao
-Name: 酷我音乐 Crack
-
 Package: netskao.neteasemusicnoads
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -738,44 +722,6 @@ Depiction: https://rejail.ru/depiction.php?file=tetherme8
 Icon: file:///Library/PreferenceBundles/TetherMe.bundle/TetherMe@2x.png
 Name: TetherMe for iOS 8+
 Sileodepiction: https://rejail.ru/sileo/depiction.php?file=tetherme8
-
-Package: ru.rj.ftt
-Version: 0.8
-Architecture: iphoneos-arm
-Maintainer: Randy420 <randy.skinner@hotmail.com>
-Installed-Size: 104
-Depends: mobilesubstrate
-Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
-Filename: ./debs/ru.rj.ftt_0.8_iphoneos-arm.deb
-Size: 20044
-MD5sum: f039a114d589484b7e537414945bc218
-SHA1: c45f600f15a6f58a376ad6aab95bf1fc5e81b304
-SHA256: 01f88c436f5c431e7575c09268463545166a6f86b310d52b4b9d468713043324
-Section: Utilities
-Homepage: https://theemeraldisle.family
-Description: 终端输入ftt命令
-Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
-Depiction: https://Randy-420.GitHub.io/depic/ftt.html
-Name: Flex3转Theos
-
-Package: ru.rj.ftt
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Randy420 <randy.skinner@hotmail.com>
-Installed-Size: 104
-Depends: mobilesubstrate
-Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
-Filename: ./debs/ru.rj.ftt_1.1_iphoneos-arm.deb
-Size: 20308
-MD5sum: 4ffaa4e61a626adc60a85c0364fa783b
-SHA1: 50a41d92a26c839ba630428d1f4823730c51cef3
-SHA256: 3f97dff783bf97a65fc988180d814e7107e181e9d6338bb086cf4eb5d186414b
-Section: 自用插件
-Homepage: https://theemeraldisle.family
-Description: arm64e设备下载0.8版，终端输入ftt命令
-Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
-Depiction: https://Randy-420.GitHub.io/depic/ftt.html
-Name: Flex3转Theos
 
 Package: ru.rj.ftt
 Version: 1.3
