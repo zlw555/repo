@@ -814,40 +814,6 @@ Description: 精简!只适用arm64设备
 Author: zlw555
 Name: 支付宝10.2.33优化～2021.9.18更新
 
-Package: zlw555.aysxcrack
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Netskao
-Installed-Size: 696
-Depends: mobilesubstrate
-Filename: ./debs/zlw555.aysxcrack_6.8.2_iphoneos-arm.deb
-Size: 61932
-MD5sum: fecd2e44f17492b789bd758c8e9b6385
-SHA1: 1799fceaaf43c5ce224540b287c6790ca46eb339
-SHA256: 7320fff7d8752f7529d292efff1436b6972cc8399381ebdccb4f257b5bea4f04
-Section: 自用插件
-Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，兼容APP版本：只支持到6.8.2,用来砸壳注入，iCloud同步用不了
-Author: Netskao
-Name: 爱阅书香Pro
-Sponsor: Netskao
-
-Package: zlw555.aysxcrack
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Netskao
-Installed-Size: 696
-Depends: mobilesubstrate
-Filename: ./debs/zlw555.aysxcrack_1.2_iphoneos-arm.deb
-Size: 59220
-MD5sum: e2328e2e9dba304aef7706196bcb0895
-SHA1: 05ba23a91f49455caffcc90bcdd4c16b65fc2b1e
-SHA256: 51534e2a9b306da2e1b959d077cc6d2ff2f24a8091658d77689aa97a62b26700
-Section: 自用插件
-Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，兼容APP版本：只支持到6.8.5,可用来砸壳注入，iCloud同步用不了
-Author: Netskao
-Name: 爱阅书香Pro
-Sponsor: Netskao
-
 Package: zlw555.bankabc
 Version: 1.0
 Architecture: iphoneos-arm
@@ -911,22 +877,6 @@ Section: Tweaks
 Description: url去广告,已测威锋6.8.73，菲斯，叶千，壳儿。可以去掉多数伪装上架的视频软件。
 Author: zlw555
 Name: url去广告
-
-Package: zlw555.solar
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.solar_1.2_iphoneos-arm.deb
-Size: 3124
-MD5sum: 7d1576e302e3ea6e16fe3d4824ade48b
-SHA1: 240ebf04e3d4ee8d8dcadea7abb909ff66ea3a8c
-SHA256: 71a991af190b10b8859f2be59f8f9918eb2335ed8a83f9c1768c33cf027800ed
-Section: Tweaks
-Description: ︎最高支持小猿搜题10.10.0去广告,去升级+破解时长，
-Author: zlw555
-Name: ︎小猿搜题破解
 
 Package: zlw555.wechatjb
 Version: 1.0
