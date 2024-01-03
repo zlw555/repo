@@ -1,19 +1,3 @@
-Package: com.appbox.StandarReader.123
-Version: 2.56.1
-Architecture: iphoneos-arm
-Maintainer: appbox
-Depends: firmware (>=10.0)
-Filename: ./debs/com.appbox.StandarReader.123_2.56.1_iphoneos-arm.deb
-Size: 1530328
-MD5sum: 1c05d2ffae5fe85098b0b8e02e613e50
-SHA1: 913783453956da9b9f74a8124dea17508ba155bc
-SHA256: 688450e4ef36fe59ac9d06b02cf5e74cc98047fd08e13c61ad4371b97c0ba1d7
-Section: Applications
-Description: App resigned with Linus Henze's CoreTrust bypass so it doesn't expire.
-Author: appbox
-Name: 香色閨閣
-Tags: compatible_min::ios10.0
-
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -117,40 +101,6 @@ Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
 
-Package: com.poqw312
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: poqw312
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.poqw312_1.0_iphoneos-arm.deb
-Size: 3568
-MD5sum: ce0459b5214b953cd92833621fcecefa
-SHA1: 1a13e23d8e27f3f599d845aff5d4a3dc71b4620d
-SHA256: 172edf2afc33cf89c46ae5cf571dc6d97a028d2d70ea5667d9fcedd9b08e89ae
-Section: Tweaks
-Description: 1.去除启动广告
- 2.去除弹窗广告
-Author: poqw312
-Name: ⚡【牛蛙助手】V1.2.14去广告
-
-Package: com.poqw312
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: poqw312
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.poqw312_1.0_iphoneos-arm64.deb
-Size: 3598
-MD5sum: 2683b6fdf42cf10037b7f9de2c89c907
-SHA1: d5f965dded6753dd300a6aca37bc722995eea557
-SHA256: 416c58f580bcc962234a1d9dc590f1ef7b07187b972385930ab4a72f9185753c
-Section: Tweaks
-Description: 1.去除启动广告
- 2.去除弹窗广告
-Author: poqw312
-Name: ⚡【牛蛙助手】V1.2.14去广告
-
 Package: com.zlw555.ios15xhome
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -234,25 +184,6 @@ Icon2: 1.png
 Name: 爱阅书香高级版
 Sponsor: Ai-小苹果
 
-Package: cydiabc.sharecuts
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: daniel
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/cydiabc.sharecuts_1.0_iphoneos-arm.deb
-Size: 2980
-MD5sum: 93ba86e0247e61189f3bc33c9f9e20a6
-SHA1: c79f42d0f27f8bb16dd53a6ad66e25f556b67f31
-SHA256: ea1e335e04b93ef1a0cc97300566a98b857e042118b3ee68a0c46c220977aa83
-Section: 自用插件
-Description: 捷径添加通过文件分享选项，而非上传iCloud分享，效果预览截图
-A12: 1
-Author: daniel
-Icon: Security.png
-Name: Sharecuts捷径分享
-Sponsor: Ai-小苹果™
-
 Package: ibreak.wecallkit
 Version: 1.0
 Architecture: iphoneos-arm
@@ -283,40 +214,6 @@ Section: 自用插件
 Description: 微信常驻优化，只支持arm64设备
 Author: iFlex <(null)>
 Name: 微信 黑科技 v7.0.3~8.0.16   ✔︎
-
-Package: libkrw
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: Siguza
-Filename: ./debs/libkrw_1.1.1_iphoneos-arm.deb
-Size: 7216
-MD5sum: 3257fefd1308add040694912646c5360
-SHA1: 271885860ae03320ef049ade3662ac9e77e1119a
-SHA256: 324bb3d5fe6a0c743bd631c1c06b1812637cd5dfd682449dd3b0e3f755417116
-Section: Development
-Priority: optional
-Homepage: https://github.com/Siguza/libkrw/
-Description: Nice kernel r/w API
-Author: Siguza
-Name: libkrw
-
-Package: lly.solar
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 132
-Depends: mobilesubstrate
-Filename: ./debs/lly.solar_0.0.1-1_iphoneos-arm.deb
-Size: 7216
-MD5sum: a9d40d0ca2238c10f28d939e6734f4e3
-SHA1: 7eaf975686a2a4e5122781a1ea0580238dcc4595
-SHA256: 31b1e57dd7f64489dfb2bb257e8a712afc1b86cb824b7bf9a9678c85009f0917
-Section: 自用插件
-Description: 小猿搜题解锁VIP学习专区30秒试看限制
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/xystzq.html
-Name: 小猿搜题增强
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/xystzqsileo
 
 Package: lockbutton
 Version: 1.0-2
@@ -683,46 +580,6 @@ Icon: Tweaks.png
 Name: Pro助手
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
 
-Package: qiop1379.swipeextenderx
-Version: 1.5.3-1
-Architecture: iphoneos-arm
-Maintainer: qwertyuiop1379 <support@qwertyuiop1379.com>
-Installed-Size: 624
-Depends: firmware (>= 12.0), mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: ./debs/qiop1379.swipeextenderx_1.5.3-1_iphoneos-arm.deb
-Size: 85636
-MD5sum: 53bd0914ce4e8ceb6e5aff1e2c106bd0
-SHA1: 7bde293c41a9793464d8da2bf2a8f610d5175973
-SHA256: affa85cbcb1cd653f5ecd5ae7cdd114db0941f646ccfb5a554952f37aeb0af1c
-Section: 自用插件
-Description: SwipeExtenderX键盘插件!
-Tag: compatible_min::ios12.0
-Author: qwertyuiop1379 <support@qwertyuiop1379.com>
-Depiction: https://chariz.com/get/swipeextenderx
-Icon: https://cdn.chariz.cloud/icon/swipeextenderx/icon@3x.png
-Name: SwipeExtenderX
-
-Package: ru.rejail.tetherme8
-Version: 2.1.1k
-Architecture: iphoneos-arm
-Maintainer: ReJail <rejail@rejail.ru>
-Installed-Size: 23050
-Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: net.tetherme.tetherme
-Replaces: net.tetherme.tetherme
-Filename: ./debs/ru.rejail.tetherme8_2.1.1k_iphoneos-arm.deb
-Size: 7711646
-MD5sum: ddfb11249c0cde69eb99d3e124ef1521
-SHA1: 28e729f2991ab997f94e03824f9d45118c2a8fbe
-SHA256: 443543a454c54efe175f197d0f22f4325ed219333687cdeabfbbcef5a9d5caa3
-Section: Tweaks
-Description: Более расширенные настройки режима модема
-Author: Sam Bingner <support@tetherme.net>
-Depiction: https://rejail.ru/depiction.php?file=tetherme8
-Icon: file:///Library/PreferenceBundles/TetherMe.bundle/TetherMe@2x.png
-Name: TetherMe for iOS 8+
-Sileodepiction: https://rejail.ru/sileo/depiction.php?file=tetherme8
-
 Package: ru.rj.ftt
 Version: 1.3
 Architecture: iphoneos-arm
@@ -797,54 +654,6 @@ Description: iOS14  去设置和单手键盘
 Author: zlw555
 Icon: Tweaks.png
 Name: iOS14去设置和单手键盘
-
-Package: zlw555.alipay
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.alipay_1.0_iphoneos-arm.deb
-Size: 3062
-MD5sum: 4ad527f30a42fe44f0c2d6ec3b667afe
-SHA1: 83b59927bf6a9a6831b68ce29d48e1a6e58d78dc
-SHA256: f8db8223853ba1f0052049bca9d433c387e0887857a4575d53b8ffbe66604a1a
-Section: 自用插件
-Description: 精简!只适用arm64设备
-Author: zlw555
-Name: 支付宝10.2.33优化～2021.9.18更新
-
-Package: zlw555.bankabc
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.bankabc_1.0_iphoneos-arm.deb
-Size: 2314
-MD5sum: 79245ada3abd4d944e4e20c29bd9424e
-SHA1: 1cfc349a42dd2fedbfa0085cd1898ebb1bae7d31
-SHA256: 73b8dbc1233779b3470780e774b43bd10fde27b4a99c9e8998f510180edca3af
-Section: 自用插件
-Description: 自用，只支持arm64位设备!
-Author: zlw555
-Name: 农行JBDypass
-
-Package: zlw555.gestures6s
-Version: 3.2
-Architecture: iphoneos-arm
-Maintainer: 张亮伍
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.gestures6s_3.2_iphoneos-arm.deb
-Size: 2882
-MD5sum: e6b51f17977d6518cd1a4fe263797c36
-SHA1: dd61c668105f833f3988f77a610a56519cc79ec4
-SHA256: c5302033c11afe7ba71288ea8b999a840a6c557972d87e4e3be2479642d348a5
-Section: Tweaks
-Description: gestures14,14系的备用机6s专用
-Author: 张亮伍
-Name: gestures14
 
 Package: zlw555.new3guangxibank
 Version: 1.1
