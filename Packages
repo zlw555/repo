@@ -54,38 +54,6 @@ Description: 威锋QAD6.8.73
 Author: zlw555
 Name: 威锋QAD
 
-Package: com.michael.generatorautosetter
-Version: 0.5.11
-Architecture: iphoneos-arm
-Maintainer: Halo Michael <yc992147156@me.com>
-Depends: firmware (>= 12.0), com.michael.libdementia (>= 0.2.7), preferenceloader
-Filename: ./debs/com.michael.generatorautosetter_0.5.11_iphoneos-arm.deb
-Size: 11392
-MD5sum: 2e57b0c5c9d2e116c1404e2182ea30b1
-SHA1: 34df84331d20789fed7c90796b212ce4f198cae7
-SHA256: 9d4894d93e74df1e91baea71dd5303429ba6cdd9cb2dd0bfd34fd7923662a938
-Section: Tweaks
-Description: Auto set your generator when jailbreaking!
-Author: Halo Michael <yc992147156@me.com>
-Depiction: https://halo-michael.github.io/repo/info/generatorautosetter
-Name: Generator Auto Setter
-Sponsor: Halo Michael <yc992147156@me.com>
-
-Package: com.michael.libdementia
-Version: 0.2.19
-Architecture: iphoneos-arm
-Maintainer: Halo Michael <yc992147156@me.com>
-Depends: firmware(>= 10.0), firmware(<< 14.0) | libkrw | org.coolstar.libkernrw
-Filename: ./debs/com.michael.libdementia_0.2.19_iphoneos-arm.deb
-Size: 14000
-MD5sum: 4eb54d2c8fe7395b400a4523ab0518c6
-SHA1: 9ae1e2159ae9f9ab518f9dd85123eb6992fdd5da
-SHA256: 011ed5c81d6da8be4f7c92dc480b16af810245f483e33251f98624522597f283
-Section: System
-Description: Library of dimentio
-Author: 0x7ff
-Name: libdementia
-
 Package: com.opa334.trollstorehelper
 Version: 1.5.1
 Architecture: iphoneos-arm
@@ -132,22 +100,6 @@ Section: Tweaks
 Description: iOS15无限根x手势，隐藏控制中心状态栏
 Author: zlw555
 Name: ios15xhome
-
-Package: com.zlw555.locallapp
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.locallapp_1.0_iphoneos-arm.deb
-Size: 2984
-MD5sum: 7e016b23cc8dcddee34dd2882e870b75
-SHA1: cdd93ac87212a4b5b1bc558befff0343e7d6faad
-SHA256: 64ae8959f1cd990f8b126e77bfc87c519e07935a07d6842189cbff9e56c1d425
-Section: Tweaks
-Description: 付费页面x掉就可以了
-Author: zlw555
-Name: 内购
 
 Package: com.zlw555.wxcallkit
 Version: 1.0
@@ -413,22 +365,6 @@ Icon: file:///Library/PreferenceBundles/NetWorkManage.bundle/NetWorkManage@2x.pn
 Name: NetWorkManage
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: netskao.qddsnoads1
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 336
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.qddsnoads1_1.1-1_iphoneos-arm.deb
-Size: 78256
-MD5sum: 8f92546a37314a7dee7749b20bf83297
-SHA1: b23a1cd6968769333c4ede9f4fccb49bfd49d068
-SHA256: 93a8dd341e9c865ef1f0b2194b3129c74686573c4b3481654e01fe8593e188ba
-Section: 自用插件
-Description: 起点读书去除启动广告，去除底部中间广告选项
-Author: Netskao
-Name: 起点读书 NoAds
-
 Package: netskao.wechatautologin
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -504,22 +440,6 @@ Author: CoolStar <coolstarorganization@gmail.com>
 Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
-
-Package: org.coolstar.safemode
-Version: 1.1.4
-Architecture: iphoneos-arm
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Depends: firmware (>= 11.0), cy+cpu.arm64
-Replaces: org.coolstar.libhooker (<<1.2.5)
-Filename: ./debs/org.coolstar.safemode_1.1.4_iphoneos-arm.deb
-Size: 558304
-MD5sum: 43526b865445d84251d78f99a6325ab5
-SHA1: fd03023d7559d36435f4d64bad92504cc9d46297
-SHA256: 44368da007c8b46bd7d69c48f0724b36d423758e807215e67f12f85a8ea4966e
-Section: System
-Description: Safe Mode app for libhooker
-Author: CoolStar <coolstarorganization@gmail.com>
-Name: Safe Mode (libhooker)
 
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
@@ -637,23 +557,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
 Dev: lakraream
 Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: zlw.keyboardsz
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/zlw.keyboardsz_1.0_iphoneos-arm.deb
-Size: 3008
-MD5sum: 93e8828582bacad0f394418ec5d88670
-SHA1: cb1aca9e88bc7f6c0c36566e42461dc4f35dfad1
-SHA256: 80d71336428ff42f289d1f541baff24d2b82ff2a0b21d9040073a2aff2042b92
-Section: 自用插件
-Description: iOS14  去设置和单手键盘
-Author: zlw555
-Icon: Tweaks.png
-Name: iOS14去设置和单手键盘
 
 Package: zlw555.new3guangxibank
 Version: 1.1
