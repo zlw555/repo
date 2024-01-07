@@ -187,31 +187,6 @@ Author: lordscotland <admin@officialscheduler.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 Name: MTerminal
 
-Package: net.tetherme.tetherme8
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 24313
-Pre-Depends: mobilesubstrate (>=0.9.5101)
-Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (>= 11.0) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
-Conflicts: net.tetherme.tetherme
-Replaces: net.tetherme.tetherme
-Filename: ./debs/net.tetherme.tetherme8_2.1.1_iphoneos-arm.deb
-Size: 7583776
-MD5sum: 0e74e279442895659e69eb664014dbef
-SHA1: 168d8e351b0475103d9a4c9b7794fe31a8458324
-SHA256: ab268db05b72a5562a306f4b19cc27c42fa599cc2c19505959dfd5df6ccbf61d
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
-Description: Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.
-Tag: purpose::extension
-Author: Sam Bingner <support@tetherme.net>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
-Dev: tetherme
-Icon: file:///Library/PreferenceBundles/TetherMe.bundle/TetherMe@2x.png
-Name: TetherMe for iOS 8+
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: netskao.3dnetworkfixer
 Version: 1.1-8
 Architecture: iphoneos-arm
