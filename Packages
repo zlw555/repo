@@ -504,6 +504,28 @@ Author: 糖醋丶炒排骨
 Icon: Tweaks.png
 Name: 微信JBDBypass
 
+Package: wiki.qaq.iridium
+Version: 1.2.15
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 15312
+Depends: firmware (>= 13.5)
+Filename: ./debs/wiki.qaq.iridium_1.2.15_iphoneos-arm.deb
+Size: 5423226
+MD5sum: 98c491f37d30383e6ad35cef0d971eeb
+SHA1: 423397be70c5ae10042f70adc2ad7feaf94a541d
+SHA256: b17b29656f6a720b70b33a29abad54ead389ec1fb9faf84c0b7233b3239cf731
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
+Description: An iOS application decrypter built ready for use.
+Tag: purpose::uikit
+Author: Lakr Aream <launchctl@outlook.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
+Dev: lakraream
+Name: iridium
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: zlw555.new3guangxibank
 Version: 1.1
 Architecture: iphoneos-arm
@@ -535,6 +557,22 @@ Section: Tweaks
 Description: url去广告,已测威锋6.8.73，菲斯，叶千，壳儿。可以去掉多数伪装上架的视频软件。
 Author: zlw555
 Name: url去广告
+
+Package: zlw555.urlad.com
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw555.urlad.com_2.1_iphoneos-arm64e.deb
+Size: 4440
+MD5sum: cb0941b2552c3290c15601e2db5d9424
+SHA1: 811ff84c956fed699e40c8bf3dd5db896701d084
+SHA256: 864110379e69a6f30e91049498e115869030badeb7adc09c0f8580fd4d623648
+Section: Tweaks
+Description: 通过url去广告,测了几个伪装视频，已测威锋6.8.73，微信8.0.43，起点5.9.306，起点有广告缓冲，没能跳过开屏广告的，要删掉从按照应用。
+Author: zlw555
+Name: 微信callki+去公众号广告
 
 Package: zlw555.xhome
 Version: 1.1
