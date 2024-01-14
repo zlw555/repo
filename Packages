@@ -409,6 +409,22 @@ Icon: https://repo.theodyssey.dev/depictions/icons/libhooker.png
 Name: libhooker
 Sileodepiction: https://repo.theodyssey.dev/depictions/json/libhooker.json
 
+Package: org.coolstar.safemode
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: firmware (>= 11.0), cy+cpu.arm64
+Replaces: org.coolstar.libhooker (<<1.2.5)
+Filename: ./debs/org.coolstar.safemode_1.1.4_iphoneos-arm.deb
+Size: 558304
+MD5sum: 43526b865445d84251d78f99a6325ab5
+SHA1: fd03023d7559d36435f4d64bad92504cc9d46297
+SHA256: 44368da007c8b46bd7d69c48f0724b36d423758e807215e67f12f85a8ea4966e
+Section: System
+Description: Safe Mode app for libhooker
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: Safe Mode (libhooker)
+
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
 Architecture: iphoneos-arm
