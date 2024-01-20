@@ -1,10 +1,26 @@
+Package: avplayerjs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/广告加速_1.0_iphoneos-arm.deb
+Size: 2948
+MD5sum: cdecbdec5a3c6465d3f508aac8f6b6f4
+SHA1: ac8ad52691d241af2dd69ec1fb2ee3b19ea1c794
+SHA256: 7cefd0b1a8bbb50a4b189b9f959be46517a89c8ab9e3726a08019f8774703fc2
+Section: Tweaks
+Description: 广告加速90
+Author: z
+Name: AVPlayer加速
+
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Ai-小苹果™
 Installed-Size: 696
 Depends: mobilesubstrate
-Filename: ./debs/com.cydiabc.aiyueshuxianghack_1.0-1_iphoneos-arm.deb
+Filename: ./debs/aiyueshuxianghack_1.0-1_iphoneos-arm.deb
 Size: 146024
 MD5sum: cfd53c608df8643577f60b3054b0efc6
 SHA1: d107f5f60fa3afc0afeabe48d7bbc381c2402663
@@ -24,7 +40,7 @@ Architecture: iphoneos-arm
 Maintainer: Ai-小苹果
 Installed-Size: 160
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.cydiabc.wechatfakeipad.deb
+Filename: ./debs/wechatfakeipad.deb
 Size: 18236
 MD5sum: 6ca1150340613614539479e1b5fa54e0
 SHA1: aff5da165c2022ce0524811ff106e2ff428517c1
@@ -44,7 +60,7 @@ Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/com.m.weifeng_1.0_iphoneos-arm.deb
+Filename: ./debs/weifeng_1.0_iphoneos-arm.deb
 Size: 3642
 MD5sum: cb39649e4c636abdfdda34c6b8c7ea2f
 SHA1: 929ed4597b6d52fefc4cf753a54a0c8d0a2f6f69
@@ -91,7 +107,7 @@ Architecture: iphoneos-arm64
 Maintainer: zlw555
 Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.ios15xhome_1.3-1+debug_iphoneos-arm64.deb
+Filename: ./debs/ios15xhome_1.3-1+debug_iphoneos-arm64.deb
 Size: 4350
 MD5sum: 2ae2b56581d75effbdd557700760e947
 SHA1: 5f8063c44bcfaadea2f2f32dfe85c766fedc7b2c
@@ -101,13 +117,29 @@ Description: iOS15无限根x手势，隐藏控制中心状态栏
 Author: zlw555
 Name: ios15xhome
 
+Package: com.zlw555.ngpj
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/内购破解_1.0-1+debug_iphoneos-arm.deb
+Size: 3448
+MD5sum: 049ff064c48f831d02cc3b8ccc862271
+SHA1: 757cf2fda006f2ff5b93c4f623cc861c17ff8f7e
+SHA256: 2a11237eda9b5757f244704eac5d83ee8931da93490b0d777c274f509ef60754
+Section: Tweaks
+Description: 购买界面x掉就好
+Author: z
+Name: 内购破解
+
 Package: com.zlw555.wxcallkit
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: zlw555
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.wxcallkit_1.0_iphoneos-arm64.deb
+Filename: ./debs/wxcallkit_1.0_iphoneos-arm64.deb
 Size: 3112
 MD5sum: 80fbad7559146b77ddf9a13fde32c111
 SHA1: f9045b1020f573dec67206ce661cc15828984433
@@ -122,7 +154,7 @@ Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: Ai-小苹果
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/cydiabc.aiyue_1.7_iphoneos-arm.deb
+Filename: ./debs/aiyue_1.7_iphoneos-arm.deb
 Size: 48672
 MD5sum: 8790d4f1c01e8d662db53e324e2ae24b
 SHA1: d84a7f92e54bf725790acfa9d3ea26cbc44e14ae
@@ -425,30 +457,6 @@ Description: Safe Mode app for libhooker
 Author: CoolStar <coolstarorganization@gmail.com>
 Name: Safe Mode (libhooker)
 
-Package: org.thebigboss.libcolorpicker
-Version: 1.6.9
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 629
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
-Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
-Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
-Filename: ./debs/libcolorpicker_1.6.9.deb
-Size: 110620
-MD5sum: 76ac3303a769a551ba58a83855da19f5
-SHA1: c3aa95d2302ae22fac6344d131c58d6beecbe9b7
-SHA256: 5f3a37fd6b6e65da32fc8bcfedb74f13ba7ac5876b20968f04ea66fd68d12e6b
-Section: Development
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
-Description: color picker library for developers
-Tag: purpose::library, role::developer, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, cydia::obsolete
-Author: PixelFire <pixelfiredev@helpful.io>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickerDp
-Dev: pixelfiredev
-Name: libcolorpicker
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: otadisabler
 Version: 0.1-7
 Architecture: iphoneos-arm
@@ -483,6 +491,22 @@ Depiction: https://repo.lenglengyu.top/packageInfo/prozs.html
 Icon: Tweaks.png
 Name: Pro助手
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
+
+Package: qidianqad
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/qidianqad_1.2_iphoneos-arm.deb
+Size: 3532
+MD5sum: 26243794345cb7b32b8cb0c56449477b
+SHA1: b4fe65825827302b7f10931f3ca0b6ddfdadb234
+SHA256: 9907fe32637157f062c53e07fdd3331c2d33bc07dfd16ec510fd2266d08a6055
+Section: Tweaks
+Description: 对缓存过的图片无效，要全新安装
+Author: z
+Name: 起点去广告
 
 Package: ru.rj.ftt
 Version: 1.3
@@ -519,6 +543,22 @@ Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加
 Author: 糖醋丶炒排骨
 Icon: Tweaks.png
 Name: 微信JBDBypass
+
+Package: wechatqad
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wechatqad_1.0_iphoneos-arm.deb
+Size: 3728
+MD5sum: c8f7edf9ae2150854bd4ef3eae77150f
+SHA1: 147b81133b00a94bc47b509fd81edcc649d62767
+SHA256: 881c31cfefef242034421041ff2876726eb5c0ce337ad57489d78c1709fb1ef5
+Section: Tweaks
+Description: 微信callkit+去广告+默认勾选原图
+Author: z
+Name: 微信callkit
 
 Package: wiki.qaq.iridium
 Version: 1.2.15
@@ -558,22 +598,6 @@ Description: 农信，去定位提示
 Author: zlw555
 Name: 广西,湖北农信去越狱
 
-Package: zlw555.qad
-Version: 1.8
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.qad_1.8_iphoneos-arm.deb
-Size: 4284
-MD5sum: b58c5c01c3d08aa198673d1fe7de22bb
-SHA1: 02966d1ec71a52e5eb7bebe1579aad424ecf8d21
-SHA256: f38b15e821f2d9559eee9e93c578c2791fc66b84fc00a853d6f5c2ca599cba93
-Section: Tweaks
-Description: url去广告,已测威锋6.8.73，菲斯，叶千，壳儿。可以去掉多数伪装上架的视频软件。
-Author: zlw555
-Name: url去广告
-
 Package: zlw555.urlad.com
 Version: 2.1
 Architecture: iphoneos-arm64e
@@ -596,7 +620,7 @@ Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.xhome_1.1_iphoneos-arm.deb
+Filename: ./debs/xhome_1.1_iphoneos-arm.deb
 Size: 3040
 MD5sum: 702ee5a4c6281e9633d13d9124b39354
 SHA1: 28968362932e07cf0d4d5cb8058134589c64db36
