@@ -55,20 +55,52 @@ Name: WeChatFakeiPad 模拟iPad客户端
 Sponsor: Ai-小苹果
 
 Package: com.m.weifeng
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: zlw555
-Installed-Size: 136
+Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/weifeng_1.0_iphoneos-arm.deb
-Size: 3642
-MD5sum: cb39649e4c636abdfdda34c6b8c7ea2f
-SHA1: 929ed4597b6d52fefc4cf753a54a0c8d0a2f6f69
-SHA256: 029bf30c40f96bf24433ddc848831b7d474eb0822860c1214678edc17d2b44f1
+Filename: ./debs/com.m.weifeng_1.1_iphoneos-arm.deb
+Size: 3986
+MD5sum: afe2f25f86083dd359376c5d5d7db1f8
+SHA1: 9dc952cf31af5267c4e481540876833506901473
+SHA256: 4a92ad1bb542238b348ee3eae261da0cf125b3b6f4a0a22c4e47d7f1efeddb0d
 Section: Tweaks
-Description: 威锋QAD6.8.73
+Description: 2014/2/5 威锋7.0去广告
 Author: zlw555
 Name: 威锋QAD
+
+Package: com.m.weifeng
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.m.weifeng_1.1_iphoneos-arm64.deb
+Size: 4018
+MD5sum: 419445d0effe8dfd66d4c56bce759c34
+SHA1: 1e3edb6a9f5df8e922c950c40f5ac2805aa9808a
+SHA256: 20e30c04f71bceb8336c9064ae78e5c562a4c0adb8ad1f17c40c3427aece87c0
+Section: Tweaks
+Description: 2014/2/5 威锋7.0去广告
+Author: zlw555
+Name: 威锋QAD-rootless
+
+Package: com.m.weifeng
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.m.weifeng_1.1_iphoneos-arm64e.deb
+Size: 4012
+MD5sum: f6776c4f41fc5c643bebcf0e616f9962
+SHA1: 36a534cdb544ebb982d9007c057239cd4f6be0ff
+SHA256: b7517fd673819aabe1b8bcb7f15a15f57c00ca6d4b90d17423377592717a335c
+Section: Tweaks
+Description: 2014/2/5 威锋7.0去广告
+Author: zlw555
+Name: 威锋QAD-roothide
 
 Package: com.opa334.trollstorehelper
 Version: 1.5.1
@@ -493,20 +525,52 @@ Name: Pro助手
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/prozssileo
 
 Package: qidianqad
-Version: 1.2
+Version: 1.5
 Architecture: iphoneos-arm
-Maintainer: z
+Maintainer: zlw555
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/qidianqad_1.2_iphoneos-arm.deb
-Size: 3532
-MD5sum: 26243794345cb7b32b8cb0c56449477b
-SHA1: b4fe65825827302b7f10931f3ca0b6ddfdadb234
-SHA256: 9907fe32637157f062c53e07fdd3331c2d33bc07dfd16ec510fd2266d08a6055
+Filename: ./debs/qidianqad_1.5_iphoneos-arm.deb
+Size: 3680
+MD5sum: 6e70d037217f3b7156fb5487cae26a5d
+SHA1: 2f144492e20dd121689fef02576e093830db30fe
+SHA256: 76902daf6efe39db87b2c037dcef39857e820e74853cf8573076009aeb141c57
 Section: Tweaks
-Description: 对缓存过的图片无效，要全新安装
-Author: z
-Name: 起点去广告
+Description: 2014年2月5日，支持最新5.9.333
+Author: zlw555
+Name: 起点去启动广告
+
+Package: qidianqad
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/qidianqad_1.5_iphoneos-arm64.deb
+Size: 3744
+MD5sum: e9fbd8ae6697f13ec1f597e315acdb63
+SHA1: bcd110ce26299df3114afe3688966dc519714703
+SHA256: 175338f35126a3f873e0bafc25eeac46f0c24063966fffb4de33a7b84f2b088c
+Section: Tweaks
+Description: 2014年2月5日，支持最新5.9.333
+Author: zlw555
+Name: 起点去启动广告-rootless
+
+Package: qidianqad
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/qidianqad_1.5_iphoneos-arm64e.deb
+Size: 3704
+MD5sum: 58f3518ce178f73595783231fc931b0c
+SHA1: 2acb5caf61684cb97475060473556445de043021
+SHA256: 730a2e99980c78b8623f55420cc675d0bfecad1f787e6857fb379ffffe91ab90
+Section: Tweaks
+Description: 2014年2月5日，支持最新5.9.333
+Author: zlw555
+Name: 起点去启动广告-roothide
 
 Package: ru.rj.ftt
 Version: 1.3
