@@ -1,3 +1,19 @@
+Package: applibrary
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/资源库_1.0_iphoneos-arm64e.deb
+Size: 2976
+MD5sum: 099287b74e1fd0f86da4e46dd6c60711
+SHA1: e8033f6f7d2eb7dcb88412f74aaf1a7dbd4d5dbc
+SHA256: 2a697624a1744401c88c99b542fe1975c010ff01b004d5e577b981e0b62c0b2e
+Section: Tweaks
+Description: 干掉资源库
+Author: zlw555
+Name: 干掉资源库
+
 Package: avplayerjs
 Version: 1.0
 Architecture: iphoneos-arm
@@ -199,6 +215,22 @@ Icon: Tweaks.png
 Icon2: 1.png
 Name: 爱阅书香高级版
 Sponsor: Ai-小苹果
+
+Package: docktm
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/dock透明_1.0_iphoneos-arm64e.deb
+Size: 2972
+MD5sum: 4ab751e665f54fcb810b8fb5accc62fe
+SHA1: 506ba748366d03546d616783fb0923ece04c6265
+SHA256: 50c15506db1851c11129726c67f8fc4b4118c7962f5563f030fc3df7ae7870f2
+Section: Tweaks
+Description: Dock透明
+Author: zlw555
+Name: Dock透明
 
 Package: ibreak.wecallkit
 Version: 1.0
@@ -645,6 +677,22 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
 Dev: lakraream
 Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: xhome
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/xhome_1.5_iphoneos-arm64e.deb
+Size: 3134
+MD5sum: e16b84a2fc6e92a5804148a0617fad51
+SHA1: 27ac946dc3a65785527957fd137d3c7cea9a128d
+SHA256: 1650e93f88d0d3dbe2d5d31d624b61824c8e9b6d25b86b482e42dea8e5cd8c87
+Section: 自用插件
+Description: ios15手势
+Author: zlw555
+Name: ios15xhome-roothide
 
 Package: zlw555.new3guangxibank
 Version: 1.1
