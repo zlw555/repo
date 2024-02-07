@@ -247,6 +247,54 @@ Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
 Author: iBreak <ibreak2019@qq.com>
 Name: WeChat Callkit
 
+Package: iting
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iting_1.0_iphoneos-arm.deb
+Size: 3526
+MD5sum: 0c7da5077bfff1b042cbdc6091bfb148
+SHA1: 8a97052819ba755d5b77c8ae86d2e96c5755b30c
+SHA256: d32de3445a5994f7f249fa9274b7236bb705864f75742730e190f36ac9a62f73
+Section: Tweaks
+Description: 2014.2.7日喜马拉雅V9.2.15优化
+Author: zlw555
+Name: 喜马拉雅V9.2.15优化
+
+Package: iting
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iting_1.0_iphoneos-arm64.deb
+Size: 3580
+MD5sum: 0fa7a4be08cdba5ceeb6a269e3eb2ef8
+SHA1: 9a6fae3cb5db405e4e3ec7c3e6f58ec65186015c
+SHA256: 26efc58bad19c6e3798e5f875ae53006b3a17594b3cda8ff5f1f9e6470f838c4
+Section: Tweaks
+Description: 2014.2.7日喜马拉雅V9.2.15优化
+Author: zlw555
+Name: 喜马拉雅V9.2.15优化
+
+Package: iting
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iting_1.0_iphoneos-arm64e.deb
+Size: 3536
+MD5sum: 69a1b97abf712f2536a53e88b8ed1b00
+SHA1: c82ec1ea8def155d6594bd9a2ccff47ea39cd29f
+SHA256: 6e5bf03e02588519864f9cfc47477945bd7a147322fc0d51530bc191db51da54
+Section: Tweaks
+Description: 2014.2.7日喜马拉雅V9.2.15优化
+Author: zlw555
+Name: 喜马拉雅V9.2.15优化
+
 Package: lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
