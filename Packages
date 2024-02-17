@@ -477,6 +477,22 @@ Description: 电脑登陆微信扫码后自动确定，下次电脑点击登陆�
 Author: Netskao
 Name: WeChatAutoLogin
 
+Package: nongye
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/nongye_1.0_iphoneos-arm64.deb
+Size: 3368
+MD5sum: 2384fe4aa3a0a55ac75370f0440cd135
+SHA1: 6df426e3bef920b817d921ac3dcccf555a261660
+SHA256: a2bc24baf2cce23be90e4a270febf063503094643882822a75f618e394111482
+Section: Tweaks
+Description: 启动广告
+Author: z
+Name: ✦农业银行V7.1.1优化
+
 Package: org.coolstar.libhooker
 Version: 1.5.2
 Architecture: iphoneos-arm
@@ -725,6 +741,22 @@ Section: 自用插件
 Description: ios15手势
 Author: zlw555
 Name: ios15xhome-roothide
+
+Package: zgyh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/zgyh_1.0_iphoneos-arm64.deb
+Size: 3528
+MD5sum: 3bc1e65eaf27f683cc973baaada8cfa9
+SHA1: 702833250450fd108a03fd935e0e25926d7e35bf
+SHA256: 3bd8f995555f91af08fea615ddfe4d905c271dd19a3f4f6ab35a81410a98ae79
+Section: Tweaks
+Description: 去启动广告 为你推荐
+Author: z
+Name: 中国银行去广告
 
 Package: zlw555.new3guangxibank
 Version: 1.1
