@@ -1,5 +1,37 @@
 Package: applibrary
 Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/applibrary_1.0_iphoneos-arm64.deb
+Size: 3838
+MD5sum: 51410359618220e028bed5ea30393bac
+SHA1: acbc8ac77fa82c41bccd3ba6c71a584d93173bcd
+SHA256: cb3e439b4d41573e0c42f684b84eed8218029ab572a206461ba1b33f5c305752
+Section: Tweaks
+Description: 系统美化
+Author: zlw555
+Name: 系统美化
+
+Package: applibrary
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/applibrary_1.0_iphoneos-arm64e.deb
+Size: 3804
+MD5sum: df1956d132b2bf429cc37221da5ed791
+SHA1: 0ad2c22c65239671972295b947a856254e5526ee
+SHA256: 80cf6e1a8fa7f889f6602f557fcb7604a1c3e12744e29ffbbdffc9cbd6adacf3
+Section: Tweaks
+Description: 系统美化
+Author: zlw555
+Name: 系统美化
+
+Package: applibrary
+Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: zlw555
 Installed-Size: 152
