@@ -1,50 +1,18 @@
-Package: applibrary
+Package: autohidden
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: zlw555
+Maintainer: z
 Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/applibrary_1.0_iphoneos-arm64.deb
-Size: 3838
-MD5sum: 51410359618220e028bed5ea30393bac
-SHA1: acbc8ac77fa82c41bccd3ba6c71a584d93173bcd
-SHA256: cb3e439b4d41573e0c42f684b84eed8218029ab572a206461ba1b33f5c305752
+Depends: mobilesubstrate
+Filename: ./debs/去除底部横条_1.0_iphoneos-arm64.deb
+Size: 3260
+MD5sum: 697f2cf6bc0182962eedfda11b907865
+SHA1: 90b52428e0f19fb1d65f26efb995549dcefa8d06
+SHA256: 2675ffbb7f0acd097866a8f7012e550cbd4820c2781cdc467525502249b18721
 Section: Tweaks
-Description: 系统美化
-Author: zlw555
-Name: 系统美化
-
-Package: applibrary
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/applibrary_1.0_iphoneos-arm64e.deb
-Size: 3804
-MD5sum: df1956d132b2bf429cc37221da5ed791
-SHA1: 0ad2c22c65239671972295b947a856254e5526ee
-SHA256: 80cf6e1a8fa7f889f6602f557fcb7604a1c3e12744e29ffbbdffc9cbd6adacf3
-Section: Tweaks
-Description: 系统美化
-Author: zlw555
-Name: 系统美化
-
-Package: applibrary
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/applibrary_1.1_iphoneos-arm64.deb
-Size: 4258
-MD5sum: e8541fe6776b95f82bbb27743f9acd81
-SHA1: f9da4cf40004b17e652d9a26d3125caae8872da7
-SHA256: 0c5880ae0d74e917c72feb24e6baffc8e881f97736c70888a37262e368568547
-Section: Tweaks
-Description: 系统美化
-Author: zlw555
-Name: 系统美化
+Description: 1.隐藏锁屏底部横条
+Author: z
+Name: 去除底部横条
 
 Package: avplayerjs
 Version: 1.0
@@ -469,7 +437,7 @@ Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/nongye_1.0_iphoneos-arm64.deb
+Filename: ./debs/农业银行_1.0_iphoneos-arm64.deb
 Size: 3368
 MD5sum: 2384fe4aa3a0a55ac75370f0440cd135
 SHA1: 6df426e3bef920b817d921ac3dcccf555a261660
@@ -657,21 +625,6 @@ Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Name: Flex3转Theos
 
-Package: screen
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/去除底部横条_1.0_iphoneos-arm64.deb
-Size: 3254
-MD5sum: 8c31d0d810b2f8767332681b0e7d94e5
-SHA1: 9532cc4baf5450da747b7f69f97d67dfb554db86
-SHA256: a623fff5abbc0479361d2b2dd51f13e74dc2f9e5fa736015ea53ed4fa826de4d
-Section: Tweaks
-Author: z
-Name: 去除底部横条
-
 Package: wechatjbdbypass
 Version: 1.0
 Architecture: iphoneos-arm
@@ -720,6 +673,22 @@ Section: Tweaks
 Description: 微信callkit+去朋友圈广告+默认勾选原图
 Author: z
 Name: 微信callkit
+
+Package: weifengqad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/威锋7NoAd_1.0_iphoneos-arm64.deb
+Size: 3990
+MD5sum: 282278977cbbe419c07fd0276dfd02c0
+SHA1: 9861097b34307cc17713f1cb9f78d18270b50104
+SHA256: 3adde571454954ad29409931c7b674e660824acb4b0e486d2cb0a750afda25bb
+Section: Tweaks
+Description: 2014/2/5 威锋7.0去广告
+Author: z
+Name: 威锋7NoAd
 
 Package: wiki.qaq.iridium
 Version: 1.2.15
@@ -788,16 +757,16 @@ Author: z
 Name: 系统优化合集
 
 Package: zgyh
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/zgyh_1.0_iphoneos-arm64.deb
-Size: 3528
-MD5sum: 3bc1e65eaf27f683cc973baaada8cfa9
-SHA1: 702833250450fd108a03fd935e0e25926d7e35bf
-SHA256: 3bd8f995555f91af08fea615ddfe4d905c271dd19a3f4f6ab35a81410a98ae79
+Filename: ./debs/中国银行去广告_1.1_iphoneos-arm64.deb
+Size: 3260
+MD5sum: b2b8c92e6f82ac0d00306c735f16fd79
+SHA1: 02164558328f9154076feb443daadadabf08bb53
+SHA256: 739f9d9e31aedef4429128eb20b97eb8f0ea11c797ef726fbe185d2830858074
 Section: Tweaks
 Description: 去启动广告 为你推荐
 Author: z
