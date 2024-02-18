@@ -30,6 +30,22 @@ Description: 广告加速90
 Author: z
 Name: AVPlayer加速
 
+Package: batteryview
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/batteryview_1.0_iphoneos-arm64.deb
+Size: 2520
+MD5sum: 5cbb8ff3e6481a23da376c8f14179355
+SHA1: 696206475bf1b84d065de6a9895fc69216026907
+SHA256: 1cba81b75c4f3a8629e4d737edb1d1d515d22792f8557d259f42c132ea8216ee
+Section: Tweaks
+Description: 电池颜色
+Author: z
+Name: 电池颜色
+
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
