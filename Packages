@@ -102,54 +102,6 @@ Icon2: 10.png
 Name: WeChatFakeiPad 模拟iPad客户端
 Sponsor: Ai-小苹果
 
-Package: com.m.weifeng
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.m.weifeng_1.1_iphoneos-arm.deb
-Size: 3986
-MD5sum: afe2f25f86083dd359376c5d5d7db1f8
-SHA1: 9dc952cf31af5267c4e481540876833506901473
-SHA256: 4a92ad1bb542238b348ee3eae261da0cf125b3b6f4a0a22c4e47d7f1efeddb0d
-Section: Tweaks
-Description: 2014/2/5 威锋7.0去广告
-Author: zlw555
-Name: 威锋QAD
-
-Package: com.m.weifeng
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.m.weifeng_1.1_iphoneos-arm64.deb
-Size: 4018
-MD5sum: 419445d0effe8dfd66d4c56bce759c34
-SHA1: 1e3edb6a9f5df8e922c950c40f5ac2805aa9808a
-SHA256: 20e30c04f71bceb8336c9064ae78e5c562a4c0adb8ad1f17c40c3427aece87c0
-Section: Tweaks
-Description: 2014/2/5 威锋7.0去广告
-Author: zlw555
-Name: 威锋QAD-rootless
-
-Package: com.m.weifeng
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.m.weifeng_1.1_iphoneos-arm64e.deb
-Size: 4012
-MD5sum: f6776c4f41fc5c643bebcf0e616f9962
-SHA1: 36a534cdb544ebb982d9007c057239cd4f6be0ff
-SHA256: b7517fd673819aabe1b8bcb7f15a15f57c00ca6d4b90d17423377592717a335c
-Section: Tweaks
-Description: 2014/2/5 威锋7.0去广告
-Author: zlw555
-Name: 威锋QAD-roothide
-
 Package: com.opa334.trollstorehelper
 Version: 1.5.1
 Architecture: iphoneos-arm
@@ -171,7 +123,7 @@ Architecture: iphoneos-arm64
 Maintainer: zlw555
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.zlw555.ios15xhome_1.1_iphoneos-arm64.deb
+Filename: ./debs/ios15xhome_1.1_iphoneos-arm64.deb
 Size: 3528
 MD5sum: 226c942eb05cb3a99e68ea3c28e460cb
 SHA1: 048b385fca3778a06329fcefbcdde485a1e51be3
@@ -250,6 +202,22 @@ Sponsor: Ai-小苹果
 
 Package: docktm
 Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Dock透明_1.0_iphoneos-arm64.deb
+Size: 3178
+MD5sum: 74ac0b2b83032afe1aa8df00f6e063d0
+SHA1: 9e730fe5ff4b9b9502978ed1924039cf054d1c1e
+SHA256: ef98d3f9913c38c62c75655ecdf3ca253b9887bc0d23690140afeb54fe994e78
+Section: Tweaks
+Description: Dock透明+无翻页点
+Author: zlw555
+Name: Dock透明
+
+Package: docktm
+Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: zlw555
 Installed-Size: 152
@@ -263,6 +231,24 @@ Section: Tweaks
 Description: Dock透明
 Author: zlw555
 Name: Dock透明
+
+Package: foldertm
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/文件夹透明_1.0_iphoneos-arm64.deb
+Size: 3384
+MD5sum: fbcbcd290d87d0724230fefa5bd4bf5d
+SHA1: edc9cef3479d6e4dcfc23891f771691dc370b235
+SHA256: 0595a59884c10f7c05138238f1da3e0d832ea1a24c4febcd0de56c017b4a922b
+Section: Tweaks
+Description: 桌面文件夹背景透明
+ 打开文件夹背景透明(默认全透)
+ 点击任意空白处关闭文件夹
+Author: z
+Name: 文件夹透明
 
 Package: ibreak.wecallkit
 Version: 1.0
@@ -671,6 +657,21 @@ Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Name: Flex3转Theos
 
+Package: screen
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/去除底部横条_1.0_iphoneos-arm64.deb
+Size: 3254
+MD5sum: 8c31d0d810b2f8767332681b0e7d94e5
+SHA1: 9532cc4baf5450da747b7f69f97d67dfb554db86
+SHA256: a623fff5abbc0479361d2b2dd51f13e74dc2f9e5fa736015ea53ed4fa826de4d
+Section: Tweaks
+Author: z
+Name: 去除底部横条
+
 Package: wechatjbdbypass
 Version: 1.0
 Architecture: iphoneos-arm
@@ -758,6 +759,34 @@ Description: ios15手势
 Author: zlw555
 Name: ios15xhome-roothide
 
+Package: xtyh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/系统优化合集_1.0_iphoneos-arm64.deb
+Size: 4540
+MD5sum: 6bdecb151926b4624763468f2f11720c
+SHA1: 927a1c582dc38c04ad49d20c3a88b9bb8ef6eacf
+SHA256: ca05f1dadc3b7b710fe528366a34040990941b15bd0d339936d84a0b7d229034
+Section: Tweaks
+Description:
+ 1.隐藏通知中心"没有更早的通知"文本
+ 2.隐藏Dock栏磨砂背景
+ 3.隐藏主屏幕翻页小白点
+ 4.隐藏状态栏旋转
+ 5.隐藏锁屏相机‘手电筒
+ 6.禁用主屏幕通知中心和锁屏搜索栏
+ 7.隐藏勿扰模式横幅
+ 8.无翻页点
+ 9.去除负一屏编辑背景
+ 10.文件夹透明
+ 11.通知中心手势(左滑清除消息，右滑打开应用)
+ 12.禁用锁屏左滑相机
+Author: z
+Name: 系统优化合集
+
 Package: zgyh
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -769,22 +798,6 @@ Size: 3528
 MD5sum: 3bc1e65eaf27f683cc973baaada8cfa9
 SHA1: 702833250450fd108a03fd935e0e25926d7e35bf
 SHA256: 3bd8f995555f91af08fea615ddfe4d905c271dd19a3f4f6ab35a81410a98ae79
-Section: Tweaks
-Description: 去启动广告 为你推荐
-Author: z
-Name: 中国银行去广告
-
-Package: zgyh
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/zgyh_1.1_iphoneos-arm64.deb
-Size: 3260
-MD5sum: b2b8c92e6f82ac0d00306c735f16fd79
-SHA1: 02164558328f9154076feb443daadadabf08bb53
-SHA256: 739f9d9e31aedef4429128eb20b97eb8f0ea11c797ef726fbe185d2830858074
 Section: Tweaks
 Description: 去启动广告 为你推荐
 Author: z
