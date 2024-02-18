@@ -46,6 +46,22 @@ Description: 配合去横条使用
 Author: z
 Name: 底部高度
 
+Package: batteryview
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/batteryview_1.8_iphoneos-arm64.deb
+Size: 2338
+MD5sum: 60ea9e68825ccbd28de7bf19d2217c03
+SHA1: 9fe290d703ea208af141acaa5423f3989ea213fa
+SHA256: d1c12b5ace4cc2c890f4c18ce58de85ab68f34477a7304b2109023d163826ae4
+Section: Tweaks
+Description: 配合去横条使用
+Author: z
+Name: 底部高度
+
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
