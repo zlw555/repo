@@ -37,14 +37,14 @@ Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/batteryview_1.0_iphoneos-arm64.deb
-Size: 2320
-MD5sum: dc21b995ccace5e71f461573963c5320
-SHA1: 4dd0911891ee4906b0d1f1c14aa5b16f891dda14
-SHA256: 2b2949aba1ec492ebc3ab6d44c7294e356fa7d0a58f40b61731e99347291035d
+Size: 2336
+MD5sum: d5051c646cb14a2726e5962084ce73b4
+SHA1: cbbdf10bbb74ee38d76f3b6fbdd2fc262c9b69c8
+SHA256: 72e4196f582e8607f1888dbd7804f91337b2664c2dbb6dc0b300f371b42320df
 Section: Tweaks
-Description: 底部抬高
+Description: 配合去横条使用
 Author: z
-Name: 底部抬高
+Name: 底部高度
 
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
