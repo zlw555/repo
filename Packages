@@ -1,3 +1,19 @@
+Package: applicationscene
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/去除底部横条1.1_iphoneos-arm64.deb
+Size: 3212
+MD5sum: 7dcbd5d80bb46ce67e84858c8a48ed95
+SHA1: febf6d0834b9d889ff96e8cf92644d6c28c0b993
+SHA256: eb527547a7d6d57350ee2db31904c0e41d19cf5c9b9ff45a3a1363c1c7fa0d75
+Section: Tweaks
+Description: 1.隐藏横条
+Author: z
+Name: 去除底部横条
+
 Package: avplayerjs
 Version: 1.0
 Architecture: iphoneos-arm
@@ -711,22 +727,6 @@ Section: 自用插件
 Description: ios15手势
 Author: zlw555
 Name: ios15xhome-roothide
-
-Package: xhtiao
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/去除底部横条1.1_iphoneos-arm64.deb
-Size: 3260
-MD5sum: abc1c13090f06ec2376d2269ab2da225
-SHA1: 15e1ec48e1c16b3a3749a6f380ca537ea13f56f7
-SHA256: 5532a719eb3c544e506d781d500f173685558ced653f89960200f9cc620baa04
-Section: Tweaks
-Description: 1.隐藏锁屏底部横条
-Author: z
-Name: 去除底部横条
 
 Package: xtyh
 Version: 1.0
