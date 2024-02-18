@@ -31,20 +31,20 @@ Author: zlw555
 Name: 系统美化
 
 Package: applibrary
-Version: 1.0
-Architecture: iphoneos-arm64e
+Version: 1.1
+Architecture: iphoneos-arm64
 Maintainer: zlw555
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/资源库_1.0_iphoneos-arm64e.deb
-Size: 2976
-MD5sum: 099287b74e1fd0f86da4e46dd6c60711
-SHA1: e8033f6f7d2eb7dcb88412f74aaf1a7dbd4d5dbc
-SHA256: 2a697624a1744401c88c99b542fe1975c010ff01b004d5e577b981e0b62c0b2e
+Filename: ./debs/applibrary_1.1_iphoneos-arm64.deb
+Size: 4258
+MD5sum: e8541fe6776b95f82bbb27743f9acd81
+SHA1: f9da4cf40004b17e652d9a26d3125caae8872da7
+SHA256: 0c5880ae0d74e917c72feb24e6baffc8e881f97736c70888a37262e368568547
 Section: Tweaks
-Description: 干掉资源库
+Description: 系统美化
 Author: zlw555
-Name: 干掉资源库
+Name: 系统美化
 
 Package: avplayerjs
 Version: 1.0
@@ -704,6 +704,22 @@ Description: 微信callkit+去广告+默认勾选原图
 Author: z
 Name: 微信callkit
 
+Package: wechatqad
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wechatqad_1.0_iphoneos-arm64.deb
+Size: 3790
+MD5sum: 83d4f0fd15a3f4c59d3134f16735890d
+SHA1: 9472ee878de385aae434de86c4a4b49ecd2fe205
+SHA256: a0f7d91ffdcd3892a9d214a72812b5bdadf940471df81e2ab37d5e6ab83da99a
+Section: Tweaks
+Description: 微信callkit+去朋友圈广告+默认勾选原图
+Author: z
+Name: 微信callkit
+
 Package: wiki.qaq.iridium
 Version: 1.2.15
 Architecture: iphoneos-arm
@@ -753,6 +769,22 @@ Size: 3528
 MD5sum: 3bc1e65eaf27f683cc973baaada8cfa9
 SHA1: 702833250450fd108a03fd935e0e25926d7e35bf
 SHA256: 3bd8f995555f91af08fea615ddfe4d905c271dd19a3f4f6ab35a81410a98ae79
+Section: Tweaks
+Description: 去启动广告 为你推荐
+Author: z
+Name: 中国银行去广告
+
+Package: zgyh
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/zgyh_1.1_iphoneos-arm64.deb
+Size: 3260
+MD5sum: b2b8c92e6f82ac0d00306c735f16fd79
+SHA1: 02164558328f9154076feb443daadadabf08bb53
+SHA256: 739f9d9e31aedef4429128eb20b97eb8f0ea11c797ef726fbe185d2830858074
 Section: Tweaks
 Description: 去启动广告 为你推荐
 Author: z
