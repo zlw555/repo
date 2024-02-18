@@ -184,6 +184,22 @@ Icon2: 1.png
 Name: 爱阅书香高级版
 Sponsor: Ai-小苹果
 
+Package: datasource
+Version: 1.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/屏蔽设置重要提醒_iphoneos-arm64.deb
+Size: 3936
+MD5sum: 2b94ab774d3e1f1060d977dc0a2e9cbb
+SHA1: fee7b3b86cd29411d031976c0abbdeb1ae864e64
+SHA256: 120d61a5b2f3a61a4341384e3c38d877339d0a5bd40054659e1224b54d267432
+Section: Tweaks
+Description: 屏蔽更换配件后设置和关于本机里面的重要提醒
+Author: z
+Name: 屏蔽设置重要提醒
+
 Package: docktm
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -264,6 +280,22 @@ Priority: optional
 Description: 桌面一键锁屏，有图标，无后台
 Author: cybp888
 Name: 一键锁屏
+
+Package: locked5
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/锁屏来电拒接_1.0_iphoneos-arm64.deb
+Size: 3060
+MD5sum: 419e0e899a6a7f37d8495954fe370d8a
+SHA1: 8ee54c0ef7cc5150be88ae99afd156d4c107f2fa
+SHA256: 6b75ceadab9b695a69359f8417de0ca3c693aa99bbed56da6917e4b5368bed2d
+Section: Tweaks
+Description: 在锁屏来电话时会有一个红色挂断的按钮
+Author: z
+Name: 锁屏来电拒接
 
 Package: mterminal
 Version: 1.4-6
@@ -446,6 +478,22 @@ Section: Netskao-Tweaks
 Description: 电脑登陆微信扫码后自动确定，下次电脑点击登陆后跳转微信后直接登录
 Author: Netskao
 Name: WeChatAutoLogin
+
+Package: ngthienhoan.nobetaalert
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/去除Beta弹窗_1.0_iphoneos-arm64.deb
+Size: 2364
+MD5sum: 57a15bf7214b3324b7c2cd9c002a3e3e
+SHA1: 030e60ca85dfd03fa9b6fefd62ccda61365fa42d
+SHA256: b18b8afd87a41ebc6123c6ae5b5aeb76ddb65c8a3033d018f8b7dfa7b6bdfb6f
+Section: Tweaks
+Description: 去除测试版Beta弹窗
+Author: z
+Name: 去除Beta弹窗
 
 Package: nongye
 Version: 1.0
