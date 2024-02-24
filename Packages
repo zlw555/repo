@@ -856,6 +856,22 @@ Description: ios15手势
 Author: zlw555
 Name: ios15xhome-roothide
 
+Package: xhome14
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/xhome14_1.5_iphoneos-arm.deb
+Size: 4270
+MD5sum: 6a6cd136020f091090aa28b04b602360
+SHA1: 56ef6338e9bb8413fc23aac9a6ad5dbe854c7476
+SHA256: a5dee57c2c3628f9ee800f4c120ae7ea0470394eb453b60be889f6c0ff7ffb13
+Section: 自用插件
+Description: 自由ios14手势
+Author: zlw555
+Name: ios14xhome
+
 Package: xtyh
 Version: 1.3
 Architecture: iphoneos-arm64
