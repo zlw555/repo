@@ -1,19 +1,3 @@
-Package: applicationscene
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/去除底部横条1.1_iphoneos-arm64.deb
-Size: 3212
-MD5sum: 7dcbd5d80bb46ce67e84858c8a48ed95
-SHA1: febf6d0834b9d889ff96e8cf92644d6c28c0b993
-SHA256: eb527547a7d6d57350ee2db31904c0e41d19cf5c9b9ff45a3a1363c1c7fa0d75
-Section: Tweaks
-Description: 1.隐藏横条
-Author: z
-Name: 去除底部横条
-
 Package: avplayerjs
 Version: 1.0
 Architecture: iphoneos-arm
@@ -30,37 +14,85 @@ Description: 广告加速90
 Author: z
 Name: AVPlayer加速
 
-Package: batteryview
+Package: bottomheight
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/batteryview_1.0_iphoneos-arm64.deb
-Size: 2336
-MD5sum: d5051c646cb14a2726e5962084ce73b4
-SHA1: cbbdf10bbb74ee38d76f3b6fbdd2fc262c9b69c8
-SHA256: 72e4196f582e8607f1888dbd7804f91337b2664c2dbb6dc0b300f371b42320df
+Filename: ./debs/降低底部高度_1.0_iphoneos-arm64.deb
+Size: 2376
+MD5sum: 77723709a9eef4eb5ff803ffc5d825e7
+SHA1: 42c5c2898ca1fcb0133b91a8cd6ae0fc511bb22c
+SHA256: 3b98292a6c56637c12c098d4670b323c7a6ae5a167b83bb7397d8d5f40afd940
 Section: Tweaks
-Description: 配合去横条使用
+Description: 配合去横条使用+降低键盘高度+去单手键盘
 Author: z
-Name: 底部高度
+Name: 降低底部高度
 
-Package: batteryview
+Package: bottomheight
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/降低底部高度_1.2_iphoneos-arm64.deb
+Size: 2376
+MD5sum: dfb6e9399fee81afe6f5d0ba3706176d
+SHA1: db9521c51f978a7ba1f5038f1e7e8a0909c10f34
+SHA256: 4474cf550e11d897da52cef33cc233200d883f919972fa9a6a365bf3aef5a2a5
+Section: Tweaks
+Description: 配合去横条使用+降低键盘高度+去单手键盘
+Author: z
+Name: 降低底部高度
+
+Package: bottomheight
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/降低底部高度_1.4_iphoneos-arm64.deb
+Size: 2372
+MD5sum: 9f700ae82623c927989c34d1985d1b22
+SHA1: 8d3983ee771728e0f25c67f1d994af5fc54b629f
+SHA256: d7279a3e365d32e5a22b753cd1873870507c76c62f4b655215f885118bac6c52
+Section: Tweaks
+Description: 配合去横条使用+降低键盘高度+去单手键盘
+Author: z
+Name: 降低底部高度
+
+Package: bottomheight
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/降低底部高度_1.6_iphoneos-arm64.deb
+Size: 2378
+MD5sum: 438cef5aa50b888a1d06830fc4a731e0
+SHA1: 160ba23e6e2a10abe2320c382ca000a22d3b3c92
+SHA256: 05308a78c996caf76dd8fe671be6d9397957d2d6cdbd6229db14458d11e337d2
+Section: Tweaks
+Description: 配合去横条使用+降低键盘高度+去单手键盘
+Author: z
+Name: 降低底部高度
+
+Package: bottomheight
 Version: 1.8
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/batteryview_1.8_iphoneos-arm64.deb
-Size: 2338
-MD5sum: 60ea9e68825ccbd28de7bf19d2217c03
-SHA1: 9fe290d703ea208af141acaa5423f3989ea213fa
-SHA256: d1c12b5ace4cc2c890f4c18ce58de85ab68f34477a7304b2109023d163826ae4
+Filename: ./debs/降低底部高度_1.8_iphoneos-arm64.deb
+Size: 2474
+MD5sum: be09282023fa739ccde35414369e6e95
+SHA1: 39b65cbc8a2c3b101e2e4f32e0f764e5c0881eeb
+SHA256: 76ada3d49d47f1ef6638b1da41398f7af6b8cc8f2919704f21147574a58702cf
 Section: Tweaks
-Description: 配合去横条使用
+Description: 配合去横条使用+降低键盘高度1.0-1.8有4个版本，0代表最低，重启没有小组件问题，微信发语音要按上一点，不然会误触
 Author: z
-Name: 底部高度
+Name: 降低底部高度
 
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
@@ -511,6 +543,22 @@ Description: 去除测试版Beta弹窗
 Author: z
 Name: 去除Beta弹窗
 
+Package: nohomebar
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/去除底部横条_1.1_iphoneos-arm64.deb
+Size: 2408
+MD5sum: a58885b684674d26826583951f62e59d
+SHA1: 1bb8ec6e711c772c8a453a2188aff3315fac09c2
+SHA256: 330eca6ddd6dc3c21589dff3e3c740833488e66cd7fe771f4e6fef1806352632
+Section: Tweaks
+Description: 隐藏横条
+Author: z
+Name: 去除底部横条
+
 Package: nongye
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -809,16 +857,16 @@ Author: zlw555
 Name: ios15xhome-roothide
 
 Package: xtyh
-Version: 1.0
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 152
+Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/系统优化合集_1.0_iphoneos-arm64.deb
-Size: 4540
-MD5sum: 6bdecb151926b4624763468f2f11720c
-SHA1: 927a1c582dc38c04ad49d20c3a88b9bb8ef6eacf
-SHA256: ca05f1dadc3b7b710fe528366a34040990941b15bd0d339936d84a0b7d229034
+Filename: ./debs/系统优化合集_1.3_iphoneos-arm64.deb
+Size: 3516
+MD5sum: 95c2dedae6a1a551835baae609def185
+SHA1: 6321f5ad8fcafaf89fc227d7760874c82ce0be26
+SHA256: 4c6083d3da498c6940497c9b854222f1c0b9bfee146edb7f9ac26120852ddec8
 Section: Tweaks
 Description:
  1.隐藏通知中心"没有更早的通知"文本
@@ -833,6 +881,7 @@ Description:
  10.文件夹透明
  11.通知中心手势(左滑清除消息，右滑打开应用)
  12.禁用锁屏左滑相机
+ 13.去除横条
 Author: z
 Name: 系统优化合集
 
