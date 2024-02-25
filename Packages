@@ -904,22 +904,6 @@ Description: 2024/2/25 最新9.2.21去广告，如果后台打开有跳启动画
 Author: z
 Name: 喜马拉雅优化
 
-Package: ximalaya
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/喜马拉雅_1.2_iphoneos-arm.deb
-Size: 4464
-MD5sum: fe52ad05e90fbacb612d2d88980e2a8c
-SHA1: 4e46ac76637653d75aba4459b34ff457227c2145
-SHA256: 74bdd28d803d43f49655ab09ec2c2070b3e8402eb02a61722d9c876191a4bbe0
-Section: Tweaks
-Description: 2024/2/25 最新9.2.21去广告，如果后台打开有跳启动画面，请删掉重应用重新安装,filza删数据也可以
-Author: z
-Name: 喜马拉雅优化
-
 Package: xtyh
 Version: 1.3
 Architecture: iphoneos-arm64
