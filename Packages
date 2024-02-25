@@ -753,6 +753,22 @@ Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Name: Flex3转Theos
 
+Package: sbapplication
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: poqw312
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/禁用通知中心下拉手势_1.0_iphoneos-arm64.deb
+Size: 3186
+MD5sum: 78862df12466c711bc784b1847ad7739
+SHA1: 1612cf38830a652dcbf5b5ecfebe67f390e96893
+SHA256: c9cf00353123611b442a0fb4e2bc42a27c1df3d784eba769e6fc4714e58d1fcf
+Section: Tweaks
+Description: 仅在应用程序内禁用通知中心的下拉手势。(适用于游戏)，返回桌面不影响通知中心手势，该补丁默认生效全局应用，并不能单一选择应用
+Author: poqw312
+Name: 禁用通知中心下拉手势
+
 Package: wechatjbdbypass
 Version: 1.0
 Architecture: iphoneos-arm
@@ -871,6 +887,38 @@ Section: 自用插件
 Description: 自由ios14手势
 Author: zlw555
 Name: ios14xhome
+
+Package: ximalaya
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/喜马拉雅_1.0_iphoneos-arm64.deb
+Size: 4518
+MD5sum: ea17ff70ce2b98bf21ccd0ec4d1c25d9
+SHA1: 0c122381f987384423c5ddf5a57d133f64275036
+SHA256: c03a24e55d27a0ec7a7c0758f99ffca1e9f5fd7d02cc50f30a114f776a477d01
+Section: Tweaks
+Description: 2024/2/25 最新9.2.21去广告，如果后台打开有跳启动画面，请删掉重应用重新安装,filza删数据也可以
+Author: z
+Name: 喜马拉雅优化
+
+Package: ximalaya
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/喜马拉雅_1.1_iphoneos-arm.deb
+Size: 4462
+MD5sum: 817d6e851ab9ecfa94da377fc871fef2
+SHA1: 29cdaf5afaf9d129f9e93d00fa9fe6eba64c0ae6
+SHA256: 6dce7c13142f325d0ec277f6e1dac66c6ad8c569b4d6fa68a072fdd28a44f2a6
+Section: Tweaks
+Description: 2024/2/25 最新9.2.21去广告，如果后台打开有跳启动画面，请删掉重应用重新安装,filza删数据也可以
+Author: z
+Name: 喜马拉雅优化
 
 Package: xtyh
 Version: 1.3
