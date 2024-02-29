@@ -769,6 +769,22 @@ Description: 仅在应用程序内禁用通知中心的下拉手势。(适用于
 Author: poqw312
 Name: 禁用通知中心下拉手势
 
+Package: systembuding
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 284
+Depends: mobilesubstrate
+Filename: ./debs/systembuding_1.6_iphoneos-arm64.deb
+Size: 12368
+MD5sum: ffa0a7313e4a4b4e44974e11f471fff5
+SHA1: 84fa290b0da99d21b51116fb5a1f379d5200fda2
+SHA256: dcd1666f61b2683212958ef98a6fe4133b65fb8e2511a989d37624ed861a46d5
+Section: Tweaks
+Description: 自测于15.7.1，有设置开关
+Author: z
+Name: 系统补丁
+
 Package: wechatjbdbypass
 Version: 1.0
 Architecture: iphoneos-arm
