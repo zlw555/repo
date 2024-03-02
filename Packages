@@ -836,6 +836,22 @@ Name: 微信callkit
 
 Package: weifengqad
 Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/威锋7NoAd_1.0_iphoneos-arm.deb
+Size: 3930
+MD5sum: c26716164a0fb4a1dcaf83172aa8eb33
+SHA1: 9af65f62b95b81e676be91fc355e3899b96d5d02
+SHA256: 24ce97702605a7225efca8b19f215ff22a5a153dafef9ed01617992c9e2f65fe
+Section: Tweaks
+Description: 2014/2/5 威锋7.0去广告
+Author: z
+Name: 威锋7NoAd
+
+Package: weifengqad
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 152
