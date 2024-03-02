@@ -872,6 +872,22 @@ Dev: lakraream
 Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: wxyytg
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/微信抬高_1.0_iphoneos-arm64.deb
+Size: 2370
+MD5sum: 22e61c091142cc1b81d611505557e8ee
+SHA1: 22d1f9df201a6bf3fc805cbfd9086dd5d773a731
+SHA256: 67ddd345f3af7cf904e0f1bb9130795f2a8a468642022343b85791d9c1283d1a
+Section: Tweaks
+Description: 微信聊天界面抬高
+Author: z
+Name: 微信抬高
+
 Package: xhome
 Version: 1.5
 Architecture: iphoneos-arm64e
