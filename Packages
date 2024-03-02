@@ -840,11 +840,11 @@ Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/威锋7NoAd_1.0_iphoneos-arm.deb
+Filename: ./debs/weifengqad_1.0_iphoneos-arm.deb
 Size: 3930
-MD5sum: c26716164a0fb4a1dcaf83172aa8eb33
-SHA1: 9af65f62b95b81e676be91fc355e3899b96d5d02
-SHA256: 24ce97702605a7225efca8b19f215ff22a5a153dafef9ed01617992c9e2f65fe
+MD5sum: b07af3daf2b5f62d9ac30a375d7f6b80
+SHA1: 4dc3e76c45f6b0d64230f0a9e278dcdfe3482d43
+SHA256: bb6bb3f14b8a9ca139d7b45ffac460915432aec5c8e818cf89fec379a0970a8c
 Section: Tweaks
 Description: 2014/2/5 威锋7.0去广告
 Author: z
@@ -901,6 +901,22 @@ SHA1: 22d1f9df201a6bf3fc805cbfd9086dd5d773a731
 SHA256: 67ddd345f3af7cf904e0f1bb9130795f2a8a468642022343b85791d9c1283d1a
 Section: Tweaks
 Description: 微信聊天界面抬高
+Author: z
+Name: 微信抬高
+
+Package: wxyytg
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/微信抬高_1.1_iphoneos-arm64.deb
+Size: 2336
+MD5sum: d5dab439ee6eb8b03b526d7a58ed0304
+SHA1: ef801743fde58f6fa2204b946beb27e379221c49
+SHA256: a681772eb768058c14a5b79295b66d9e245114eaf9855806f94e37688f374860
+Section: Tweaks
+Description: 微信聊天界面抬20高，1.0版抬高8
 Author: z
 Name: 微信抬高
 
@@ -996,6 +1012,22 @@ Section: Tweaks
 Description: 去启动广告 为你推荐
 Author: z
 Name: 中国银行去广告
+
+Package: zgzyfw
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/中国志愿_1.0_iphoneos-arm64.deb
+Size: 2410
+MD5sum: 22cc7e93577283e1e0c4ea5b1ee6dc23
+SHA1: 6a2af6eef818e1c1c6e2f87d1c8f499fff13e18e
+SHA256: bcfac238d4645cb1df5a84962608b9b1b4383055f9f754879f3018da3aeff3c0
+Section: Tweaks
+Description: 屏蔽越狱，没帐号测不了
+Author: z
+Name: 中国志愿
 
 Package: zlw555.new3guangxibank
 Version: 1.1
