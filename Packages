@@ -134,6 +134,22 @@ Icon2: 10.png
 Name: WeChatFakeiPad 模拟iPad客户端
 Sponsor: Ai-小苹果
 
+Package: com.nathan.trolllock
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/巨魔锁_1.0.3_iphoneos-arm64.deb
+Size: 37142
+MD5sum: 33d2995d4126266a86b35a783375ccc2
+SHA1: b9061cfb1e28b5d8536c41a48900a1722004efb9
+SHA256: b4ddf2f8b6d6dce4beae45c939d883c3d0761d43566345c1d4f7c6d6d799687d
+Section: Tweaks
+Priority: optional
+Description: 图标目录在/var/jb/var/mobile/TrollLock//trollformation.bundle/trollformation.ca/assets
+Name: 巨魔锁
+
 Package: com.opa334.trollstorehelper
 Version: 1.5.1
 Architecture: iphoneos-arm
@@ -769,22 +785,6 @@ Description: 仅在应用程序内禁用通知中心的下拉手势。(适用于
 Author: poqw312
 Name: 禁用通知中心下拉手势
 
-Package: systembuding
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 284
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/系统补丁_1.7_iphoneos-arm64.deb
-Size: 47192
-MD5sum: fe9cd8bcb50930ed5265882634236eb4
-SHA1: a2123bffee712bbe777dfbc7a04c484d5a0f91d4
-SHA256: 74c71fa2262f847bde706313d0d7a1fda64add263549629154b42fd42263b3d8
-Section: Tweaks
-Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以上的arm64e设备
-Author: z
-Name: 系统补丁
-
 Package: wechatjbdbypass
 Version: 1.0
 Architecture: iphoneos-arm
@@ -895,12 +895,12 @@ Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate
 Filename: ./debs/微信抬高_1.0_iphoneos-arm64.deb
-Size: 2370
-MD5sum: 22e61c091142cc1b81d611505557e8ee
-SHA1: 22d1f9df201a6bf3fc805cbfd9086dd5d773a731
-SHA256: 67ddd345f3af7cf904e0f1bb9130795f2a8a468642022343b85791d9c1283d1a
+Size: 2364
+MD5sum: 3fcf0f7ed7cc0397b5c75936e1af05ad
+SHA1: 08ed749dbc41285375d9699301ab31f8e2ae1c98
+SHA256: ad70e49964f36426f49e7faa2229a53c9dd0dd73126ab91474d48f5e0c775ff0
 Section: Tweaks
-Description: 微信聊天界面抬高
+Description: 微信聊天界面抬20高，1.0版抬高8
 Author: z
 Name: 微信抬高
 
@@ -911,10 +911,10 @@ Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate
 Filename: ./debs/微信抬高_1.1_iphoneos-arm64.deb
-Size: 2336
-MD5sum: d5dab439ee6eb8b03b526d7a58ed0304
-SHA1: ef801743fde58f6fa2204b946beb27e379221c49
-SHA256: a681772eb768058c14a5b79295b66d9e245114eaf9855806f94e37688f374860
+Size: 2360
+MD5sum: 07c35833c8154e4514ab602375d01974
+SHA1: 0143b5e2f47a06559e9f3bbdf94ba3dff4cdb4a7
+SHA256: 0d0ec8bfa67e79b85291cf36939a69f0dee4ad687e9025860bf91b5d59399455
 Section: Tweaks
 Description: 微信聊天界面抬20高，1.0版抬高8
 Author: z
