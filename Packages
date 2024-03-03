@@ -329,6 +329,23 @@ Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
 Author: iBreak <ibreak2019@qq.com>
 Name: WeChat Callkit
 
+Package: latchkey
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Installed-Size: 10136
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/自定义锁头_2.2_iphoneos-arm64.deb
+Size: 5654088
+MD5sum: 3bbbe2b5264a8e97514a1903bc22132b
+SHA1: d6e9838d8d1b76edc491cff1ae52bd3416c0ebe6
+SHA256: cc32930e9092257c55a0362400f7aadf07d59f1f1e3c0ca6767bcb11bdfe9865
+Section: Tweaks
+Description: Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: 修复15.7.1可用
+Name: LatchKey-自定义锁头
+
 Package: lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
