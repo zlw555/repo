@@ -94,6 +94,22 @@ Description: 配合去横条使用+降低键盘高度1.0-1.8有4个版本，0代
 Author: z
 Name: 降低底部高度
 
+Package: bottomheightz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/底部抬高_1.0_iphoneos-arm64.deb
+Size: 8832
+MD5sum: 0314bd0ffd6ffd37e10e9bb2a0ccdc2f
+SHA1: 3af74b5c24294198f8e5e024fe8464f02b9997d4
+SHA256: 759b6efc60908c4b5264b096c7e04e984053084f25af43a4640f97c24df901bd
+Section: Tweaks
+Description: 底部抬高
+Author: z
+Name: 设置底部高度
+
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
