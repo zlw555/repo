@@ -818,6 +818,22 @@ Description: 仅在应用程序内禁用通知中心的下拉手势。(适用于
 Author: poqw312
 Name: 禁用通知中心下拉手势
 
+Package: systembuding
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/系统补丁_1.7_iphoneos-arm64.deb
+Size: 45890
+MD5sum: e076b008057be37ce0db3f8ca96a7074
+SHA1: 67f61e92d2fc8ec3c755c83f1f2badaa5a3a3469
+SHA256: 0ec0f68454d19e1e1587005fa29bb9edf7acf5965ad866f243b87dfc091bc4b5
+Section: Tweaks
+Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以上的arm64e设备
+Author: z
+Name: 系统补丁
+
 Package: sysytemzypd
 Version: 1.0
 Architecture: iphoneos-arm64
