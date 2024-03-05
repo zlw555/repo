@@ -110,6 +110,22 @@ Description: 底部抬高
 Author: z
 Name: 设置底部高度
 
+Package: bottomheightz
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/抬高_1.2_iphoneos-arm64.deb
+Size: 8874
+MD5sum: 596f993003729bb0564ea4363b66d768
+SHA1: 53b864426377e7d1d0731eeeeb914b32d6271050
+SHA256: a6f7bec620cafc71637b4a94a7fca0cab0183fa3b642644d519bef3cebfcb72c
+Section: Tweaks
+Description: 底部抬高
+Author: z
+Name: 设置底部高度
+
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
