@@ -803,16 +803,16 @@ Author: poqw312
 Name: 禁用通知中心下拉手势
 
 Package: sysytemzypd
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 352
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用系统补丁_1.0_iphoneos-arm64.deb
-Size: 39034
-MD5sum: 5b967798d3394acda2fb17bad87c8e28
-SHA1: 02ae0fe290480b29a3c9747c13d524b3797284db
-SHA256: 3fbcfa9a7674bfd5625f397bfb56d1ad79f35d23aa2e6a71068ec2002ca5336f
+Filename: ./debs/自用系统补丁_1.1_iphoneos-arm64.deb
+Size: 38994
+MD5sum: ce1271516e9787ca15650baf4ae32606
+SHA1: 536de0815b9f779f7b5752b264896b883c19c921
+SHA256: 21b17f9a089f650b5e2507e7264f364e573ca7745126cbb5ae6cca0490dacafd
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z
