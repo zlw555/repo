@@ -851,16 +851,16 @@ Author: z
 Name: 系统补丁
 
 Package: sysytemzypd
-Version: 1.1
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 352
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用系统补丁_1.1_iphoneos-arm64.deb
-Size: 38994
-MD5sum: ce1271516e9787ca15650baf4ae32606
-SHA1: 536de0815b9f779f7b5752b264896b883c19c921
-SHA256: 21b17f9a089f650b5e2507e7264f364e573ca7745126cbb5ae6cca0490dacafd
+Filename: ./debs/自用系统补丁_1.3_iphoneos-arm64.deb
+Size: 39048
+MD5sum: 6a24f4d4c9aea95c49796fc3fbe66619
+SHA1: 4f9875be6e7f61bdf74187a807d463ffc8556ed0
+SHA256: 4a275f9a1f7a9bd9624c991788c2f90bdb684d94b1fd0a8ecb2052ace9741b30
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z
@@ -914,6 +914,22 @@ Section: Tweaks
 Description: 微信callkit+去朋友圈广告+默认勾选原图
 Author: z
 Name: 微信callkit
+
+Package: wechatqad
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/自用微信补丁_1.3_iphoneos-arm64.deb
+Size: 3006
+MD5sum: e3d7251f46b27dc108a0ef588f6db882
+SHA1: 6bc60afa190dc211c496180e171e5f7472029a19
+SHA256: 7d5a55bfd026eb733a36e396d989222dba976026bad821798534ab88c1926452
+Section: Tweaks
+Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界面抬高
+Author: z
+Name: 自用微信补丁
 
 Package: weifengqad
 Version: 1.0
@@ -970,36 +986,20 @@ Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: wxyytg
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/微信抬高_1.0_iphoneos-arm64.deb
-Size: 2364
-MD5sum: 3fcf0f7ed7cc0397b5c75936e1af05ad
-SHA1: 08ed749dbc41285375d9699301ab31f8e2ae1c98
-SHA256: ad70e49964f36426f49e7faa2229a53c9dd0dd73126ab91474d48f5e0c775ff0
-Section: Tweaks
-Description: 微信聊天界面抬20高，1.0版抬高8
-Author: z
-Name: 微信抬高
-
-Package: wxyytg
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 88
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/微信抬高_1.1_iphoneos-arm64.deb
-Size: 2360
-MD5sum: 07c35833c8154e4514ab602375d01974
-SHA1: 0143b5e2f47a06559e9f3bbdf94ba3dff4cdb4a7
-SHA256: 0d0ec8bfa67e79b85291cf36939a69f0dee4ad687e9025860bf91b5d59399455
+Filename: ./debs/聊聊天界面_1.1_iphoneos-arm64.deb
+Size: 3054
+MD5sum: 625bafb473e600687b2bbcb02ea8ba53
+SHA1: 9ce2b6fd305deeae51e2b057686344e3bf5bf5d7
+SHA256: 417376f97d32fbe019f258af84383f687845feaf769ce53da6cf51cd576baba0
 Section: Tweaks
-Description: 微信聊天界面抬20高，1.0版抬高8
+Description: 微信聊天界面抬高
 Author: z
-Name: 微信抬高
+Name: 微信聊天界面抬高
 
 Package: xhome
 Version: 1.5
@@ -1093,22 +1093,6 @@ Section: Tweaks
 Description: 去启动广告 为你推荐
 Author: z
 Name: 中国银行去广告
-
-Package: zgzyfw
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/中国志愿_1.0_iphoneos-arm64.deb
-Size: 2410
-MD5sum: 22cc7e93577283e1e0c4ea5b1ee6dc23
-SHA1: 6a2af6eef818e1c1c6e2f87d1c8f499fff13e18e
-SHA256: bcfac238d4645cb1df5a84962608b9b1b4383055f9f754879f3018da3aeff3c0
-Section: Tweaks
-Description: 屏蔽越狱，没帐号测不了
-Author: z
-Name: 中国志愿
 
 Package: zlw555.new3guangxibank
 Version: 1.1
