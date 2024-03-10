@@ -1056,14 +1056,14 @@ Maintainer: z
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/喜马拉雅_1.3_iphoneos-arm.deb
-Size: 4564
-MD5sum: 0736836ef79058cc6861a4f0bde5c355
-SHA1: 8387700ea34b537bd68b69109b92167555db0965
-SHA256: e43bb4c49553b30c118ec8a36df78acf99b9b0d02d328aa61d9567324c8b7437
+Size: 4554
+MD5sum: f023bff9f2f96928bd2bf0d6970b29cd
+SHA1: 1caf5a4f6eb4dc488a146f14520b0b9bb34adfbb
+SHA256: e448f4443b8eca590306d3c9bf739a2d29c383dc8f301c8767b469504c4ee508
 Section: Tweaks
-Description: 2024/3/10 最新9.2.24去广告，如果后台打开有跳启动画面，请删掉重应用重新安装
+Description: 最新9.2.24去广告，如果后台打开有跳启动画面，请删掉重应用重新安装
 Author: z
-Name: 喜马拉雅优化
+Name: 喜马拉雅补丁
 
 Package: ximalaya
 Version: 1.3
