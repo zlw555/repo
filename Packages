@@ -1055,11 +1055,11 @@ Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/喜马拉雅_1.3_iphoneos-arm.deb
+Filename: ./debs/ximalaya_1.3_iphoneos-arm.deb
 Size: 4554
-MD5sum: f023bff9f2f96928bd2bf0d6970b29cd
-SHA1: 1caf5a4f6eb4dc488a146f14520b0b9bb34adfbb
-SHA256: e448f4443b8eca590306d3c9bf739a2d29c383dc8f301c8767b469504c4ee508
+MD5sum: 5f2d2a15260e47b40abbc9c312f114c7
+SHA1: 4b9242b782a4e1e12655e88be77470bf04b17a81
+SHA256: 9716e8fb727545a2486bf32829fcf34a073cdff7b7203e6f61685b3441e30ef2
 Section: Tweaks
 Description: 最新9.2.24去广告，如果后台打开有跳启动画面，请删掉重应用重新安装
 Author: z
