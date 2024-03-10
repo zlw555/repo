@@ -949,6 +949,22 @@ Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界
 Author: z
 Name: 自用微信补丁
 
+Package: wechatqad
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/自用微信补_1.5_iphoneos-arm64.deb
+Size: 2976
+MD5sum: a77637a308d251a8694f69b1e37eeeb3
+SHA1: dd90b7bb115a57f9c7cd23a56a739d15d90ab591
+SHA256: cbb3aff33d46906b680e786fd314b972ebc3a7976fb6dc5684660eb96076dc04
+Section: Tweaks
+Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界面抬高
+Author: z
+Name: 自用微信补丁
+
 Package: weifengqad
 Version: 1.0
 Architecture: iphoneos-arm
