@@ -869,16 +869,16 @@ Author: z
 Name: 系统补丁
 
 Package: sysytemzypd
-Version: 1.3
+Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 352
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用系统补丁_1.3_iphoneos-arm64.deb
-Size: 39048
-MD5sum: 6a24f4d4c9aea95c49796fc3fbe66619
-SHA1: 4f9875be6e7f61bdf74187a807d463ffc8556ed0
-SHA256: 4a275f9a1f7a9bd9624c991788c2f90bdb684d94b1fd0a8ecb2052ace9741b30
+Filename: ./debs/自用系统补丁_1.5_iphoneos-arm64.deb
+Size: 38946
+MD5sum: 0e5bf2366c8ccb800d5a5dae2f3e75de
+SHA1: 6ba7b85176de2221b96bbce9b963d12e6169709f
+SHA256: 05ca43ccfa889c1d7eeb3db48dc21e663f3c069227d19da047034d0653fd7ca3
 Section: Tweaks
 Description: 打包自用系统补丁
 Author: z
