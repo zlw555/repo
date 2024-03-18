@@ -1132,13 +1132,13 @@ Package: zgyh
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/中国银行去广告_1.1_iphoneos-arm64.deb
-Size: 3260
-MD5sum: b2b8c92e6f82ac0d00306c735f16fd79
-SHA1: 02164558328f9154076feb443daadadabf08bb53
-SHA256: 739f9d9e31aedef4429128eb20b97eb8f0ea11c797ef726fbe185d2830858074
+Size: 3064
+MD5sum: 7b3352b9bf953fcb21c97d95dfb75884
+SHA1: 0b9236946eedafc2fe28ae3c25b5d8445892b288
+SHA256: f1f8d6fba66e8c713e01f2cf00f461aa3349c37e74e498fbc3d2176460ebba5d
 Section: Tweaks
 Description: 去启动广告 为你推荐
 Author: z
