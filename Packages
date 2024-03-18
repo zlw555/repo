@@ -1,19 +1,3 @@
-Package: avplayerjs
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/广告加速_1.0_iphoneos-arm.deb
-Size: 2948
-MD5sum: cdecbdec5a3c6465d3f508aac8f6b6f4
-SHA1: ac8ad52691d241af2dd69ec1fb2ee3b19ea1c794
-SHA256: 7cefd0b1a8bbb50a4b189b9f959be46517a89c8ab9e3726a08019f8774703fc2
-Section: Tweaks
-Description: 广告加速90
-Author: z
-Name: AVPlayer加速
-
 Package: bottomheight
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -345,21 +329,6 @@ Description: 桌面文件夹背景透明
  点击任意空白处关闭文件夹
 Author: z
 Name: 文件夹透明
-
-Package: ibreak.wecallkit
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/ibreak.wecallkit_1.0_iphoneos-arm.deb
-Size: 3608
-MD5sum: 6e693728ac86b8f75a4128fbe1cf6be1
-SHA1: 659ac288f71b1393be313b840e589c6663157892
-SHA256: bda3e2e1d55c746add287ef3ecc7d4672732e7e9432a9358f2af5d32f895f5fd
-Section: 自用插件
-Description: 开启微信 Callkit 通话功能・Open Wechat Callkit Call
-Author: iBreak <ibreak2019@qq.com>
-Name: WeChat Callkit
 
 Package: latchkey
 Version: 2.2
@@ -884,23 +853,6 @@ Description: 打包自用系统补丁
 Author: z
 Name: 自用系统补丁
 
-Package: wechatjbdbypass
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 糖醋丶炒排骨
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/wechatjbdbypass_1.0_iphoneos-arm.deb
-Size: 14704
-MD5sum: 2aebcd9fb729385719825be11b7e69b4
-SHA1: 36e2b6c40cdc622250702881d642f5fe1025a879
-SHA256: 06c8f50ec096afa76530d36cafeaaf96b5151399d227644b0e2e2a20e8921091
-Section: 自用插件
-Description: 适配App Store商店7.0.20版微信，已用小号测试7天。加强反越狱检测、小号防封。防封只针对小号越狱环境，对红包功能被禁用没有效果；大号安装则正常使用面容指纹支付功能。
-Author: 糖醋丶炒排骨
-Icon: Tweaks.png
-Name: 微信JBDBypass
-
 Package: wechatqad
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1018,6 +970,22 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
 Dev: lakraream
 Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: wxipad
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/wxipad_1.1_iphoneos-arm64.deb
+Size: 3070
+MD5sum: 28864dcbe58ee0a1a78bfc8246a686c9
+SHA1: 76babcd0d6fb1d830e03babb2b1a77e467a6f0f0
+SHA256: 4cfca8f0e58eed8728d8589bf91e3ba2c0ca299738ebd28e42edb4ac94fa466e
+Section: Tweaks
+Description: 微信iPad端
+Author: z
+Name: 微信iPad
 
 Package: wxyytg
 Version: 1.1
