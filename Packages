@@ -110,6 +110,22 @@ Description: 底部抬高
 Author: z
 Name: 设置底部高度
 
+Package: camerafullscreen
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/camerafullscreen_1.0_iphoneos-arm64.deb
+Size: 3356
+MD5sum: d8e570b1e39852e49f590b9a863b21a4
+SHA1: aebd62c3756ba21dec421e9f87c18f94a063bd71
+SHA256: 19348ef1cae8af5d622ab622c5b43cfe8b4e855543c14e80367f933dca10b73e
+Section: Tweaks
+Description: 补丁说明:本补丁仅去除原生相机顶部和底部两个黑色模块，使其达到全屏视觉效果，默认拍照比例为4:3，只有16:9模式拍出来的照片才算全屏效果，理论兼容全系列设备！
+Author: z
+Name: 相机全屏拍照
+
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
