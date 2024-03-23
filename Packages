@@ -142,6 +142,22 @@ Description: 隐藏语音留言。微信电话
 Author: z
 Name: 隐藏语音留言
 
+Package: callshidevoicemailios
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/callshidevoicemailios_1.4_iphoneos-arm64.deb
+Size: 2468
+MD5sum: 797dbdd20c79152fefd99f6bda143921
+SHA1: ffa1d9b64b9becfec63a59853d785c7c3b7a4977
+SHA256: 9894c71efdb430651d62a6fde4c7177f9dd0e5424b975e3ea00f804ff1ad73af
+Section: Tweaks
+Description: 隐藏语音留言。微信电话
+Author: z
+Name: 隐藏语音留言
+
 Package: camerafullscreen
 Version: 1.0
 Architecture: iphoneos-arm64
