@@ -885,6 +885,22 @@ Description: 打包自用系统补丁
 Author: z
 Name: 自用系统补丁
 
+Package: sysytemzypd
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/自用系统补丁_1.7_iphoneos-arm64.deb
+Size: 39050
+MD5sum: 226217bb4f71eace42f07c143d248e2a
+SHA1: 5c6507f046a8be95ede839cff173ed2d8a4742f1
+SHA256: 0ba3554badfa2f977cf7e9f5fbfe1f8ae5d29faf75f73fd22b7b0eea5715c395
+Section: Tweaks
+Description: 打包自用系统补丁
+Author: z
+Name: 自用系统补丁
+
 Package: wechatqad
 Version: 1.0
 Architecture: iphoneos-arm
