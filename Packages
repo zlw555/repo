@@ -149,10 +149,10 @@ Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate
 Filename: ./debs/callshidevoicemailios_1.2_iphoneos-arm64.deb
-Size: 2462
-MD5sum: 54a57b2c074c0fe699a257a660ec8266
-SHA1: 22f24c37000ef61b953c5296f86bf3ee268861c7
-SHA256: 9646dc8926481addc45e77105ccdc6769e213b2e0143a69de8f0d13e96530880
+Size: 2466
+MD5sum: 1653d9e011980dea69e19edbe5fe5362
+SHA1: 8f218a6af63ee7fed4b63f9ed49167290dea16b7
+SHA256: 87b0152d3bf89bd1f72ed11aaeaee8f01c54d07595c569002f5535effe2da56a
 Section: Tweaks
 Description: 隐藏语音留言。微信电话
 Author: z
