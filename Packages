@@ -110,6 +110,22 @@ Description: 底部抬高
 Author: z
 Name: 设置底部高度
 
+Package: callshidevoicemailios
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/隐藏语音留言_1.0_iphoneos-arm64.deb
+Size: 2402
+MD5sum: 9a21ac81d2c32168f03b016ba97d30a4
+SHA1: 689a2caab8e720f4d9192c939c8cc782cd10d439
+SHA256: 0590432d65748fe2d95c417afef265cb9de8d838323a40025009b955427e87fd
+Section: Tweaks
+Description: 隐藏语音留言。微信电话
+Author: z
+Name: 隐藏语音留言
+
 Package: camerafullscreen
 Version: 1.0
 Architecture: iphoneos-arm64
