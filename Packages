@@ -899,6 +899,22 @@ Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界
 Author: z
 Name: 自用微信补丁
 
+Package: wechatupdate
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wechatupdate_1.1_iphoneos-arm64.deb
+Size: 4786
+MD5sum: 0c7d74993a0571b3896df713d1ec480b
+SHA1: e52d1bc78351afed2692e961dc5595ee2cce3c8e
+SHA256: 2239308a77c5df7d92270df9eead0ecc7b4e1cc842acec19e68cbe3c2da008d5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: z
+Name: WeChatupdate
+
 Package: weifengqad
 Version: 1.0
 Architecture: iphoneos-arm
