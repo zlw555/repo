@@ -858,10 +858,10 @@ Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/自用微信补丁_1.1_iphoneos-arm64.deb
-Size: 3444
-MD5sum: 8d5d94052a6ad09c2356baae8a00ea1f
-SHA1: 09687ad55ba0a81ca189d81df27095594dd9f306
-SHA256: 11c0d58b08b5a26fa59d1fa84e01f622e883071af3d33caa3bbe11bd29cdf7cd
+Size: 3450
+MD5sum: 2d4437471c1519074c43fbcfb853ec76
+SHA1: 74eabc9d440e9006aba29bed0ef207af090345b7
+SHA256: 76f6a14f36b1dc560e51ec95c29794fcf44c6d175f1d2e3236d61ed490a4358a
 Section: Tweaks
 Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界面抬高
 Author: z
