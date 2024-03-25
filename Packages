@@ -903,13 +903,13 @@ Package: wechatupdate
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 184
+Installed-Size: 180
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/wechatupdate_1.1_iphoneos-arm64.deb
-Size: 4786
-MD5sum: 0c7d74993a0571b3896df713d1ec480b
-SHA1: e52d1bc78351afed2692e961dc5595ee2cce3c8e
-SHA256: 2239308a77c5df7d92270df9eead0ecc7b4e1cc842acec19e68cbe3c2da008d5
+Size: 4632
+MD5sum: a718369e693e6bda1226d2756241829f
+SHA1: 239a79ee2aba90f9d0a418074a4a878b8cbdafd8
+SHA256: 001d60860e66f4f6e63c99c9674fc5932d5771be004af4f8b8eb7caa4332b9c4
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: z
