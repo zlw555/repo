@@ -852,6 +852,22 @@ Author: z
 Name: 微信callkit
 
 Package: wechatqad
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/自用微信补丁_1.1_iphoneos-arm64.deb
+Size: 3444
+MD5sum: 8d5d94052a6ad09c2356baae8a00ea1f
+SHA1: 09687ad55ba0a81ca189d81df27095594dd9f306
+SHA256: 11c0d58b08b5a26fa59d1fa84e01f622e883071af3d33caa3bbe11bd29cdf7cd
+Section: Tweaks
+Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界面抬高
+Author: z
+Name: 自用微信补丁
+
+Package: wechatqad
 Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: z
@@ -873,7 +889,7 @@ Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用微信补_1.5_iphoneos-arm64.deb
+Filename: ./debs/自用微信补丁_1.5_iphoneos-arm64.deb
 Size: 2976
 MD5sum: a77637a308d251a8694f69b1e37eeeb3
 SHA1: dd90b7bb115a57f9c7cd23a56a739d15d90ab591
