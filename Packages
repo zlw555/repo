@@ -915,6 +915,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: z
 Name: WeChatupdate
 
+Package: wechatupdate
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wechatupdate_1.2_iphoneos-arm64.deb
+Size: 4836
+MD5sum: bdeaf0d64f53293ca4910b3bdaeb7a41
+SHA1: 45d9f3cfbdc90e302caf976c5c64c18f385a4a7c
+SHA256: a56f3dc08acd87d3e25775935752bdd19a2c7019f1bf3fda5d9316f33bd0485d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: z
+Name: WeChatupdate
+
 Package: weifengqad
 Version: 1.0
 Architecture: iphoneos-arm
