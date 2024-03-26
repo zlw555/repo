@@ -163,6 +163,22 @@ Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
 
+Package: com.wechatupdate
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wechatupdate_1.0_iphoneos-arm64.deb
+Size: 2342
+MD5sum: 04476d2c4e870396d2f6c174fc7c7cef
+SHA1: d212baee4ed4df4d4a45370a01bda47bf8c15adf
+SHA256: c2a061a9ba227fc30c1cc2a5f385665a41d2f76ac559d7c9b71619554d89a791
+Section: Tweaks
+Description: 修改微信版本号
+Author: z
+Name: 修改微信版本号
+
 Package: com.zlw555.ios15xhome
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -852,38 +868,6 @@ Author: z
 Name: 微信callkit
 
 Package: wechatqad
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用微信补丁_1.1_iphoneos-arm64.deb
-Size: 3450
-MD5sum: 2d4437471c1519074c43fbcfb853ec76
-SHA1: 74eabc9d440e9006aba29bed0ef207af090345b7
-SHA256: 76f6a14f36b1dc560e51ec95c29794fcf44c6d175f1d2e3236d61ed490a4358a
-Section: Tweaks
-Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界面抬高
-Author: z
-Name: 自用微信补丁
-
-Package: wechatqad
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用微信补丁_1.3_iphoneos-arm64.deb
-Size: 3006
-MD5sum: e3d7251f46b27dc108a0ef588f6db882
-SHA1: 6bc60afa190dc211c496180e171e5f7472029a19
-SHA256: 7d5a55bfd026eb733a36e396d989222dba976026bad821798534ab88c1926452
-Section: Tweaks
-Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界面抬高
-Author: z
-Name: 自用微信补丁
-
-Package: wechatqad
 Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: z
@@ -898,38 +882,6 @@ Section: Tweaks
 Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界面抬高
 Author: z
 Name: 自用微信补丁
-
-Package: wechatupdate
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechatupdate_1.2_iphoneos-arm64.deb
-Size: 4836
-MD5sum: bdeaf0d64f53293ca4910b3bdaeb7a41
-SHA1: 45d9f3cfbdc90e302caf976c5c64c18f385a4a7c
-SHA256: a56f3dc08acd87d3e25775935752bdd19a2c7019f1bf3fda5d9316f33bd0485d
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: z
-Name: WeChatupdate
-
-Package: wechatupdate
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechatupdate_1.3_iphoneos-arm64.deb
-Size: 4792
-MD5sum: 598d3f109a81cc5418d28ec2deb27e2c
-SHA1: 392ada4b6fc0beab064f071ce3bdd788dd220c17
-SHA256: 420c4743b204abfd53fd69e5724ce0f3a362dc773fcf77cb6d75577b31c08a6e
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: z
-Name: WeChatupdate
 
 Package: weifengqad
 Version: 1.0
