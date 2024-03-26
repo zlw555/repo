@@ -900,22 +900,6 @@ Author: z
 Name: 自用微信补丁
 
 Package: wechatupdate
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 180
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechatupdate_1.1_iphoneos-arm64.deb
-Size: 4632
-MD5sum: a718369e693e6bda1226d2756241829f
-SHA1: 239a79ee2aba90f9d0a418074a4a878b8cbdafd8
-SHA256: 001d60860e66f4f6e63c99c9674fc5932d5771be004af4f8b8eb7caa4332b9c4
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: z
-Name: WeChatupdate
-
-Package: wechatupdate
 Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: z
@@ -926,6 +910,22 @@ Size: 4836
 MD5sum: bdeaf0d64f53293ca4910b3bdaeb7a41
 SHA1: 45d9f3cfbdc90e302caf976c5c64c18f385a4a7c
 SHA256: a56f3dc08acd87d3e25775935752bdd19a2c7019f1bf3fda5d9316f33bd0485d
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: z
+Name: WeChatupdate
+
+Package: wechatupdate
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wechatupdate_1.3_iphoneos-arm64.deb
+Size: 4792
+MD5sum: 598d3f109a81cc5418d28ec2deb27e2c
+SHA1: 392ada4b6fc0beab064f071ce3bdd788dd220c17
+SHA256: 420c4743b204abfd53fd69e5724ce0f3a362dc773fcf77cb6d75577b31c08a6e
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: z
