@@ -883,6 +883,22 @@ Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统
 Author: z
 Name: 修改微信版本号
 
+Package: wechatupdate
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 252
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/wechatupdate_1.8_iphoneos-arm64.deb
+Size: 8080
+MD5sum: 15100242e3a25552c269b0edf7539580
+SHA1: 6f1b93784a6f6218c948cae4465ef595b9acd69d
+SHA256: 5c329d290764047a006a17782bec10ec91bd912f3bd7f5325c77cdd8ba3efa33
+Section: Tweaks
+Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统设置里
+Author: z
+Name: 修改微信版本号
+
 Package: weifengqad
 Version: 1.0
 Architecture: iphoneos-arm
