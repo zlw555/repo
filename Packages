@@ -1,3 +1,19 @@
+Package: bottomelevation
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/底部高度_1.1_iphoneos-arm64.deb
+Size: 2322
+MD5sum: 05661c217be77f70af2aff026d4e9115
+SHA1: 7459d1be84cd71dfced6dfc263823c4d71ae5e39
+SHA256: 870539c436fa3a1a885c0a227b39c30cb2e75b2a7f02e418ad2d13c54768923f
+Section: Tweaks
+Description: 底部高度
+Author: z
+Name: 底部高度
+
 Package: bottomheightz
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -544,6 +560,22 @@ Section: Netskao-Tweaks
 Description: 电脑登陆微信扫码后自动确定，下次电脑点击登陆后跳转微信后直接登录
 Author: Netskao
 Name: WeChatAutoLogin
+
+Package: ngpj
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/ngpj_1.1_iphoneos-arm.deb
+Size: 2968
+MD5sum: 1982c0500778c2f71f67775da2c76948
+SHA1: 1a9913386cb47d4a104c0e49aeaeb425d8c907d3
+SHA256: 5102ea07c8ac47802603b50aabaf7ed6d57d2856562af8bce33f9c345183002a
+Section: Tweaks
+Description: 购买界面点x
+Author: z
+Name: 内购破解
 
 Package: ngthienhoan.nobetaalert
 Version: 1.0
