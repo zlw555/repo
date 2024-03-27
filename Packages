@@ -868,34 +868,18 @@ Author: z
 Name: 自用微信补丁
 
 Package: wechatupdate
-Version: 1.7
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 252
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/wechatupdate_1.7_iphoneos-arm64.deb
-Size: 8072
-MD5sum: 9cf79b5c65456fb48636cd3789f2c394
-SHA1: 8bb9e3bff1671a0e259272d855aed5c5c6766b75
-SHA256: dd935632effc30a541f90b16fe6e7a18183dd24fdaa9a18ce1b13da1f0a9bdc8
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/wechatupdate_1.1_iphoneos-arm64.deb
+Size: 8424
+MD5sum: 9e66ab490169d9bd902291cca927b567
+SHA1: 9b2c12039ef792be0038d7e2e9ee3657210b5eda
+SHA256: cc5198ed66eaa2bb9d7a7ffc7cd1f606c8f779d174b8d03e0890a77da02ef16f
 Section: Tweaks
-Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统设置里
-Author: z
-Name: 修改微信版本号
-
-Package: wechatupdate
-Version: 1.8
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 252
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/wechatupdate_1.8_iphoneos-arm64.deb
-Size: 8080
-MD5sum: 15100242e3a25552c269b0edf7539580
-SHA1: 6f1b93784a6f6218c948cae4465ef595b9acd69d
-SHA256: 5c329d290764047a006a17782bec10ec91bd912f3bd7f5325c77cdd8ba3efa33
-Section: Tweaks
-Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统设置里
+Description: 修改微信版本号，解决小程序问题,更改后，划掉微信后台生效
 Author: z
 Name: 修改微信版本号
 
