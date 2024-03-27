@@ -163,22 +163,6 @@ Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
 
-Package: com.wechatupdate
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.wechatupdate_1.0_iphoneos-arm64.deb
-Size: 2342
-MD5sum: 04476d2c4e870396d2f6c174fc7c7cef
-SHA1: d212baee4ed4df4d4a45370a01bda47bf8c15adf
-SHA256: c2a061a9ba227fc30c1cc2a5f385665a41d2f76ac559d7c9b71619554d89a791
-Section: Tweaks
-Description: 修改微信版本号
-Author: z
-Name: 修改微信版本号
-
 Package: com.zlw555.ios15xhome
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -882,6 +866,22 @@ Section: Tweaks
 Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界面抬高
 Author: z
 Name: 自用微信补丁
+
+Package: wechatupdate
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 252
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/wechatupdate_1.7_iphoneos-arm64.deb
+Size: 8072
+MD5sum: 9cf79b5c65456fb48636cd3789f2c394
+SHA1: 8bb9e3bff1671a0e259272d855aed5c5c6766b75
+SHA256: dd935632effc30a541f90b16fe6e7a18183dd24fdaa9a18ce1b13da1f0a9bdc8
+Section: Tweaks
+Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统设置里
+Author: z
+Name: 修改微信版本号
 
 Package: weifengqad
 Version: 1.0
