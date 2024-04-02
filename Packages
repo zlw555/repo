@@ -875,13 +875,13 @@ Package: xhome14
 Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: zlw555
-Installed-Size: 152
+Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/xhome14_1.5_iphoneos-arm.deb
-Size: 4270
-MD5sum: 6a6cd136020f091090aa28b04b602360
-SHA1: 56ef6338e9bb8413fc23aac9a6ad5dbe854c7476
-SHA256: a5dee57c2c3628f9ee800f4c120ae7ea0470394eb453b60be889f6c0ff7ffb13
+Size: 3330
+MD5sum: 41182518613df8177a042567c6ec1ff1
+SHA1: 944efcae4f30310542ed633ecc2d0f09a3360c84
+SHA256: 93e9f374e3b6b5df6849b66569b9eacfa17e2be79985346f1b89a0f8267997d8
 Section: 自用插件
 Description: 自由ios14手势
 Author: zlw555
