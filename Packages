@@ -150,23 +150,6 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
-Package: com.netskao.filzacrack
-Version: 1.1-8
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 88
-Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
-Filename: ./debs/com.netskao.filzacrack_1.1-8_iphoneos-arm64.deb
-Size: 4854
-MD5sum: cca66bdffa18a3371e11060ec53eb563
-SHA1: fdc824f452c5de7d7548fcd3387618fc0debcd60
-SHA256: 31f598ea071c33ea3f207807f6d5c4fc78c590f20d04f0664da6321b62f3757e
-Section: Netskao-Tweaks
-Homepage: https://tigisoftware.com/cydia/
-Description: Filza unlock full functionality, the main program please install in the official source
-Author: Netskao
-Name: Filza Crack
-
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-4
 Architecture: iphoneos-arm64
@@ -229,22 +212,6 @@ Author: opa334
 Name: TrollStore Helper
 
 Package: com.zlw555.ios15xhome
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/ios15xhome_1.1_iphoneos-arm64.deb
-Size: 3528
-MD5sum: 226c942eb05cb3a99e68ea3c28e460cb
-SHA1: 048b385fca3778a06329fcefbcdde485a1e51be3
-SHA256: 0825bcea6827880b790a4837b93d484a3f1a269f58d2b2a09d52082687d9959a
-Section: Tweaks
-Description: ios15x手势 dock透明
-Author: zlw555
-Name: ios15xhome
-
-Package: com.zlw555.ios15xhome
 Version: 1.3-1+debug
 Architecture: iphoneos-arm64
 Maintainer: zlw555
@@ -259,22 +226,6 @@ Section: Tweaks
 Description: iOS15无限根x手势，隐藏控制中心状态栏
 Author: zlw555
 Name: ios15xhome
-
-Package: com.zlw555.wxcallkit
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wxcallkit_1.0_iphoneos-arm64.deb
-Size: 3112
-MD5sum: 80fbad7559146b77ddf9a13fde32c111
-SHA1: f9045b1020f573dec67206ce661cc15828984433
-SHA256: 38e8e1b588d27e3fd9c176a736517a579c214ffdfed158ffa2d5a23bf47f5503
-Section: Tweaks
-Description: 微信callkit
-Author: zlw555
-Name: 微信callkit
 
 Package: cydiabc.aiyue
 Version: 1.7
@@ -327,22 +278,6 @@ Description: Dock透明+无翻页点
 Author: zlw555
 Name: Dock透明
 
-Package: docktm
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/dock透明_1.0_iphoneos-arm64e.deb
-Size: 2972
-MD5sum: 4ab751e665f54fcb810b8fb5accc62fe
-SHA1: 506ba748366d03546d616783fb0923ece04c6265
-SHA256: 50c15506db1851c11129726c67f8fc4b4118c7962f5563f030fc3df7ae7870f2
-Section: Tweaks
-Description: Dock透明
-Author: zlw555
-Name: Dock透明
-
 Package: foldertm
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -377,24 +312,6 @@ Description: Move and theme the Face-ID lock glyph
 Author: Maxwell Dausch <max.dausch@gmail.com>
 Depiction: 修复15.7.1可用
 Name: LatchKey-自定义锁头
-
-Package: lockbutton
-Version: 0.1-2
-Architecture: iphoneos-arm64
-Maintainer: xybp888
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/lockbutton_0.1-2_iphoneos-arm64.deb
-Size: 38100
-MD5sum: 52977157ae431fe50132742ed31bc7a5
-SHA1: 425b0dafe3bd657d63e02bf11fb2636cf24b64c5
-SHA256: f48cb5167df0984eb4f6e890dd0ae1c59438892c7eb1038265f86de8e063040c
-Section: Tweaks
-Priority: optional
-Description: 一键锁屏(Rootless)
-Author: xybp888
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 一键锁屏-Rootless
-Sponsor: xybp888
 
 Package: lockbutton
 Version: 1.0-2
@@ -801,38 +718,6 @@ Description: 2014年2月5日，支持最新5.9.333
 Author: zlw555
 Name: 起点去启动广告
 
-Package: qidianqad
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/qidianqad_1.5_iphoneos-arm64.deb
-Size: 3744
-MD5sum: e9fbd8ae6697f13ec1f597e315acdb63
-SHA1: bcd110ce26299df3114afe3688966dc519714703
-SHA256: 175338f35126a3f873e0bafc25eeac46f0c24063966fffb4de33a7b84f2b088c
-Section: Tweaks
-Description: 2014年2月5日，支持最新5.9.333
-Author: zlw555
-Name: 起点去启动广告-rootless
-
-Package: qidianqad
-Version: 1.5
-Architecture: iphoneos-arm64e
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/qidianqad_1.5_iphoneos-arm64e.deb
-Size: 3704
-MD5sum: 58f3518ce178f73595783231fc931b0c
-SHA1: 2acb5caf61684cb97475060473556445de043021
-SHA256: 730a2e99980c78b8623f55420cc675d0bfecad1f787e6857fb379ffffe91ab90
-Section: Tweaks
-Description: 2014年2月5日，支持最新5.9.333
-Author: zlw555
-Name: 起点去启动广告-roothide
-
 Package: ru.rj.ftt
 Version: 1.3
 Architecture: iphoneos-arm
@@ -884,22 +769,6 @@ Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以�
 Author: z
 Name: 系统补丁
 
-Package: sysytemzypd
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 352
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用系统补丁_1.5_iphoneos-arm64.deb
-Size: 38946
-MD5sum: 0e5bf2366c8ccb800d5a5dae2f3e75de
-SHA1: 6ba7b85176de2221b96bbce9b963d12e6169709f
-SHA256: 05ca43ccfa889c1d7eeb3db48dc21e663f3c069227d19da047034d0653fd7ca3
-Section: Tweaks
-Description: 打包自用系统补丁
-Author: z
-Name: 自用系统补丁
-
 Package: wechatqad
 Version: 1.0
 Architecture: iphoneos-arm
@@ -916,54 +785,6 @@ Description: 微信callkit+去广告+默认勾选原图
 Author: z
 Name: 微信callkit
 
-Package: wechatqad
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechatqad_1.0_iphoneos-arm64.deb
-Size: 3790
-MD5sum: 83d4f0fd15a3f4c59d3134f16735890d
-SHA1: 9472ee878de385aae434de86c4a4b49ecd2fe205
-SHA256: a0f7d91ffdcd3892a9d214a72812b5bdadf940471df81e2ab37d5e6ab83da99a
-Section: Tweaks
-Description: 微信callkit+去朋友圈广告+默认勾选原图
-Author: z
-Name: 微信callkit
-
-Package: wechatqad
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/自用微信补丁_1.5_iphoneos-arm64.deb
-Size: 2976
-MD5sum: a77637a308d251a8694f69b1e37eeeb3
-SHA1: dd90b7bb115a57f9c7cd23a56a739d15d90ab591
-SHA256: cbb3aff33d46906b680e786fd314b972ebc3a7976fb6dc5684660eb96076dc04
-Section: Tweaks
-Description: 微信callkit+去朋友圈广告+默认勾选原图+微信聊天界面抬高
-Author: z
-Name: 自用微信补丁
-
-Package: wechatupdate
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 176
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/wechatupdate_1.1_iphoneos-arm64.deb
-Size: 8424
-MD5sum: 9e66ab490169d9bd902291cca927b567
-SHA1: 9b2c12039ef792be0038d7e2e9ee3657210b5eda
-SHA256: cc5198ed66eaa2bb9d7a7ffc7cd1f606c8f779d174b8d03e0890a77da02ef16f
-Section: Tweaks
-Description: 修改微信版本号，解决小程序问题,更改后，划掉微信后台生效
-Author: z
-Name: 修改微信版本号
-
 Package: weifengqad
 Version: 1.0
 Architecture: iphoneos-arm
@@ -975,22 +796,6 @@ Size: 3930
 MD5sum: b07af3daf2b5f62d9ac30a375d7f6b80
 SHA1: 4dc3e76c45f6b0d64230f0a9e278dcdfe3482d43
 SHA256: bb6bb3f14b8a9ca139d7b45ffac460915432aec5c8e818cf89fec379a0970a8c
-Section: Tweaks
-Description: 2014/2/5 威锋7.0去广告
-Author: z
-Name: 威锋7NoAd
-
-Package: weifengqad
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/威锋7NoAd_1.0_iphoneos-arm64.deb
-Size: 3990
-MD5sum: 282278977cbbe419c07fd0276dfd02c0
-SHA1: 9861097b34307cc17713f1cb9f78d18270b50104
-SHA256: 3adde571454954ad29409931c7b674e660824acb4b0e486d2cb0a750afda25bb
 Section: Tweaks
 Description: 2014/2/5 威锋7.0去广告
 Author: z
@@ -1017,22 +822,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
 Dev: lakraream
 Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: wxipad
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/wxipad_1.1_iphoneos-arm64.deb
-Size: 3070
-MD5sum: 28864dcbe58ee0a1a78bfc8246a686c9
-SHA1: 76babcd0d6fb1d830e03babb2b1a77e467a6f0f0
-SHA256: 4cfca8f0e58eed8728d8589bf91e3ba2c0ca299738ebd28e42edb4ac94fa466e
-Section: Tweaks
-Description: 微信iPad端
-Author: z
-Name: 微信iPad
 
 Package: wxipad
 Version: 1.1
@@ -1114,22 +903,6 @@ Description: 2024/3/14最新9.2.22去广告，如果后台打开有跳启动画�
 Author: z
 Name: 喜马拉雅补丁
 
-Package: ximalayaqad
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/ximalayaqad_1.0_iphoneos-arm64.deb
-Size: 4468
-MD5sum: 3b6b7f1b107944edb3a9aa9103c35fef
-SHA1: 1aa10b1537fb59d1b68c1b570572137f05afbec7
-SHA256: 9045c465690d86f1a4f3ace8d10bdae946e434644e507c68eb7d6639fb965c22
-Section: Tweaks
-Description: 2024/3/14最新9.2.22去广告，如果后台打开有跳启动画面，请删掉重应用重新安装
-Author: z
-Name: 喜马拉雅补丁
-
 Package: xtyh
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -1190,22 +963,6 @@ Section: Tweaks
 Description: 农信，去定位提示
 Author: zlw555
 Name: 广西,湖北农信去越狱
-
-Package: zlw555.urlad.com
-Version: 2.1
-Architecture: iphoneos-arm64e
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw555.urlad.com_2.1_iphoneos-arm64e.deb
-Size: 4440
-MD5sum: cb0941b2552c3290c15601e2db5d9424
-SHA1: 811ff84c956fed699e40c8bf3dd5db896701d084
-SHA256: 864110379e69a6f30e91049498e115869030badeb7adc09c0f8580fd4d623648
-Section: Tweaks
-Description: 通过url去广告,测了几个伪装视频，已测威锋6.8.73，微信8.0.43，起点5.9.306，起点有广告缓冲，没能跳过开屏广告的，要删掉从按照应用。
-Author: zlw555
-Name: 微信callki+去公众号广告
 
 Package: zlw555.xhome
 Version: 1.1
