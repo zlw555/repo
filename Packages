@@ -903,6 +903,22 @@ Description: 最新9.2.24去广告，如果后台打开有闪启动画面，请�
 Author: z
 Name: 喜马拉雅优化
 
+Package: ximalaya
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_1.6_iphoneos-arm.deb
+Size: 4776
+MD5sum: 472792374d624e9b94150550a33271d4
+SHA1: b052e219096c8bfed76328c44a49e7516e019a5a
+SHA256: d35f7b4084eacaae5c6bea5b3536a4c538d602cafd1fd8a27aac1b17c528db3b
+Section: Tweaks
+Description: 最新9.2.24去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
+Author: z
+Name: 喜马拉雅优化
+
 Package: ximalayaqad
 Version: 1.0
 Architecture: iphoneos-arm
