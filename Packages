@@ -887,6 +887,22 @@ Description: 自由ios14手势
 Author: zlw555
 Name: ios14xhome
 
+Package: ximalaya
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_1.5_iphoneos-arm.deb
+Size: 4924
+MD5sum: 61df51857b357752836b9115fd011fc8
+SHA1: e5ce4d074fef1097bf2a100981c5e3e04498a604
+SHA256: 54236ddcc1b912338f701d19afa370118059f4703d1dae31a71d25eddafb3f2e
+Section: Tweaks
+Description: 最新9.2.24去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
+Author: z
+Name: 喜马拉雅优化
+
 Package: ximalayaqad
 Version: 1.0
 Architecture: iphoneos-arm
