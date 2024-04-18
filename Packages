@@ -945,10 +945,10 @@ Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/ximalaya_1.7_iphoneos-arm.deb
-Size: 4932
-MD5sum: 32794c779781492f08af4632e9f3e2c9
-SHA1: e503ac907ebdab311cfe9264b2bcbc81d7c3743d
-SHA256: f1d3b7797fc08b01f11ae2e5a4b6455abe74f30c3bd058e4e125dc5ca417ce41
+Size: 4946
+MD5sum: a3f03754a4f37dadd34bd2f7803dda6a
+SHA1: f7613fca879c0d17321ec375f22a780343645605
+SHA256: 66e567edd3407ece6ab1b53114692c3dff1783b3a7a24a914fc06024b66f1e05
 Section: Tweaks
 Description: 最新9.2.24去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
 Author: z
