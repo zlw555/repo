@@ -897,10 +897,10 @@ Maintainer: zlw555
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/xhome14_1.5_iphoneos-arm.deb
-Size: 3330
-MD5sum: 41182518613df8177a042567c6ec1ff1
-SHA1: 944efcae4f30310542ed633ecc2d0f09a3360c84
-SHA256: 93e9f374e3b6b5df6849b66569b9eacfa17e2be79985346f1b89a0f8267997d8
+Size: 3286
+MD5sum: b3c74f4edf3d998d9f777e25febbbb71
+SHA1: 581b25c159f68010b8bdecb24ab364006b7ab600
+SHA256: 69c5ee737f6137a11e8e510c67e882b725ec0a5ff218a3c544219a0e007e4170
 Section: 自用插件
 Description: 自由ios14手势
 Author: zlw555
@@ -949,6 +949,22 @@ Size: 4946
 MD5sum: a3f03754a4f37dadd34bd2f7803dda6a
 SHA1: f7613fca879c0d17321ec375f22a780343645605
 SHA256: 66e567edd3407ece6ab1b53114692c3dff1783b3a7a24a914fc06024b66f1e05
+Section: Tweaks
+Description: 最新9.2.24去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
+Author: z
+Name: 喜马拉雅优化
+
+Package: ximalaya
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_1.8_iphoneos-arm.deb
+Size: 4964
+MD5sum: 626bb18b421f48bea2285dfa3dbb1228
+SHA1: d5c96d0a127eda4238dad384225ab207771e603f
+SHA256: 7d06c72b5c5deaf2eb1a2b391955e5236098fa599ec6cf0adea525fbc7b6cc68
 Section: Tweaks
 Description: 最新9.2.24去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
 Author: z
