@@ -971,36 +971,20 @@ Author: z
 Name: 喜马拉雅优化
 
 Package: ximalaya
-Version: 1.9
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/ximalaya_1.9_iphoneos-arm.deb
-Size: 4684
-MD5sum: 6030b3c0575146c0af58d07f412a8d7b
-SHA1: a23aeaa89a542c7927cf9e362be9d554e834a863
-SHA256: c5af17428b66e22855c0afa143782b4a7a20ce360c5a1b455663f1c2fcf046c9
-Section: Tweaks
-Description: 最新9.2.24去广告，如果后台打开有跳启动画面，请删掉重应用重新安装
-Author: z
-Name: 喜马拉雅补丁
-
-Package: ximalayaqad
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/ximalayaqad_1.0_iphoneos-arm.deb
-Size: 4410
-MD5sum: 2d08db999cce479eda4cb929607957e7
-SHA1: 32b8c488a2423422e614968f3ec51debf93a2338
-SHA256: 97c8bfc31ee9d682f9895f9b59b986612871b2e7fc5ae140c024e72ee2e79df5
+Filename: ./debs/ximalaya_2.0_iphoneos-arm.deb
+Size: 5072
+MD5sum: 05f27b4e1ab390dc6eec7daa45e016fa
+SHA1: a0d2d4e887c05201ef1134916a5c23624f289c92
+SHA256: ac2e9e3c385821b0b92ada48cfd0cf23ce95b187db7f2d82f5a52ce0f91da8c2
 Section: Tweaks
-Description: 2024/3/14最新9.2.22去广告，如果后台打开有跳启动画面，请删掉重应用重新安装
+Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
 Author: z
-Name: 喜马拉雅补丁
+Name: 喜马拉雅优化
 
 Package: xtyh
 Version: 1.3
