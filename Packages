@@ -938,6 +938,22 @@ Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请�
 Author: z
 Name: 喜马拉雅优化-roothide
 
+Package: ximalaya
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_2.1_iphoneos-arm.deb
+Size: 5150
+MD5sum: 5458477bc196ff42cc4f54dbdb39be0b
+SHA1: f874e7ddcefe2153a86457e12c6f81af663ed044
+SHA256: 36826ea2f76abfe4ff604caf13065376b30a25c5ff909fb61bd1af1fb48dd538
+Section: Tweaks
+Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
+Author: z
+Name: 喜马拉雅优化
+
 Package: xtyh
 Version: 1.3
 Architecture: iphoneos-arm64
