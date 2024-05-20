@@ -788,22 +788,6 @@ Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以�
 Author: z
 Name: 系统补丁
 
-Package: sysytemzypd
-Version: 1.7
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 264
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/sysytemzypd_1.7_iphoneos-arm64e.deb
-Size: 38036
-MD5sum: 06adb20be71f3f87cf1c26279967246e
-SHA1: b7f1391eae0eb11380acd070e065aa5451be7052
-SHA256: 0d1f44a8d226c4aeddda166f54e4baf0c69c2b4d28a1eddba939b415951748f0
-Section: Tweaks
-Description: 打包自用系统补丁
-Author: z
-Name: 系统补丁
-
 Package: wechatqad
 Version: 1.0
 Architecture: iphoneos-arm
