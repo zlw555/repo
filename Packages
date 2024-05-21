@@ -967,6 +967,22 @@ Description:
 Author: z
 Name: 系统优化合集
 
+Package: z.nowplayingviewcontroller
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/z.nowplayingviewcontroller_1.0_iphoneos-arm64.deb
+Size: 3042
+MD5sum: 25f46bd00bee129cf3013a8dc7ab0821
+SHA1: 87c4910a588eed1aa1eb7bacad1ea385669ea03d
+SHA256: 2aab53f851dbc68e7e5215f9c4ad944260fd968a166cb0a37f88136de6133804
+Section: Tweaks
+Description: 隐藏锁屏音乐控件
+Author: z
+Name: 隐藏锁屏音乐控件
+
 Package: zgyh
 Version: 1.1
 Architecture: iphoneos-arm64
