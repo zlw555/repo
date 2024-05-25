@@ -908,22 +908,6 @@ Name: ios14xhome
 
 Package: ximalaya
 Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/ximalaya_2.1_iphoneos-arm.deb
-Size: 5150
-MD5sum: 5458477bc196ff42cc4f54dbdb39be0b
-SHA1: f874e7ddcefe2153a86457e12c6f81af663ed044
-SHA256: 36826ea2f76abfe4ff604caf13065376b30a25c5ff909fb61bd1af1fb48dd538
-Section: Tweaks
-Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
-Author: z
-Name: 喜马拉雅优化
-
-Package: ximalaya
-Version: 2.1
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 152
@@ -937,6 +921,22 @@ Section: Tweaks
 Description: 最新9.2.24去广告，如果后台打开有跳启动画面，请删掉重应用重新安装
 Author: z
 Name: 喜马拉雅补丁-rootless
+
+Package: ximalaya
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_2.5_iphoneos-arm.deb
+Size: 5014
+MD5sum: b2d4e1655519ea416c242eb162ac1a2c
+SHA1: 76bb93200f35026e75485a978621046fb68f3dd4
+SHA256: 2b263c9c0f76d8ed26e6d232cd1f0a61a3b7cf1c5d4150a4bcbbeb15d25985c7
+Section: Tweaks
+Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
+Author: z
+Name: 喜马拉雅优化
 
 Package: xtyh
 Version: 1.3
