@@ -788,22 +788,6 @@ Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以�
 Author: z
 Name: 系统补丁
 
-Package: wechatqad
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechatqad_1.0_iphoneos-arm.deb
-Size: 3728
-MD5sum: c8f7edf9ae2150854bd4ef3eae77150f
-SHA1: 147b81133b00a94bc47b509fd81edcc649d62767
-SHA256: 881c31cfefef242034421041ff2876726eb5c0ce337ad57489d78c1709fb1ef5
-Section: Tweaks
-Description: 微信callkit+去广告+默认勾选原图
-Author: z
-Name: 微信callkit
-
 Package: weifengqad
 Version: 1.0
 Architecture: iphoneos-arm
