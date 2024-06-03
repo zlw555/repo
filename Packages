@@ -1000,16 +1000,16 @@ Author: z
 Name: 中国银行去广告
 
 Package: zlw.wechat
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 156
+Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/WeChatHookLite_1.5_iphoneos-arm64.deb
-Size: 15304
-MD5sum: 287ca3984af9e7ccfe6796362abe74eb
-SHA1: b4472716b8d38b56c972c7fcbdaa39100b57847d
-SHA256: 971dda277910c159db176e9e883599ebcd5a9458a28e91ea5e4c997754f5d99c
+Filename: ./debs/zlw.wechat_1.6_iphoneos-arm64.deb
+Size: 15660
+MD5sum: 23bf08c2881574b4079717dab125dc07
+SHA1: af71a225b1b490e7547b8d95f5fe828e05941846
+SHA256: 2596c5ac13e82305c0c1270c9e77bab73678f896cb4fa6185b000ba21f4e431b
 Section: Tweaks
 Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面,点击退出微信生效。
 Author: z
