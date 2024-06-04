@@ -951,6 +951,38 @@ Description:
 Author: z
 Name: 系统优化合集
 
+Package: z.badgediconview
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/徽章_1.0_iphoneos-arm64.deb
+Size: 3110
+MD5sum: 27768898ab83ddf6502b0dbed0e0d4da
+SHA1: 810085f7780e199f90ffe1dc815d00daab196114
+SHA256: b4e874a711600d32cdf2943b2a1909ad5d22da60133930fd088ffb3771dc8e23
+Section: Tweaks
+Description: 去除微信消息头像徽章，隐藏消息头像徽章，测试系统15.7.1
+Author: z
+Name: 隐藏消息头像徽章
+
+Package: z.badgediconview
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/徽章_1.0_iphoneos-arm64e.deb
+Size: 3078
+MD5sum: d3f1d5ff4d7c6565e200afaeff85b8eb
+SHA1: a19a2a9f58c137d268e71244b05fd8e2d14fb2c5
+SHA256: 9e231a04f924ab182052eea0ec2d51b39519a89d5b959df203f87a811103b8c9
+Section: Tweaks
+Description: 去除微信消息头像徽章，隐藏消息头像徽章，测试系统15.7.1
+Author: z
+Name: 隐藏消息徽章-roothide
+
 Package: z.nowplayingviewcontroller
 Version: 1.0
 Architecture: iphoneos-arm64
