@@ -999,22 +999,6 @@ Description: 隐藏锁屏音乐控件
 Author: z
 Name: 隐藏锁屏音乐控件
 
-Package: z.wechat
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/z.wechat_1.7_iphoneos-arm64.deb
-Size: 14598
-MD5sum: 77cf83b0026e80a421a612bac7f6c511
-SHA1: badfa160f7ac31bdd263665de3e0421e7ebfaf61
-SHA256: 7d7b1ebe21dc849934ad4a5ed0a40e5e728452152422f115bd354e04343d5663
-Section: Tweaks
-Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
-Author: z
-Name: WeChatHookLite-rootless
-
 Package: zgyh
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1032,16 +1016,32 @@ Author: z
 Name: 中国银行去广告
 
 Package: zlw.wechat
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/WeChatHookLite_1.5_iphoneos-arm64.deb
+Size: 14064
+MD5sum: 7c1853f4d09ad7fc15d729fc617251b5
+SHA1: 6794e892322fd410fcd6a71fa87e9f94fd37fa0e
+SHA256: 1e54ddb9cae1a9fa39cf24b201c5c4c31cc04d7bd0c0751461c37d109800c217
+Section: Tweaks
+Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
+Author: z
+Name: WeChatHookLite-rootless
+
+Package: zlw.wechat
 Version: 1.7
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw.wechat_1.7_iphoneos-arm64.deb
-Size: 14630
-MD5sum: 123424988b5d7fb1aba85f58d4543235
-SHA1: be02ab05486e275b02c8e9bf276cd811b367c1a8
-SHA256: f3b05824641ad23d8e8791a36b6c49436aa9823cf8f628a39ad1f41d33d3b414
+Filename: ./debs/WeChatHookLite_1.7_iphoneos-arm64.deb
+Size: 14604
+MD5sum: a0d9e8ee544b6f3d1ea2b4a9233c0510
+SHA1: 6d4f4723c8970173afd4b7bc7010dceeb3f86766
+SHA256: 63afcb53f90f7d9b41abf9f661c3ee1246792a132f97152e9dd0acbc3aebd45a
 Section: Tweaks
 Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z
