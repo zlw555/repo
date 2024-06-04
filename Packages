@@ -1000,20 +1000,20 @@ Author: z
 Name: 隐藏锁屏音乐控件
 
 Package: z.wechat
-Version: 1.3
-Architecture: iphoneos-arm
+Version: 1.7
+Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 188
+Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/WeChatHookLite_1.3_iphoneos-arm.deb
-Size: 15786
-MD5sum: 6568877fcdd421c403423b90f1ed512a
-SHA1: b80d3fafe3cd0a02ed1feb6326fd5134e9043e6f
-SHA256: 4564b6d62279a03d67328ae6b3ebba772c2da82c864ad88bbee3ffcd41211b7f
+Filename: ./debs/z.wechat_1.7_iphoneos-arm64.deb
+Size: 14598
+MD5sum: 77cf83b0026e80a421a612bac7f6c511
+SHA1: badfa160f7ac31bdd263665de3e0421e7ebfaf61
+SHA256: 7d7b1ebe21dc849934ad4a5ed0a40e5e728452152422f115bd354e04343d5663
 Section: Tweaks
 Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z
-Name: WeChatHookLite
+Name: WeChatHookLite-rootless
 
 Package: zgyh
 Version: 1.1
@@ -1032,18 +1032,18 @@ Author: z
 Name: 中国银行去广告
 
 Package: zlw.wechat
-Version: 1.6
+Version: 1.7
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw.wechat_1.6_iphoneos-arm64.deb
-Size: 15660
-MD5sum: 23bf08c2881574b4079717dab125dc07
-SHA1: af71a225b1b490e7547b8d95f5fe828e05941846
-SHA256: 2596c5ac13e82305c0c1270c9e77bab73678f896cb4fa6185b000ba21f4e431b
+Filename: ./debs/zlw.wechat_1.7_iphoneos-arm64.deb
+Size: 14630
+MD5sum: 123424988b5d7fb1aba85f58d4543235
+SHA1: be02ab05486e275b02c8e9bf276cd811b367c1a8
+SHA256: f3b05824641ad23d8e8791a36b6c49436aa9823cf8f628a39ad1f41d33d3b414
 Section: Tweaks
-Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面,点击退出微信生效。
+Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z
 Name: WeChatHookLite-rootless
 
