@@ -824,6 +824,22 @@ Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以�
 Author: z
 Name: 系统补丁
 
+Package: wechatupdate
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 252
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/wechatupdate_1.8_iphoneos-arm64.deb
+Size: 8038
+MD5sum: b8041be733f1679dab52b0c739930be3
+SHA1: 2d42dae2afb55e744dd59de0fcd4f41cb3017815
+SHA256: 91cf0846c1af3cf769436bcb248ba57b0282d6f7a07e539d40455e1f8f25c2fe
+Section: Tweaks
+Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统设置里
+Author: z
+Name: 修改微信版本号
+
 Package: weifengqad
 Version: 1.0
 Architecture: iphoneos-arm
