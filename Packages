@@ -211,6 +211,42 @@ Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
 
+Package: com.udevs.vpnindicator
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/vpnindicator_1.1.8_iphoneos-arm64.deb
+Size: 8106
+MD5sum: fc68646e3b7cda9ee9412e1477696375
+SHA1: d8818b64312f2a171c32a6fc9e76d0813e0191f1
+SHA256: ecf9d832ab882d402d4d16a64f90dab08fa28ec18958a1918a4b563a96e1521c
+Section: Tweaks
+Description: 打开 VPN时 Wi-Fi图标变绿色
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicator
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator-绿色
+
+Package: com.udevs.vpnindicator
+Version: 1.1.8
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/vpnindicator_1.1.8_iphoneos-arm64e.deb
+Size: 8018
+MD5sum: 373aaefbdee52e7e9740c85b4c54a34a
+SHA1: bbbe299c7d8acc475ff66b22f18ff59d4e2a8765
+SHA256: 2366e3989418bf60394c8222b8e357f9fdd859c517f5d1360f0f381c9676c99f
+Section: Tweaks
+Description: 打开 VPN时 Wi-Fi图标变绿色
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicator
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator-绿色
+
 Package: com.zlw555.ios15xhome
 Version: 1.3-1+debug
 Architecture: iphoneos-arm64
