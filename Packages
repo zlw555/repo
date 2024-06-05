@@ -1019,6 +1019,22 @@ Description: 去除微信消息头像徽章，隐藏消息头像徽章，测试�
 Author: z
 Name: 隐藏消息徽章-roothide
 
+Package: z.ipadcollection
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/ipa式状态栏_1.0_iphoneos-arm64.deb
+Size: 3018
+MD5sum: 19286f0330edea1a691363cf6413bd6b
+SHA1: 215381a1390d5913c30c521fbe7eec79e24f78a7
+SHA256: c79e6d581a4b2ebcdb916ec782a937871f9dde1ffe937501aba0f1fc12232951
+Section: Tweaks
+Description: ipa式状态栏
+Author: z
+Name: ipa式状态栏-rootless
+
 Package: z.nowplayingviewcontroller
 Version: 1.0
 Architecture: iphoneos-arm64
