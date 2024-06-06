@@ -1084,32 +1084,32 @@ Author: z
 Name: 中国银行去广告
 
 Package: zlw.wechat
-Version: 1.3
+Version: 1.3.1
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw.wechat_1.3_iphoneos-arm64.deb
-Size: 14594
-MD5sum: 6d654f2817caf5aefe5b18085f95db4f
-SHA1: cbc30846b73dbb03469e5a2146fb486874585bd7
-SHA256: 6cdb98cd0808b6f53712db60bc706090a931a37507870130043345c6e05fd6a1
+Filename: ./debs/WeChatHookLite_1.3.1_iphoneos-arm64.deb
+Size: 13818
+MD5sum: 261f395164e11b0185817375f2947907
+SHA1: 0922b4530ecee42672bd7cac45a4b8aeab02021c
+SHA256: c4955ef7bd6519db671bbe37ced0baebc51ce32302d10642fdec79573c3d1065
 Section: Tweaks
 Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z
-Name: WeChatHookLite
+Name: WeChatHookLite-rootless
 
 Package: zlw.wechat
-Version: 1.7.1
+Version: 1.7.2
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 172
+Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/WeChatHookLite_1.7.1_iphoneos-arm64.deb
-Size: 14620
-MD5sum: 3749ebc98f9386fbde6fbad8ac549ae6
-SHA1: 8b47e34da3080025008ac3bb1569b3d67a4783ff
-SHA256: 5e98e8618117fa0690bc7310643547bd51162afebb9d151e150091c2928ca3ea
+Filename: ./debs/WeChatHookLite_1.7.2_iphoneos-arm64.deb
+Size: 14180
+MD5sum: 2ca55ace448e79ac046428114e1bc9a0
+SHA1: 11da9a0c182d9fc02486f76a2f7ab6ac986cd07c
+SHA256: 56881cda1be091f457d2c0883f53f9f5c2ad7c1201c1afc1fcb07b291b964b82
 Section: Tweaks
 Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z
