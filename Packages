@@ -1117,6 +1117,22 @@ Author: z
 Name: WeChatHookLite-rootless
 
 Package: zlw.wechat
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw.wechat_1.3.3_iphoneos-arm64.deb
+Size: 10940
+MD5sum: 09d1d3b5c7459b66f60cc8fa997ec619
+SHA1: 2d73152488520b4d12d05133be165e5a428003fa
+SHA256: 125f43b964533490eb7abd8617b41eaedfca93eece494c66eb61ae04893c4df2
+Section: Tweaks
+Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
+Author: z
+Name: WeChatHookLite-Rootless
+
+Package: zlw.wechat
 Version: 1.7.2
 Architecture: iphoneos-arm64
 Maintainer: z
