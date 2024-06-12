@@ -1084,6 +1084,22 @@ Author: Lightmann
 Icon: https://raw.githubusercontent.com/L1ghtmann/Vinyl/master/icon.png
 Name: Vinyl
 
+Package: z.wechat
+Version: 1.3.2
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/WeChatHookLite_1.3.2_iphoneos-arm64e.deb
+Size: 14608
+MD5sum: 2190b8d6366a56472c25892f0ece4fec
+SHA1: b66a6213e14ad157c1c79eb8bed82908f4f9abf0
+SHA256: 8b0447143a67cbf4257388dd18952bb5d9ee481d16486c3b36b4aa9f053cccc3
+Section: Tweaks
+Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
+Author: z
+Name: WeChatHookLite-roorhide
+
 Package: zgyh
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1107,14 +1123,14 @@ Maintainer: z
 Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/zlw.bismihxw_1.1_iphoneos-arm64.deb
-Size: 10872
-MD5sum: d4e6e38e0a903da5a2437aa71bdfa2f2
-SHA1: 067c4da7bc4b309c90933d07193ba8a8af47efd1
-SHA256: 6034fb7d4c1625c8444778ccb064f9bca244dbb4364f423080a08aa17a8f1184
+Size: 10804
+MD5sum: fa472b21056743f7bf43695524988a21
+SHA1: 6ab17db16a02bdf91724fce2c35bb795052c3d5d
+SHA256: c694584d751f696a9e724b4a673502ba56e60f2c42d1cb9427438627ca0a45ba
 Section: Tweaks
 Description: 插件入口在设置里，更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
 Author: z
-Name: bismihxw
+Name: bismih微信
 
 Package: zlw.wechat
 Version: 1.3.3
@@ -1122,13 +1138,29 @@ Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zlw.wechat_1.3.3_iphoneos-arm64.deb
+Filename: ./debs/WeChatHookLite_1.3.3_iphoneos-arm64.deb
 Size: 10372
 MD5sum: b19a035a82cff678e27058bcb276c817
 SHA1: b5b675fcde24816bc686d6c636445eaa31d2d34d
 SHA256: 7f129b7576bcd9444a606acb7675885b198a549b3117a59e29626531c344944e
 Section: Tweaks
 Description: 更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
+Author: z
+Name: WeChatHookLite-rootless
+
+Package: zlw.wechat
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/WeChatHookLite_1.8_iphoneos-arm64.deb
+Size: 14804
+MD5sum: d00c4c869d6fed41b507397c8017fcb1
+SHA1: d1ea1a9b3b2b2f236eab3e977fbd9afefee17b1e
+SHA256: 9e5da6063d8a29e0dee8ea2f103c944d5329fa2e7f53522ecb5812b93d446000
+Section: Tweaks
+Description: 更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z
 Name: WeChatHookLite-rootless
 
