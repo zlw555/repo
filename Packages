@@ -1100,6 +1100,22 @@ Description: 去启动广告 为你推荐
 Author: z
 Name: 中国银行去广告
 
+Package: zlw.bismihxw
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zlw.bismihxw_1.1_iphoneos-arm64.deb
+Size: 10872
+MD5sum: d4e6e38e0a903da5a2437aa71bdfa2f2
+SHA1: 067c4da7bc4b309c90933d07193ba8a8af47efd1
+SHA256: 6034fb7d4c1625c8444778ccb064f9bca244dbb4364f423080a08aa17a8f1184
+Section: Tweaks
+Description: 插件入口在设置里，更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
+Author: z
+Name: bismihxw
+
 Package: zlw.wechat
 Version: 1.3.3
 Architecture: iphoneos-arm64
