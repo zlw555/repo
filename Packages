@@ -211,6 +211,22 @@ Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
 
+Package: com.swiftyper.wechatredenvelop
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: 请叫我小锅
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/com.swiftyper.wechatredenvelop_2.0.0_iphoneos-arm64.deb
+Size: 107266
+MD5sum: 79b17b27023db220da583fb174750fa6
+SHA1: 08ab53f0936f53c5820867769015bbbd0d6ca90e
+SHA256: 2b46e2dd3d7350d59b0839f8cbc477b30862850825d2024be462f011fed64abc
+Section: Tweaks
+Description: 微信抢红包插件
+Author: 请叫我小锅
+Name: 微信抢红包
+
 Package: com.udevs.vpnindicator
 Version: 1.1.8
 Architecture: iphoneos-arm64
