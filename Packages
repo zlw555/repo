@@ -894,22 +894,6 @@ Dev: lakraream
 Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: wxipad
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/微信iPad端_1.1_iphoneos-arm.deb
-Size: 3016
-MD5sum: f835d2bb9139df15529e20f780a26d9f
-SHA1: e2658ec197402b4e05bb560fc377ba9f977f8051
-SHA256: c0f89060619b2cd494b5766e039dbd4ce805978b09f270b3df64191c73c60b00
-Section: Tweaks
-Description: 微信iPad端
-Author: z
-Name: 微信iPad
-
 Package: wxyytg
 Version: 1.1
 Architecture: iphoneos-arm64
