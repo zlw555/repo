@@ -840,6 +840,23 @@ Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以�
 Author: z
 Name: 系统补丁
 
+Package: tinywidget14
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Filename: ./debs/tinywidget14_1.0.3_iphoneos-arm.deb
+Size: 7204
+MD5sum: 59a4d10c0286bff39f31615611a5b1fc
+SHA1: 0e5a23c54be0f01b5d4b9291e01e834b0f305750
+SHA256: 5e661197b99fe26688aa1e97be212c071539312cea800196c7757d9c01a48976
+Section: Tweaks
+Description: Tiny Music Widget on LockScreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TinyWidget14
+
 Package: wechatupdate
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -927,16 +944,16 @@ Author: zlw555
 Name: ios15xhome-roothide
 
 Package: xhome14
-Version: 1.5
+Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/xhome14_1.5_iphoneos-arm.deb
-Size: 3286
-MD5sum: b3c74f4edf3d998d9f777e25febbbb71
-SHA1: 581b25c159f68010b8bdecb24ab364006b7ab600
-SHA256: 69c5ee737f6137a11e8e510c67e882b725ec0a5ff218a3c544219a0e007e4170
+Filename: ./debs/xhome14_1.5.2_iphoneos-arm.deb
+Size: 4318
+MD5sum: 8264747dc87d1dfb2437ba72777d3d11
+SHA1: e707af5eb6a981d0003126fe39af7b662662126a
+SHA256: 138852542022e81e4b0ff486f67424cdaf609cb3470280773a5568008650d365
 Section: 自用插件
 Description: 自由ios14手势
 Author: zlw555
@@ -1066,23 +1083,6 @@ Section: Tweaks
 Description: 隐藏锁屏音乐控件
 Author: z
 Name: 隐藏锁屏音乐控件
-
-Package: z.vinyl
-Version: 1.1.5
-Architecture: iphoneos-arm
-Maintainer: Lightmann
-Installed-Size: 404
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
-Filename: ./debs/z.vinyl_1.1.5_iphoneos-arm.deb
-Size: 31986
-MD5sum: 09dac6c96c897c9643cb6c75decc5951
-SHA1: 6466ec8a5f01ca19f4bba4b5997ac52f2c6b6b7a
-SHA256: 04c96b256a5b86cd7b375bba64c063ef81586a3dca5c383af7a1135ff204c825
-Section: Tweaks
-Description: iOS15 锁屏音乐播放器的简化外观！
-Author: Lightmann
-Icon: https://raw.githubusercontent.com/L1ghtmann/Vinyl/master/icon.png
-Name: Vinyl
 
 Package: zgyh
 Version: 1.1
