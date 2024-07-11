@@ -841,17 +841,17 @@ Author: z
 Name: 系统补丁
 
 Package: tinywidget14
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 168
 Depends: mobilesubstrate, firmware (>= 13)
 Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
-Filename: ./debs/tinywidget14_1.0.3_iphoneos-arm.deb
-Size: 7204
-MD5sum: 59a4d10c0286bff39f31615611a5b1fc
-SHA1: 0e5a23c54be0f01b5d4b9291e01e834b0f305750
-SHA256: 5e661197b99fe26688aa1e97be212c071539312cea800196c7757d9c01a48976
+Filename: ./debs/tinywidget14_1.0.4_iphoneos-arm.deb
+Size: 7278
+MD5sum: 0df9d52386df0894593f87c55f103421
+SHA1: d4b024fe6fb2f6646383c5d158df14701be4223d
+SHA256: 16b4b9c9dba8a5504f4ce3a26c0e7d03a4c79a177cd05ac25dfe56468a34559e
 Section: Tweaks
 Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
