@@ -959,21 +959,21 @@ Description: 自由ios14手势
 Author: zlw555
 Name: ios14xhome
 
-Package: ximalaya
-Version: 2.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/ximalaya_2.1_iphoneos-arm64.deb
-Size: 5220
-MD5sum: dd704f143709e744966f0962fb7b5713
-SHA1: 2c4adc1f3ea41e2a29881d2abf26340f5083ded7
-SHA256: 06f2940c9f32ce713ebd8f27c02c2501e0e3e93c9fb499948fb9181d8a3ab1db
-Section: Tweaks
-Description: 最新9.2.24去广告，如果后台打开有跳启动画面，请删掉重应用重新安装
-Author: z
-Name: 喜马拉雅补丁-rootless
+Package: xhome14
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: zlw555
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/xhome14_1.5.3_iphoneos-arm.deb
+Size: 4828
+MD5sum: 172567dccba558ac9eeaba18369ba48d
+SHA1: 7d22a31bc674cb69354bdb315773df6dab4bfc6a
+SHA256: 3d87dc4af83937be6504bd81fee9c3f44de220a2fd5cde60d0aa721b4f58695f
+Section: 自用插件
+Description: 自由ios14手势
+Author: zlw555
+Name: ios14xhome
 
 Package: ximalaya
 Version: 2.5
@@ -990,6 +990,38 @@ Section: Tweaks
 Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
 Author: z
 Name: 喜马拉雅优化
+
+Package: ximalaya
+Version: 2.5.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_2.5.1_iphoneos-arm64.deb
+Size: 4894
+MD5sum: 580ac8ac8b22ee42ba8ba84d91d2a2f2
+SHA1: bbb21a3d8ecafd997aaf6d33447997a01a904e0a
+SHA256: e1c909ba1a863dffd4d684149380db52f2165d82027298f845fd272332f73fb3
+Section: Tweaks
+Description: 支持最新9.2.71去广告
+Author: z
+Name: 喜马拉雅优化-rootless
+
+Package: ximalaya
+Version: 2.5.1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_2.5.1_iphoneos-arm64e.deb
+Size: 4852
+MD5sum: 11a722f0c0c6eaef7601fdf382f78981
+SHA1: 6a5d71f9cf65a627b4649dd9308b17eac2e454c3
+SHA256: 9884879e45337e52bbcc9eb027cbf4eb80c8166f8dd5eaddd2421037ba887a15
+Section: Tweaks
+Description: 支持最新9.2.71去广告
+Author: z
+Name: 喜马拉雅优化-roothide
 
 Package: xtyh
 Version: 1.3
