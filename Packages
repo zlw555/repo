@@ -98,26 +98,6 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
-Package: com.cydiabc.wechatfakeipad
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Ai-小苹果
-Installed-Size: 160
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/wechatfakeipad.deb
-Size: 18236
-MD5sum: 6ca1150340613614539479e1b5fa54e0
-SHA1: aff5da165c2022ce0524811ff106e2ff428517c1
-SHA256: aa6258d4be6a37e8a55d8e43e8f4c75d8fbad40027adf4cb5332028b6af5c95a
-Section: 微信
-Description: WeChat开启模拟iPad客户端，仅此功能，有设置项
-A12: 1
-Author: Netskao
-Icon: file:///Applications/Cydia.app/Sections/Messaging.png
-Icon2: 10.png
-Name: WeChatFakeiPad 模拟iPad客户端
-Sponsor: Ai-小苹果
-
 Package: com.nathan.trolllock
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -857,6 +837,23 @@ Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TinyWidget14
 
+Package: tinywidget14
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
+Filename: ./debs/tinywidget14_1.0.6_iphoneos-arm.deb
+Size: 8340
+MD5sum: e4c7b985b53b74047d33ae284fca1502
+SHA1: def7e44d2499f1a37cf825f0cee8bcc6cc8041e4
+SHA256: d0fbbf9992a0c919588c6fc10f27d33eab308196455d4e66852a821585b96409
+Section: Tweaks
+Description: Tiny Music Widget on LockScreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: TinyWidget14
+
 Package: wechatupdate
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -917,7 +914,7 @@ Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/聊聊天界面_1.1_iphoneos-arm64.deb
+Filename: ./debs/微信聊天界面_1.1_iphoneos-arm64.deb
 Size: 3054
 MD5sum: 625bafb473e600687b2bbcb02ea8ba53
 SHA1: 9ce2b6fd305deeae51e2b057686344e3bf5bf5d7
