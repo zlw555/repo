@@ -346,6 +346,24 @@ Depiction: 修复15.7.1可用
 Name: LatchKey-自定义锁头
 
 Package: lockbutton
+Version: 0.1-2
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/lockbutton_0.1-2_iphoneos-arm64.deb
+Size: 38100
+MD5sum: 52977157ae431fe50132742ed31bc7a5
+SHA1: 425b0dafe3bd657d63e02bf11fb2636cf24b64c5
+SHA256: f48cb5167df0984eb4f6e890dd0ae1c59438892c7eb1038265f86de8e063040c
+Section: Tweaks
+Priority: optional
+Description: 一键锁屏(Rootless)
+Author: xybp888
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 一键锁屏-Rootless
+Sponsor: xybp888
+
+Package: lockbutton
 Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: cybp888
