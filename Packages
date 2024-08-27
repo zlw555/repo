@@ -328,6 +328,22 @@ Description: 桌面文件夹背景透明
 Author: z
 Name: 文件夹透明
 
+Package: iphonerelease
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/农业银行V711-arm64.deb
+Size: 3008
+MD5sum: e1ed45398c5a9b96621ee7fa6d1132c0
+SHA1: e3aaa1f07cc85466e2035814a5fe0036a55f9b3b
+SHA256: 7ba21ae68eb1344102509b04a86aadf98cadd66c2a0a57be2baec416781c7fe1
+Section: Tweaks
+Description: 去启动广告，去升级
+Author: z
+Name: 农业银行V7.1.1优化-rootless
+
 Package: latchkey
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -624,22 +640,6 @@ Section: Tweaks
 Description: 隐藏横条
 Author: z
 Name: 去除底部横条
-
-Package: nongye
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/农业银行_1.0_iphoneos-arm64.deb
-Size: 3368
-MD5sum: 2384fe4aa3a0a55ac75370f0440cd135
-SHA1: 6df426e3bef920b817d921ac3dcccf555a261660
-SHA256: a2bc24baf2cce23be90e4a270febf063503094643882822a75f618e394111482
-Section: Tweaks
-Description: 启动广告
-Author: z
-Name: ✦农业银行V7.1.1优化
 
 Package: org.coolstar.libhooker
 Version: 1.5.2
