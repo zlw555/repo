@@ -98,6 +98,38 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
+Package: com.guozi.weifeng
+Version: 7.0.3
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Installed-Size: 884
+Depends: mobilesubstrate
+Filename: ./debs/威锋703永久VIP+去广告无根.deb
+Size: 333768
+MD5sum: 5744207b42523917b4c5e9ff20cd290a
+SHA1: 15a9489d91cbea57afec5cea76c79f63b712edfa
+SHA256: 9d342d20e9a527f9915c9cd6894d34d9b0d7ad6323b1d1bb947a5a881b2e2c09
+Section: Tweaks
+Description: 去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3
+Author: 小果子
+Name: 威锋FuckVIP-Ads
+
+Package: com.guozi.weifeng
+Version: 7.0.3
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Installed-Size: 868
+Depends: mobilesubstrate
+Filename: ./debs/威锋703永久VIP+去广告有根.deb
+Size: 327048
+MD5sum: 19637328a55d86f916106a24fd331712
+SHA1: 1e656ed1a545f7b62096734d5a736eaa25193b44
+SHA256: 83fd957cc6bc32d2861ff281ee9ebe4d67cc9c19e9302327be90d37e833991e1
+Section: Tweaks
+Description: 去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3
+Author: 小果子
+Name: 威锋FuckVIP-Ads
+
 Package: com.nathan.trolllock
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -577,6 +609,22 @@ Icon: file:///Library/PreferenceBundles/NetWorkManage.bundle/NetWorkManage@2x.pn
 Name: NetWorkManage
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: netskao.quantumultxlauncher
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 148
+Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/netskao.quantumultxlauncher_1.1-2_iphoneos-arm.deb
+Size: 17560
+MD5sum: 65e6524f9701d4910f984bce62728c2f
+SHA1: 0751bad6f8aa7af6b7a77d19b2e45abdf0cf6471
+SHA256: 9ec085f257e152c8865cf9900aff374cac90063ca84f24c6adc388c8d965d32d
+Section: Netskao-Tweaks
+Description: 通过控制中心快捷进入QuantumultX
+Author: Netskao
+Name: QuantumultXLauncher
+
 Package: netskao.wechatautologin
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -889,20 +937,36 @@ Author: z
 Name: 修改微信版本号
 
 Package: weifengqad
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: z
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/weifengqad_1.0_iphoneos-arm.deb
-Size: 3930
-MD5sum: b07af3daf2b5f62d9ac30a375d7f6b80
-SHA1: 4dc3e76c45f6b0d64230f0a9e278dcdfe3482d43
-SHA256: bb6bb3f14b8a9ca139d7b45ffac460915432aec5c8e818cf89fec379a0970a8c
+Filename: ./debs/weifengqad_1.1_iphoneos-arm.deb
+Size: 3986
+MD5sum: f537b5f6619fc9bec7ea04e763281640
+SHA1: eaf28bf4757eadcbbdccc3dc28da543a36ae13ce
+SHA256: 6db085216b5a154d7cbfc443061687ce7fee31ab6a88b6a089c99d2f876149da
 Section: Tweaks
-Description: 2014/2/5 威锋7.0去广告
+Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
 Author: z
-Name: 威锋7NoAd
+Name: 威锋7.3NoAd
+
+Package: weifengqad
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/weifengqad_1.1_iphoneos-arm64.deb
+Size: 4040
+MD5sum: a18ea2a882e9370ad99396112df42784
+SHA1: 900c12f06867dc7379adf58f5e140e5ac527496e
+SHA256: 7bdb14262cf04b94cc26e02fe12884f5a179539a45b2f88365b787f7f7b5a64d
+Section: Tweaks
+Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
+Author: z
+Name: 威锋7.3NoAd
 
 Package: wiki.qaq.iridium
 Version: 1.2.15
