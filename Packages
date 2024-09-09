@@ -1137,11 +1137,11 @@ Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/微信版本号_1.1_iphoneos-arm64.deb
-Size: 8912
-MD5sum: 9037099d2f3fa997590bab9fd2d187df
-SHA1: 262073606ba34aaa3d2158245714954e91ee6a66
-SHA256: e7b63108fad693bcb66c4865f039093a5a04029a6b3e6a6dfc1533208d4ac97e
+Filename: ./debs/微信版本_1.1_iphoneos-arm64.deb
+Size: 9062
+MD5sum: 54e97be7a6120bf2067298f2a4d4998e
+SHA1: 1707fd367a7de8a00643edba0d175252514edc64
+SHA256: 442a34b03a16aef680532c1d4fb5ee7decf201dc09fbb4dd71d0baa5579e4c34
 Section: Tweaks
 Description: 插件入口在设置里，小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
 Author: z
