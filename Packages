@@ -1,3 +1,35 @@
+Package: autofolderclose
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/rootless/autofolderclose_1.0-1_iphoneos-arm64.deb
+Size: 2696
+MD5sum: 639aeae0d4bf58b94977977181160a2d
+SHA1: 36434d1a995df2b6499e36dbdfd10a297437c8ac
+SHA256: fb8e412277f4504e8e778145c2a9baf76a98e257751f6242c9e6b97e41ead3f9
+Section: Tweaks
+Description: 自动关闭文件夹
+Author: z
+Name: 自动关闭文件夹
+
+Package: autofolderclose
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/roothide/autofolderclose_1.0-1_iphoneos-arm64e.deb
+Size: 2648
+MD5sum: 1ccb38a49b4a863793e4bf05b7878c09
+SHA1: 7337dd0225b2050a7e7e098108148f895f7ecdb9
+SHA256: 778d3932749f828225bce559b4bcf165c88ed4766d8abfdced273b5a234a1681
+Section: Tweaks
+Description: 自动关闭文件夹
+Author: z
+Name: 自动关闭文件夹
+
 Package: bottomelevation
 Version: 1.1
 Architecture: iphoneos-arm64
