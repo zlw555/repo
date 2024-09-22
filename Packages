@@ -959,10 +959,10 @@ Maintainer: z
 Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/wechat8.0.33_1.0.1_iphoneos-arm64.deb
-Size: 8428
-MD5sum: 5a70a89d883f89a16ff78997b15a7daf
-SHA1: 0521bb5168bd02063b0695b9719014be2f24dbc2
-SHA256: 6b36999a98562097a0ac1dd64145dd3caf80de828b741658fd3524dea85b3efe
+Size: 8280
+MD5sum: fe8c3440cbefa8ed404895522474a442
+SHA1: 353b05b590f8d63da42a0541dfbb54ffb929be58
+SHA256: fc66da8f325998c7f127b3720adefc85f693193f4c52d2fb05fa4e07b15ed54f
 Section: Tweaks
 Description: 插件入口在设置里可修改微信版本号为8.0.33
 Author: z
