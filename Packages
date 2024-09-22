@@ -952,6 +952,38 @@ Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TinyWidget14
 
+Package: wechat8.0.33
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wechat8.0.33_1.0.1_iphoneos-arm64.deb
+Size: 8428
+MD5sum: 5a70a89d883f89a16ff78997b15a7daf
+SHA1: 0521bb5168bd02063b0695b9719014be2f24dbc2
+SHA256: 6b36999a98562097a0ac1dd64145dd3caf80de828b741658fd3524dea85b3efe
+Section: Tweaks
+Description: 插件入口在设置里可修改微信版本号为8.0.33
+Author: z
+Name: 微信修改版本号为8.0.33
+
+Package: wechat8.0.52
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wechat8.0.52_1.1_iphoneos-arm64.deb
+Size: 8400
+MD5sum: 8c22d18dea5c2a6c91d1520df54206ad
+SHA1: 22ccc3cd827a2fbcec1a461dcf8090fac673a9ba
+SHA256: f1202738a918b8785ba7fdbc0ea13ec6e7f66840c1b21b852c80db0948842897
+Section: Tweaks
+Description: 插件入口在设置里，小程序提示要升级微信的，可修改微信版本号为8.0.52，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
+Author: z
+Name: 微信修改版本号
+
 Package: wechatupdate
 Version: 1.8
 Architecture: iphoneos-arm64
