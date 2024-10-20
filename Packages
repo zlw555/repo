@@ -110,6 +110,22 @@ Description: 补丁说明:本补丁仅去除原生相机顶部和底部两个黑
 Author: z
 Name: 相机全屏拍照
 
+Package: chromahomebarx
+Version: 0.4
+Architecture: iphoneos-arm64
+Maintainer: Afnan Ahmad <afnanahmaddd@gmail.com>
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/rootless/chromahomebarx_0.4_iphoneos-arm64.deb
+Size: 79032
+MD5sum: 41c8bc6c52607e8b8072e83f970f4048
+SHA1: fb32b0c57d89e2ba41d70bcbfcccdd7e17416465
+SHA256: f25976141df58bf763cb1caaeca58cfb467062ea451051294ea07484db05870f
+Section: Tweaks
+Description: Razer Chroma insprird HomeBar coloring tweak for iPhone X, also works with LittleX.
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>
+Name: ChromaHomeBarX
+
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
