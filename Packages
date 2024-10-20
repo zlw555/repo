@@ -952,22 +952,6 @@ Description: Tiny Music Widget on LockScreen!
 Author: P2KDev <p2kdev@gmail.com>
 Name: TinyWidget14
 
-Package: wechat8.0.33
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 156
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechat8.0.33_1.0.1_iphoneos-arm64.deb
-Size: 8272
-MD5sum: 89b6f69d5ad508b809b221579b2904d4
-SHA1: 884e5e2eedffb7c63903ac1032caf2a8931cd62d
-SHA256: 377eda0c7021c31967f1249b31dfdbcc48005b0783bfdaf64f6d87f8af83a6d6
-Section: Tweaks
-Description: 插件入口在设置里可修改微信版本号为8.0.33,我的15.7.1系统修改后，微信电话没有提醒，14系统就没问题
-Author: z
-Name: 微信修改版本号为8.0.33
-
 Package: wechat8.0.52
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1113,22 +1097,6 @@ Size: 4828
 MD5sum: 172567dccba558ac9eeaba18369ba48d
 SHA1: 7d22a31bc674cb69354bdb315773df6dab4bfc6a
 SHA256: 3d87dc4af83937be6504bd81fee9c3f44de220a2fd5cde60d0aa721b4f58695f
-Section: 自用插件
-Description: 自由ios14手势
-Author: zlw555
-Name: ios14xhome
-
-Package: xhome14
-Version: 1.5.4
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/xhome14_1.5.4_iphoneos-arm.deb
-Size: 3752
-MD5sum: 7da7b0e1f4954637c17995cc9d7b90d6
-SHA1: a347734250cbbf6d819dc4eff1a0929fca9430fd
-SHA256: 3bc55f8fb56c5534e84221c1cbbfdbd948e2ddd1286733873294788d15de5306
 Section: 自用插件
 Description: 自由ios14手势
 Author: zlw555
