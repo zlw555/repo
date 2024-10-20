@@ -126,6 +126,22 @@ Description: Razer Chroma insprird HomeBar coloring tweak for iPhone X, also wor
 Author: Afnan Ahmad <afnanahmaddd@gmail.com>
 Name: ChromaHomeBarX
 
+Package: chromahomebarx
+Version: 0.5
+Architecture: iphoneos-arm64
+Maintainer: Afnan Ahmad <afnanahmaddd@gmail.com>
+Installed-Size: 604
+Depends: mobilesubstrate
+Filename: ./debs/rootless/chromahomebarx_0.5_iphoneos-arm64.deb
+Size: 79042
+MD5sum: be019ee66c95fdbd6dc9f58f00e3a294
+SHA1: 815469a0577042a055512eeecab5d68c10fc2bb6
+SHA256: a313ea9a40fa3c5bb172ceb3f4c6e3978018c355a39f8875073357f5efac4a4a
+Section: Tweaks
+Description: Razer Chroma insprird HomeBar coloring tweak for iPhone X, also works with LittleX.
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>
+Name: ChromaHomeBarX
+
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
