@@ -110,38 +110,6 @@ Description: 补丁说明:本补丁仅去除原生相机顶部和底部两个黑
 Author: z
 Name: 相机全屏拍照
 
-Package: chromahomebarx
-Version: 0.4
-Architecture: iphoneos-arm64
-Maintainer: Afnan Ahmad <afnanahmaddd@gmail.com>
-Installed-Size: 604
-Depends: mobilesubstrate
-Filename: ./debs/rootless/chromahomebarx_0.4_iphoneos-arm64.deb
-Size: 79032
-MD5sum: 41c8bc6c52607e8b8072e83f970f4048
-SHA1: fb32b0c57d89e2ba41d70bcbfcccdd7e17416465
-SHA256: f25976141df58bf763cb1caaeca58cfb467062ea451051294ea07484db05870f
-Section: Tweaks
-Description: Razer Chroma insprird HomeBar coloring tweak for iPhone X, also works with LittleX.
-Author: Afnan Ahmad <afnanahmaddd@gmail.com>
-Name: ChromaHomeBarX
-
-Package: chromahomebarx
-Version: 0.5
-Architecture: iphoneos-arm64
-Maintainer: Afnan Ahmad <afnanahmaddd@gmail.com>
-Installed-Size: 604
-Depends: mobilesubstrate
-Filename: ./debs/rootless/chromahomebarx_0.5_iphoneos-arm64.deb
-Size: 79042
-MD5sum: be019ee66c95fdbd6dc9f58f00e3a294
-SHA1: 815469a0577042a055512eeecab5d68c10fc2bb6
-SHA256: a313ea9a40fa3c5bb172ceb3f4c6e3978018c355a39f8875073357f5efac4a4a
-Section: Tweaks
-Description: Razer Chroma insprird HomeBar coloring tweak for iPhone X, also works with LittleX.
-Author: Afnan Ahmad <afnanahmaddd@gmail.com>
-Name: ChromaHomeBarX
-
 Package: com.cydiabc.aiyueshuxianghack
 Version: 1.0-1
 Architecture: iphoneos-arm
