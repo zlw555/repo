@@ -721,6 +721,24 @@ Description: 隐藏横条
 Author: z
 Name: 去除底部横条
 
+Package: nolowpowermode30secautolock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/nolowpowermode30secautolock_1.0_iphoneos-arm.deb
+Size: 4270
+MD5sum: ac4483f71580d1eaa2f0e7e3e4669656
+SHA1: 607f7d4a4c5e682e343bc7a364e48d06358bcb96
+SHA256: 5478030d37f1f131406718f2b77e17d693cdb6020cc744e8bd4dc9fc97fd9e9d
+Section: Tweaks
+Description: 在低功耗模式下本地调整自动锁定间隔.
+Author: Brend0n
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpowermode30secautolock
+Name: NoLowPowerMode30SecAutoLock
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
+
 Package: org.coolstar.libhooker
 Version: 1.5.2
 Architecture: iphoneos-arm
