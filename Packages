@@ -972,40 +972,6 @@ Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以�
 Author: z
 Name: 系统补丁
 
-Package: tinywidget14
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13)
-Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
-Filename: ./debs/tinywidget14_1.0.4_iphoneos-arm.deb
-Size: 7278
-MD5sum: 0df9d52386df0894593f87c55f103421
-SHA1: d4b024fe6fb2f6646383c5d158df14701be4223d
-SHA256: 16b4b9c9dba8a5504f4ce3a26c0e7d03a4c79a177cd05ac25dfe56468a34559e
-Section: Tweaks
-Description: Tiny Music Widget on LockScreen!
-Author: P2KDev <p2kdev@gmail.com>
-Name: TinyWidget14
-
-Package: tinywidget14
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 13)
-Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget
-Filename: ./debs/tinywidget14_1.0.6_iphoneos-arm.deb
-Size: 8340
-MD5sum: e4c7b985b53b74047d33ae284fca1502
-SHA1: def7e44d2499f1a37cf825f0cee8bcc6cc8041e4
-SHA256: d0fbbf9992a0c919588c6fc10f27d33eab308196455d4e66852a821585b96409
-Section: Tweaks
-Description: Tiny Music Widget on LockScreen!
-Author: P2KDev <p2kdev@gmail.com>
-Name: TinyWidget14
-
 Package: wechat8.0.52
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1039,32 +1005,32 @@ Author: z
 Name: 修改微信版本号
 
 Package: weifengqad
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/weifengqad_1.1_iphoneos-arm.deb
-Size: 3986
-MD5sum: f537b5f6619fc9bec7ea04e763281640
-SHA1: eaf28bf4757eadcbbdccc3dc28da543a36ae13ce
-SHA256: 6db085216b5a154d7cbfc443061687ce7fee31ab6a88b6a089c99d2f876149da
+Filename: ./debs/weifengqad_1.2_iphoneos-arm.deb
+Size: 3938
+MD5sum: 39ae2d96b03313af62d6ce355f2a0a61
+SHA1: 42d8a93d457424beced7ed3a0e5c0176b843274c
+SHA256: 369d95319c5d5921442e1dede32df2f53af80b3ea49ce30874be82125dc0c795
 Section: Tweaks
 Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
 Author: z
 Name: 威锋7.3NoAd
 
 Package: weifengqad
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/rootless/weifengqad_1.1_iphoneos-arm64.deb
-Size: 4040
-MD5sum: a18ea2a882e9370ad99396112df42784
-SHA1: 900c12f06867dc7379adf58f5e140e5ac527496e
-SHA256: 7bdb14262cf04b94cc26e02fe12884f5a179539a45b2f88365b787f7f7b5a64d
+Filename: ./debs/rootless/weifengqad_1.2_iphoneos-arm64.deb
+Size: 4000
+MD5sum: d730975cbb3dc9007a9ab4505c3bc0c0
+SHA1: e132f90db26dd68b3ff8518a1594d9fc9dfdce6c
+SHA256: 6086a5660ad8b284c45c8c4cc92630a44d9911612cb3cb6c58be14801f5513d5
 Section: Tweaks
 Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
 Author: z
