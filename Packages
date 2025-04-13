@@ -1311,6 +1311,38 @@ Description: 小程序提示要升级微信的，可修改微信版本号为8.0.
 Author: z
 Name: WeChatHookLite
 
+Package: z.wxipad
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobile substrate
+Filename: ./debs/z.wxipad_1.1.1_iphoneos-arm.deb
+Size: 3178
+MD5sum: 9f9d8cb5c19b8904e3b8be143d54e030
+SHA1: c82c75a88bea31d4e7c776647cb72ab9dedb5c51
+SHA256: 2168538a901d5e2bba7725b41146f61b8375c104618fb2a710a59121dfb62344
+Section: Tweaks
+Description: 微信iPad端，有自动挂断电话问题，只适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Author: z
+Name: 微信iPad
+
+Package: z.wxipad
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobile substrate
+Filename: ./debs/rootless/z.wxipad_1.1.1_iphoneos-arm64.deb
+Size: 3244
+MD5sum: ce303abb8906d186add8f1536f85407c
+SHA1: 711cceea1789f49ac95cfba4bc0066b7f05454c9
+SHA256: debe02a0f5268cf015bdb9a06e8b06e9f8d69144432aa4a88545e1903f4f08d6
+Section: Tweaks
+Description: 微信iPad端，有自动挂断电话问题，只适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Author: z
+Name: 微信iPad
+
 Package: zgyh
 Version: 1.1
 Architecture: iphoneos-arm64
