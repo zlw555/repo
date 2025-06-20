@@ -641,22 +641,6 @@ Icon: file:///Library/PreferenceBundles/NetWorkManage.bundle/NetWorkManage@2x.pn
 Name: NetWorkManage
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: netskao.quantumultxlauncher
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 148
-Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/netskao.quantumultxlauncher_1.1-2_iphoneos-arm.deb
-Size: 17560
-MD5sum: 65e6524f9701d4910f984bce62728c2f
-SHA1: 0751bad6f8aa7af6b7a77d19b2e45abdf0cf6471
-SHA256: 9ec085f257e152c8865cf9900aff374cac90063ca84f24c6adc388c8d965d32d
-Section: Netskao-Tweaks
-Description: 通过控制中心快捷进入QuantumultX
-Author: Netskao
-Name: QuantumultXLauncher
-
 Package: netskao.wechatautologin
 Version: 1.0-1
 Architecture: iphoneos-arm
