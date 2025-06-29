@@ -392,22 +392,6 @@ Description: 桌面文件夹背景透明
 Author: z
 Name: 文件夹透明
 
-Package: iphonerelease
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/农业银行V711-arm64.deb
-Size: 3008
-MD5sum: e1ed45398c5a9b96621ee7fa6d1132c0
-SHA1: e3aaa1f07cc85466e2035814a5fe0036a55f9b3b
-SHA256: 7ba21ae68eb1344102509b04a86aadf98cadd66c2a0a57be2baec416781c7fe1
-Section: Tweaks
-Description: 去启动广告，去升级
-Author: z
-Name: 农业银行V7.1.1优化-rootless
-
 Package: latchkey
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -1075,98 +1059,66 @@ Author: zlw555
 Name: ios15xhome-roothide
 
 Package: xhome14
-Version: 1.5.2
+Version: 1.7.2
 Architecture: iphoneos-arm
 Maintainer: zlw555
 Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/xhome14_1.5.2_iphoneos-arm.deb
-Size: 4318
-MD5sum: 8264747dc87d1dfb2437ba72777d3d11
-SHA1: e707af5eb6a981d0003126fe39af7b662662126a
-SHA256: 138852542022e81e4b0ff486f67424cdaf609cb3470280773a5568008650d365
-Section: 自用插件
-Description: 自由ios14手势
-Author: zlw555
-Name: ios14xhome
-
-Package: xhome14
-Version: 1.5.3
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/xhome14_1.5.3_iphoneos-arm.deb
-Size: 4828
-MD5sum: 172567dccba558ac9eeaba18369ba48d
-SHA1: 7d22a31bc674cb69354bdb315773df6dab4bfc6a
-SHA256: 3d87dc4af83937be6504bd81fee9c3f44de220a2fd5cde60d0aa721b4f58695f
-Section: 自用插件
-Description: 自由ios14手势
-Author: zlw555
-Name: ios14xhome
-
-Package: xhome14
-Version: 1.5.4
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/xhome14_1.5.4_iphoneos-arm.deb
-Size: 3752
-MD5sum: 7da7b0e1f4954637c17995cc9d7b90d6
-SHA1: a347734250cbbf6d819dc4eff1a0929fca9430fd
-SHA256: 3bc55f8fb56c5534e84221c1cbbfdbd948e2ddd1286733873294788d15de5306
+Filename: ./debs/xhome14_1.7.2_iphoneos-arm.deb
+Size: 3662
+MD5sum: 0028f0c87d67d988c74b4d3e8b12b091
+SHA1: 2893b43ec88efd494ae6752d6071bec4e2863b31
+SHA256: 0638aff435b639950d93f3ec9235d3c907c27461b93cfd0a78a0ec2a0be48d1b
 Section: 自用插件
 Description: 自由ios14手势
 Author: zlw555
 Name: ios14xhome
 
 Package: ximalaya
-Version: 2.5
+Version: 2.6
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/ximalaya_2.5_iphoneos-arm.deb
-Size: 5012
-MD5sum: 43d0c6c079d31cbada4535ecdd69ce00
-SHA1: 78f47105b542574904d0fbcfd924fb13fcf17b9b
-SHA256: 1e9e2e81b23d4baac980d5854400458d70a144dcd3312264793fcf1a978cbc72
+Filename: ./debs/ximalaya_2.6_iphoneos-arm.deb
+Size: 3502
+MD5sum: c584f9141467fe33124735e61624f645
+SHA1: 3e26ffd4c137b7a5f2c267fd0fa811ee9ec274ca
+SHA256: fe4830a7658003d36db2ecb69c3db766d23c8f9cb3b7e3d36078faa584706f16
 Section: Tweaks
-Description: 最新9.2.40去广告，如果后台打开有闪启动画面，请删掉重应用重新安装
+Description: 最新9.3.75去启动广告，不影响领福利
 Author: z
 Name: 喜马拉雅优化
 
 Package: ximalaya
-Version: 2.5.1
+Version: 2.6
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/rootless/ximalaya_2.5.1_iphoneos-arm64.deb
-Size: 4894
-MD5sum: 580ac8ac8b22ee42ba8ba84d91d2a2f2
-SHA1: bbb21a3d8ecafd997aaf6d33447997a01a904e0a
-SHA256: e1c909ba1a863dffd4d684149380db52f2165d82027298f845fd272332f73fb3
+Filename: ./debs/rootless/ximalaya_2.6_iphoneos-arm64.deb
+Size: 3568
+MD5sum: f0c933b42cdeabcf1b2c8584e7dfce9a
+SHA1: 2046bdcd0d7f7a45d8b7d586fab932b11a712901
+SHA256: 101109316146f104e1624e2c301235714637c197b709f43984d8733d1862f3ed
 Section: Tweaks
-Description: 支持最新9.2.71去广告
+Description: 最新9.3.75去启动广告，不影响领福利
 Author: z
 Name: 喜马拉雅优化-rootless
 
 Package: ximalaya
-Version: 2.5.1
+Version: 2.6
 Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/roothide/ximalaya_2.5.1_iphoneos-arm64e.deb
-Size: 4852
-MD5sum: 11a722f0c0c6eaef7601fdf382f78981
-SHA1: 6a5d71f9cf65a627b4649dd9308b17eac2e454c3
-SHA256: 9884879e45337e52bbcc9eb027cbf4eb80c8166f8dd5eaddd2421037ba887a15
+Filename: ./debs/roothide/ximalaya_2.6_iphoneos-arm64e.deb
+Size: 3514
+MD5sum: 079edb62048ba06f49761b79a2a9de0e
+SHA1: f55963989283e6b9202b50a569cf903a35a1fdcb
+SHA256: 0e1daaebb7a163fe6de53f7fc34d87a2f1d7f8d3bead596ca623297c6af58b00
 Section: Tweaks
-Description: 支持最新9.2.71去广告
+Description: 最新9.3.75去启动广告，不影响领福利
 Author: z
 Name: 喜马拉雅优化-roothide
 
@@ -1247,22 +1199,6 @@ Description: 去除微信消息头像徽章，隐藏消息头像徽章，测试�
 Author: z
 Name: 隐藏消息徽章-roothide
 
-Package: z.ipadcollection
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/ipa式状态栏_1.0_iphoneos-arm64.deb
-Size: 3018
-MD5sum: 19286f0330edea1a691363cf6413bd6b
-SHA1: 215381a1390d5913c30c521fbe7eec79e24f78a7
-SHA256: c79e6d581a4b2ebcdb916ec782a937871f9dde1ffe937501aba0f1fc12232951
-Section: Tweaks
-Description: ipa式状态栏
-Author: z
-Name: ipa式状态栏-rootless
-
 Package: z.nowplayingviewcontroller
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1294,38 +1230,6 @@ Section: Tweaks
 Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
 Author: z
 Name: WeChatHookLite
-
-Package: z.wxipad
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 152
-Depends: mobile substrate
-Filename: ./debs/z.wxipad_1.1.1_iphoneos-arm.deb
-Size: 3178
-MD5sum: 9f9d8cb5c19b8904e3b8be143d54e030
-SHA1: c82c75a88bea31d4e7c776647cb72ab9dedb5c51
-SHA256: 2168538a901d5e2bba7725b41146f61b8375c104618fb2a710a59121dfb62344
-Section: Tweaks
-Description: 微信iPad端，有自动挂断电话问题，只适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
-Author: z
-Name: 微信iPad
-
-Package: z.wxipad
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobile substrate
-Filename: ./debs/rootless/z.wxipad_1.1.1_iphoneos-arm64.deb
-Size: 3244
-MD5sum: ce303abb8906d186add8f1536f85407c
-SHA1: 711cceea1789f49ac95cfba4bc0066b7f05454c9
-SHA256: debe02a0f5268cf015bdb9a06e8b06e9f8d69144432aa4a88545e1903f4f08d6
-Section: Tweaks
-Description: 微信iPad端，有自动挂断电话问题，只适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
-Author: z
-Name: 微信iPad
 
 Package: zgyh
 Version: 1.1
