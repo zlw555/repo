@@ -940,22 +940,6 @@ Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以�
 Author: z
 Name: 系统补丁
 
-Package: wechat8.0.52
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 156
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/wechat8.0.52_1.1_iphoneos-arm64.deb
-Size: 8400
-MD5sum: 8c22d18dea5c2a6c91d1520df54206ad
-SHA1: 22ccc3cd827a2fbcec1a461dcf8090fac673a9ba
-SHA256: f1202738a918b8785ba7fdbc0ea13ec6e7f66840c1b21b852c80db0948842897
-Section: Tweaks
-Description: 插件入口在设置里，小程序提示要升级微信的，可修改微信版本号为8.0.52，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
-Author: z
-Name: 微信修改版本号
-
 Package: wechatupdate
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -1025,6 +1009,102 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iridiumDp
 Dev: lakraream
 Name: iridium
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: wxcallkit
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/wxcallkit_1.1_iphoneos-arm.deb
+Size: 3094
+MD5sum: c6a6ef098a330d34e4c9a977fbb65d95
+SHA1: 653f831f90c3f0908a8c5739d84d1b187ad4db16
+SHA256: d4e79cae8b97f9b6f7a575fa40c82596fabd575e578c9ee695200f82ea8223ef
+Section: Tweaks
+Description: 伪装系统本为18.5，配合8.0.55以上微信强开CallKit
+Author: z
+Name: 微信强开CallKit
+
+Package: wxcallkit
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/wxcallkit_1.1_iphoneos-arm64.deb
+Size: 3160
+MD5sum: 98918d7961fe12a8ed7ecede705f25b5
+SHA1: 561ac22e4c023f64c2969893d8f4c7a2fb65c1e4
+SHA256: fe5532e51338ded18270365b1c26180db41efe2cba68dee1cd31a92433e846dd
+Section: Tweaks
+Description: 伪装系统本为18.5，配合8.0.55以上微信强开CallKit
+Author: z
+Name: 微信强开CallKit-rootless
+
+Package: wxcallkit
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/wxcallkit_1.1_iphoneos-arm64e.deb
+Size: 3116
+MD5sum: 27456d8887fb10cc1e99fbb4658122c7
+SHA1: b378ee5b4cb635b1da0cd207565873c28daee98c
+SHA256: b282ca908ab80e48a72d24771ce332a41f2d0e2139de2929f5945c91603108fe
+Section: Tweaks
+Description: 伪装系统本为18.5，配合8.0.55以上微信强开CallKit
+Author: z
+Name: 微信强开CallKit-roothide
+
+Package: wxipad
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobile substrate
+Filename: ./debs/wxipad_1.1.4_iphoneos-arm.deb
+Size: 3134
+MD5sum: c7be0816837d2b04f72627fa3dddd842
+SHA1: c8e38a79fdbc2d16a889a8797e42ae292db7d4c7
+SHA256: e0cf02a996f722ff7aadd9ccbee0c3c250c7eeb9f3751b420e47aff6f1039e51
+Section: Tweaks
+Description: 微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Author: z
+Name: 微信iPad
+
+Package: wxipad
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobile substrate
+Filename: ./debs/rootless/wxipad_1.1.4_iphoneos-arm64.deb
+Size: 3188
+MD5sum: b89589b3e915e7db72f69800785131cb
+SHA1: 60e825a9526f976d5bb524a8ea3a9e05ff000513
+SHA256: d2fdf632673cc287cf38c5f82930d356bd1b8479492c6ecdfadcc9812c888069
+Section: Tweaks
+Description: 微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Author: z
+Name: 微信iPad-rootless
+
+Package: wxipad
+Version: 1.1.4
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobile substrate
+Filename: ./debs/roothide/wxipad_1.1.4_iphoneos-arm64e.deb
+Size: 3152
+MD5sum: a02c3d8d7ce30204e69f3b77254b5495
+SHA1: c50aa42db5868fa5b53549dab158541a64878674
+SHA256: 8fd7bbfc17a5fc53847bacd87bf23e457e5aa0d5895b87ca027ef14a48c1bbc8
+Section: Tweaks
+Description: 微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Author: z
+Name: 微信iPad-roothide
 
 Package: wxyytg
 Version: 1.1
