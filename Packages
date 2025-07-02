@@ -1202,6 +1202,38 @@ Description: 最新9.3.75去启动广告，不影响领福利
 Author: z
 Name: 喜马拉雅优化-roothide
 
+Package: ximalaya
+Version: 2.7.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_2.7.1_iphoneos-arm.deb
+Size: 3536
+MD5sum: cc8aac5a09f7d0885808e06b19d7d66e
+SHA1: 3ddb63aa4036f09625e7c10ef8b62ce2888f890e
+SHA256: e187fc9c3016eff982a77582bcf3a92a454bc80cb6e512107314e211ea7d06dd
+Section: Tweaks
+Description: 最新9.3.75去启动广告，不影响领福利
+Author: z
+Name: 喜马拉雅优化
+
+Package: ximalaya
+Version: 2.7.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/ximalaya_2.7.1_iphoneos-arm64.deb
+Size: 3614
+MD5sum: 932369cc025376ab13e19af791b9d0c7
+SHA1: 246a24544182a2e5c411e75e93b29763f2188605
+SHA256: 72ae172a58fcb935b9a277afbc89a7f8943225d19801db0e4082210b80dbc802
+Section: Tweaks
+Description: 最新9.3.75去启动广告，不影响领福利
+Author: z
+Name: 喜马拉雅优化-rootless
+
 Package: xtyh
 Version: 1.3
 Architecture: iphoneos-arm64
