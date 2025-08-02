@@ -1,27 +1,27 @@
 {
-  "repository_name": "自由的风仓库源",
+  "repository_name": "自由的风",
   "repository_icon": "https://raw.githubusercontent.com/zlw555/repo/master/CydiaIcon.png",
   "packages": [
     {
       "name": "喜马拉雅",
       "version": "2.7.6",
       "description": "最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利。",
-      "icon_url": "https://raw.githubusercontent.com/zlw555/repo/master/icons/xmlyad.png",
-      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/ximalaya_2.7.6_iphoneos-arm.deb",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/xmlyad.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/refs/heads/master/downloads/ximalaya.deb",
       "section": "Tweaks",
-      "size": "152kb",
-      "author": "z",
+      "size": "4kb",
+      "author": "zlw555",
       "screenshots": []
     },
     {
-      "name": "喜马拉雅极速版",
+      "name": "喜马拉雅极速版去后台启动",
       "version": "1.1",
       "description": "终于去掉后台启动广告了。3.0.34配合圈x vip。",
-      "icon_url": "https://raw.githubusercontent.com/zlw555/repo/master/icons/xmlyajsb.png",
-      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/tingliteqad_1.1_iphoneos-arm.deb",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/xmlyajsb.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/tingliteqad.deb",
       "section": "Tweaks",
       "size": "3kb",
-      "author": "z",
+      "author": "zlw555",
       "screenshots": []
     },
     {
@@ -36,7 +36,7 @@
       "screenshots": []
     },
     {
-      "name": "HBB推送带图",
+      "name": "HBB无后台推送+推送带图",
       "version": "8.1",
       "description": "配合HBB专用巨魔注入器使用",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
@@ -52,44 +52,9 @@
       "description": "附件是HBB网盘地址",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/TrollFools.png",
       "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/readme.txt",
-      "section": "应用",
+      "section": "Tweaks",
       "size": "2kB",
       "author": "HBB",
-      "screenshots": []
-    },
-    {
-      "name": "微信iPad",
-      "version": "8.1",
-      "description": "微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了",
-      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/TrollFools.png",
-      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/wxipad_1.1.4_iphoneos-arm.deb",
-      "section": "Tweaks",
-      "size": "152kB",
-      "author": "z",
-      "screenshots": []
-    },
-    {
-      "name": "威锋VIP",
-      "version": "7.0。3",
-      "description": "去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3
-      Author: 小果子
-      Name: 威锋FuckVIP-Ads",
-      "icon_url": "https://raw.githubusercontent.com/zlw555/repo/master/icons/feng.png",
-      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/%E5%A8%81%E9%94%8B703%E6%B0%B8%E4%B9%85VIP%2B%E5%8E%BB%E5%B9%BF%E5%91%8A%E6%9C%89%E6%A0%B9.deb",
-      "section": "Tweaks",
-      "size": "868kB",
-      "author": "小果子",
-      "screenshots": []
-    },
-    {
-      "name": "起点读书",
-      "version": "1.5",
-      "description": "2014年2月5日，支持最新5.9.333",
-      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/qidiandushu.png",
-      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/qidianqad_1.5_iphoneos-arm.deb",
-      "section": "Tweaks",
-      "size": "152kB",
-      "author": "z",
       "screenshots": []
     }
   ]
