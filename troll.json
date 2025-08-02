@@ -1,5 +1,6 @@
+{
   "repository_name": "自由的风",
-  "repository_icon": "https://raw.githubusercontent.com/zlw555/repo/master/CydiaIcon.png",
+  "repository_icon": "https://raw.githubusercontent.com/zlw555/thoes/master/repo-icon.png",
   "packages": [
     {
       "name": "喜马拉雅",
@@ -51,9 +52,43 @@
       "description": "附件是HBB网盘地址",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/TrollFools.png",
       "dylib": "https://raw.githubusercontent.com/zlw555/thoes/master/downloads/readme.txt",
-      "section": "Tweaks",
+      "section": "应用",
       "size": "2kB",
       "author": "HBB",
       "screenshots": []
+    },
+    {
+      "name": "微信iPad",
+      "version": "8.1",
+      "description": "微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/TrollFools.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/wxipad_1.1.4_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "152kB",
+      "author": "z",
+      "screenshots": []
+    },
+    {
+      "name": "威锋VIP",
+      "version": "7.0。3",
+      "description": "去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/repo/master/icons/feng.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/%E5%A8%81%E9%94%8B703%E6%B0%B8%E4%B9%85VIP%2B%E5%8E%BB%E5%B9%BF%E5%91%8A%E6%9C%89%E6%A0%B9.deb",
+      "section": "Tweaks",
+      "size": "868kB",
+      "author": "小果子",
+      "screenshots": []
+    },
+    {
+      "name": "起点读书",
+      "version": "1.5",
+      "description": "2014年2月5日，支持最新5.9.333",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/qidiandushu.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/qidianqad_1.5_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "152kB",
+      "author": "z",
+      "screenshots": []
     }
   ]
+} 
