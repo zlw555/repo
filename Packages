@@ -942,22 +942,6 @@ Name: 系统补丁
 
 Package: tingliteqad
 Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: x
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/tingliteqad_1.0_iphoneos-arm.deb
-Size: 2924
-MD5sum: 8ae63e75bfa978d40dca998d3875b03f
-SHA1: 79195baac123dfde0a6d62f3d661a132867e5931
-SHA256: 8d0e52288291c199bd6d911aeafeb7ccbea054fa74beb15adbb476b5ce8d81fc
-Section: Tweaks
-Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
-Author: z
-Name: 喜马拉雅极速版去后台启动
-
-Package: tingliteqad
-Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: x
 Installed-Size: 168
@@ -971,6 +955,22 @@ Section: Tweaks
 Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
 Author: z
 Name: 喜马拉雅极速版去后台启动-rootless
+
+Package: tingliteqad
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: x
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/tingliteqad_1.1_iphoneos-arm.deb
+Size: 3472
+MD5sum: 154cfcd441e5cf107b63d2de3e3029a8
+SHA1: 4c36971198d0628d769e0407942ac5f6f1f781a7
+SHA256: 2cfad4e550f93485f781c0782da0080e31c2569db70f25f7900df09f3efecd68
+Section: Tweaks
+Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
+Author: z
+Name: 喜马拉雅极速版去后台启动
 
 Package: wechatupdate
 Version: 1.8
@@ -1188,22 +1188,6 @@ Name: ios14xhome
 
 Package: ximalaya
 Version: 2.7.5
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/ximalaya_2.7.5_iphoneos-arm.deb
-Size: 4100
-MD5sum: d5a349cbbb02bb335e739be2eec1c58f
-SHA1: d4c97683f55aed2a04b1208dc4abb09602bc0860
-SHA256: b0df629793b9ce2b25093b3936ccbd4d93d2f4f74c2160a1fa17ac9b575a4b4d
-Section: Tweaks
-Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
-Author: z
-Name: 喜马拉雅优化
-
-Package: ximalaya
-Version: 2.7.5
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 168
@@ -1213,6 +1197,22 @@ Size: 3832
 MD5sum: 02e504b700617daa00d340ea04fd8f2f
 SHA1: f1f0c4fd6ad66059af07281d2ff934161c2f2275
 SHA256: 3cf53a2a3e8de98232d569607236ed467883d4789bad4daf72572ccf675fd400
+Section: Tweaks
+Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Author: z
+Name: 喜马拉雅优化
+
+Package: ximalaya
+Version: 2.7.6
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/ximalaya_2.7.6_iphoneos-arm.deb
+Size: 4248
+MD5sum: a8ea18e23b2ac0df6b3aaadf6027d736
+SHA1: 2f6ad42325c44020e59852cb756542aa5e24033f
+SHA256: 6fccc81360c7c4e20141d1553e0182df316b25d21855c9b859fb2493ec20b331
 Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
