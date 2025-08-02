@@ -255,22 +255,6 @@ Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
 
-Package: com.swiftyper.wechatredenvelop
-Version: 2.0.0
-Architecture: iphoneos-arm64
-Maintainer: 请叫我小锅
-Installed-Size: 296
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.swiftyper.wechatredenvelop_2.0.0_iphoneos-arm64.deb
-Size: 107266
-MD5sum: 79b17b27023db220da583fb174750fa6
-SHA1: 08ab53f0936f53c5820867769015bbbd0d6ca90e
-SHA256: 2b46e2dd3d7350d59b0839f8cbc477b30862850825d2024be462f011fed64abc
-Section: Tweaks
-Description: 微信抢红包插件
-Author: 请叫我小锅
-Name: 微信抢红包
-
 Package: com.udevs.vpnindicator
 Version: 1.1.8
 Architecture: iphoneos-arm64
@@ -641,22 +625,6 @@ Description: 电脑登陆微信扫码后自动确定，下次电脑点击登陆�
 Author: Netskao
 Name: WeChatAutoLogin
 
-Package: ngpj
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/ngpj_1.1_iphoneos-arm.deb
-Size: 2968
-MD5sum: 1982c0500778c2f71f67775da2c76948
-SHA1: 1a9913386cb47d4a104c0e49aeaeb425d8c907d3
-SHA256: 5102ea07c8ac47802603b50aabaf7ed6d57d2856562af8bce33f9c345183002a
-Section: Tweaks
-Description: 购买界面点x
-Author: z
-Name: 内购破解
-
 Package: ngthienhoan.nobetaalert
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -871,25 +839,6 @@ Author: zlw555
 Name: 起点去启动广告
 
 Package: ru.rj.ftt
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: Randy420 <randy.skinner@hotmail.com>
-Installed-Size: 232
-Depends: mobilesubstrate
-Replaces: com.ipadkid.ftt, com.azmilaila.ftt, com.ceadd.flextotheosbyipadkid358, com.randy420.ipadkid.ftt
-Filename: ./debs/ru.rj.ftt_1.3_iphoneos-arm.deb
-Size: 28274
-MD5sum: 5ab1e04de515d72409d684c252f3c9c8
-SHA1: afed21722f3c9b5eb7fd8d16c3db799a4debf4e0
-SHA256: 23e2476773a4b69c9f584f41eb61b0c7a654b24790a67a41aa65f4a65597ce56
-Section: Utilities
-Homepage: https://theemeraldisle.family
-Description: 终端输入命令ftt
-Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
-Depiction: https://Randy-420.GitHub.io/depic/ftt.html
-Name: Flex3转Theos
-
-Package: ru.rj.ftt
 Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Randy420 <randy.skinner@hotmail.com>
@@ -923,22 +872,6 @@ Section: Tweaks
 Description: 仅在应用程序内禁用通知中心的下拉手势。(适用于游戏)，返回桌面不影响通知中心手势，该补丁默认生效全局应用，并不能单一选择应用
 Author: poqw312
 Name: 禁用通知中心下拉手势
-
-Package: systembuding
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 372
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/系统补丁_1.7_iphoneos-arm64.deb
-Size: 45890
-MD5sum: e076b008057be37ce0db3f8ca96a7074
-SHA1: 67f61e92d2fc8ec3c755c83f1f2badaa5a3a3469
-SHA256: 0ec0f68454d19e1e1587005fa29bb9edf7acf5965ad866f243b87dfc091bc4b5
-Section: Tweaks
-Description: 整合我源里的补丁，有设置开关，只支持iPhone xs以上的arm64e设备
-Author: z
-Name: 系统补丁
 
 Package: tingliteqad
 Version: 1.0
@@ -1218,35 +1151,6 @@ Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广
 Author: z
 Name: 喜马拉雅优化
 
-Package: xtyh
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate
-Filename: ./debs/rootless/系统优化合集_1.3_iphoneos-arm64.deb
-Size: 3516
-MD5sum: 95c2dedae6a1a551835baae609def185
-SHA1: 6321f5ad8fcafaf89fc227d7760874c82ce0be26
-SHA256: 4c6083d3da498c6940497c9b854222f1c0b9bfee146edb7f9ac26120852ddec8
-Section: Tweaks
-Description:
- 1.隐藏通知中心"没有更早的通知"文本
- 2.隐藏Dock栏磨砂背景
- 3.隐藏主屏幕翻页小白点
- 4.隐藏状态栏旋转
- 5.隐藏锁屏相机‘手电筒
- 6.禁用主屏幕通知中心和锁屏搜索栏
- 7.隐藏勿扰模式横幅
- 8.无翻页点
- 9.去除负一屏编辑背景
- 10.文件夹透明
- 11.通知中心手势(左滑清除消息，右滑打开应用)
- 12.禁用锁屏左滑相机
- 13.去除横条
-Author: z
-Name: 系统优化合集
-
 Package: xwgetversion
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1310,22 +1214,6 @@ Section: Tweaks
 Description: 隐藏锁屏音乐控件
 Author: z
 Name: 隐藏锁屏音乐控件
-
-Package: z.wechat
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 188
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/z.wechat_1.3_iphoneos-arm.deb
-Size: 14958
-MD5sum: df8da9acf29f1fbfd1fa249a69aba45f
-SHA1: 169ebcc97b8ce14f907d43c900aaa9c969af608c
-SHA256: 2a96452bc3b69e8184bb407b1badff1c16867a0228f5ee0abbaf6b359c4a33bd
-Section: Tweaks
-Description: 小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
-Author: z
-Name: WeChatHookLite
 
 Package: zgyh
 Version: 1.1
