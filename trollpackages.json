@@ -1,21 +1,17 @@
 {
-  "repository_name": "اسم مستودعك",
-  "repository_icon": "https://yoursite.com/repo-icon.png",
+  "repository_name": "自由的风仓库",
+  "repository_icon": "https://raw.githubusercontent.com/zlw555/thoes/master/repo-icon.png",
   "packages": [
-    {
-      "name": "اسم الحزمه",
-      "version": "v1.0.0",
-      "description": "وصف مفصل للحزمه وميزاتها",
-      "app_url": "رابط التطبيق على المتجر اذا كانت الحزمه مخصصه لتطبيق معين",
-      "icon_url": "https://yoursite.com/icons/package-icon.png",
-      "dylib": "https://yoursite.com/downloads/package.dylib",
-      "section": "قسم الحزمه",
-      "size": "حجم الملف",
-      "author": "اسم المطور",
-      "screenshots": [
-        "https://yoursite.com/screenshots/screenshot1.png",
-        "https://yoursite.com/screenshots/screenshot2.png"
-      ]
-    }
+      {
+        "name": "喜马拉雅",
+        "version": "2.7.6",
+        "description": "最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利。",
+        "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/xmlyad.png",
+        "dylib": "https://raw.githubusercontent.com/zlw555/thoes/refs/heads/master/downloads/ximalaya.deb",
+        "section": "Tweaks",
+        "size": "4kb",
+        "author": "zlw555",
+        "screenshots": []
+      }
   ]
 }
