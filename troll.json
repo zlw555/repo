@@ -73,7 +73,7 @@
       "version": "7.0。3",
       "description": "去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3",
       "icon_url": "https://raw.githubusercontent.com/zlw555/repo/master/icons/feng.png",
-      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/%E5%A8%81%E9%94%8B703%E6%B0%B8%E4%B9%85VIP%2B%E5%8E%BB%E5%B9%BF%E5%91%8A%E6%9C%89%E6%A0%B9.deb",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/feng.deb",
       "section": "Tweaks",
       "size": "868kB",
       "author": "小果子",

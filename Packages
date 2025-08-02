@@ -136,7 +136,7 @@ Architecture: iphoneos-arm
 Maintainer: 小果子
 Installed-Size: 868
 Depends: mobilesubstrate
-Filename: ./debs/威锋703永久VIP+去广告有根.deb
+Filename: ./debs/feng.deb
 Size: 327048
 MD5sum: 19637328a55d86f916106a24fd331712
 SHA1: 1e656ed1a545f7b62096734d5a736eaa25193b44
