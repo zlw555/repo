@@ -838,6 +838,24 @@ Description: 2014年2月5日，支持最新5.9.333
 Author: zlw555
 Name: 起点去启动广告
 
+Package: ru.rj.ftt
+Version: 1.7
+Architecture: iphoneos-arm
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/ru.rj.ftt_1.7_iphoneos-arm.deb
+Size: 21584
+MD5sum: 27ceb82a53ae0bb57b69c0aeab4ee252
+SHA1: 5ace166f7346b9868c047fd5c5f912cb91a26089
+SHA256: f9de02a07e7d6e4176118bb2a1f339e60da2ce16a0e5430a6fd3f04c89e21e1a
+Section: Utilities
+Homepage: https://theemeraldisle.family
+Description: 终端输入命令ftt
+Author: ipad_kid_Randy420
+Depiction: https://Randy-420.GitHub.io/depic/ftt.html
+Name: Flex3转Theos
+
 Package: sbapplication
 Version: 1.0
 Architecture: iphoneos-arm64
