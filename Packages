@@ -376,6 +376,38 @@ Description: 桌面文件夹背景透明
 Author: z
 Name: 文件夹透明
 
+Package: kwyx
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/kwyx_1.0_iphoneos-arm.deb
+Size: 3096
+MD5sum: c2ec9c315d801359d7ea8685b1cc9eef
+SHA1: 95c5cba585d1376f939f999bf181cf526e3cf07e
+SHA256: ccf8749b685ea218ace7557ff3b7fb472ad77df0499193953ba2c1b44299b89a
+Section: Tweaks
+Description: 酷我音乐去启动、去后台启动广告
+Author: z
+Name: 酷我音乐
+
+Package: kwyy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/kwyy_1.0_iphoneos-arm64.deb
+Size: 2922
+MD5sum: 2d67f017d5f79ba65ef32d52e5d797da
+SHA1: 7e534e8776ed3deb0fd493cd596f4829dffe27a3
+SHA256: 5ceb71ec1d03856d9d214b1dfb09f3b24de454e573685bed90cb3069741bbf93
+Section: Tweaks
+Description: 酷我音乐去启动、去后台启动广告
+Author: z
+Name: 酷我音乐-rootless
+
 Package: latchkey
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -442,6 +474,38 @@ Section: Tweaks
 Description: 在锁屏来电话时会有一个红色挂断的按钮
 Author: z
 Name: 锁屏来电拒接
+
+Package: lrds
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/lrds_1.0_iphoneos-arm.deb
+Size: 3292
+MD5sum: ab509b3ab724e7ae30d2b7a9bb344cba
+SHA1: 16fe556d7427663dae5fc4925e8270a594a25aab
+SHA256: cef7c84f3adfd8a2913ac9385db05fbd050c53dd25bf307dd7b3370579034e27
+Section: Tweaks
+Description: 去除启动广告，去后台启动广告
+Author: z
+Name: 懒人听书
+
+Package: lrds
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/lrds_1.0_iphoneos-arm64.deb
+Size: 3134
+MD5sum: 30cf74b72d312ef3ef77a9308e626fdc
+SHA1: 2325fae92852c5b2abaa92eb8c9ad6f5106e0e6a
+SHA256: 506bf28082988d57c61480d436e07f9c7ec7faf95d8b0ea50873e8a93962a345
+Section: Tweaks
+Description: 去除启动广告，去后台启动广告
+Author: z
+Name: 懒人听书-rootless
 
 Package: mterminal
 Version: 1.4-6
