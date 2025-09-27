@@ -130,6 +130,22 @@ Icon2: 1.png
 Name: 爱阅书香Pro
 Sponsor: Ai-小苹果™
 
+Package: com.guozi.weifeng
+Version: 7.0.3
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Installed-Size: 884
+Depends: mobilesubstrate
+Filename: ./debs/rootless/威锋703永久VIP+去广告无根.deb
+Size: 333768
+MD5sum: 5744207b42523917b4c5e9ff20cd290a
+SHA1: 15a9489d91cbea57afec5cea76c79f63b712edfa
+SHA256: 9d342d20e9a527f9915c9cd6894d34d9b0d7ad6323b1d1bb947a5a881b2e2c09
+Section: Tweaks
+Description: 去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.1及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！开启会员功能!点亮会员头像!更新支持7.0.3
+Author: 小果子
+Name: 威锋FuckVIP-Ads
+
 Package: com.nathan.trolllock
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -951,6 +967,22 @@ Section: Tweaks
 Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统设置里
 Author: z
 Name: 修改微信版本号
+
+Package: weifengqad
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/weifengqad_1.2_iphoneos-arm64.deb
+Size: 4000
+MD5sum: d730975cbb3dc9007a9ab4505c3bc0c0
+SHA1: e132f90db26dd68b3ff8518a1594d9fc9dfdce6c
+SHA256: 6086a5660ad8b284c45c8c4cc92630a44d9911612cb3cb6c58be14801f5513d5
+Section: Tweaks
+Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
+Author: z
+Name: 威锋7.3NoAd
 
 Package: weifengqad
 Version: 1.2
