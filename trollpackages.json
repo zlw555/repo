@@ -124,6 +124,17 @@
       "screenshots": []
     },
     {
+      "name": "闲鱼",
+      "version": "1.0",
+      "description": "闲鱼去启动广告，秒进",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/repo/master/icons/xianyu.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/xianyu_1.0_iphoneos-arm.deb",
+      "section": "Tweaks",
+      "size": "152kB",
+      "author": "z",
+      "screenshots": []
+    },
+    {
         "name": "Quantumult",
         "version": "1.5.2",
         "description": "Quantumult",
