@@ -911,10 +911,10 @@ Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/taobao_1.0_iphoneos-arm64.deb
-Size: 3406
-MD5sum: e1f48ccc66709ee42ea03bef6deb3d3c
-SHA1: 8f751c1edd596e6f408b699e17011fd2c6ffb282
-SHA256: 6ce42f43a8e41cd7d877c46165e9572691b366b00cdf5b1b06e3a253cb487b10
+Size: 3410
+MD5sum: 2804aa2316f0ed2178f5d39ccc9200f7
+SHA1: 9d9ff025257feb6c1d9dfdddeb78e988e6169eb2
+SHA256: ddcf15241e149ef11de0c9ff759a23c6383b2f77eb3230b6af84aeefd0353c88
 Section: Tweaks
 Description: 淘宝10.53.0去启动广告
 Author: z
@@ -927,10 +927,10 @@ Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootful/taobao_1.0_iphoneos-arm.deb
-Size: 3336
-MD5sum: ab70f40982e3474b72e48f395c159ef0
-SHA1: bd6bbb0f8ebc84c175b9f67cd8f6540f3bc3eae7
-SHA256: 0657ff1bba89ffea7fff6ac0202a39251835dd9ecc4b49bae8aae403a570f77d
+Size: 3332
+MD5sum: a56b8c242cfa9eb5be6adf86a581eccd
+SHA1: 819c5da8a19c7bd6f7f8ab0d1b8215a690481434
+SHA256: 4a7fcca60c18cc5b5381b95f822e70ebed34714178b6c9f9a4fc01d1a3aa399b
 Section: Tweaks
 Description: 淘宝去启动广告
 Author: z
