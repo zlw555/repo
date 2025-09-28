@@ -904,6 +904,38 @@ Description: 仅在应用程序内禁用通知中心的下拉手势。(适用于
 Author: poqw312
 Name: 禁用通知中心下拉手势
 
+Package: taobao
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/taobao_1.0_iphoneos-arm64.deb
+Size: 3406
+MD5sum: e1f48ccc66709ee42ea03bef6deb3d3c
+SHA1: 8f751c1edd596e6f408b699e17011fd2c6ffb282
+SHA256: 6ce42f43a8e41cd7d877c46165e9572691b366b00cdf5b1b06e3a253cb487b10
+Section: Tweaks
+Description: 淘宝10.53.0去启动广告
+Author: z
+Name: 淘宝-rootless
+
+Package: taobao
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/taobao_1.0_iphoneos-arm.deb
+Size: 3336
+MD5sum: ab70f40982e3474b72e48f395c159ef0
+SHA1: bd6bbb0f8ebc84c175b9f67cd8f6540f3bc3eae7
+SHA256: 0657ff1bba89ffea7fff6ac0202a39251835dd9ecc4b49bae8aae403a570f77d
+Section: Tweaks
+Description: 淘宝去启动广告
+Author: z
+Name: 淘宝
+
 Package: tingliteqad
 Version: 1.0
 Architecture: iphoneos-arm64
