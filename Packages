@@ -1102,21 +1102,21 @@ Description: 微信聊天界面抬高
 Author: z
 Name: 微信聊天界面抬高
 
-Package: xhome
-Version: 1.5
-Architecture: iphoneos-arm64e
+Package: xhome15
+Version: 1.5.3
+Architecture: iphoneos-arm64
 Maintainer: zlw555
-Installed-Size: 152
+Installed-Size: 88
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/roothide/xhome_1.5_iphoneos-arm64e.deb
-Size: 3134
-MD5sum: e16b84a2fc6e92a5804148a0617fad51
-SHA1: 27ac946dc3a65785527957fd137d3c7cea9a128d
-SHA256: 1650e93f88d0d3dbe2d5d31d624b61824c8e9b6d25b86b482e42dea8e5cd8c87
-Section: 自用插件
+Filename: ./debs/rootless/xhome15_1.5.3_iphoneos-arm64.deb
+Size: 2450
+MD5sum: d66d85c6682f4b33a34e38c548613e85
+SHA1: b8df97da8c9af40bb80a76e8d142063191ca11c2
+SHA256: 630d00df1b6dbcfc0c5d2bfab613ef5546709197497d154bb7081a84e30d47da
+Section: Tweaks
 Description: ios15手势
 Author: zlw555
-Name: ios15xhome-roothide
+Name: xhome-rootless
 
 Package: ximalaya
 Version: 2.7.5
@@ -1213,6 +1213,23 @@ Section: Tweaks
 Description: 隐藏锁屏音乐控件
 Author: z
 Name: 隐藏锁屏音乐控件
+
+Package: z.vinyl
+Version: 1.3.1
+Architecture: iphoneos-arm64e
+Maintainer: Lightmann
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/roothide/z.vinyl_1.3.1_iphoneos-arm64e.deb
+Size: 6424
+MD5sum: aaa9b3195125a30884ee169455cd62e1
+SHA1: c84422458fc85190b395b79788c300edd23472f1
+SHA256: 6ee79c9a76f7af70c99adaa752d8a77bd77f4481a4cffbe58c252886aca6b696
+Section: Tweaks
+Description: iOS15 锁屏音乐播放器的简化外观！
+Author: Lightmann
+Icon: https://raw.githubusercontent.com/L1ghtmann/Vinyl/master/icon.png
+Name: Vinyl-roothide
 
 Package: z.weifeng
 Version: 1.2
