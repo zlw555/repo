@@ -943,10 +943,10 @@ Maintainer: x
 Installed-Size: 88
 Depends: mobilesubstrate
 Filename: ./debs/rootful/tingliteqad.deb
-Size: 2954
-MD5sum: 66b1e1bde23567daf5de04c1c7949a63
-SHA1: 0b7a7e208563433898fb150d69c4828cb9d714af
-SHA256: a0e8afa9e0ade004bb86bcc96520baa4953aad1a069b85c75b51cf6d9a13541a
+Size: 2964
+MD5sum: 4b65563132f4e69efb387c0c07e677bd
+SHA1: efaaabc51fd7a4b1ba8960b6f6b19fb7c74feba3
+SHA256: c0fee1127cde7483f71e8174816ffbb1e5d39ed393860490475b81882d85f293
 Section: Tweaks
 Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
 Author: z
