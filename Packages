@@ -259,22 +259,6 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicat
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator-绿色
 
-Package: com.zlw555.ios15xhome
-Version: 1.3-1+debug
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 156
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/ios15xhome_1.3-1+debug_iphoneos-arm64.deb
-Size: 4350
-MD5sum: 2ae2b56581d75effbdd557700760e947
-SHA1: 5f8063c44bcfaadea2f2f32dfe85c766fedc7b2c
-SHA256: d063e82436eec07c86a2159eebdab220890f30ad9c335c89e674cb5629f6abce
-Section: Tweaks
-Description: iOS15无限根x手势，隐藏控制中心状态栏
-Author: zlw555
-Name: ios15xhome
-
 Package: cydiabc.aiyue
 Version: 1.7
 Architecture: iphoneos-arm
@@ -937,36 +921,36 @@ Author: z
 Name: 淘宝
 
 Package: tingliteqad
-Version: 1.0
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: x
-Installed-Size: 168
+Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/rootless/tingliteqad_1.0_iphoneos-arm64.deb
-Size: 2990
-MD5sum: 129fd55988f6ad79863135c29bb84f61
-SHA1: 6726c3fd6344a829f1a8ff6752bf9212aa152307
-SHA256: 0884d87dfadf8bda43817b31dbcee1723e98ee0cb46086bac6653fb9eff7dfcc
+Filename: ./debs/rootless/tingliteqad_1.3_iphoneos-arm64.deb
+Size: 3022
+MD5sum: 23e32e07ce8bc2952dd4a7690a156897
+SHA1: 47dd1c3fc07291eab98f41dd7a0d461386799403
+SHA256: 3710139ba692a1574a0fad932c7a83765019807432ffd737f2423e9e04bf9a58
 Section: Tweaks
 Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
 Author: z
-Name: 喜马拉雅极速版去后台启动-rootless
+Name: 喜马拉雅极速版-rootless
 
 Package: tingliteqad
-Version: 1.1
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: x
-Installed-Size: 168
+Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/rootful/tingliteqad_1.1_iphoneos-arm.deb
-Size: 3472
-MD5sum: 154cfcd441e5cf107b63d2de3e3029a8
-SHA1: 4c36971198d0628d769e0407942ac5f6f1f781a7
-SHA256: 2cfad4e550f93485f781c0782da0080e31c2569db70f25f7900df09f3efecd68
+Filename: ./debs/rootful/tingliteqad.deb
+Size: 2954
+MD5sum: 66b1e1bde23567daf5de04c1c7949a63
+SHA1: 0b7a7e208563433898fb150d69c4828cb9d714af
+SHA256: a0e8afa9e0ade004bb86bcc96520baa4953aad1a069b85c75b51cf6d9a13541a
 Section: Tweaks
 Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
 Author: z
-Name: 喜马拉雅极速版去后台启动
+Name: 喜马拉雅极速版
 
 Package: wechatupdate
 Version: 1.8
@@ -1133,22 +1117,6 @@ Section: 自用插件
 Description: ios15手势
 Author: zlw555
 Name: ios15xhome-roothide
-
-Package: xhome14
-Version: 1.7.2
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/xhome14_1.7.2_iphoneos-arm.deb
-Size: 3662
-MD5sum: 0028f0c87d67d988c74b4d3e8b12b091
-SHA1: 2893b43ec88efd494ae6752d6071bec4e2863b31
-SHA256: 0638aff435b639950d93f3ec9235d3c907c27461b93cfd0a78a0ec2a0be48d1b
-Section: 自用插件
-Description: 自由ios14手势
-Author: zlw555
-Name: ios14xhome
 
 Package: ximalaya
 Version: 2.7.5
@@ -1357,22 +1325,6 @@ Section: Tweaks
 Description: 农信，去定位提示
 Author: zlw555
 Name: 广西,湖北农信去越狱
-
-Package: zlw555.xhome
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: zlw555
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/xhome_1.1_iphoneos-arm.deb
-Size: 3040
-MD5sum: 702ee5a4c6281e9633d13d9124b39354
-SHA1: 28968362932e07cf0d4d5cb8058134589c64db36
-SHA256: 123e3f512d3fddc5b0e53fcc2c74452160a92ac1cc3e4ab13d940c261420e809
-Section: 自用插件
-Description: iPhone7自用!
-Author: zlw555
-Name: xhome
 
 Package: zydf.tetherme8
 Version: 1.2.3~arm64e-1
