@@ -942,11 +942,11 @@ Architecture: iphoneos-arm
 Maintainer: x
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/rootful/tingliteqad.deb
-Size: 3080
-MD5sum: 92679cea64245c3a588fca84d3b28ee9
-SHA1: e3f60e7861e2a0f0c13c793c801f4fe5030051bb
-SHA256: 006127ba56724c5754085a1845b1c3056c6e305cce22e3821fa9f225133a1f3d
+Filename: ./debs/rootful/tingliteqad_1.3_iphoneos-arm.deb
+Size: 2960
+MD5sum: a05d284e85e9a99f0a8e0ac33e5d614c
+SHA1: 9ac7e2c1a9012b0543c8109f1543f23d0002ebcf
+SHA256: 95d73c0dfe1c5cd75a94c6fbeff226ca0b8662d684a8faef51445219958bed10
 Section: Tweaks
 Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
 Author: z
