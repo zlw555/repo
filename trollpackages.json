@@ -135,6 +135,17 @@
       "screenshots": []
     },
     {
+      "name": "解除MITM限制",
+      "version": "1.0",
+      "description": "已测解除喜马拉雅极速版3.0.39 MITM限制，配合圈X破解",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/bedtimefan.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/downloads/SSLKillSwitch2.zip",
+      "section": "zip",
+      "size": "152kB",
+      "author": "z",
+      "screenshots": []
+    },
+    {
       "name": "淘宝",
       "version": "1.0",
       "description": "淘宝去启动广告",
