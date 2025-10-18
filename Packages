@@ -259,25 +259,6 @@ Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.vpnindicat
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
 Name: VPNIndicator-绿色
 
-Package: cydiabc.aiyue
-Version: 1.7
-Architecture: iphoneos-arm
-Maintainer: Ai-小苹果
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootful/aiyue_1.7_iphoneos-arm.deb
-Size: 48672
-MD5sum: 8790d4f1c01e8d662db53e324e2ae24b
-SHA1: d84a7f92e54bf725790acfa9d3ea26cbc44e14ae
-SHA256: 3e42b77753422a0c80c56724167806e744616193e0463ef1505ca542e1f1272c
-Section: 自用插件
-Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，支持商店最新版6.5.1，注意安装后进入应用后，开启关闭格言，需关闭APP再进入即可，已解决提示被破坏问题
-A12: 1
-Author: 土拨鼠
-Icon: Tweaks.png
-Icon2: 1.png
-Name: 爱阅书香高级版
-Sponsor: Ai-小苹果
-
 Package: datasource
 Version: 1.0-2+debug
 Architecture: iphoneos-arm64
@@ -1258,6 +1239,38 @@ Size: 3358
 MD5sum: 6851248aa1f17107e2f6dc4691cc8ff0
 SHA1: 32868e1f1dd80105fdc894718db69d4fef1a0b4e
 SHA256: c86cc40d6050be3267e0556dd583cfce823328199c8283cbb09a28891f68a378
+Section: Tweaks
+Description: 威锋7.0.8去广告
+Author: z
+Name: 威锋
+
+Package: z.weifeng
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/z.weifeng_1.5_iphoneos-arm.deb
+Size: 3838
+MD5sum: dfff77c5833afff0ebc2971119c68300
+SHA1: da3a1725ef95b3c1b3309c80728b74eefa869a31
+SHA256: 1fc53ae4c335abc8e15f74a9c2daf25059d058b730e44a9b91d91294bc9ee776
+Section: Tweaks
+Description: 威锋7.0.8去广告
+Author: z
+Name: 威锋
+
+Package: z.weifeng
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/z.weifeng_1.6_iphoneos-arm.deb
+Size: 3840
+MD5sum: b408f00aa454703d1b5e06d9f30de99e
+SHA1: 8240ec32810244e56606e8608d5a219392ad47c0
+SHA256: ad63f1ad9f71ec3d81d3199a71d852f728116a3d081630bfdbabcdd3b4f2bc06
 Section: Tweaks
 Description: 威锋7.0.8去广告
 Author: z
