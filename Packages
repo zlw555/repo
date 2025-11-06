@@ -1229,22 +1229,6 @@ Author: z
 Name: 威锋-rootless
 
 Package: z.weifeng
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootful/feng.deb
-Size: 3358
-MD5sum: 6851248aa1f17107e2f6dc4691cc8ff0
-SHA1: 32868e1f1dd80105fdc894718db69d4fef1a0b4e
-SHA256: c86cc40d6050be3267e0556dd583cfce823328199c8283cbb09a28891f68a378
-Section: Tweaks
-Description: 威锋7.0.8去广告
-Author: z
-Name: 威锋
-
-Package: z.weifeng
 Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: z
