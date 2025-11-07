@@ -1127,6 +1127,38 @@ Description: 隐藏锁屏音乐控件
 Author: z
 Name: 隐藏锁屏音乐控件
 
+Package: z.qadlog
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/z.qadlog_1.2_iphoneos-arm64.deb
+Size: 8896
+MD5sum: 3fda23402624c762766fff3e9791972d
+SHA1: 36dd64e0acab981a2ee9fd32c1addcefec2da1ba
+SHA256: 74d511c5a34787a24c2abbdca7d751a64ee6b87e98c465779b92f241871a1e8a
+Section: Tweaks
+Description: NSURL去广告,默认去淘宝开屏
+Author: z
+Name: NSURLqad-rootless
+
+Package: z.qadlog
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/z.qadlog_1.2_iphoneos-arm.deb
+Size: 8922
+MD5sum: 845a9aca29388e4513311b0de9c0c512
+SHA1: 71e1af21e43b2ef38c2b61beb34e46abd04905fa
+SHA256: 496ed30de336ec6e667ae2fe9bef21b6d5d4f0a28102156cb48e92c46536febb
+Section: Tweaks
+Description: NSURL去广告,默认去淘宝开屏
+Author: z
+Name: NSURLqad
+
 Package: z.vinyl
 Version: 1.3.1
 Architecture: iphoneos-arm64e
