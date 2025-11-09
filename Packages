@@ -663,33 +663,33 @@ Package: nsurlqadlog
 Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 152
+Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/nsurlqadlog_1.3_iphoneos-arm64.deb
-Size: 9966
-MD5sum: c177083944f1e26ee74b59597282384a
-SHA1: 23f35c7aa53f7282c99739d528bd8e2247861625
-SHA256: 3d145a7e14c783cab1c0207900515d4baaa5d0df07b8b47d8c5ed9babf7f6666
+Size: 10826
+MD5sum: 24ec98c2c8a8817de88b95bad65251f8
+SHA1: 30a48f73b7e2f3141824a0512806c83228b4f69a
+SHA256: 342d4fe9fd93bb4854a88f6f4714c7ce05a2808334af64776bb3832ba6427a98
 Section: Tweaks
 Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼,可添加沙盒目录URL到Documents/AD/ad_rules.txt，ad_settings.plist有日志和抓包开关。
 Author: z
-Name: NSURL去广告
+Name: NSURL去广告-rootless
 
 Package: nsurlqadlog
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: z
-Installed-Size: 168
+Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootful/nsurlqadlog_1.3_iphoneos-arm.deb
-Size: 9244
-MD5sum: 9dfa4238f80772cc7945be9ba38835ed
-SHA1: 11d4272def0211a237b04eac16c6249959cb30db
-SHA256: c60d1150278228f59acf318280d75ed12c57392d5021902605474716f5625991
+Size: 9964
+MD5sum: 035346aaebeb0ca58a94a571f9f7ee46
+SHA1: d12023742589a31365fed0eec54ff616635b21cc
+SHA256: be2e21d5f6db8ea2e1249194f8b6daf5fdbf59b2c01de69b9b05eaa5b72c0654
 Section: Tweaks
 Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼,可添加沙盒目录URL到Documents/AD/ad_rules.txt，ad_settings.plist有日志和抓包开关。
 Author: z
-Name: NSURL去广告
+Name: NSURL去广告-rootless
 
 Package: org.coolstar.libhooker
 Version: 1.5.2
@@ -1106,6 +1106,38 @@ Size: 4248
 MD5sum: a8ea18e23b2ac0df6b3aaadf6027d736
 SHA1: 2f6ad42325c44020e59852cb756542aa5e24033f
 SHA256: 6fccc81360c7c4e20141d1553e0182df316b25d21855c9b859fb2493ec20b331
+Section: Tweaks
+Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Author: z
+Name: 喜马拉雅优化
+
+Package: ximalaya
+Version: 2.7.9
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/rootless/ximalaya_2.7.9_iphoneos-arm64.deb
+Size: 4112
+MD5sum: e4f3337a0465f6b5773cc09a1280b389
+SHA1: 51b5307022442a9514bbef891a7ff2514b841aad
+SHA256: 981a0c3d64293370ae96aeab5a09cce9d2e70cd821a335629087791fa91c5dea
+Section: Tweaks
+Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Author: z
+Name: 喜马拉雅优化-rootless
+
+Package: ximalaya
+Version: 2.7.9
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/ximalaya_2.7.9_iphoneos-arm.deb
+Size: 5250
+MD5sum: c80a30947fb72e5fe42cae2e3698e7e9
+SHA1: cc1a5a9d7983aa755d27f11ca7ddae2c0b35fd45
+SHA256: 8a15ee1ff17987a3c3cda87f114640f5e18add9439cb55ea679231fdf3fc9110
 Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
