@@ -882,6 +882,38 @@ Author: z
 Name: 淘宝
 
 Package: tingliteqad
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: x
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/rootless/tingliteqad_1.2_iphoneos-arm64.deb
+Size: 3556
+MD5sum: 90a295d13b6f98ce3ad6c122d3516bb5
+SHA1: bbe9de10b52e059182d155d063f57bb5edb1ca67
+SHA256: 2f21503ab3c60f3ad8cecba984076353f09c7f4de63c6432513d266802b972f9
+Section: Tweaks
+Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
+Author: z
+Name: 喜马拉雅极速版去后台启动-rootless
+
+Package: tingliteqad
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: x
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/rootful/tingliteqad_1.2_iphoneos-arm.deb
+Size: 3488
+MD5sum: d7d39afe79ba10a55b4ca9ec89c28874
+SHA1: c7c836edc1ff5da4987826cc36ec2255953294e1
+SHA256: 26308a76c6f36ac4b615a1907a5b0af71a4909db89bdbbe4dd44f5999b774867
+Section: Tweaks
+Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
+Author: z
+Name: 喜马拉雅极速版去后台启动
+
+Package: tingliteqad
 Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: x
@@ -1112,32 +1144,32 @@ Author: z
 Name: 喜马拉雅优化
 
 Package: ximalaya
-Version: 2.7.9
+Version: 2.8
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/rootless/ximalaya_2.7.9_iphoneos-arm64.deb
-Size: 4112
-MD5sum: e4f3337a0465f6b5773cc09a1280b389
-SHA1: 51b5307022442a9514bbef891a7ff2514b841aad
-SHA256: 981a0c3d64293370ae96aeab5a09cce9d2e70cd821a335629087791fa91c5dea
+Filename: ./debs/rootless/ximalaya_2.8_iphoneos-arm64.deb
+Size: 3960
+MD5sum: ac43274e8b932021d847d3d77c2bbc19
+SHA1: ef19820ab6ccbc18f4fcf02f6fdd73a344811d5e
+SHA256: 2e6051d4e297385acc34661eb4476c4a127649a35d6cf1fcb4a51092117837b7
 Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
 Name: 喜马拉雅优化-rootless
 
 Package: ximalaya
-Version: 2.7.9
+Version: 2.8
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/rootful/ximalaya_2.7.9_iphoneos-arm.deb
-Size: 5250
-MD5sum: c80a30947fb72e5fe42cae2e3698e7e9
-SHA1: cc1a5a9d7983aa755d27f11ca7ddae2c0b35fd45
-SHA256: 8a15ee1ff17987a3c3cda87f114640f5e18add9439cb55ea679231fdf3fc9110
+Filename: ./debs/rootful/ximalaya_2.8_iphoneos-arm.deb
+Size: 5046
+MD5sum: 605c1f275b5df0feba8e52205e010914
+SHA1: 901c1a4a6c7dbd6db19efb78ffaafbd45137716e
+SHA256: 5939feb907dde6db5406021aff630385c8d1822a79719d9d86ae9b58bf247bda
 Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
