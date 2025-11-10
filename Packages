@@ -660,32 +660,32 @@ Name: NoLowPowerMode30SecAutoLock
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
 
 Package: nsurlqadlog
-Version: 1.3
+Version: 1.3.1
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/nsurlqadlog_1.3_iphoneos-arm64.deb
-Size: 10826
-MD5sum: 24ec98c2c8a8817de88b95bad65251f8
-SHA1: 30a48f73b7e2f3141824a0512806c83228b4f69a
-SHA256: 342d4fe9fd93bb4854a88f6f4714c7ce05a2808334af64776bb3832ba6427a98
+Filename: ./debs/rootless/nsurlqadlog_1.3.1_iphoneos-arm64.deb
+Size: 11468
+MD5sum: 64370df4e180251ee33504673aae8df7
+SHA1: 41c65b6222c2bb89e3fea6b3c74036699ff293f6
+SHA256: 56647f53693ab36e6166d1900e491e5005315808f53dcdc8e2c86eb0537f52af
 Section: Tweaks
 Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼,可添加沙盒目录URL到Documents/AD/ad_rules.txt，ad_settings.plist有日志和抓包开关。
 Author: z
 Name: NSURL去广告-rootless
 
 Package: nsurlqadlog
-Version: 1.3
+Version: 1.3.1
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/nsurlqadlog_1.3_iphoneos-arm.deb
-Size: 9964
-MD5sum: 035346aaebeb0ca58a94a571f9f7ee46
-SHA1: d12023742589a31365fed0eec54ff616635b21cc
-SHA256: be2e21d5f6db8ea2e1249194f8b6daf5fdbf59b2c01de69b9b05eaa5b72c0654
+Filename: ./debs/rootful/nsurlqadlog_1.3.1_iphoneos-arm.deb
+Size: 10734
+MD5sum: 1b4588cc425925af724ac3a283ca3143
+SHA1: 6db659081436681b6cb93075394d5a108b347c2a
+SHA256: 793be1f4fd05d9636641b30cec772f56d84ff4764e302b692347753aa6aee008
 Section: Tweaks
 Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼,可添加沙盒目录URL到Documents/AD/ad_rules.txt，ad_settings.plist有日志和抓包开关。
 Author: z
