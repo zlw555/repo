@@ -146,6 +146,17 @@
       "screenshots": []
     },
     {
+      "name": "NSURL去广告",
+      "version": "1.0",
+      "description": "NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/bedtimefan.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/downloads/nsurlqadlog_1.3.2_iphoneos-arm.deb",
+      "section": "deb",
+      "size": "152kB",
+      "author": "z",
+      "screenshots": []
+    },
+    {
       "name": "淘宝",
       "version": "1.0",
       "description": "淘宝去启动广告",
