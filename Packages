@@ -660,36 +660,36 @@ Name: NoLowPowerMode30SecAutoLock
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
 
 Package: nsurlqadlog
-Version: 1.3.1
+Version: 1.3.2
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 156
+Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/nsurlqadlog_1.3.1_iphoneos-arm64.deb
-Size: 11748
-MD5sum: eb9e1645b4779ddbd8b9ecc4fc44c8dc
-SHA1: 71ff5d6375dfb624e8aab1c8758514b5f5182ad6
-SHA256: 020875284b870e5070c52e526cdbb6c971caa7a4b6948d5e5c6aa3e0fb79f0b5
+Filename: ./debs/rootless/nsurlqadlog_1.3.2_iphoneos-arm64.deb
+Size: 44310
+MD5sum: 430b87a6b097799f017ab8087d7e0312
+SHA1: 676643e1ae7e362cacb43c36db3fb8ecdb7a9ab1
+SHA256: 01736728db44222d8c8139ad80b43a1041e2dd4fae05f1e757ec0e0d0369f40b
 Section: Tweaks
-Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼,可添加沙盒目录URL到Documents/AD/ad_rules.txt，ad_settings.plist有日志和抓包开关。其它应用可巨魔注入
+Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面
 Author: z
 Name: NSURL去广告-rootless
 
 Package: nsurlqadlog
-Version: 1.3.1
+Version: 1.3.2
 Architecture: iphoneos-arm
 Maintainer: z
-Installed-Size: 172
+Installed-Size: 304
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/nsurlqadlog_1.3.1_iphoneos-arm.deb
-Size: 10926
-MD5sum: 2196e2849565ebbaa12a60524f45c506
-SHA1: 73965d6403bc7126a0e0ca4495039bd2c7e3f717
-SHA256: 8a902931a0e32bc266e407dd662815c555f639d431484820bac57f95d66d1f9f
+Filename: ./debs/rootful/nsurlqadlog_1.3.2_iphoneos-arm.deb
+Size: 42220
+MD5sum: 6ba86b937e821cb76552e1bd5c78696c
+SHA1: a9217d61a998dd0e56c9fdf37054060714c60a42
+SHA256: b65e2131915e821a5cbd04e5c07ac9675d0e35d2ff8e157db994b3ed5bd8221a
 Section: Tweaks
-Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼,可添加沙盒目录URL到Documents/AD/ad_rules.txt，ad_settings.plist有日志和抓包开关。其它应用可巨魔注入
+Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面
 Author: z
-Name: NSURL去广告-rootless
+Name: NSURL去广告
 
 Package: org.coolstar.libhooker
 Version: 1.5.2
@@ -1238,38 +1238,6 @@ Section: Tweaks
 Description: 隐藏锁屏音乐控件
 Author: z
 Name: 隐藏锁屏音乐控件
-
-Package: z.qadlog
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/z.qadlog_1.2_iphoneos-arm64.deb
-Size: 9112
-MD5sum: 0a4481646e61de60b280d6343cb04985
-SHA1: f654e0d688ce0bcba4565cb0edc28925f5210964
-SHA256: 769c6dce7b726565b19fb8002b0772c4af6c550b43301d05cd09bc274a44845a
-Section: Tweaks
-Description: NSURL去广告,默认去淘宝开屏
-Author: z
-Name: NSURLqad-rootless
-
-Package: z.qadlog
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/z.qadlog_1.2_iphoneos-arm.deb
-Size: 9142
-MD5sum: e4a061f4d6c9058b84697502d9d99c10
-SHA1: c40110eec3bcfb1adf34120c0e888221e0dad2bd
-SHA256: 3b80227e9f68aae3771e94348c545748af5f2253c9fc0d2765dfdbd38d1443e6
-Section: Tweaks
-Description: NSURL去广告,默认去淘宝开屏
-Author: z
-Name: NSURLqad
 
 Package: z.vinyl
 Version: 1.3.1
