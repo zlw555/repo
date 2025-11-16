@@ -309,6 +309,38 @@ Description: 桌面文件夹背景透明
 Author: z
 Name: 文件夹透明
 
+Package: iphonerelease
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/iphonerelease_1.1_iphoneos-arm64.deb
+Size: 3676
+MD5sum: 98e5d0762e9c809805703c44f7bab589
+SHA1: 8f8b70d27e23d4477cbcb5e6cce39e9d23b8e891
+SHA256: d6b4e341055be8e51a8031d1dfccf6a52973a5ed2e98343f6f98a0ff3ef6c02c
+Section: Tweaks
+Description: 去越狱窗口，以测14.7系统越狱可用
+Author: z
+Name: 农业银行V10.2.1-rootless
+
+Package: iphonerelease
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/iphonerelease_1.1_iphoneos-arm.deb
+Size: 3614
+MD5sum: 54b99e7bd71d10e4e641a5b7d6f7145a
+SHA1: 7b746df1b92ed2440effb5e41908878e3387d5f9
+SHA256: 03bd8084b44585e3b90c46f240cf9b8d5cb289d5b928385b16fecfb3a57dc9a5
+Section: Tweaks
+Description: 去越狱窗口，以测14.7系统越狱可用
+Author: z
+Name: 农业银行V10.2.1
+
 Package: kwyx
 Version: 1.0
 Architecture: iphoneos-arm
@@ -679,17 +711,33 @@ Package: nsurlqadlog
 Version: 1.3.2
 Architecture: iphoneos-arm
 Maintainer: z
-Installed-Size: 304
+Installed-Size: 336
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootful/nsurlqadlog_1.3.2_iphoneos-arm.deb
-Size: 42220
-MD5sum: 6ba86b937e821cb76552e1bd5c78696c
-SHA1: a9217d61a998dd0e56c9fdf37054060714c60a42
-SHA256: b65e2131915e821a5cbd04e5c07ac9675d0e35d2ff8e157db994b3ed5bd8221a
+Size: 50452
+MD5sum: 6f13b705652f80adc9d95f92577c9a02
+SHA1: 82ec53f2dbe5c3a9fa0c9340eed68bf7894c0c4b
+SHA256: ee3dcd55d6b1dd6949be7cf3f77e4d63b9cfd4641de47ca7c6132cdaee473e8d
 Section: Tweaks
 Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面
 Author: z
 Name: NSURL去广告
+
+Package: nsurlqadlog
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/nsurlqadlog_1.3.3_iphoneos-arm64.deb
+Size: 52414
+MD5sum: 3c4203bb0f0b71f101cb7c829a5c3929
+SHA1: 2fa61c741906b5a68ecd032f186ea193fb2abc53
+SHA256: f6613a62668431d79ff63b153b33b97fed2963666bc43989fc5d514a9e1405cd
+Section: Tweaks
+Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面
+Author: z
+Name: NSURL去广告-rootless
 
 Package: org.coolstar.libhooker
 Version: 1.5.2
