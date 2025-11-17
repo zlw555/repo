@@ -316,14 +316,30 @@ Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/rootless/iphonerelease_1.1_iphoneos-arm64.deb
-Size: 3676
-MD5sum: 98e5d0762e9c809805703c44f7bab589
-SHA1: 8f8b70d27e23d4477cbcb5e6cce39e9d23b8e891
-SHA256: d6b4e341055be8e51a8031d1dfccf6a52973a5ed2e98343f6f98a0ff3ef6c02c
+Size: 3688
+MD5sum: bd397a754bd7282d03c255f82245c99c
+SHA1: eed0f692786bd6bf722f84cabee40815ad238b7a
+SHA256: 48c56c7233ddd1b44a31f00090de2facb5a46a596f3fa5a7699e0142049654fa
 Section: Tweaks
-Description: 去越狱窗口，以测14.7系统越狱可用
+Description: 去越狱窗口，以测14.7系统越狱可用,不支持巨魔
 Author: z
 Name: 农业银行V10.2.1-rootless
+
+Package: iphonerelease
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/roothide/iphonerelease_1.1_iphoneos-arm64e.deb
+Size: 3652
+MD5sum: a8b38ab5024fc871af86ba5f0f44a8a8
+SHA1: 10ce33c6b8d6bfdc8985a900448153d0cd3c171a
+SHA256: e3d6ea341f07def643b48e80d23c0005f13f613598db6dc13ceb9b6e798426b2
+Section: Tweaks
+Description: 去越狱窗口，以测14.7系统越狱可用,不支持巨魔
+Author: z
+Name: 农业银行V10.2.1-roothide
 
 Package: iphonerelease
 Version: 1.1
@@ -332,12 +348,12 @@ Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/rootful/iphonerelease_1.1_iphoneos-arm.deb
-Size: 3614
-MD5sum: 54b99e7bd71d10e4e641a5b7d6f7145a
-SHA1: 7b746df1b92ed2440effb5e41908878e3387d5f9
-SHA256: 03bd8084b44585e3b90c46f240cf9b8d5cb289d5b928385b16fecfb3a57dc9a5
+Size: 3070
+MD5sum: ae12f2921428f67e30e6530f31cb4a76
+SHA1: d15c23b8a077acc03592bc6a195faeeb5494edad
+SHA256: 485ba812c8360bbc3f6dbc12bdf0ec96a269236fc1ef88b91d97c7424060e21d
 Section: Tweaks
-Description: 去越狱窗口，以测14.7系统越狱可用
+Description: 去越狱窗口，以测14.7系统越狱可用,不支持巨魔
 Author: z
 Name: 农业银行V10.2.1
 
@@ -714,14 +730,14 @@ Maintainer: z
 Installed-Size: 336
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootful/nsurlqadlog_1.3.2_iphoneos-arm.deb
-Size: 50452
-MD5sum: 6f13b705652f80adc9d95f92577c9a02
-SHA1: 82ec53f2dbe5c3a9fa0c9340eed68bf7894c0c4b
-SHA256: ee3dcd55d6b1dd6949be7cf3f77e4d63b9cfd4641de47ca7c6132cdaee473e8d
+Size: 49798
+MD5sum: 4b378c764dcbdefd1a2818874a4b4912
+SHA1: 7d3de325613a680948d6f481bcffbc28a4fc5137
+SHA256: 9fbf9cd6376976f51b01181865fa03ffd9945d729180e09728e2ab3963d883e3
 Section: Tweaks
 Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面
 Author: z
-Name: NSURL去广告
+Name: NSURL去广告-rootless
 
 Package: nsurlqadlog
 Version: 1.3.3
@@ -730,14 +746,30 @@ Maintainer: z
 Installed-Size: 336
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/nsurlqadlog_1.3.3_iphoneos-arm64.deb
-Size: 52414
-MD5sum: 3c4203bb0f0b71f101cb7c829a5c3929
-SHA1: 2fa61c741906b5a68ecd032f186ea193fb2abc53
-SHA256: f6613a62668431d79ff63b153b33b97fed2963666bc43989fc5d514a9e1405cd
+Size: 51588
+MD5sum: 59a9af32524c79e366790d839f1333f7
+SHA1: b3b6696be32383b3e5239b793f10bea83eda12f3
+SHA256: cf0970a515a27dd37e0930eb9230f488e2fb4cdadc05dc68a8d4fe3b83749c75
 Section: Tweaks
 Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面
 Author: z
 Name: NSURL去广告-rootless
+
+Package: nsurlqadlog
+Version: 1.3.3
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/nsurlqadlog_1.3.3_iphoneos-arm64e.deb
+Size: 51694
+MD5sum: 016f3f0965da54a0ea97659c4675ce4c
+SHA1: 392e637a557d1d57a982a12b6bf7ce7f375e60b2
+SHA256: 7fb10cc498245435afa8d64466a06f15e1284b744dc2f168c3da2995b83d3aeb
+Section: Tweaks
+Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面
+Author: z
+Name: NSURL去广告-roothide
 
 Package: org.coolstar.libhooker
 Version: 1.5.2
@@ -882,22 +914,6 @@ Author: poqw312
 Name: 禁用通知中心下拉手势
 
 Package: taobao
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/taobao_1.0_iphoneos-arm64.deb
-Size: 3404
-MD5sum: 1a193a40b0e16b39450f74d63470f5b7
-SHA1: 428861201d59e7f8e8e57ada40e878618e54420f
-SHA256: 69f01bab1f2191ad6149b57d64c641fd4b3eb63d1d27af20fc9f4d089dbfef3f
-Section: Tweaks
-Description: 淘宝10.53.0去启动广告
-Author: z
-Name: 淘宝-rootless
-
-Package: taobao
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: z
@@ -933,13 +949,13 @@ Package: tingliteqad
 Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: x
-Installed-Size: 72
+Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/rootless/tingliteqad_1.2_iphoneos-arm64.deb
-Size: 3556
-MD5sum: 90a295d13b6f98ce3ad6c122d3516bb5
-SHA1: bbe9de10b52e059182d155d063f57bb5edb1ca67
-SHA256: 2f21503ab3c60f3ad8cecba984076353f09c7f4de63c6432513d266802b972f9
+Size: 4790
+MD5sum: 94cb21f569af6aa47cd04abe9bc00f7f
+SHA1: 665f2cea4566e95a7d651a664b478c133c0bd499
+SHA256: c3531a2c6f4f936e5ffff5c33efe7b2439fa732a25094ec349c73002197225c5
 Section: Tweaks
 Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
 Author: z
@@ -947,15 +963,31 @@ Name: 喜马拉雅极速版去后台启动-rootless
 
 Package: tingliteqad
 Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: x
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/roothide/tingliteqad_1.2_iphoneos-arm64e.deb
+Size: 4750
+MD5sum: 7018fc02c1e7c04ca82dfe766dec6d78
+SHA1: 19d6a79952785578bb7ddbedca2400e15776e24b
+SHA256: ec19ce7363dc7465fc1394b4a61788d8c7664cdf591abbd92d4dad65d3fa94e7
+Section: Tweaks
+Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
+Author: z
+Name: 喜马拉雅极速版去后台启动-roothide
+
+Package: tingliteqad
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: x
-Installed-Size: 72
+Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/rootful/tingliteqad_1.2_iphoneos-arm.deb
-Size: 3488
-MD5sum: d7d39afe79ba10a55b4ca9ec89c28874
-SHA1: c7c836edc1ff5da4987826cc36ec2255953294e1
-SHA256: 26308a76c6f36ac4b615a1907a5b0af71a4909db89bdbbe4dd44f5999b774867
+Size: 4728
+MD5sum: 9d7cc2a657712369f305b8c8c87bedc4
+SHA1: 3997c936d7be6f8cd63c1fa3efe916509e74cc3a
+SHA256: 3227b1df2821130ba4e7f85e34bd96bafeeaa1a8edc25a6987bde2825a2994c0
 Section: Tweaks
 Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
 Author: z
@@ -1160,22 +1192,6 @@ Author: zlw555
 Name: xhome-rootless
 
 Package: ximalaya
-Version: 2.7.5
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/ximalaya_2.7.5_iphoneos-arm64.deb
-Size: 3832
-MD5sum: 02e504b700617daa00d340ea04fd8f2f
-SHA1: f1f0c4fd6ad66059af07281d2ff934161c2f2275
-SHA256: 3cf53a2a3e8de98232d569607236ed467883d4789bad4daf72572ccf675fd400
-Section: Tweaks
-Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
-Author: z
-Name: 喜马拉雅优化
-
-Package: ximalaya
 Version: 2.7.6
 Architecture: iphoneos-arm
 Maintainer: z
@@ -1193,19 +1209,19 @@ Name: 喜马拉雅优化
 
 Package: ximalaya
 Version: 2.8
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: z
-Installed-Size: 88
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/rootless/ximalaya_2.8_iphoneos-arm64.deb
-Size: 3960
-MD5sum: ac43274e8b932021d847d3d77c2bbc19
-SHA1: ef19820ab6ccbc18f4fcf02f6fdd73a344811d5e
-SHA256: 2e6051d4e297385acc34661eb4476c4a127649a35d6cf1fcb4a51092117837b7
+Filename: ./debs/roothide/ximalaya_2.8_iphoneos-arm64e.deb
+Size: 5090
+MD5sum: 6517de99ff423095812b238fa15b0691
+SHA1: 40b0d79586ca8b49c2f86dd90415b8cd83f81a0f
+SHA256: d0d602f2b67764846c25e2ef0015dc93f7073372c7f87ff3d26a1b256ec4bfba
 Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
-Name: 喜马拉雅优化-rootless
+Name: 喜马拉雅优化-roothide
 
 Package: ximalaya
 Version: 2.8
@@ -1214,10 +1230,10 @@ Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/rootful/ximalaya_2.8_iphoneos-arm.deb
-Size: 5046
-MD5sum: 605c1f275b5df0feba8e52205e010914
-SHA1: 901c1a4a6c7dbd6db19efb78ffaafbd45137716e
-SHA256: 5939feb907dde6db5406021aff630385c8d1822a79719d9d86ae9b58bf247bda
+Size: 5056
+MD5sum: 0edce9e1f8ba94e100e4a43956234ad4
+SHA1: 33198f7cbfc1172ec4a3aa44383c695923017811
+SHA256: ea54235fb4700cc5eb8cbea117f508e68286668f67fac5f66fb3ce04229cfe2e
 Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
@@ -1287,6 +1303,54 @@ Description: 隐藏锁屏音乐控件
 Author: z
 Name: 隐藏锁屏音乐控件
 
+Package: z.qadlite
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: z规则文件
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/z.qadlite_1.2_iphoneos-arm64.deb
+Size: 7136
+MD5sum: 2341751267037f8e70522d14f34eddb5
+SHA1: 3f576acede337657e66e098c38c8268af9c76f48
+SHA256: ba47dcdb597b368b57bebd636288f99af7538e47cde54dae060462bfb698565d
+Section: Tweaks
+Description: 精简版应该更省电吧，和NSURL去广告版功能重复,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，可用NSURL去广告版版设置好规则后后，换成精简版，规则文件是共用的。也可以用filza手动编辑沙盒文件/Documents/AD/ad_rules.txt
+Author: z
+Name: NSURL去广告精简版-rootless
+
+Package: z.qadlite
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: z规则文件
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/z.qadlite_1.2_iphoneos-arm.deb
+Size: 7122
+MD5sum: 911accfe3d1258fcf9efa79b978072cc
+SHA1: 4e5db9ede062e8627df00e5aaafe4a8269fde354
+SHA256: 4b1850cab52d2285975e80b6d0ce884a197810efa5d665760f254c5dd848183d
+Section: Tweaks
+Description: 精简版应该更省电吧，和NSURL去广告版功能重复,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，可用NSURL去广告版版设置好规则后后，换成精简版，规则文件是共用的。也可以用filza手动编辑沙盒文件/Documents/AD/ad_rules.txt
+Author: z
+Name: NSURL去广告精简版
+
+Package: z.qadlite
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: z规则文件
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootful/z.qadlite_1.2_iphoneos-arm64e.deb
+Size: 7060
+MD5sum: 3e2a360194a9422498007dc564e7ab1e
+SHA1: 595af2499f8e24a3ba1c7f323abc4b902e68d508
+SHA256: 3a932b85332e5765028557fe026229fa604b5e0053f9a31d804c6adf85afbaa7
+Section: Tweaks
+Description: 精简版应该更省电吧，和NSURL去广告版功能重复,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，可用NSURL去广告版版设置好规则后后，换成精简版，规则文件是共用的。也可以用filza手动编辑沙盒文件/Documents/AD/ad_rules.txt
+Author: z
+Name: NSURL去广告精简版-roothide
+
 Package: z.vinyl
 Version: 1.3.1
 Architecture: iphoneos-arm64e
@@ -1311,14 +1375,30 @@ Maintainer: z
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/rootless/z.weifeng_1.5_iphoneos-arm64.deb
-Size: 4522
-MD5sum: 1b23c81c619a5686834696151cf17e69
-SHA1: cf9fbe0426ced2c78d629f37b6a5e5324f61d31a
-SHA256: 2878821be65018fd5c940293383348175e8db7f6a546a363236dade1414cab37
+Size: 3876
+MD5sum: 2affe47c938ba7d0ee0a55a8395ca462
+SHA1: 65b198201e45f657c32f0e2d98e968ca4ae95151
+SHA256: 1dc636da7f50e19c5af46136cb3bf36fb589f9be069ccb55278867093a1d7b52
 Section: Tweaks
 Description: 威锋7.0.8去广告
 Author: z
 Name: 威锋-rootlee
+
+Package: z.weifeng
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/roothide/z.weifeng_1.5_iphoneos-arm64e.deb
+Size: 3830
+MD5sum: e451617f2da6d38ef6a8df1ec89ab80b
+SHA1: 12c6cdf93d69fb8b7f2d0dcfaa17f9e5ddfecb0b
+SHA256: 4800fd4a8479acc8b2d05aafba156b0b9d4d478560b50c5fe1e45df2db5a70b2
+Section: Tweaks
+Description: 威锋7.0.8去广告
+Author: z
+Name: 威锋-roothide
 
 Package: z.weifeng
 Version: 1.5
@@ -1327,14 +1407,62 @@ Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/rootful/z.weifeng_1.5_iphoneos-arm.deb
-Size: 4130
-MD5sum: 3cbaa2bd4d9f8da330dfa1c07a4e8a9f
-SHA1: 11559f5193d930dd64d9c78b1009a4a8d52ac4be
-SHA256: d1c42c7464f59dd2ece644419b1026305b81896e8beb28cc7e126a6aa547f16e
+Size: 3506
+MD5sum: 8bf0d18ac70d028f59ff18a6ab756d69
+SHA1: 72fc11442f92e5c18739645f5e0ef2ecb5d725eb
+SHA256: 51cfc89f8e70678a1522307026c31b636e81861c6160f79918a458031323d212
 Section: Tweaks
 Description: 威锋7.0.8去广告
 Author: z
 Name: 威锋
+
+Package: z.ximalaya
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/rootless/z.ximalaya_2.8_iphoneos-arm64.deb
+Size: 3962
+MD5sum: cf2938e10564469c178f7e162e01aa7b
+SHA1: eac16257b9506450b7faa39d1cdf5e288e626668
+SHA256: dfe6dfef4f552fbbe9a88a7e1fb9748d4e80ee14f2a467dd228356775db3a502
+Section: Tweaks
+Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Author: z
+Name: 喜马拉雅优化-rootless
+
+Package: z.ximalaya
+Version: 2.8
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/roothide/z.ximalaya_2.8_iphoneos-arm64e.deb
+Size: 5080
+MD5sum: b036e0674d08cb2addcc46780e72c4e6
+SHA1: 6b39769e7b9ff44de5c790d854a7f12292814aee
+SHA256: fb50d51eedd50fb7fc52d833b6305d20aecc18c66b52b39e7b007243ab043995
+Section: Tweaks
+Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Author: z
+Name: 喜马拉雅优化-roothide
+
+Package: z.ximalaya
+Version: 2.8
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/z.ximalaya_2.8_iphoneos-arm.deb
+Size: 5056
+MD5sum: a80ed06975e6e31854d8e406a23eb233
+SHA1: 474a9c9495e05644c79593ffed1dbf0830f82196
+SHA256: 443ac3298afcb0c5e3887f3364942bd4d2834cea756a5577b09f988794f2b2da
+Section: Tweaks
+Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Author: z
+Name: 喜马拉雅优化
 
 Package: zgyh
 Version: 1.1
@@ -1367,38 +1495,6 @@ Section: Tweaks
 Description: 插件入口在设置里，更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
 Author: z
 Name: bismih微信
-
-Package: zlw.wechat
-Version: 1.3.3
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 156
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/WeChatHookLite_1.3.3_iphoneos-arm64.deb
-Size: 10372
-MD5sum: b19a035a82cff678e27058bcb276c817
-SHA1: b5b675fcde24816bc686d6c636445eaa31d2d34d
-SHA256: 7f129b7576bcd9444a606acb7675885b198a549b3117a59e29626531c344944e
-Section: Tweaks
-Description: 更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效
-Author: z
-Name: WeChatHookLite-rootless
-
-Package: zlw.wechat
-Version: 1.8
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 172
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/WeChatHookLite_1.8_iphoneos-arm64.deb
-Size: 14804
-MD5sum: d00c4c869d6fed41b507397c8017fcb1
-SHA1: d1ea1a9b3b2b2f236eab3e977fbd9afefee17b1e
-SHA256: 9e5da6063d8a29e0dee8ea2f103c944d5329fa2e7f53522ecb5812b93d446000
-Section: Tweaks
-Description: 更新去除订阅列表广告，去除订阅列表视频广告，去除朋友圈广告，公众号文章广告。小程序提示要升级微信的，可修改微信版本号为8.0.49，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。
-Author: z
-Name: WeChatHookLite-rootless
 
 Package: zydf.tetherme8
 Version: 1.2.3~arm64e-1
