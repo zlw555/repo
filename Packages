@@ -1310,14 +1310,30 @@ Maintainer: z规则文件
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/z.qadlite_1.2_iphoneos-arm64.deb
-Size: 7136
-MD5sum: 2341751267037f8e70522d14f34eddb5
-SHA1: 3f576acede337657e66e098c38c8268af9c76f48
-SHA256: ba47dcdb597b368b57bebd636288f99af7538e47cde54dae060462bfb698565d
+Size: 8764
+MD5sum: c153cf0e66cd27b972a33caec309c885
+SHA1: 73f597022564a5b137693db98e2ad11e88cbe04a
+SHA256: 3596f9261f06b3d216b4b7d6c0a9dfcf8e04057e8fb442be0f559c37a18559f2
 Section: Tweaks
 Description: 精简版应该更省电吧，和NSURL去广告版功能重复,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，可用NSURL去广告版版设置好规则后后，换成精简版，规则文件是共用的。也可以用filza手动编辑沙盒文件/Documents/AD/ad_rules.txt
 Author: z
 Name: NSURL去广告精简版-rootless
+
+Package: z.qadlite
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: z规则文件
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/roothide/z.qadlite_1.2_iphoneos-arm64e.deb
+Size: 8862
+MD5sum: 18886133626606951ee5ff773158cc15
+SHA1: e9e6b119b60e33322adda5498a3e8319897c935b
+SHA256: 98c0ccfba90f85f0835e478a7f32f74eb2ac2c91063e750cb55f5210430dc3ce
+Section: Tweaks
+Description: 精简版应该更省电吧，和NSURL去广告版功能重复,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，可用NSURL去广告版版设置好规则后后，换成精简版，规则文件是共用的。也可以用filza手动编辑沙盒文件/Documents/AD/ad_rules.txt
+Author: z
+Name: NSURL去广告精简版-roothide
 
 Package: z.qadlite
 Version: 1.2
@@ -1326,10 +1342,10 @@ Maintainer: z规则文件
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootful/z.qadlite_1.2_iphoneos-arm.deb
-Size: 7122
-MD5sum: 911accfe3d1258fcf9efa79b978072cc
-SHA1: 4e5db9ede062e8627df00e5aaafe4a8269fde354
-SHA256: 4b1850cab52d2285975e80b6d0ce884a197810efa5d665760f254c5dd848183d
+Size: 8830
+MD5sum: aa7ec32165851e132c96d5702e483360
+SHA1: 89a8afb2753e3e902d91bfa802e7246dd563f28c
+SHA256: e2b0c5a8492450599a6bf9cb7b0d7f97e7925875d25d6a413afe597b35e19ec5
 Section: Tweaks
 Description: 精简版应该更省电吧，和NSURL去广告版功能重复,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，可用NSURL去广告版版设置好规则后后，换成精简版，规则文件是共用的。也可以用filza手动编辑沙盒文件/Documents/AD/ad_rules.txt
 Author: z
