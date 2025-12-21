@@ -58,6 +58,17 @@
       "screenshots": []
     },
     {
+      "name": "微信推送显示头像",
+      "version": "1.1",
+      "description": "为此给8.0.63-8.0.66的用户在设置中增加一个小开关实现推送显示头像",
+      "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/tencent.png",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/downloads/WCAddNotiHeadImgSwitch.zip",
+      "section": "Tweaks",
+      "size": "3kb",
+      "author": "zlw555",
+      "screenshots": []
+    },
+    {
       "name": "香色闺阁",
       "version": "2.55.2",
       "description": "香色闺阁",
@@ -150,7 +161,7 @@
       "version": "1.0",
       "description": "NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面",
       "icon_url": "https://raw.githubusercontent.com/zlw555/thoes/master/icons/bedtimefan.png",
-      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/downloads/nsurlqadlog_1.3.2_iphoneos-arm.deb",
+      "dylib": "https://raw.githubusercontent.com/zlw555/repo/master/debs/rootful/nsurlqadlog_1.3.2_iphoneos-arm.deb",
       "section": "deb",
       "size": "152kB",
       "author": "z",

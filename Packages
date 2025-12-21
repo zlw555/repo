@@ -162,6 +162,22 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
+Package: com.netskao.wcaddnotiheadimgswitch
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 944
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/rootless/com.netskao.wcaddnotiheadimgswitch_1.1-2_iphoneos-arm64.deb
+Size: 468760
+MD5sum: 4ded39f1a1139fdc99796bd941c6d1b2
+SHA1: d9b69ad0e945093be15740b3466077d0db9b61a1
+SHA256: e78c7e3e68a9d46ad8f7cdb656848ab62ed6b331dbb52126e5fdee8c622529a7
+Section: Netskao-Tweaks
+Description: WeChat Add Notification HeadImg Switch, Supports versions 8.0.63 - 8.0.66
+Author: Netskao
+Name: WCAddNotiHeadImgSwitch
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-4
 Architecture: iphoneos-arm64
