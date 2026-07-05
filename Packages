@@ -1325,18 +1325,18 @@ Name: 旧版微信登陆
 Package: z.trolllock
 Version: 1.0.5
 Architecture: iphoneos-arm64e
-Maintainer: Nathan
+Maintainer: 自动亮度调节
 Installed-Size: 264
 Depends: mobilesubstrate
 Filename: ./debs/rootless/z.trolllock_1.0.5_iphoneos-arm64e.deb
-Size: 37102
-MD5sum: a88e00fabb17100bad180ae91d8b617a
-SHA1: d6993056dac21190b55d0162144a774dfd497f32
-SHA256: a1fd578e4ffddc68c181e3791085e17699caade73d161da1d9c3351fe4a3742c
+Size: 37120
+MD5sum: dc024268f0dfc53963ab79c1278df476
+SHA1: 5384b8efb681d6d3b6fba22bb56129c45e99461b
+SHA256: 677411c36e4ac5eb3b065db54eb2f9997c6a28b7a1e75a884d6b6c5410cdd86e
 Section: Tweaks
 Priority: optional
 Description: win10笑脸锁头，图标目录在jboot/var/mobile/TrollLock//trollformation.bundle/trollformation.ca/assets
-Name: win10笑脸锁头-roothide
+Name: 笑脸锁头-roothide
 
 Package: z.vinyl
 Version: 1.3.1
