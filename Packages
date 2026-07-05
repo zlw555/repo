@@ -1329,10 +1329,10 @@ Maintainer: Nathan
 Installed-Size: 264
 Depends: mobilesubstrate
 Filename: ./debs/rootless/z.trolllock_1.0.5_iphoneos-arm64e.deb
-Size: 37096
-MD5sum: c4b84e99d1e8d56078ac3f9ecd39869a
-SHA1: 4235a5e62b9c90ca70f6c205f89ec50cae684d90
-SHA256: e3ae2d132b9103a00d7560ab01f3fab6e8dbe3c34971a50f0f07bb677255af0f
+Size: 37102
+MD5sum: a88e00fabb17100bad180ae91d8b617a
+SHA1: d6993056dac21190b55d0162144a774dfd497f32
+SHA256: a1fd578e4ffddc68c181e3791085e17699caade73d161da1d9c3351fe4a3742c
 Section: Tweaks
 Priority: optional
 Description: win10笑脸锁头，图标目录在jboot/var/mobile/TrollLock//trollformation.bundle/trollformation.ca/assets
