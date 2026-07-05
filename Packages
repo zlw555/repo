@@ -146,6 +146,22 @@ Priority: optional
 Description: 图标目录在/var/jb/var/mobile/TrollLock//trollformation.bundle/trollformation.ca/assets
 Name: 巨魔锁
 
+Package: com.nathan.trolllock
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debs/roothide/com.nathan.trolllock_1.0.5_iphoneos-arm64e.deb
+Size: 37102
+MD5sum: ff62c01997a7154c2287d47e4a09910f
+SHA1: d5dfdfb87e086076a73cf9b376b15d5c7bb1c710
+SHA256: a0d0d03aad73c3c08a5cdaf3f176c5393b0d86976eb741f4ea47cce9667e435d
+Section: Tweaks
+Priority: optional
+Description: win10笑脸锁头，图标目录在jboot/var/mobile/TrollLock//trollformation.bundle/trollformation.ca/assets
+Name: win10笑脸锁头-roothide
+
 Package: com.netskao.appdata
 Version: 1.4.1
 Architecture: iphoneos-arm64
