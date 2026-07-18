@@ -184,6 +184,54 @@ Description: 桌面文件夹背景透明
 Author: z
 Name: 文件夹透明
 
+Package: homex
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/HomeGesture_1.1_iphoneos-arm64.deb
+Size: 2996
+MD5sum: 20c1bcb3f83fb25ae471911719d80e2e
+SHA1: 8a28ad503298e33a2787ff067b49151acb4eeeb4
+SHA256: f0f79001f0ca467c444e1a4c5f66251060aa60d75270345de42bfa174ef0e1d1
+Section: Tweaks
+Description: x手势
+Author: z
+Name: HomeGesture-rootless
+
+Package: homex
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/roothide/homex_1.1_iphoneos-arm64e.deb
+Size: 2946
+MD5sum: 0efe0164073ae1721a4e254c07a3dec0
+SHA1: 83847ff1fcc969cee33bdd4f127ec8f2dd95196a
+SHA256: befab100c5d852580eb606b1a7c2a0c7ac5bf7e734a3dc0838489f75968b7d40
+Section: Tweaks
+Description: x手势
+Author: z
+Name: HomeGesture-roothide
+
+Package: homez
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/rootful/xhome_1.5_iphoneos-arm.deb
+Size: 3256
+MD5sum: 55400b95674fb2684c1e58a84f9762e1
+SHA1: 7c1876aacde7d38bc6d458e91f531e5a2e1680f9
+SHA256: ca61156cfd31e12b385a61ab9d65e61a5bcd16b2d122ec9db9f1beab9bc84014
+Section: Tweaks
+Description: 自用x手势,只支持arm64设备
+Author: z
+Name: HomeGesture
+
 Package: kwyx
 Version: 1.0
 Architecture: iphoneos-arm
@@ -880,21 +928,21 @@ Description: 微信聊天界面抬高
 Author: z
 Name: 微信聊天界面抬高
 
-Package: xhome15
-Version: 1.5.3
+Package: xhome
+Version: 1.5
 Architecture: iphoneos-arm64
-Maintainer: zlw555
+Maintainer: z
 Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/xhome15_1.5.3_iphoneos-arm64.deb
-Size: 2450
-MD5sum: d66d85c6682f4b33a34e38c548613e85
-SHA1: b8df97da8c9af40bb80a76e8d142063191ca11c2
-SHA256: 630d00df1b6dbcfc0c5d2bfab613ef5546709197497d154bb7081a84e30d47da
+Depends: mobilesubstrate
+Filename: ./debs/rootless/xhome_1.5_iphoneos-arm64.deb
+Size: 3318
+MD5sum: c821900a545e733daa364bda67793542
+SHA1: dc673a5cd96852f70849f9e5c54e7a28cd4e23a6
+SHA256: fa29993bd51676d7ad21447616d9d6a805981597b5626b77b454c0252f928a95
 Section: Tweaks
-Description: ios15手势
-Author: zlw555
-Name: xhome-rootless
+Description: 自用x手势,只支持arm64设备
+Author: z
+Name: HomeGesture-rootless
 
 Package: ximalaya
 Version: 2.8
