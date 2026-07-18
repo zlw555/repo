@@ -20,7 +20,7 @@ Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 88
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/rootless/autofolderclose_1.0-1_iphoneos-arm64e.deb
+Filename: ./debs/roothide/autofolderclose_1.0-1_iphoneos-arm64e.deb
 Size: 2648
 MD5sum: 1ccb38a49b4a863793e4bf05b7878c09
 SHA1: 7337dd0225b2050a7e7e098108148f895f7ecdb9
@@ -29,54 +29,6 @@ Section: Tweaks
 Description: 自动关闭文件夹
 Author: z
 Name: 自动关闭文件夹
-
-Package: bottomelevation
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 88
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/底部高度_1.1_iphoneos-arm64.deb
-Size: 2322
-MD5sum: 05661c217be77f70af2aff026d4e9115
-SHA1: 7459d1be84cd71dfced6dfc263823c4d71ae5e39
-SHA256: 870539c436fa3a1a885c0a227b39c30cb2e75b2a7f02e418ad2d13c54768923f
-Section: Tweaks
-Description: 底部高度
-Author: z
-Name: 底部高度
-
-Package: bottomheightz
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 188
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/底部抬高_1.0_iphoneos-arm64.deb
-Size: 8832
-MD5sum: 0314bd0ffd6ffd37e10e9bb2a0ccdc2f
-SHA1: 3af74b5c24294198f8e5e024fe8464f02b9997d4
-SHA256: 759b6efc60908c4b5264b096c7e04e984053084f25af43a4640f97c24df901bd
-Section: Tweaks
-Description: 底部抬高
-Author: z
-Name: 设置底部高度
-
-Package: bottomheightz
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 188
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/抬高_1.2_iphoneos-arm64.deb
-Size: 8874
-MD5sum: 596f993003729bb0564ea4363b66d768
-SHA1: 53b864426377e7d1d0731eeeeb914b32d6271050
-SHA256: a6f7bec620cafc71637b4a94a7fca0cab0183fa3b642644d519bef3cebfcb72c
-Section: Tweaks
-Description: 底部抬高
-Author: z
-Name: 设置底部高度
 
 Package: callshidevoicemailios
 Version: 1.0
@@ -146,22 +98,6 @@ Priority: optional
 Description: 图标目录在/var/jb/var/mobile/TrollLock//trollformation.bundle/trollformation.ca/assets
 Name: 巨魔锁
 
-Package: com.netskao.appdata
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 14408
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/rootless/com.netskao.appdata_1.4.1_iphoneos-arm64.deb
-Size: 4637852
-MD5sum: 7c02190692158746803f6ccb3a10a708
-SHA1: 27458e206f55e2c25e7394d5848e0ea709bf288c
-SHA256: ba8a51c489687cd2b0b0528b17cc3a9ca8927d513f20b207bde69c720a8f5be8
-Section: Netskao-Tweaks
-Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
-Author: Fouad Raheb
-Name: AppData
-
 Package: com.netskao.wcaddnotiheadimgswitch
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -202,7 +138,7 @@ Architecture: iphoneos-arm64e
 Maintainer: udevs
 Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/vpnindicator_1.1.8_iphoneos-arm64e.deb
+Filename: ./debs/roothide/vpnindicator_1.1.8_iphoneos-arm64e.deb
 Size: 8018
 MD5sum: 373aaefbdee52e7e9740c85b4c54a34a
 SHA1: bbbe299c7d8acc475ff66b22f18ff59d4e2a8765
@@ -230,22 +166,6 @@ Description: 屏蔽更换配件后设置和关于本机里面的重要提醒
 Author: z
 Name: 屏蔽设置重要提醒
 
-Package: docktm
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: zlw555
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/Dock透明_1.0_iphoneos-arm64.deb
-Size: 3178
-MD5sum: 74ac0b2b83032afe1aa8df00f6e063d0
-SHA1: 9e730fe5ff4b9b9502978ed1924039cf054d1c1e
-SHA256: ef98d3f9913c38c62c75655ecdf3ca253b9887bc0d23690140afeb54fe994e78
-Section: Tweaks
-Description: Dock透明+无翻页点
-Author: zlw555
-Name: Dock透明
-
 Package: foldertm
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -264,37 +184,21 @@ Description: 桌面文件夹背景透明
 Author: z
 Name: 文件夹透明
 
-Package: iphonerelease
-Version: 1.1
-Architecture: iphoneos-arm64
+Package: kwyx
+Version: 1.0
+Architecture: iphoneos-arm
 Maintainer: z
-Installed-Size: 168
+Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./debs/rootless/iphonerelease_1.1_iphoneos-arm64.deb
-Size: 3688
-MD5sum: bd397a754bd7282d03c255f82245c99c
-SHA1: eed0f692786bd6bf722f84cabee40815ad238b7a
-SHA256: 48c56c7233ddd1b44a31f00090de2facb5a46a596f3fa5a7699e0142049654fa
+Filename: ./debs/rootful/kwyx_1.0_iphoneos-arm.deb
+Size: 3096
+MD5sum: c2ec9c315d801359d7ea8685b1cc9eef
+SHA1: 95c5cba585d1376f939f999bf181cf526e3cf07e
+SHA256: ccf8749b685ea218ace7557ff3b7fb472ad77df0499193953ba2c1b44299b89a
 Section: Tweaks
-Description: 去越狱窗口，以测14.7系统越狱可用,不支持巨魔
+Description: 酷我音乐去启动、去后台启动广告
 Author: z
-Name: 农业银行V10.2.1-rootless
-
-Package: iphonerelease
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/iphonerelease_1.1_iphoneos-arm64e.deb
-Size: 3652
-MD5sum: a8b38ab5024fc871af86ba5f0f44a8a8
-SHA1: 10ce33c6b8d6bfdc8985a900448153d0cd3c171a
-SHA256: e3d6ea341f07def643b48e80d23c0005f13f613598db6dc13ceb9b6e798426b2
-Section: Tweaks
-Description: 去越狱窗口，以测14.7系统越狱可用,不支持巨魔
-Author: z
-Name: 农业银行V10.2.1-roothide
+Name: 酷我音乐
 
 Package: latchkey
 Version: 2.2
@@ -578,58 +482,6 @@ Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpow
 Name: NoLowPowerMode30SecAutoLock
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
 
-Package: nolowpowermode30secautolock
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Brend0n
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/nolowpowermode30secautolock_1.0_iphoneos-arm64.deb
-Size: 3978
-MD5sum: 6d48f6f737b6705bdf5e08cd9a67b1a6
-SHA1: 8ab98dc48315fcd9f4ef20b97340e6195fc3c9d4
-SHA256: d3f6a1ff7841905dff6daee7bf63c77b0e08b6836efb981c5f79563cc55ecd2a
-Section: Tweaks
-Description: 在低功耗模式下本地调整自动锁定间隔.
-Author: Brend0n
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpowermode30secautolock
-Name: NoLowPowerMode30SecAutoLock
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
-
-Package: nolowpowermode30secautolock
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/rootless/nolowpowermode30secautolock_1.0_iphoneos-arm64e.deb
-Size: 4284
-MD5sum: 39a25ed46c6dc6d9dae025a2f28772a7
-SHA1: cd806904e6610ebce976052eb8374224c23762d1
-SHA256: 71f21fdf53f2674d26ee9bf57bfdf8f718e9e4674cd90bf7d867eea2ee4495c8
-Section: Tweaks
-Description: 在低功耗模式下本地调整自动锁定间隔.
-Author: Brend0n
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.nolowpowermode30secautolock
-Name: NoLowPowerMode30SecAutoLock
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.nolowpowermode30secautolock/depiction.json
-
-Package: nsurlqadlog
-Version: 1.3.2
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 304
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/nsurlqadlog_1.3.2_iphoneos-arm64.deb
-Size: 44310
-MD5sum: 430b87a6b097799f017ab8087d7e0312
-SHA1: 676643e1ae7e362cacb43c36db3fb8ecdb7a9ab1
-SHA256: 01736728db44222d8c8139ad80b43a1041e2dd4fae05f1e757ec0e0d0369f40b
-Section: Tweaks
-Description: NSURL去广告,默认去淘宝开屏、威锋、闲鱼。其它应用可巨魔注入，三指长按打开设置页面
-Author: z
-Name: NSURL去广告-rootless
-
 Package: nsurlqadlog
 Version: 1.3.2
 Architecture: iphoneos-arm
@@ -668,7 +520,7 @@ Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 336
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/nsurlqadlog_1.3.3_iphoneos-arm64e.deb
+Filename: ./debs/roothide/nsurlqadlog_1.3.3_iphoneos-arm64e.deb
 Size: 51694
 MD5sum: 016f3f0965da54a0ea97659c4675ce4c
 SHA1: 392e637a557d1d57a982a12b6bf7ce7f375e60b2
@@ -854,27 +706,11 @@ Name: 淘宝
 
 Package: tingliteqad
 Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: x
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/rootless/tingliteqad_1.2_iphoneos-arm64.deb
-Size: 4790
-MD5sum: 94cb21f569af6aa47cd04abe9bc00f7f
-SHA1: 665f2cea4566e95a7d651a664b478c133c0bd499
-SHA256: c3531a2c6f4f936e5ffff5c33efe7b2439fa732a25094ec349c73002197225c5
-Section: Tweaks
-Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
-Author: z
-Name: 喜马拉雅极速版去后台启动-rootless
-
-Package: tingliteqad
-Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: x
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/rootless/tingliteqad_1.2_iphoneos-arm64e.deb
+Filename: ./debs/roothide/tingliteqad_1.2_iphoneos-arm64e.deb
 Size: 4750
 MD5sum: 7018fc02c1e7c04ca82dfe766dec6d78
 SHA1: 19d6a79952785578bb7ddbedca2400e15776e24b
@@ -954,7 +790,7 @@ Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/wxcallkit_1.1_iphoneos-arm64e.deb
+Filename: ./debs/roothide/wxcallkit_1.1_iphoneos-arm64e.deb
 Size: 3116
 MD5sum: 27456d8887fb10cc1e99fbb4658122c7
 SHA1: b378ee5b4cb635b1da0cd207565873c28daee98c
@@ -1002,7 +838,7 @@ Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 152
 Depends: mobile substrate
-Filename: ./debs/rootless/wxipad_1.1.4_iphoneos-arm64e.deb
+Filename: ./debs/roothide/wxipad_1.1.4_iphoneos-arm64e.deb
 Size: 3152
 MD5sum: a02c3d8d7ce30204e69f3b77254b5495
 SHA1: c50aa42db5868fa5b53549dab158541a64878674
@@ -1066,7 +902,7 @@ Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/rootless/ximalaya_2.8_iphoneos-arm64e.deb
+Filename: ./debs/roothide/ximalaya_2.8_iphoneos-arm64e.deb
 Size: 5090
 MD5sum: 6517de99ff423095812b238fa15b0691
 SHA1: 40b0d79586ca8b49c2f86dd90415b8cd83f81a0f
@@ -1130,7 +966,7 @@ Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/徽章_1.0_iphoneos-arm64e.deb
+Filename: ./debs/roothide/徽章_1.0_iphoneos-arm64e.deb
 Size: 3078
 MD5sum: d3f1d5ff4d7c6565e200afaeff85b8eb
 SHA1: a19a2a9f58c137d268e71244b05fd8e2d14fb2c5
@@ -1178,7 +1014,7 @@ Architecture: iphoneos-arm64e
 Maintainer: z规则文件
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/z.qadlite_1.2_iphoneos-arm64e.deb
+Filename: ./debs/roothide/z.qadlite_1.2_iphoneos-arm64e.deb
 Size: 8862
 MD5sum: 18886133626606951ee5ff773158cc15
 SHA1: e9e6b119b60e33322adda5498a3e8319897c935b
@@ -1226,7 +1062,7 @@ Architecture: iphoneos-arm64e
 Maintainer: 自动亮度调节
 Installed-Size: 264
 Depends: mobilesubstrate
-Filename: ./debs/rootless/z.trolllock_1.0.5_iphoneos-arm64e.deb
+Filename: ./debs/roothide/z.trolllock_1.0.5_iphoneos-arm64e.deb
 Size: 37120
 MD5sum: dc024268f0dfc53963ab79c1278df476
 SHA1: 5384b8efb681d6d3b6fba22bb56129c45e99461b
@@ -1242,7 +1078,7 @@ Architecture: iphoneos-arm64e
 Maintainer: Lightmann
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: ./debs/rootless/z.vinyl_1.3.1_iphoneos-arm64e.deb
+Filename: ./debs/roothide/z.vinyl_1.3.1_iphoneos-arm64e.deb
 Size: 6424
 MD5sum: aaa9b3195125a30884ee169455cd62e1
 SHA1: c84422458fc85190b395b79788c300edd23472f1
@@ -1275,7 +1111,7 @@ Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/rootless/z.weifeng_1.5_iphoneos-arm64e.deb
+Filename: ./debs/roothide/z.weifeng_1.5_iphoneos-arm64e.deb
 Size: 3830
 MD5sum: e451617f2da6d38ef6a8df1ec89ab80b
 SHA1: 12c6cdf93d69fb8b7f2d0dcfaa17f9e5ddfecb0b
@@ -1323,7 +1159,7 @@ Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/rootless/z.ximalaya_2.8_iphoneos-arm64e.deb
+Filename: ./debs/roothide/z.ximalaya_2.8_iphoneos-arm64e.deb
 Size: 5082
 MD5sum: 3c0a0c9373c0dec96042b1aeb232ad44
 SHA1: 02c439743002b3518a30f80b1a85b5effcf1b37f
@@ -1348,22 +1184,6 @@ Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
 Name: 喜马拉雅优化
-
-Package: zgyh
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/中国银行去广告_1.1_iphoneos-arm64.deb
-Size: 3064
-MD5sum: 7b3352b9bf953fcb21c97d95dfb75884
-SHA1: 0b9236946eedafc2fe28ae3c25b5d8445892b288
-SHA256: f1f8d6fba66e8c713e01f2cf00f461aa3349c37e74e498fbc3d2176460ebba5d
-Section: Tweaks
-Description: 去启动广告 为你推荐
-Author: z
-Name: 中国银行去广告
 
 Package: zlw.bismihxw
 Version: 1.1
