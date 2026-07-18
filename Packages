@@ -306,7 +306,7 @@ Maintainer: Sam Bingner <maintainer@sbdhi.com>
 Installed-Size: 776
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: bash, coreutils, ncurses, system-cmds
-Filename: ./debs/mterminal_1.4-6_iphoneos-arm.deb
+Filename: ./debs/rootful/mterminal_1.4-6_iphoneos-arm.deb
 Size: 108042
 MD5sum: dedfc589450b43d268bfc369d5b2f4c8
 SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
@@ -578,7 +578,7 @@ Depends: firmware (>= 11.0), cy+cpu.arm64, org.coolstar.safemode
 Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate, libhooker-strap, com.saurik.substrate.safemode
 Provides: com.ex.libsubstitute (= 2.0), org.coolstar.tweakinject (= 1.5.0), mobilesubstrate (= 99.4), libhooker-strap (= 1.1), com.saurik.substrate.safemode (= 2.0)
-Filename: ./debs/libhooker_1.6.3.deb
+Filename: ./debs/rootful/libhooker_1.6.3.deb
 Size: 54076
 MD5sum: 53aa7a2714d63475be1cf164c5e858e1
 SHA1: cc190c2df8789443a38587ebf527b4d5be97e38d
@@ -596,7 +596,7 @@ Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
 Depends: firmware (>= 11.0), cy+cpu.arm64
 Replaces: org.coolstar.libhooker (<<1.2.5)
-Filename: ./debs/org.coolstar.safemode_1.1.4_iphoneos-arm.deb
+Filename: ./debs/rootful/org.coolstar.safemode_1.1.4_iphoneos-arm.deb
 Size: 558304
 MD5sum: 43526b865445d84251d78f99a6325ab5
 SHA1: fd03023d7559d36435f4d64bad92504cc9d46297
@@ -644,7 +644,7 @@ Architecture: iphoneos-arm
 Maintainer: Randy420 <randy.skinner@hotmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/ru.rj.ftt_1.7_iphoneos-arm.deb
+Filename: ./debs/rootful/ru.rj.ftt_1.7_iphoneos-arm.deb
 Size: 21584
 MD5sum: 27ceb82a53ae0bb57b69c0aeab4ee252
 SHA1: 5ace166f7346b9868c047fd5c5f912cb91a26089
@@ -1144,10 +1144,10 @@ Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/rootless/z.ximalaya_2.8_iphoneos-arm64.deb
-Size: 5126
-MD5sum: 5c745301d2e167c89e4f2423679332c8
-SHA1: cf08c3c80671bb67f00d8746cd0a9abf1768e731
-SHA256: cb877a4a18804e315f2939b56692fa540a0b177590337011ea4ea6cb7e5c2fbd
+Size: 5198
+MD5sum: 99ef7a06e5054dc0ae50faace2b52fe6
+SHA1: a2e026c899b4421556e1e8463087e6ff258cbe65
+SHA256: 41174c17920076a7861702d8c5aef534b915b39f79e95deaad924071cde71fa1
 Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
@@ -1170,16 +1170,16 @@ Author: z
 Name: 喜马拉雅优化-roothide
 
 Package: z.ximalaya
-Version: 2.8
+Version: 2.8.1
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/rootful/z.ximalaya_2.8_iphoneos-arm.deb
-Size: 5050
-MD5sum: 7327062d5bad77ff78b06f71fa5b4b83
-SHA1: b9595dc85b43e29342e4ea084a53660064c1b703
-SHA256: 1e20857aa7ff8f011145e5ebf2e13096757cd5bfea3ed4c2028d86e5f45171dc
+Filename: ./debs/rootful/z.ximalaya_2.8.1_iphoneos-arm.deb
+Size: 5134
+MD5sum: 22e97815a1ef82afd9ce35440f160f19
+SHA1: 0dfc05043f8762bf446b93fb12bd03642c6a83e5
+SHA256: be3e58a6fd734286fa094fb754ef4b90bfb00e1992dec436e319e45368a48930
 Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
