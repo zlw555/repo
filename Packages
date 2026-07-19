@@ -868,15 +868,15 @@ Package: wxipad
 Version: 1.1.4
 Architecture: iphoneos-arm64
 Maintainer: z
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobile substrate
 Filename: ./debs/rootless/wxipad_1.1.4_iphoneos-arm64.deb
-Size: 3188
-MD5sum: b89589b3e915e7db72f69800785131cb
-SHA1: 60e825a9526f976d5bb524a8ea3a9e05ff000513
-SHA256: d2fdf632673cc287cf38c5f82930d356bd1b8479492c6ecdfadcc9812c888069
+Size: 9132
+MD5sum: e835fb8360a5ac21ed4cd13704099221
+SHA1: c0a404c40ce405cb4af89caeb4fc87441a31b76c
+SHA256: d8fabe5a1971a226642896e03a49ad25d1166ea8d5d79c864b5b527ba936f44f
 Section: Tweaks
-Description: 微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Description: 微信iPad端+修改微信版本，也适合低版本微信不能登录，测试7.0.21正常登陆。
 Author: z
 Name: 微信iPad-rootless
 
@@ -884,15 +884,15 @@ Package: wxipad
 Version: 1.1.4
 Architecture: iphoneos-arm64e
 Maintainer: z
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobile substrate
 Filename: ./debs/roothide/wxipad_1.1.4_iphoneos-arm64e.deb
-Size: 3152
-MD5sum: a02c3d8d7ce30204e69f3b77254b5495
-SHA1: c50aa42db5868fa5b53549dab158541a64878674
-SHA256: 8fd7bbfc17a5fc53847bacd87bf23e457e5aa0d5895b87ca027ef14a48c1bbc8
+Size: 9138
+MD5sum: ffbd1e952d8408413c6dec12601cf583
+SHA1: 9804e39e48b2cfd9c2be4bcc8970f6eee1932e8a
+SHA256: 8ee0d26fb8b2f48d913af34f7a11e979b91ab9eb6cf5b768a7a8b9e59cebae5b
 Section: Tweaks
-Description: 微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Description: 微信iPad端+修改微信版本，也适合低版本微信不能登录，测试7.0.21正常登陆。
 Author: z
 Name: 微信iPad-roothide
 
@@ -900,15 +900,15 @@ Package: wxipad
 Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: z
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobile substrate
 Filename: ./debs/rootful/wxipad_1.1.4_iphoneos-arm.deb
-Size: 3134
-MD5sum: c7be0816837d2b04f72627fa3dddd842
-SHA1: c8e38a79fdbc2d16a889a8797e42ae292db7d4c7
-SHA256: e0cf02a996f722ff7aadd9ccbee0c3c250c7eeb9f3751b420e47aff6f1039e51
+Size: 8994
+MD5sum: b6d6b15c901cd67a48040306d4e21edb
+SHA1: 8a3ab36776f941285e29171bd3a5406ffc379db6
+SHA256: e8e37bb936d51154024d5e296144fcead59052ca0b063b9281f9bd604b6f76e1
 Section: Tweaks
-Description: 微信iPad端，也适合低版本微信不能登录，扫码登陆后删除插件后就可以正常登录了
+Description: 微信iPad端+修改微信版本，也适合低版本微信不能登录，测试7.0.21正常登陆。
 Author: z
 Name: 微信iPad
 
