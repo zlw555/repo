@@ -944,6 +944,54 @@ Description: 自用x手势,只支持arm64设备
 Author: z
 Name: HomeGesture-rootless
 
+Package: xianyu
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/xianyu_1.1_iphoneos-arm64.deb
+Size: 2908
+MD5sum: 88de8284229100b65ffe346948c24ff3
+SHA1: ceb2d8e9ddbd0113fc45090227d66cdc77bf3e74
+SHA256: 907e05ab683f9b63de9b9ca003ee7fba69b5fcea4a3c1138d77114b7af8760b1
+Section: Tweaks
+Description: 闲鱼去广告
+Author: z
+Name: 闲鱼-rootlessde
+
+Package: xianyu
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/roothide/xianyu_1.1_iphoneos-arm64e.deb
+Size: 2860
+MD5sum: 2fd558bf3fb8259965f05b48274677a9
+SHA1: f5ba3a6de8d9386499beaa29e3eeb5c15ee86286
+SHA256: 796ce9698568bb19645486ea248e3d4996d2c64567d46aa50629c84d43a2e5f2
+Section: Tweaks
+Description: 闲鱼去广告
+Author: z
+Name: 闲鱼-roothide
+
+Package: xianyu
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/xianyu_1.1_iphoneos-arm.deb
+Size: 2842
+MD5sum: 4f971e151768e7ccdf06d53c0155b34f
+SHA1: b05a42762b8a3b9a60942d6addffdd150f61d208
+SHA256: cb50c7ce3726a769109c0257541c151d5d408577e275961106b561bc52dd1a7b
+Section: Tweaks
+Description: 闲鱼去广告
+Author: z
+Name: 闲鱼
+
 Package: ximalaya
 Version: 2.8
 Architecture: iphoneos-arm64e
