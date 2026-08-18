@@ -721,34 +721,34 @@ Author: poqw312
 Name: 禁用通知中心下拉手势
 
 Package: taobao
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/taobao_1.1_iphoneos-arm64.deb
-Size: 3690
-MD5sum: 3ff99906d782c305024724dc0a510ba0
-SHA1: a15882c1e4c4e465cba98a6e73a0797956528d7c
-SHA256: 4f96ae6b46bc500616b80a2b9a2fd7958487f3469bacbf308af483e53204e980
+Filename: ./debs/rootless/taobao_1.2_iphoneos-arm64.deb
+Size: 3904
+MD5sum: 81f1a20ed3505d469d0e3160e71d8acd
+SHA1: cc22d4261f81fca05305e47528d6ed0de0953fa7
+SHA256: 6036802239be8c998a3c3981a222c22a8fec4b00ce7bb54c2d3ad34bb04407b5
 Section: Tweaks
-Description: 淘宝10.53.0去启动广告
+Description: 淘宝10.64.11去启动广告
 Author: z
 Name: 淘宝-rootless
 
 Package: taobao
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootful/taobao_1.0_iphoneos-arm.deb
-Size: 3328
-MD5sum: 692682f3cad9e1f5276082c0ef908995
-SHA1: 3f3659419ee21af9965c6df74a746c982f6fcc79
-SHA256: 393e31c8f0444ba3df57555a7a9ec9c205bc5da6038fe6bdce25c75cef4504aa
+Filename: ./debs/rootful/taobao_1.2_iphoneos-arm.deb
+Size: 3844
+MD5sum: 9506e25baf6b3ad7b6a4e32846b0d9c5
+SHA1: bec7df0a87f53e39905753313f991deea7d121be
+SHA256: db696bdf952504fca3fb807fa459e212e42787959c992e46941b886ac0685d64
 Section: Tweaks
-Description: 淘宝去启动广告
+Description: 淘宝去启动广告10.64.00
 Author: z
 Name: 淘宝
 
@@ -772,33 +772,33 @@ Package: tingliteqad
 Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: x
-Installed-Size: 88
+Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/rootless/tingliteqad_1.3_iphoneos-arm64.deb
-Size: 3022
-MD5sum: 23e32e07ce8bc2952dd4a7690a156897
-SHA1: 47dd1c3fc07291eab98f41dd7a0d461386799403
-SHA256: 3710139ba692a1574a0fad932c7a83765019807432ffd737f2423e9e04bf9a58
+Size: 4534
+MD5sum: 582154c65613aec04eb28088784c979f
+SHA1: 9af5f2c1e2d7da327b1b34393a30b55a8d59723f
+SHA256: 111f220706eb4abd16229c954c11c686a62afe211a944121ecec15303e4048b8
 Section: Tweaks
-Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
+Description: 终于去掉后台启动广告了。3.0.84
 Author: z
-Name: 喜马拉雅极速版-rootless
+Name: 喜马拉雅极速版去后台启动-rootless
 
 Package: tingliteqad
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: x
-Installed-Size: 88
+Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/rootful/tingliteqad_1.3_iphoneos-arm.deb
-Size: 2970
-MD5sum: d3a14ffaa4843feabbc5e77848866274
-SHA1: 99da593845fe31139cab15beafcc8659907f1a22
-SHA256: e39e8e3f77cec7d7200192e6454b0bf0327757035c884290636d6466f0f3160e
+Size: 4470
+MD5sum: ca869996b421cf5d9c1c811591a14b7b
+SHA1: 0d46fdfc04bd145cc483b2fbde24f93a856eb032
+SHA256: 439a6e9b117200a0113ec0ace7354c8f7efc78557bf51c3dd206451df86e6329
 Section: Tweaks
-Description: 终于去掉后台启动广告了。3.0.34配合圈x vip
+Description: 终于去掉后台启动广告了。3.0.84
 Author: z
-Name: 喜马拉雅极速版
+Name: 喜马拉雅极速版去后台启动
 
 Package: wechatupdate
 Version: 1.8
@@ -1007,22 +1007,6 @@ Section: Tweaks
 Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
 Name: 喜马拉雅优化-roothide
-
-Package: ximalaya
-Version: 2.8
-Architecture: iphoneos-arm
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootful/ximalaya_2.8_iphoneos-arm.deb
-Size: 5056
-MD5sum: 0edce9e1f8ba94e100e4a43956234ad4
-SHA1: 33198f7cbfc1172ec4a3aa44383c695923017811
-SHA256: ea54235fb4700cc5eb8cbea117f508e68286668f67fac5f66fb3ce04229cfe2e
-Section: Tweaks
-Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
-Author: z
-Name: 喜马拉雅优化
 
 Package: xwgetversion
 Version: 1.1
@@ -1235,22 +1219,6 @@ Name: 威锋
 
 Package: z.ximalaya
 Version: 2.8
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/z.ximalaya_2.8_iphoneos-arm64.deb
-Size: 5198
-MD5sum: 99ef7a06e5054dc0ae50faace2b52fe6
-SHA1: a2e026c899b4421556e1e8463087e6ff258cbe65
-SHA256: 41174c17920076a7861702d8c5aef534b915b39f79e95deaad924071cde71fa1
-Section: Tweaks
-Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
-Author: z
-Name: 喜马拉雅优化-rootless
-
-Package: z.ximalaya
-Version: 2.8
 Architecture: iphoneos-arm64e
 Maintainer: z
 Installed-Size: 168
@@ -1266,18 +1234,34 @@ Author: z
 Name: 喜马拉雅优化-roothide
 
 Package: z.ximalaya
-Version: 2.8.1
+Version: 2.8.3
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/z.ximalaya_2.8.3_iphoneos-arm64.deb
+Size: 4064
+MD5sum: 295d86987950baface14492aa7fa5b88
+SHA1: a00d9fa0483d09315b276feb8471de7de51a2744
+SHA256: 5426aea0fdd1576f7a14c84c870de555bb130d241d2f198f037955da75d2d641
+Section: Tweaks
+Description: 最新9.4.65,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Author: z
+Name: 喜马拉雅优化-rootless
+
+Package: z.ximalaya
+Version: 2.8.3
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/rootful/z.ximalaya_2.8.1_iphoneos-arm.deb
-Size: 5134
-MD5sum: 22e97815a1ef82afd9ce35440f160f19
-SHA1: 0dfc05043f8762bf446b93fb12bd03642c6a83e5
-SHA256: be3e58a6fd734286fa094fb754ef4b90bfb00e1992dec436e319e45368a48930
+Filename: ./debs/rootful/z.ximalaya_2.8.3_iphoneos-arm.deb
+Size: 4000
+MD5sum: 65227fb3037ba6269fd1e3b76e80177f
+SHA1: e24c8a63049a7c312d401034689e527e2ab1a29c
+SHA256: 3fbca36965e9476fed3820f1ac817d42bebd4197bf42e59b388b5f799cf9a380
 Section: Tweaks
-Description: 最新9.3.75,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
+Description: 最新9.4.65,去后台启动,去启动广告,暂停广告,列表广告,播放页广告,不影响领福利
 Author: z
 Name: 喜马拉雅优化
 
