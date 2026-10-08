@@ -816,6 +816,22 @@ Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统
 Author: z
 Name: 修改微信版本号
 
+Package: wxbuild
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootful/wxbuild_1.1_iphoneos-arm.deb
+Size: 9306
+MD5sum: 1d27c1b1c9d98ef5c680049f4c4e8065
+SHA1: 6ef2c9f8afe4eba4dab423a592e9a14198da08dd
+SHA256: 68466bb05462131451cea420f0bcc0b481060bcb97fdbbe8c9813583ce4b2c26
+Section: Tweaks
+Description: 在登陆界面和微信收纳有设置页面，微信iPad端+修改微信版本，可以打开部分要求新版微信的小程序，也适合低版本微信不能登录，设置后要退出后台才生效，测试7.0.21正常登陆。长期打开伪装版本号多少会有问题
+Author: z
+Name: 微信伪装最新版本号
+
 Package: wxcallkit
 Version: 1.1
 Architecture: iphoneos-arm64
