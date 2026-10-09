@@ -802,6 +802,22 @@ Name: 喜马拉雅极速版去后台启动
 
 Package: wechatbuild
 Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootless/wechatbuild_1.1_iphoneos-arm64.deb
+Size: 3522
+MD5sum: 1448113b9854c5ee8f1e7048cfd947b6
+SHA1: 869aa66f53e860b4803ac2d4bfbbdeda0263926c
+SHA256: f883a70e282be8473a61a57fe077c4cffcf06a327e1cd3bdc2f755b91e885dcb
+Section: Tweaks
+Description: 修改微信版为8.0.79本，也适合低版本微信不能登录，测试7.0.21正常登陆。无设置，登陆后就可以卸载插件后正常使用。
+Author: z
+Name: 修改微信版本号-rootless
+
+Package: wechatbuild
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 152
@@ -831,6 +847,23 @@ Section: Tweaks
 Description: 修改版本为8.0.44，解决部分小程序问题,开关在系统设置里
 Author: z
 Name: 修改微信版本号
+
+Package: wxbuild
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Pre-Depends: firmware (>= 14.0)
+Depends: mobilesubstrate
+Filename: ./debs/rootless/wxbuild_1.1_iphoneos-arm64.deb
+Size: 9364
+MD5sum: 7031d543f219efa0a33f295f27463ddd
+SHA1: 4b37da5e016902156fb0f7b43b8670ba614617fc
+SHA256: 0c108af7e3abc749d92b5cc23c9ead9eacd551e8168d81317bc806e8b3e92e8c
+Section: Tweaks
+Description: 在登陆界面和微信收纳有设置页面，微信iPad端+修改微信版本，可以打开部分要求新版微信的小程序，也适合低版本微信不能登录，设置后要退出后台才生效，测试7.0.21正常登陆。长期打开伪装版本号多少会有问题.系统要求(>= 14.0)
+Author: z
+Name: 微信伪装最新版本号-rootless
 
 Package: wxbuild
 Version: 1.1
