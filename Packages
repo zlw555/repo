@@ -800,6 +800,22 @@ Description: 终于去掉后台启动广告了。3.0.84
 Author: z
 Name: 喜马拉雅极速版去后台启动
 
+Package: wechatbuild
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootful/wechatbuild_1.1_iphoneos-arm.deb
+Size: 3456
+MD5sum: 1094099ec74aef813882d26b0fd6a53e
+SHA1: 165c3f724ff060e236d37e84ee82a1988297c9c3
+SHA256: 7a9c2b281a3265aaa35967526e9df31bbb2ccb2430ee0fbf6d0a126a64b06302
+Section: Tweaks
+Description: 修改微信版为8.0.79本，也适合低版本微信不能登录，测试7.0.21正常登陆。无设置，登陆后就可以卸载插件后正常使用。
+Author: z
+Name: 修改微信版本号
+
 Package: wechatupdate
 Version: 1.8
 Architecture: iphoneos-arm64
@@ -821,14 +837,15 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 168
+Pre-Depends: firmware (>= 14.0)
 Depends: mobilesubstrate
 Filename: ./debs/rootful/wxbuild_1.1_iphoneos-arm.deb
-Size: 9306
-MD5sum: 1d27c1b1c9d98ef5c680049f4c4e8065
-SHA1: 6ef2c9f8afe4eba4dab423a592e9a14198da08dd
-SHA256: 68466bb05462131451cea420f0bcc0b481060bcb97fdbbe8c9813583ce4b2c26
+Size: 9326
+MD5sum: 0c7c99b5464914e2ed5e3dfa880670bf
+SHA1: d28388c84f1dec7f90a7e4971b391ab63f74fce3
+SHA256: 6b56b92be2e042bb9174d1f2d3daf091b6315535c62a41f3f6b5ab9e9ecccd40
 Section: Tweaks
-Description: 在登陆界面和微信收纳有设置页面，微信iPad端+修改微信版本，可以打开部分要求新版微信的小程序，也适合低版本微信不能登录，设置后要退出后台才生效，测试7.0.21正常登陆。长期打开伪装版本号多少会有问题
+Description: 在登陆界面和微信收纳有设置页面，微信iPad端+修改微信版本，可以打开部分要求新版微信的小程序，也适合低版本微信不能登录，设置后要退出后台才生效，测试7.0.21正常登陆。长期打开伪装版本号多少会有问题.系统要求(>= 14.0)
 Author: z
 Name: 微信伪装最新版本号
 
